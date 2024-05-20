@@ -1,8 +1,11 @@
 import datetime
 import json
 import re
+import socket
 import string
 import itertools
+import threading
+import time
 from typing import Callable, Final
 
 import requests
@@ -23,14 +26,22 @@ def generate_strings_to_check(size: int) -> list[str]:
     ]
 
 
-def check_domain_registration(domain_name: str, tld: str) -> bool | None:
-    domain = f"{domain_name}.{tld}"
-    with requests.get(f"https://pubapi-dot-domain-registry.appspot.com/whois/{domain}") as req:
-        if req.status_code == 404:
-            return False
-        if req.status_code > 200:
-            return None
+def check_domain_registration(domain: str, tld: str) -> bool:
+    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    s.settimeout(10)
+    s.connect_ex((f"whois.nic.{tld}", 43))
+    s.send(bytes(domain, "utf-8") + b"\r\n")
+    response = s.recv(1024)
+    response_string = response.decode("utf-8")
+    s.close()
+    if "Domain not found." in response_string:
+        return False
+    elif f"Domain Name: {domain}" in response_string:
         return True
+    else:
+        print(f"> [{tld}] [ ! ] Ratelimited, waiting a few seconds.")
+        time.sleep(3)
+        return check_domain_registration(domain, tld)
 
 
 def load_tld_registration_information(tld: str, size: int) -> None:
@@ -38,17 +49,16 @@ def load_tld_registration_information(tld: str, size: int) -> None:
     domains_to_check: list[str] = generate_strings_to_check(size)
     number_of_domains_to_check: int = len(domains_to_check)
     checked_domains: dict[str, bool | None | int] = {}
-    for index, domain in enumerate(domains_to_check):
-        print(f"> [{index+1}/{number_of_domains_to_check}] Checking {domain}.{tld}")
+
+    for index, host_name in enumerate(domains_to_check):
+        domain = f"{host_name}.{tld}"
         registered = check_domain_registration(domain, tld)
-        if registered is None:
-            print(f"> [{index+1}/{number_of_domains_to_check}] {domain}.{tld} Lookup failed")
-        else:
-            print(f"> [{index+1}/{number_of_domains_to_check}] {domain}.{tld} is{[' not', ''][registered]} registered.")
-        checked_domains[domain] = registered
+        print(f"> [{tld}] [{index + 1}/{number_of_domains_to_check}] \t{domain} is{[' not', ''][registered]} registered.")
+
+        checked_domains[host_name] = registered
 
         if index % 10 == 0:
-            print("Saving progress...")
+            print(f"> [{tld}] Saving progress...")
             checked_domains["___last_updated___"] = int(datetime.datetime.now(tz=datetime.timezone.utc).timestamp())
             with open(f"_data/json/{tld}-{size}.json", "w+") as f:
                 json.dump(
@@ -56,6 +66,7 @@ def load_tld_registration_information(tld: str, size: int) -> None:
                     fp=f,
                     indent=2,
                     ensure_ascii=True,
+                    sort_keys=True,
                 )
 
     time_end = datetime.datetime.now(tz=datetime.timezone.utc).timestamp()
@@ -67,6 +78,7 @@ def load_tld_registration_information(tld: str, size: int) -> None:
             fp=f,
             indent=2,
             ensure_ascii=True,
+            sort_keys=True,
         )
 
     registered_count = sum([1 for _, v in checked_domains.items() if v == True])
@@ -94,7 +106,8 @@ def main() -> None:
         config = json.load(f)
     for domain, lengths in config.items():
         for length in lengths:
-            load_tld_registration_information(domain, length)
+            thread = threading.Thread(target=load_tld_registration_information, args=(domain, length))
+            thread.start()
 
 
 if __name__ == "__main__":
