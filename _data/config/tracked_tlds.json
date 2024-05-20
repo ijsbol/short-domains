@@ -1,5 +1,10 @@
 {
-    "dev": [2],
-    "me": [2],
-    "io": [2]
+    "dev": {
+        "lengths": [2],
+        "whois": "whois.nic.dev"
+    },
+    "me": {
+        "lengths": [2],
+        "whois": "whois.nic.me"
+    }
 }

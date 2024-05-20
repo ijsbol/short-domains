@@ -26,10 +26,10 @@ def generate_strings_to_check(size: int) -> list[str]:
     ]
 
 
-def check_domain_registration(domain: str, tld: str) -> bool:
+def check_domain_registration(domain: str, tld: str, whois: str) -> bool:
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.settimeout(10)
-    s.connect_ex((f"whois.nic.{tld}", 43))
+    s.connect_ex((whois, 43))
     s.send(bytes(domain, "utf-8") + b"\r\n")
     response = s.recv(1024)
     response_string = response.decode("utf-8")
@@ -41,10 +41,10 @@ def check_domain_registration(domain: str, tld: str) -> bool:
     else:
         print(f"> [{tld}] [ ! ] Ratelimited, waiting a few seconds.")
         time.sleep(3)
-        return check_domain_registration(domain, tld)
+        return check_domain_registration(domain, tld, whois)
 
 
-def load_tld_registration_information(tld: str, size: int) -> None:
+def load_tld_registration_information(tld: str, size: int, whois: str) -> None:
     time_start = datetime.datetime.now(tz=datetime.timezone.utc).timestamp()
     domains_to_check: list[str] = generate_strings_to_check(size)
     number_of_domains_to_check: int = len(domains_to_check)
@@ -52,7 +52,7 @@ def load_tld_registration_information(tld: str, size: int) -> None:
 
     for index, host_name in enumerate(domains_to_check):
         domain = f"{host_name}.{tld}"
-        registered = check_domain_registration(domain, tld)
+        registered = check_domain_registration(domain, tld, whois)
         print(f"> [{tld}] [{index + 1}/{number_of_domains_to_check}] \t{domain} is{[' not', ''][registered]} registered.")
 
         checked_domains[host_name] = registered
@@ -104,9 +104,11 @@ def load_tld_registration_information(tld: str, size: int) -> None:
 def main() -> None:
     with open("_data/config/tracked_tlds.json", "r") as f:
         config = json.load(f)
-    for domain, lengths in config.items():
+    for domain, data in config.items():
+        lengths = data["lengths"]
+        whois = data["whois"]
         for length in lengths:
-            thread = threading.Thread(target=load_tld_registration_information, args=(domain, length))
+            thread = threading.Thread(target=load_tld_registration_information, args=(domain, length, whois))
             thread.start()
 
 
