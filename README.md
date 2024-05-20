@@ -8,7 +8,7 @@ This is a fun little project that allows you to check what domains are and aren'
 |--|--|
 |TLDs tracked|2|
 |Domains tracked|2592|
-|Available 2L domains|2592|
+|Available 2L domains|2007|
 |2L registration rate|12.42%|
 
 

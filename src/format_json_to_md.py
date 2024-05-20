@@ -105,7 +105,7 @@ def main() -> None:
 
         raw_stats["domains_tracked"] += successful_lookup_count
         if length == 2:
-            raw_stats["available_domains_2l"] += successful_lookup_count
+            raw_stats["available_domains_2l"] += unregistered_count
             raw_stats["registration_rate_2l"].append(registration_rate)
 
         with open(f"out/{tld}-{length}-long-domains.md", "w+") as fw:
