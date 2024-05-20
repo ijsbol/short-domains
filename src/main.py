@@ -8,22 +8,13 @@ import threading
 import time
 from typing import Callable, Final
 
-import requests
-
-
-VALID_DOMAIN_NAME_REGEX: Final[str] = r"[a-z0-9][a-z0-9-_]{0,61}[a-z0-9]{0,1}"
-
-
-is_valid_domain: Callable[[str], bool] = lambda s: bool(re.search(VALID_DOMAIN_NAME_REGEX, s))
+from constants import LAST_UPDATED_KEY
 
 
 def generate_strings_to_check(size: int) -> list[str]:
     """Generate all possible x-length domain combinations."""
     letters = string.ascii_lowercase + string.digits
-    return [
-        ''.join(s) for s in itertools.product(letters, repeat=size)
-        if is_valid_domain(''.join(s))
-    ]
+    return [''.join(s) for s in itertools.product(letters, repeat=size)]
 
 
 def check_domain_registration(domain: str, tld: str, whois: str) -> bool:
@@ -48,7 +39,7 @@ def load_tld_registration_information(tld: str, size: int, whois: str) -> None:
     time_start = datetime.datetime.now(tz=datetime.timezone.utc).timestamp()
     domains_to_check: list[str] = generate_strings_to_check(size)
     number_of_domains_to_check: int = len(domains_to_check)
-    checked_domains: dict[str, bool | None | int] = {}
+    checked_domains: dict[str, bool | int] = {}
 
     for index, host_name in enumerate(domains_to_check):
         domain = f"{host_name}.{tld}"
@@ -59,7 +50,7 @@ def load_tld_registration_information(tld: str, size: int, whois: str) -> None:
 
         if index % 10 == 0:
             print(f"> [{tld}] Saving progress...")
-            checked_domains["___last_updated___"] = int(datetime.datetime.now(tz=datetime.timezone.utc).timestamp())
+            checked_domains[LAST_UPDATED_KEY] = int(datetime.datetime.now(tz=datetime.timezone.utc).timestamp())
             with open(f"_data/json/{tld}-{size}.json", "w+") as f:
                 json.dump(
                     obj=checked_domains,
@@ -71,7 +62,7 @@ def load_tld_registration_information(tld: str, size: int, whois: str) -> None:
 
     time_end = datetime.datetime.now(tz=datetime.timezone.utc).timestamp()
 
-    checked_domains["___last_updated___"] = int(datetime.datetime.now(tz=datetime.timezone.utc).timestamp())
+    checked_domains[LAST_UPDATED_KEY] = int(datetime.datetime.now(tz=datetime.timezone.utc).timestamp())
     with open(f"_data/json/{tld}-{size}.json", "w+") as f:
         json.dump(
             obj=checked_domains,

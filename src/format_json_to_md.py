@@ -5,6 +5,8 @@ import glob
 import pathlib
 from typing import TypedDict
 
+from constants import LAST_UPDATED_KEY
+
 
 class RawStats(TypedDict):
     tlds_tracked: set[str]
@@ -21,14 +23,14 @@ class StatsFormatted(TypedDict):
     data_formatted: str
 
 
-def format_data_to_md(domain_data: dict[str, bool | int | None], tld: str, length: int) -> str:
+def format_data_to_md(domain_data: dict[str, bool | int], tld: str, length: int) -> str:
     updated_at = datetime.fromtimestamp(
-        timestamp=int(domain_data['___last_updated___'] or 0),
+        timestamp=int(domain_data[LAST_UPDATED_KEY] or 0),
         tz=timezone.utc,
     )
     updated_at_str = updated_at.strftime("%m/%d/%Y, %H:%M:%S")
 
-    del domain_data["___last_updated___"]
+    del domain_data[LAST_UPDATED_KEY]
     registered_count = sum([1 for _, v in domain_data.items() if v == True])
     unregistered_count = sum([1 for _, v in domain_data.items() if v == False])
     failed_lookup_count = sum([1 for _, v in domain_data.items() if v == None])
