@@ -1,1030 +1,1110 @@
 # Available 2 character long domains for `.dev`
 
-## Data last updated: 05/20/2024, 21:34:46
+## Data last updated: 05/21/2024, 13:45:43
 
 |Stat|Amount|
 |--|--|
-|Registered domains|424|
+|Registered domains|423|
 |Unregistered domains|872|
-|Registration rate|32.72%|
-|Failed lookups|0|
-|Successful lookups|1296|
-|Lookup success rate|100%|
+|Premium domains|0|
+|Application only domains|0|
+|Registration rate|32.66%|
+|Failed lookups|1|
+|Successful lookups|1295|
+|Lookup success rate|99.92%|
 
+
+|Meaning|Emoji|
+|--|--|
+|Unregistered|:white_check_mark:|
+|Application only|:writing_hand:|
+|Premium domain|:gem:|
 
 <details>
 <summary>31 unregistered domains starting with <bold><code>0</code></bold></summary>
 
-- `02.dev`
-- `03.dev`
-- `04.dev`
-- `05.dev`
-- `06.dev`
-- `07.dev`
-- `08.dev`
-- `09.dev`
-- `0a.dev`
-- `0b.dev`
-- `0c.dev`
-- `0d.dev`
-- `0e.dev`
-- `0f.dev`
-- `0g.dev`
-- `0h.dev`
-- `0i.dev`
-- `0j.dev`
-- `0l.dev`
-- `0n.dev`
-- `0o.dev`
-- `0p.dev`
-- `0q.dev`
-- `0r.dev`
-- `0s.dev`
-- `0t.dev`
-- `0u.dev`
-- `0v.dev`
-- `0w.dev`
-- `0y.dev`
-- `0z.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`02.dev`|
+|:white_check_mark:|`03.dev`|
+|:white_check_mark:|`04.dev`|
+|:white_check_mark:|`05.dev`|
+|:white_check_mark:|`06.dev`|
+|:white_check_mark:|`07.dev`|
+|:white_check_mark:|`08.dev`|
+|:white_check_mark:|`09.dev`|
+|:white_check_mark:|`0a.dev`|
+|:white_check_mark:|`0b.dev`|
+|:white_check_mark:|`0c.dev`|
+|:white_check_mark:|`0d.dev`|
+|:white_check_mark:|`0e.dev`|
+|:white_check_mark:|`0f.dev`|
+|:white_check_mark:|`0g.dev`|
+|:white_check_mark:|`0h.dev`|
+|:white_check_mark:|`0i.dev`|
+|:white_check_mark:|`0j.dev`|
+|:white_check_mark:|`0l.dev`|
+|:white_check_mark:|`0n.dev`|
+|:white_check_mark:|`0o.dev`|
+|:white_check_mark:|`0p.dev`|
+|:white_check_mark:|`0q.dev`|
+|:white_check_mark:|`0r.dev`|
+|:white_check_mark:|`0s.dev`|
+|:white_check_mark:|`0t.dev`|
+|:white_check_mark:|`0u.dev`|
+|:white_check_mark:|`0v.dev`|
+|:white_check_mark:|`0w.dev`|
+|:white_check_mark:|`0y.dev`|
+|:white_check_mark:|`0z.dev`|
 </details>
 <details>
 <summary>30 unregistered domains starting with <bold><code>1</code></bold></summary>
 
-- `11.dev`
-- `12.dev`
-- `13.dev`
-- `16.dev`
-- `17.dev`
-- `18.dev`
-- `19.dev`
-- `1a.dev`
-- `1b.dev`
-- `1d.dev`
-- `1e.dev`
-- `1f.dev`
-- `1g.dev`
-- `1h.dev`
-- `1i.dev`
-- `1j.dev`
-- `1k.dev`
-- `1l.dev`
-- `1m.dev`
-- `1n.dev`
-- `1o.dev`
-- `1q.dev`
-- `1r.dev`
-- `1s.dev`
-- `1t.dev`
-- `1u.dev`
-- `1v.dev`
-- `1w.dev`
-- `1y.dev`
-- `1z.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`11.dev`|
+|:white_check_mark:|`12.dev`|
+|:white_check_mark:|`13.dev`|
+|:white_check_mark:|`16.dev`|
+|:white_check_mark:|`17.dev`|
+|:white_check_mark:|`18.dev`|
+|:white_check_mark:|`19.dev`|
+|:white_check_mark:|`1a.dev`|
+|:white_check_mark:|`1b.dev`|
+|:white_check_mark:|`1d.dev`|
+|:white_check_mark:|`1e.dev`|
+|:white_check_mark:|`1f.dev`|
+|:white_check_mark:|`1g.dev`|
+|:white_check_mark:|`1h.dev`|
+|:white_check_mark:|`1i.dev`|
+|:white_check_mark:|`1j.dev`|
+|:white_check_mark:|`1k.dev`|
+|:white_check_mark:|`1l.dev`|
+|:white_check_mark:|`1m.dev`|
+|:white_check_mark:|`1n.dev`|
+|:white_check_mark:|`1o.dev`|
+|:white_check_mark:|`1q.dev`|
+|:white_check_mark:|`1r.dev`|
+|:white_check_mark:|`1s.dev`|
+|:white_check_mark:|`1t.dev`|
+|:white_check_mark:|`1u.dev`|
+|:white_check_mark:|`1v.dev`|
+|:white_check_mark:|`1w.dev`|
+|:white_check_mark:|`1y.dev`|
+|:white_check_mark:|`1z.dev`|
 </details>
 <details>
 <summary>33 unregistered domains starting with <bold><code>2</code></bold></summary>
 
-- `20.dev`
-- `22.dev`
-- `23.dev`
-- `24.dev`
-- `25.dev`
-- `26.dev`
-- `27.dev`
-- `28.dev`
-- `29.dev`
-- `2a.dev`
-- `2b.dev`
-- `2c.dev`
-- `2e.dev`
-- `2f.dev`
-- `2g.dev`
-- `2h.dev`
-- `2i.dev`
-- `2j.dev`
-- `2l.dev`
-- `2m.dev`
-- `2n.dev`
-- `2o.dev`
-- `2p.dev`
-- `2q.dev`
-- `2r.dev`
-- `2s.dev`
-- `2t.dev`
-- `2u.dev`
-- `2v.dev`
-- `2w.dev`
-- `2x.dev`
-- `2y.dev`
-- `2z.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`20.dev`|
+|:white_check_mark:|`22.dev`|
+|:white_check_mark:|`23.dev`|
+|:white_check_mark:|`24.dev`|
+|:white_check_mark:|`25.dev`|
+|:white_check_mark:|`26.dev`|
+|:white_check_mark:|`27.dev`|
+|:white_check_mark:|`28.dev`|
+|:white_check_mark:|`29.dev`|
+|:white_check_mark:|`2a.dev`|
+|:white_check_mark:|`2b.dev`|
+|:white_check_mark:|`2c.dev`|
+|:white_check_mark:|`2e.dev`|
+|:white_check_mark:|`2f.dev`|
+|:white_check_mark:|`2g.dev`|
+|:white_check_mark:|`2h.dev`|
+|:white_check_mark:|`2i.dev`|
+|:white_check_mark:|`2j.dev`|
+|:white_check_mark:|`2l.dev`|
+|:white_check_mark:|`2m.dev`|
+|:white_check_mark:|`2n.dev`|
+|:white_check_mark:|`2o.dev`|
+|:white_check_mark:|`2p.dev`|
+|:white_check_mark:|`2q.dev`|
+|:white_check_mark:|`2r.dev`|
+|:white_check_mark:|`2s.dev`|
+|:white_check_mark:|`2t.dev`|
+|:white_check_mark:|`2u.dev`|
+|:white_check_mark:|`2v.dev`|
+|:white_check_mark:|`2w.dev`|
+|:white_check_mark:|`2x.dev`|
+|:white_check_mark:|`2y.dev`|
+|:white_check_mark:|`2z.dev`|
 </details>
 <details>
 <summary>30 unregistered domains starting with <bold><code>3</code></bold></summary>
 
-- `30.dev`
-- `31.dev`
-- `32.dev`
-- `33.dev`
-- `34.dev`
-- `35.dev`
-- `37.dev`
-- `38.dev`
-- `39.dev`
-- `3a.dev`
-- `3b.dev`
-- `3c.dev`
-- `3e.dev`
-- `3f.dev`
-- `3g.dev`
-- `3h.dev`
-- `3i.dev`
-- `3j.dev`
-- `3k.dev`
-- `3l.dev`
-- `3n.dev`
-- `3o.dev`
-- `3p.dev`
-- `3q.dev`
-- `3r.dev`
-- `3u.dev`
-- `3v.dev`
-- `3w.dev`
-- `3x.dev`
-- `3y.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`30.dev`|
+|:white_check_mark:|`31.dev`|
+|:white_check_mark:|`32.dev`|
+|:white_check_mark:|`33.dev`|
+|:white_check_mark:|`34.dev`|
+|:white_check_mark:|`35.dev`|
+|:white_check_mark:|`37.dev`|
+|:white_check_mark:|`38.dev`|
+|:white_check_mark:|`39.dev`|
+|:white_check_mark:|`3a.dev`|
+|:white_check_mark:|`3b.dev`|
+|:white_check_mark:|`3c.dev`|
+|:white_check_mark:|`3e.dev`|
+|:white_check_mark:|`3f.dev`|
+|:white_check_mark:|`3g.dev`|
+|:white_check_mark:|`3h.dev`|
+|:white_check_mark:|`3i.dev`|
+|:white_check_mark:|`3j.dev`|
+|:white_check_mark:|`3k.dev`|
+|:white_check_mark:|`3l.dev`|
+|:white_check_mark:|`3n.dev`|
+|:white_check_mark:|`3o.dev`|
+|:white_check_mark:|`3p.dev`|
+|:white_check_mark:|`3q.dev`|
+|:white_check_mark:|`3r.dev`|
+|:white_check_mark:|`3u.dev`|
+|:white_check_mark:|`3v.dev`|
+|:white_check_mark:|`3w.dev`|
+|:white_check_mark:|`3x.dev`|
+|:white_check_mark:|`3y.dev`|
 </details>
 <details>
 <summary>35 unregistered domains starting with <bold><code>4</code></bold></summary>
 
-- `40.dev`
-- `41.dev`
-- `43.dev`
-- `44.dev`
-- `45.dev`
-- `46.dev`
-- `47.dev`
-- `48.dev`
-- `49.dev`
-- `4a.dev`
-- `4b.dev`
-- `4c.dev`
-- `4d.dev`
-- `4e.dev`
-- `4f.dev`
-- `4g.dev`
-- `4h.dev`
-- `4i.dev`
-- `4j.dev`
-- `4k.dev`
-- `4l.dev`
-- `4m.dev`
-- `4n.dev`
-- `4o.dev`
-- `4p.dev`
-- `4q.dev`
-- `4r.dev`
-- `4s.dev`
-- `4t.dev`
-- `4u.dev`
-- `4v.dev`
-- `4w.dev`
-- `4x.dev`
-- `4y.dev`
-- `4z.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`40.dev`|
+|:white_check_mark:|`41.dev`|
+|:white_check_mark:|`43.dev`|
+|:white_check_mark:|`44.dev`|
+|:white_check_mark:|`45.dev`|
+|:white_check_mark:|`46.dev`|
+|:white_check_mark:|`47.dev`|
+|:white_check_mark:|`48.dev`|
+|:white_check_mark:|`49.dev`|
+|:white_check_mark:|`4a.dev`|
+|:white_check_mark:|`4b.dev`|
+|:white_check_mark:|`4c.dev`|
+|:white_check_mark:|`4d.dev`|
+|:white_check_mark:|`4e.dev`|
+|:white_check_mark:|`4f.dev`|
+|:white_check_mark:|`4g.dev`|
+|:white_check_mark:|`4h.dev`|
+|:white_check_mark:|`4i.dev`|
+|:white_check_mark:|`4j.dev`|
+|:white_check_mark:|`4k.dev`|
+|:white_check_mark:|`4l.dev`|
+|:white_check_mark:|`4m.dev`|
+|:white_check_mark:|`4n.dev`|
+|:white_check_mark:|`4o.dev`|
+|:white_check_mark:|`4p.dev`|
+|:white_check_mark:|`4q.dev`|
+|:white_check_mark:|`4r.dev`|
+|:white_check_mark:|`4s.dev`|
+|:white_check_mark:|`4t.dev`|
+|:white_check_mark:|`4u.dev`|
+|:white_check_mark:|`4v.dev`|
+|:white_check_mark:|`4w.dev`|
+|:white_check_mark:|`4x.dev`|
+|:white_check_mark:|`4y.dev`|
+|:white_check_mark:|`4z.dev`|
 </details>
 <details>
 <summary>32 unregistered domains starting with <bold><code>5</code></bold></summary>
 
-- `50.dev`
-- `52.dev`
-- `53.dev`
-- `54.dev`
-- `56.dev`
-- `57.dev`
-- `58.dev`
-- `59.dev`
-- `5a.dev`
-- `5b.dev`
-- `5c.dev`
-- `5d.dev`
-- `5e.dev`
-- `5h.dev`
-- `5i.dev`
-- `5j.dev`
-- `5k.dev`
-- `5l.dev`
-- `5m.dev`
-- `5n.dev`
-- `5o.dev`
-- `5p.dev`
-- `5q.dev`
-- `5r.dev`
-- `5s.dev`
-- `5t.dev`
-- `5u.dev`
-- `5v.dev`
-- `5w.dev`
-- `5x.dev`
-- `5y.dev`
-- `5z.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`50.dev`|
+|:white_check_mark:|`52.dev`|
+|:white_check_mark:|`53.dev`|
+|:white_check_mark:|`54.dev`|
+|:white_check_mark:|`56.dev`|
+|:white_check_mark:|`57.dev`|
+|:white_check_mark:|`58.dev`|
+|:white_check_mark:|`59.dev`|
+|:white_check_mark:|`5a.dev`|
+|:white_check_mark:|`5b.dev`|
+|:white_check_mark:|`5c.dev`|
+|:white_check_mark:|`5d.dev`|
+|:white_check_mark:|`5e.dev`|
+|:white_check_mark:|`5h.dev`|
+|:white_check_mark:|`5i.dev`|
+|:white_check_mark:|`5j.dev`|
+|:white_check_mark:|`5k.dev`|
+|:white_check_mark:|`5l.dev`|
+|:white_check_mark:|`5m.dev`|
+|:white_check_mark:|`5n.dev`|
+|:white_check_mark:|`5o.dev`|
+|:white_check_mark:|`5p.dev`|
+|:white_check_mark:|`5q.dev`|
+|:white_check_mark:|`5r.dev`|
+|:white_check_mark:|`5s.dev`|
+|:white_check_mark:|`5t.dev`|
+|:white_check_mark:|`5u.dev`|
+|:white_check_mark:|`5v.dev`|
+|:white_check_mark:|`5w.dev`|
+|:white_check_mark:|`5x.dev`|
+|:white_check_mark:|`5y.dev`|
+|:white_check_mark:|`5z.dev`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>6</code></bold></summary>
 
-- `60.dev`
-- `61.dev`
-- `62.dev`
-- `63.dev`
-- `64.dev`
-- `65.dev`
-- `66.dev`
-- `67.dev`
-- `68.dev`
-- `69.dev`
-- `6a.dev`
-- `6b.dev`
-- `6c.dev`
-- `6d.dev`
-- `6e.dev`
-- `6f.dev`
-- `6g.dev`
-- `6h.dev`
-- `6i.dev`
-- `6j.dev`
-- `6k.dev`
-- `6l.dev`
-- `6m.dev`
-- `6n.dev`
-- `6o.dev`
-- `6p.dev`
-- `6q.dev`
-- `6r.dev`
-- `6s.dev`
-- `6t.dev`
-- `6u.dev`
-- `6v.dev`
-- `6w.dev`
-- `6x.dev`
-- `6y.dev`
-- `6z.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`60.dev`|
+|:white_check_mark:|`61.dev`|
+|:white_check_mark:|`62.dev`|
+|:white_check_mark:|`63.dev`|
+|:white_check_mark:|`64.dev`|
+|:white_check_mark:|`65.dev`|
+|:white_check_mark:|`66.dev`|
+|:white_check_mark:|`67.dev`|
+|:white_check_mark:|`68.dev`|
+|:white_check_mark:|`69.dev`|
+|:white_check_mark:|`6a.dev`|
+|:white_check_mark:|`6b.dev`|
+|:white_check_mark:|`6c.dev`|
+|:white_check_mark:|`6d.dev`|
+|:white_check_mark:|`6e.dev`|
+|:white_check_mark:|`6f.dev`|
+|:white_check_mark:|`6g.dev`|
+|:white_check_mark:|`6h.dev`|
+|:white_check_mark:|`6i.dev`|
+|:white_check_mark:|`6j.dev`|
+|:white_check_mark:|`6k.dev`|
+|:white_check_mark:|`6l.dev`|
+|:white_check_mark:|`6m.dev`|
+|:white_check_mark:|`6n.dev`|
+|:white_check_mark:|`6o.dev`|
+|:white_check_mark:|`6p.dev`|
+|:white_check_mark:|`6q.dev`|
+|:white_check_mark:|`6r.dev`|
+|:white_check_mark:|`6s.dev`|
+|:white_check_mark:|`6t.dev`|
+|:white_check_mark:|`6u.dev`|
+|:white_check_mark:|`6v.dev`|
+|:white_check_mark:|`6w.dev`|
+|:white_check_mark:|`6x.dev`|
+|:white_check_mark:|`6y.dev`|
+|:white_check_mark:|`6z.dev`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
 
-- `70.dev`
-- `71.dev`
-- `72.dev`
-- `73.dev`
-- `74.dev`
-- `75.dev`
-- `76.dev`
-- `77.dev`
-- `78.dev`
-- `79.dev`
-- `7a.dev`
-- `7b.dev`
-- `7c.dev`
-- `7d.dev`
-- `7e.dev`
-- `7f.dev`
-- `7g.dev`
-- `7h.dev`
-- `7i.dev`
-- `7j.dev`
-- `7k.dev`
-- `7l.dev`
-- `7m.dev`
-- `7n.dev`
-- `7o.dev`
-- `7p.dev`
-- `7q.dev`
-- `7r.dev`
-- `7s.dev`
-- `7t.dev`
-- `7u.dev`
-- `7v.dev`
-- `7w.dev`
-- `7x.dev`
-- `7y.dev`
-- `7z.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`70.dev`|
+|:white_check_mark:|`71.dev`|
+|:white_check_mark:|`72.dev`|
+|:white_check_mark:|`73.dev`|
+|:white_check_mark:|`74.dev`|
+|:white_check_mark:|`75.dev`|
+|:white_check_mark:|`76.dev`|
+|:white_check_mark:|`77.dev`|
+|:white_check_mark:|`78.dev`|
+|:white_check_mark:|`79.dev`|
+|:white_check_mark:|`7a.dev`|
+|:white_check_mark:|`7b.dev`|
+|:white_check_mark:|`7c.dev`|
+|:white_check_mark:|`7d.dev`|
+|:white_check_mark:|`7e.dev`|
+|:white_check_mark:|`7f.dev`|
+|:white_check_mark:|`7g.dev`|
+|:white_check_mark:|`7h.dev`|
+|:white_check_mark:|`7i.dev`|
+|:white_check_mark:|`7j.dev`|
+|:white_check_mark:|`7k.dev`|
+|:white_check_mark:|`7l.dev`|
+|:white_check_mark:|`7m.dev`|
+|:white_check_mark:|`7n.dev`|
+|:white_check_mark:|`7o.dev`|
+|:white_check_mark:|`7p.dev`|
+|:white_check_mark:|`7q.dev`|
+|:white_check_mark:|`7r.dev`|
+|:white_check_mark:|`7s.dev`|
+|:white_check_mark:|`7t.dev`|
+|:white_check_mark:|`7u.dev`|
+|:white_check_mark:|`7v.dev`|
+|:white_check_mark:|`7w.dev`|
+|:white_check_mark:|`7x.dev`|
+|:white_check_mark:|`7y.dev`|
+|:white_check_mark:|`7z.dev`|
 </details>
 <details>
 <summary>35 unregistered domains starting with <bold><code>8</code></bold></summary>
 
-- `80.dev`
-- `81.dev`
-- `82.dev`
-- `83.dev`
-- `84.dev`
-- `85.dev`
-- `86.dev`
-- `87.dev`
-- `88.dev`
-- `89.dev`
-- `8a.dev`
-- `8b.dev`
-- `8c.dev`
-- `8d.dev`
-- `8e.dev`
-- `8f.dev`
-- `8g.dev`
-- `8h.dev`
-- `8i.dev`
-- `8j.dev`
-- `8k.dev`
-- `8l.dev`
-- `8n.dev`
-- `8o.dev`
-- `8p.dev`
-- `8q.dev`
-- `8r.dev`
-- `8s.dev`
-- `8t.dev`
-- `8u.dev`
-- `8v.dev`
-- `8w.dev`
-- `8x.dev`
-- `8y.dev`
-- `8z.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`80.dev`|
+|:white_check_mark:|`81.dev`|
+|:white_check_mark:|`82.dev`|
+|:white_check_mark:|`83.dev`|
+|:white_check_mark:|`84.dev`|
+|:white_check_mark:|`85.dev`|
+|:white_check_mark:|`86.dev`|
+|:white_check_mark:|`87.dev`|
+|:white_check_mark:|`88.dev`|
+|:white_check_mark:|`89.dev`|
+|:white_check_mark:|`8a.dev`|
+|:white_check_mark:|`8b.dev`|
+|:white_check_mark:|`8c.dev`|
+|:white_check_mark:|`8d.dev`|
+|:white_check_mark:|`8e.dev`|
+|:white_check_mark:|`8f.dev`|
+|:white_check_mark:|`8g.dev`|
+|:white_check_mark:|`8h.dev`|
+|:white_check_mark:|`8i.dev`|
+|:white_check_mark:|`8j.dev`|
+|:white_check_mark:|`8k.dev`|
+|:white_check_mark:|`8l.dev`|
+|:white_check_mark:|`8n.dev`|
+|:white_check_mark:|`8o.dev`|
+|:white_check_mark:|`8p.dev`|
+|:white_check_mark:|`8q.dev`|
+|:white_check_mark:|`8r.dev`|
+|:white_check_mark:|`8s.dev`|
+|:white_check_mark:|`8t.dev`|
+|:white_check_mark:|`8u.dev`|
+|:white_check_mark:|`8v.dev`|
+|:white_check_mark:|`8w.dev`|
+|:white_check_mark:|`8x.dev`|
+|:white_check_mark:|`8y.dev`|
+|:white_check_mark:|`8z.dev`|
 </details>
 <details>
 <summary>35 unregistered domains starting with <bold><code>9</code></bold></summary>
 
-- `90.dev`
-- `91.dev`
-- `92.dev`
-- `93.dev`
-- `94.dev`
-- `95.dev`
-- `96.dev`
-- `97.dev`
-- `98.dev`
-- `9a.dev`
-- `9b.dev`
-- `9c.dev`
-- `9d.dev`
-- `9e.dev`
-- `9f.dev`
-- `9g.dev`
-- `9h.dev`
-- `9i.dev`
-- `9j.dev`
-- `9k.dev`
-- `9l.dev`
-- `9m.dev`
-- `9n.dev`
-- `9o.dev`
-- `9p.dev`
-- `9q.dev`
-- `9r.dev`
-- `9s.dev`
-- `9t.dev`
-- `9u.dev`
-- `9v.dev`
-- `9w.dev`
-- `9x.dev`
-- `9y.dev`
-- `9z.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`90.dev`|
+|:white_check_mark:|`91.dev`|
+|:white_check_mark:|`92.dev`|
+|:white_check_mark:|`93.dev`|
+|:white_check_mark:|`94.dev`|
+|:white_check_mark:|`95.dev`|
+|:white_check_mark:|`96.dev`|
+|:white_check_mark:|`97.dev`|
+|:white_check_mark:|`98.dev`|
+|:white_check_mark:|`9a.dev`|
+|:white_check_mark:|`9b.dev`|
+|:white_check_mark:|`9c.dev`|
+|:white_check_mark:|`9d.dev`|
+|:white_check_mark:|`9e.dev`|
+|:white_check_mark:|`9f.dev`|
+|:white_check_mark:|`9g.dev`|
+|:white_check_mark:|`9h.dev`|
+|:white_check_mark:|`9i.dev`|
+|:white_check_mark:|`9j.dev`|
+|:white_check_mark:|`9k.dev`|
+|:white_check_mark:|`9l.dev`|
+|:white_check_mark:|`9m.dev`|
+|:white_check_mark:|`9n.dev`|
+|:white_check_mark:|`9o.dev`|
+|:white_check_mark:|`9p.dev`|
+|:white_check_mark:|`9q.dev`|
+|:white_check_mark:|`9r.dev`|
+|:white_check_mark:|`9s.dev`|
+|:white_check_mark:|`9t.dev`|
+|:white_check_mark:|`9u.dev`|
+|:white_check_mark:|`9v.dev`|
+|:white_check_mark:|`9w.dev`|
+|:white_check_mark:|`9x.dev`|
+|:white_check_mark:|`9y.dev`|
+|:white_check_mark:|`9z.dev`|
 </details>
 <details>
 <summary>16 unregistered domains starting with <bold><code>a</code></bold></summary>
 
-- `a0.dev`
-- `a1.dev`
-- `a2.dev`
-- `a4.dev`
-- `a5.dev`
-- `a6.dev`
-- `a7.dev`
-- `a8.dev`
-- `ag.dev`
-- `ai.dev`
-- `aj.dev`
-- `ak.dev`
-- `an.dev`
-- `au.dev`
-- `aw.dev`
-- `ay.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`a0.dev`|
+|:white_check_mark:|`a1.dev`|
+|:white_check_mark:|`a2.dev`|
+|:white_check_mark:|`a4.dev`|
+|:white_check_mark:|`a5.dev`|
+|:white_check_mark:|`a6.dev`|
+|:white_check_mark:|`a7.dev`|
+|:white_check_mark:|`a8.dev`|
+|:white_check_mark:|`ag.dev`|
+|:white_check_mark:|`ai.dev`|
+|:white_check_mark:|`aj.dev`|
+|:white_check_mark:|`ak.dev`|
+|:white_check_mark:|`an.dev`|
+|:white_check_mark:|`au.dev`|
+|:white_check_mark:|`aw.dev`|
+|:white_check_mark:|`ay.dev`|
 </details>
 <details>
 <summary>21 unregistered domains starting with <bold><code>b</code></bold></summary>
 
-- `b0.dev`
-- `b3.dev`
-- `b4.dev`
-- `b5.dev`
-- `b6.dev`
-- `b7.dev`
-- `b8.dev`
-- `b9.dev`
-- `bg.dev`
-- `bh.dev`
-- `bj.dev`
-- `bm.dev`
-- `bn.dev`
-- `bp.dev`
-- `bq.dev`
-- `bt.dev`
-- `bu.dev`
-- `bv.dev`
-- `bx.dev`
-- `by.dev`
-- `bz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`b0.dev`|
+|:white_check_mark:|`b3.dev`|
+|:white_check_mark:|`b4.dev`|
+|:white_check_mark:|`b5.dev`|
+|:white_check_mark:|`b6.dev`|
+|:white_check_mark:|`b7.dev`|
+|:white_check_mark:|`b8.dev`|
+|:white_check_mark:|`b9.dev`|
+|:white_check_mark:|`bg.dev`|
+|:white_check_mark:|`bh.dev`|
+|:white_check_mark:|`bj.dev`|
+|:white_check_mark:|`bm.dev`|
+|:white_check_mark:|`bn.dev`|
+|:white_check_mark:|`bp.dev`|
+|:white_check_mark:|`bq.dev`|
+|:white_check_mark:|`bt.dev`|
+|:white_check_mark:|`bu.dev`|
+|:white_check_mark:|`bv.dev`|
+|:white_check_mark:|`bx.dev`|
+|:white_check_mark:|`by.dev`|
+|:white_check_mark:|`bz.dev`|
 </details>
 <details>
 <summary>16 unregistered domains starting with <bold><code>c</code></bold></summary>
 
-- `c0.dev`
-- `c2.dev`
-- `c4.dev`
-- `c5.dev`
-- `c7.dev`
-- `c8.dev`
-- `c9.dev`
-- `ca.dev`
-- `cl.dev`
-- `cm.dev`
-- `cn.dev`
-- `cp.dev`
-- `cq.dev`
-- `ct.dev`
-- `cy.dev`
-- `cz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`c0.dev`|
+|:white_check_mark:|`c2.dev`|
+|:white_check_mark:|`c4.dev`|
+|:white_check_mark:|`c5.dev`|
+|:white_check_mark:|`c7.dev`|
+|:white_check_mark:|`c8.dev`|
+|:white_check_mark:|`c9.dev`|
+|:white_check_mark:|`ca.dev`|
+|:white_check_mark:|`cl.dev`|
+|:white_check_mark:|`cm.dev`|
+|:white_check_mark:|`cn.dev`|
+|:white_check_mark:|`cp.dev`|
+|:white_check_mark:|`cq.dev`|
+|:white_check_mark:|`ct.dev`|
+|:white_check_mark:|`cy.dev`|
+|:white_check_mark:|`cz.dev`|
 </details>
 <details>
 <summary>13 unregistered domains starting with <bold><code>d</code></bold></summary>
 
-- `d0.dev`
-- `d1.dev`
-- `d4.dev`
-- `d5.dev`
-- `d6.dev`
-- `d8.dev`
-- `d9.dev`
-- `dk.dev`
-- `dl.dev`
-- `dp.dev`
-- `dt.dev`
-- `du.dev`
-- `dz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`d0.dev`|
+|:white_check_mark:|`d1.dev`|
+|:white_check_mark:|`d4.dev`|
+|:white_check_mark:|`d5.dev`|
+|:white_check_mark:|`d6.dev`|
+|:white_check_mark:|`d8.dev`|
+|:white_check_mark:|`d9.dev`|
+|:white_check_mark:|`dk.dev`|
+|:white_check_mark:|`dl.dev`|
+|:white_check_mark:|`dp.dev`|
+|:white_check_mark:|`dt.dev`|
+|:white_check_mark:|`du.dev`|
+|:white_check_mark:|`dz.dev`|
 </details>
 <details>
 <summary>26 unregistered domains starting with <bold><code>e</code></bold></summary>
 
-- `e0.dev`
-- `e1.dev`
-- `e2.dev`
-- `e3.dev`
-- `e4.dev`
-- `e5.dev`
-- `e6.dev`
-- `e7.dev`
-- `e8.dev`
-- `ea.dev`
-- `eb.dev`
-- `ec.dev`
-- `ee.dev`
-- `eh.dev`
-- `ei.dev`
-- `ej.dev`
-- `ek.dev`
-- `el.dev`
-- `en.dev`
-- `ep.dev`
-- `er.dev`
-- `es.dev`
-- `eu.dev`
-- `ev.dev`
-- `ew.dev`
-- `ey.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`e0.dev`|
+|:white_check_mark:|`e1.dev`|
+|:white_check_mark:|`e2.dev`|
+|:white_check_mark:|`e3.dev`|
+|:white_check_mark:|`e4.dev`|
+|:white_check_mark:|`e5.dev`|
+|:white_check_mark:|`e6.dev`|
+|:white_check_mark:|`e7.dev`|
+|:white_check_mark:|`e8.dev`|
+|:white_check_mark:|`ea.dev`|
+|:white_check_mark:|`eb.dev`|
+|:white_check_mark:|`ec.dev`|
+|:white_check_mark:|`ee.dev`|
+|:white_check_mark:|`eh.dev`|
+|:white_check_mark:|`ei.dev`|
+|:white_check_mark:|`ej.dev`|
+|:white_check_mark:|`ek.dev`|
+|:white_check_mark:|`el.dev`|
+|:white_check_mark:|`en.dev`|
+|:white_check_mark:|`ep.dev`|
+|:white_check_mark:|`er.dev`|
+|:white_check_mark:|`es.dev`|
+|:white_check_mark:|`eu.dev`|
+|:white_check_mark:|`ev.dev`|
+|:white_check_mark:|`ew.dev`|
+|:white_check_mark:|`ey.dev`|
 </details>
 <details>
 <summary>18 unregistered domains starting with <bold><code>f</code></bold></summary>
 
-- `f0.dev`
-- `f1.dev`
-- `f2.dev`
-- `f3.dev`
-- `f4.dev`
-- `f5.dev`
-- `f6.dev`
-- `f7.dev`
-- `f8.dev`
-- `f9.dev`
-- `fd.dev`
-- `fj.dev`
-- `fq.dev`
-- `fr.dev`
-- `fu.dev`
-- `fw.dev`
-- `fy.dev`
-- `fz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`f0.dev`|
+|:white_check_mark:|`f1.dev`|
+|:white_check_mark:|`f2.dev`|
+|:white_check_mark:|`f3.dev`|
+|:white_check_mark:|`f4.dev`|
+|:white_check_mark:|`f5.dev`|
+|:white_check_mark:|`f6.dev`|
+|:white_check_mark:|`f7.dev`|
+|:white_check_mark:|`f8.dev`|
+|:white_check_mark:|`f9.dev`|
+|:white_check_mark:|`fd.dev`|
+|:white_check_mark:|`fj.dev`|
+|:white_check_mark:|`fq.dev`|
+|:white_check_mark:|`fr.dev`|
+|:white_check_mark:|`fu.dev`|
+|:white_check_mark:|`fw.dev`|
+|:white_check_mark:|`fy.dev`|
+|:white_check_mark:|`fz.dev`|
 </details>
 <details>
 <summary>21 unregistered domains starting with <bold><code>g</code></bold></summary>
 
-- `g0.dev`
-- `g1.dev`
-- `g3.dev`
-- `g4.dev`
-- `g5.dev`
-- `g6.dev`
-- `g8.dev`
-- `g9.dev`
-- `gc.dev`
-- `gd.dev`
-- `ge.dev`
-- `gi.dev`
-- `gj.dev`
-- `gl.dev`
-- `gn.dev`
-- `gp.dev`
-- `gq.dev`
-- `gu.dev`
-- `gw.dev`
-- `gy.dev`
-- `gz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`g0.dev`|
+|:white_check_mark:|`g1.dev`|
+|:white_check_mark:|`g3.dev`|
+|:white_check_mark:|`g4.dev`|
+|:white_check_mark:|`g5.dev`|
+|:white_check_mark:|`g6.dev`|
+|:white_check_mark:|`g8.dev`|
+|:white_check_mark:|`g9.dev`|
+|:white_check_mark:|`gc.dev`|
+|:white_check_mark:|`gd.dev`|
+|:white_check_mark:|`ge.dev`|
+|:white_check_mark:|`gi.dev`|
+|:white_check_mark:|`gj.dev`|
+|:white_check_mark:|`gl.dev`|
+|:white_check_mark:|`gn.dev`|
+|:white_check_mark:|`gp.dev`|
+|:white_check_mark:|`gq.dev`|
+|:white_check_mark:|`gu.dev`|
+|:white_check_mark:|`gw.dev`|
+|:white_check_mark:|`gy.dev`|
+|:white_check_mark:|`gz.dev`|
 </details>
 <details>
 <summary>23 unregistered domains starting with <bold><code>h</code></bold></summary>
 
-- `h0.dev`
-- `h2.dev`
-- `h3.dev`
-- `h4.dev`
-- `h5.dev`
-- `h6.dev`
-- `h7.dev`
-- `h8.dev`
-- `h9.dev`
-- `hb.dev`
-- `he.dev`
-- `hf.dev`
-- `hh.dev`
-- `hj.dev`
-- `hl.dev`
-- `hm.dev`
-- `ho.dev`
-- `hs.dev`
-- `ht.dev`
-- `hu.dev`
-- `hw.dev`
-- `hx.dev`
-- `hz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`h0.dev`|
+|:white_check_mark:|`h2.dev`|
+|:white_check_mark:|`h3.dev`|
+|:white_check_mark:|`h4.dev`|
+|:white_check_mark:|`h5.dev`|
+|:white_check_mark:|`h6.dev`|
+|:white_check_mark:|`h7.dev`|
+|:white_check_mark:|`h8.dev`|
+|:white_check_mark:|`h9.dev`|
+|:white_check_mark:|`hb.dev`|
+|:white_check_mark:|`he.dev`|
+|:white_check_mark:|`hf.dev`|
+|:white_check_mark:|`hh.dev`|
+|:white_check_mark:|`hj.dev`|
+|:white_check_mark:|`hl.dev`|
+|:white_check_mark:|`hm.dev`|
+|:white_check_mark:|`ho.dev`|
+|:white_check_mark:|`hs.dev`|
+|:white_check_mark:|`ht.dev`|
+|:white_check_mark:|`hu.dev`|
+|:white_check_mark:|`hw.dev`|
+|:white_check_mark:|`hx.dev`|
+|:white_check_mark:|`hz.dev`|
 </details>
 <details>
 <summary>18 unregistered domains starting with <bold><code>i</code></bold></summary>
 
-- `i0.dev`
-- `i1.dev`
-- `i2.dev`
-- `i3.dev`
-- `i4.dev`
-- `i5.dev`
-- `i7.dev`
-- `i8.dev`
-- `i9.dev`
-- `ie.dev`
-- `ig.dev`
-- `ih.dev`
-- `ii.dev`
-- `ij.dev`
-- `ik.dev`
-- `iu.dev`
-- `iy.dev`
-- `iz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`i0.dev`|
+|:white_check_mark:|`i1.dev`|
+|:white_check_mark:|`i2.dev`|
+|:white_check_mark:|`i3.dev`|
+|:white_check_mark:|`i4.dev`|
+|:white_check_mark:|`i5.dev`|
+|:white_check_mark:|`i7.dev`|
+|:white_check_mark:|`i8.dev`|
+|:white_check_mark:|`i9.dev`|
+|:white_check_mark:|`ie.dev`|
+|:white_check_mark:|`ig.dev`|
+|:white_check_mark:|`ih.dev`|
+|:white_check_mark:|`ii.dev`|
+|:white_check_mark:|`ij.dev`|
+|:white_check_mark:|`ik.dev`|
+|:white_check_mark:|`iu.dev`|
+|:white_check_mark:|`iy.dev`|
+|:white_check_mark:|`iz.dev`|
 </details>
 <details>
 <summary>23 unregistered domains starting with <bold><code>j</code></bold></summary>
 
-- `j0.dev`
-- `j1.dev`
-- `j2.dev`
-- `j3.dev`
-- `j4.dev`
-- `j5.dev`
-- `j6.dev`
-- `j7.dev`
-- `j8.dev`
-- `j9.dev`
-- `jc.dev`
-- `jd.dev`
-- `jg.dev`
-- `ji.dev`
-- `jj.dev`
-- `jn.dev`
-- `jo.dev`
-- `jq.dev`
-- `ju.dev`
-- `jv.dev`
-- `jx.dev`
-- `jy.dev`
-- `jz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`j0.dev`|
+|:white_check_mark:|`j1.dev`|
+|:white_check_mark:|`j2.dev`|
+|:white_check_mark:|`j3.dev`|
+|:white_check_mark:|`j4.dev`|
+|:white_check_mark:|`j5.dev`|
+|:white_check_mark:|`j6.dev`|
+|:white_check_mark:|`j7.dev`|
+|:white_check_mark:|`j8.dev`|
+|:white_check_mark:|`j9.dev`|
+|:white_check_mark:|`jc.dev`|
+|:white_check_mark:|`jd.dev`|
+|:white_check_mark:|`jg.dev`|
+|:white_check_mark:|`ji.dev`|
+|:white_check_mark:|`jj.dev`|
+|:white_check_mark:|`jn.dev`|
+|:white_check_mark:|`jo.dev`|
+|:white_check_mark:|`jq.dev`|
+|:white_check_mark:|`ju.dev`|
+|:white_check_mark:|`jv.dev`|
+|:white_check_mark:|`jx.dev`|
+|:white_check_mark:|`jy.dev`|
+|:white_check_mark:|`jz.dev`|
 </details>
 <details>
 <summary>20 unregistered domains starting with <bold><code>k</code></bold></summary>
 
-- `k0.dev`
-- `k1.dev`
-- `k2.dev`
-- `k3.dev`
-- `k4.dev`
-- `k5.dev`
-- `k6.dev`
-- `k7.dev`
-- `k8.dev`
-- `k9.dev`
-- `kb.dev`
-- `kl.dev`
-- `kp.dev`
-- `kq.dev`
-- `ku.dev`
-- `kv.dev`
-- `kw.dev`
-- `kx.dev`
-- `ky.dev`
-- `kz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`k0.dev`|
+|:white_check_mark:|`k1.dev`|
+|:white_check_mark:|`k2.dev`|
+|:white_check_mark:|`k3.dev`|
+|:white_check_mark:|`k4.dev`|
+|:white_check_mark:|`k5.dev`|
+|:white_check_mark:|`k6.dev`|
+|:white_check_mark:|`k7.dev`|
+|:white_check_mark:|`k8.dev`|
+|:white_check_mark:|`k9.dev`|
+|:white_check_mark:|`kb.dev`|
+|:white_check_mark:|`kl.dev`|
+|:white_check_mark:|`kp.dev`|
+|:white_check_mark:|`kq.dev`|
+|:white_check_mark:|`ku.dev`|
+|:white_check_mark:|`kv.dev`|
+|:white_check_mark:|`kw.dev`|
+|:white_check_mark:|`kx.dev`|
+|:white_check_mark:|`ky.dev`|
+|:white_check_mark:|`kz.dev`|
 </details>
 <details>
 <summary>16 unregistered domains starting with <bold><code>l</code></bold></summary>
 
-- `l0.dev`
-- `l2.dev`
-- `l5.dev`
-- `l6.dev`
-- `l9.dev`
-- `lh.dev`
-- `li.dev`
-- `lo.dev`
-- `lp.dev`
-- `lq.dev`
-- `lr.dev`
-- `ls.dev`
-- `lu.dev`
-- `lv.dev`
-- `lx.dev`
-- `ly.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`l0.dev`|
+|:white_check_mark:|`l2.dev`|
+|:white_check_mark:|`l5.dev`|
+|:white_check_mark:|`l6.dev`|
+|:white_check_mark:|`l9.dev`|
+|:white_check_mark:|`lh.dev`|
+|:white_check_mark:|`li.dev`|
+|:white_check_mark:|`lo.dev`|
+|:white_check_mark:|`lp.dev`|
+|:white_check_mark:|`lq.dev`|
+|:white_check_mark:|`lr.dev`|
+|:white_check_mark:|`ls.dev`|
+|:white_check_mark:|`lu.dev`|
+|:white_check_mark:|`lv.dev`|
+|:white_check_mark:|`lx.dev`|
+|:white_check_mark:|`ly.dev`|
 </details>
 <details>
 <summary>11 unregistered domains starting with <bold><code>m</code></bold></summary>
 
-- `m3.dev`
-- `m4.dev`
-- `m5.dev`
-- `m6.dev`
-- `m7.dev`
-- `m8.dev`
-- `m9.dev`
-- `mj.dev`
-- `mr.dev`
-- `mx.dev`
-- `mz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`m3.dev`|
+|:white_check_mark:|`m4.dev`|
+|:white_check_mark:|`m5.dev`|
+|:white_check_mark:|`m6.dev`|
+|:white_check_mark:|`m7.dev`|
+|:white_check_mark:|`m8.dev`|
+|:white_check_mark:|`m9.dev`|
+|:white_check_mark:|`mj.dev`|
+|:white_check_mark:|`mr.dev`|
+|:white_check_mark:|`mx.dev`|
+|:white_check_mark:|`mz.dev`|
 </details>
 <details>
 <summary>20 unregistered domains starting with <bold><code>n</code></bold></summary>
 
-- `n0.dev`
-- `n1.dev`
-- `n2.dev`
-- `n3.dev`
-- `n4.dev`
-- `n5.dev`
-- `n6.dev`
-- `n7.dev`
-- `n9.dev`
-- `nb.dev`
-- `nc.dev`
-- `ne.dev`
-- `nf.dev`
-- `nh.dev`
-- `nn.dev`
-- `nq.dev`
-- `nr.dev`
-- `nw.dev`
-- `ny.dev`
-- `nz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`n0.dev`|
+|:white_check_mark:|`n1.dev`|
+|:white_check_mark:|`n2.dev`|
+|:white_check_mark:|`n3.dev`|
+|:white_check_mark:|`n4.dev`|
+|:white_check_mark:|`n5.dev`|
+|:white_check_mark:|`n6.dev`|
+|:white_check_mark:|`n7.dev`|
+|:white_check_mark:|`n9.dev`|
+|:white_check_mark:|`nb.dev`|
+|:white_check_mark:|`nc.dev`|
+|:white_check_mark:|`ne.dev`|
+|:white_check_mark:|`nf.dev`|
+|:white_check_mark:|`nh.dev`|
+|:white_check_mark:|`nn.dev`|
+|:white_check_mark:|`nq.dev`|
+|:white_check_mark:|`nr.dev`|
+|:white_check_mark:|`nw.dev`|
+|:white_check_mark:|`ny.dev`|
+|:white_check_mark:|`nz.dev`|
 </details>
 <details>
 <summary>22 unregistered domains starting with <bold><code>o</code></bold></summary>
 
-- `o0.dev`
-- `o1.dev`
-- `o3.dev`
-- `o4.dev`
-- `o5.dev`
-- `o6.dev`
-- `o7.dev`
-- `o8.dev`
-- `o9.dev`
-- `oa.dev`
-- `od.dev`
-- `oe.dev`
-- `oj.dev`
-- `ol.dev`
-- `oo.dev`
-- `op.dev`
-- `oq.dev`
-- `or.dev`
-- `ot.dev`
-- `ou.dev`
-- `ow.dev`
-- `oy.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`o0.dev`|
+|:white_check_mark:|`o1.dev`|
+|:white_check_mark:|`o3.dev`|
+|:white_check_mark:|`o4.dev`|
+|:white_check_mark:|`o5.dev`|
+|:white_check_mark:|`o6.dev`|
+|:white_check_mark:|`o7.dev`|
+|:white_check_mark:|`o8.dev`|
+|:white_check_mark:|`o9.dev`|
+|:white_check_mark:|`oa.dev`|
+|:white_check_mark:|`od.dev`|
+|:white_check_mark:|`oe.dev`|
+|:white_check_mark:|`oj.dev`|
+|:white_check_mark:|`ol.dev`|
+|:white_check_mark:|`oo.dev`|
+|:white_check_mark:|`op.dev`|
+|:white_check_mark:|`oq.dev`|
+|:white_check_mark:|`or.dev`|
+|:white_check_mark:|`ot.dev`|
+|:white_check_mark:|`ou.dev`|
+|:white_check_mark:|`ow.dev`|
+|:white_check_mark:|`oy.dev`|
 </details>
 <details>
 <summary>14 unregistered domains starting with <bold><code>p</code></bold></summary>
 
-- `p1.dev`
-- `p3.dev`
-- `p4.dev`
-- `p5.dev`
-- `p6.dev`
-- `p7.dev`
-- `p8.dev`
-- `p9.dev`
-- `pf.dev`
-- `pn.dev`
-- `po.dev`
-- `pq.dev`
-- `pu.dev`
-- `pz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`p1.dev`|
+|:white_check_mark:|`p3.dev`|
+|:white_check_mark:|`p4.dev`|
+|:white_check_mark:|`p5.dev`|
+|:white_check_mark:|`p6.dev`|
+|:white_check_mark:|`p7.dev`|
+|:white_check_mark:|`p8.dev`|
+|:white_check_mark:|`p9.dev`|
+|:white_check_mark:|`pf.dev`|
+|:white_check_mark:|`pn.dev`|
+|:white_check_mark:|`po.dev`|
+|:white_check_mark:|`pq.dev`|
+|:white_check_mark:|`pu.dev`|
+|:white_check_mark:|`pz.dev`|
 </details>
 <details>
 <summary>32 unregistered domains starting with <bold><code>q</code></bold></summary>
 
-- `q0.dev`
-- `q1.dev`
-- `q2.dev`
-- `q3.dev`
-- `q4.dev`
-- `q5.dev`
-- `q6.dev`
-- `q7.dev`
-- `q8.dev`
-- `q9.dev`
-- `qa.dev`
-- `qc.dev`
-- `qd.dev`
-- `qe.dev`
-- `qf.dev`
-- `qg.dev`
-- `qh.dev`
-- `qj.dev`
-- `qk.dev`
-- `ql.dev`
-- `qm.dev`
-- `qn.dev`
-- `qo.dev`
-- `qq.dev`
-- `qs.dev`
-- `qt.dev`
-- `qu.dev`
-- `qv.dev`
-- `qw.dev`
-- `qx.dev`
-- `qy.dev`
-- `qz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`q0.dev`|
+|:white_check_mark:|`q1.dev`|
+|:white_check_mark:|`q2.dev`|
+|:white_check_mark:|`q3.dev`|
+|:white_check_mark:|`q4.dev`|
+|:white_check_mark:|`q5.dev`|
+|:white_check_mark:|`q6.dev`|
+|:white_check_mark:|`q7.dev`|
+|:white_check_mark:|`q8.dev`|
+|:white_check_mark:|`q9.dev`|
+|:white_check_mark:|`qa.dev`|
+|:white_check_mark:|`qc.dev`|
+|:white_check_mark:|`qd.dev`|
+|:white_check_mark:|`qe.dev`|
+|:white_check_mark:|`qf.dev`|
+|:white_check_mark:|`qg.dev`|
+|:white_check_mark:|`qh.dev`|
+|:white_check_mark:|`qj.dev`|
+|:white_check_mark:|`qk.dev`|
+|:white_check_mark:|`ql.dev`|
+|:white_check_mark:|`qm.dev`|
+|:white_check_mark:|`qn.dev`|
+|:white_check_mark:|`qo.dev`|
+|:white_check_mark:|`qq.dev`|
+|:white_check_mark:|`qs.dev`|
+|:white_check_mark:|`qt.dev`|
+|:white_check_mark:|`qu.dev`|
+|:white_check_mark:|`qv.dev`|
+|:white_check_mark:|`qw.dev`|
+|:white_check_mark:|`qx.dev`|
+|:white_check_mark:|`qy.dev`|
+|:white_check_mark:|`qz.dev`|
 </details>
 <details>
 <summary>20 unregistered domains starting with <bold><code>r</code></bold></summary>
 
-- `r0.dev`
-- `r1.dev`
-- `r3.dev`
-- `r4.dev`
-- `r5.dev`
-- `r6.dev`
-- `r7.dev`
-- `r8.dev`
-- `r9.dev`
-- `rc.dev`
-- `rf.dev`
-- `rj.dev`
-- `rk.dev`
-- `rm.dev`
-- `rq.dev`
-- `rt.dev`
-- `rv.dev`
-- `rw.dev`
-- `ry.dev`
-- `rz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`r0.dev`|
+|:white_check_mark:|`r1.dev`|
+|:white_check_mark:|`r3.dev`|
+|:white_check_mark:|`r4.dev`|
+|:white_check_mark:|`r5.dev`|
+|:white_check_mark:|`r6.dev`|
+|:white_check_mark:|`r7.dev`|
+|:white_check_mark:|`r8.dev`|
+|:white_check_mark:|`r9.dev`|
+|:white_check_mark:|`rc.dev`|
+|:white_check_mark:|`rf.dev`|
+|:white_check_mark:|`rj.dev`|
+|:white_check_mark:|`rk.dev`|
+|:white_check_mark:|`rm.dev`|
+|:white_check_mark:|`rq.dev`|
+|:white_check_mark:|`rt.dev`|
+|:white_check_mark:|`rv.dev`|
+|:white_check_mark:|`rw.dev`|
+|:white_check_mark:|`ry.dev`|
+|:white_check_mark:|`rz.dev`|
 </details>
 <details>
 <summary>14 unregistered domains starting with <bold><code>s</code></bold></summary>
 
-- `s1.dev`
-- `s3.dev`
-- `s4.dev`
-- `s6.dev`
-- `s7.dev`
-- `s8.dev`
-- `s9.dev`
-- `sf.dev`
-- `si.dev`
-- `so.dev`
-- `su.dev`
-- `sv.dev`
-- `sx.dev`
-- `sz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`s1.dev`|
+|:white_check_mark:|`s3.dev`|
+|:white_check_mark:|`s4.dev`|
+|:white_check_mark:|`s6.dev`|
+|:white_check_mark:|`s7.dev`|
+|:white_check_mark:|`s8.dev`|
+|:white_check_mark:|`s9.dev`|
+|:white_check_mark:|`sf.dev`|
+|:white_check_mark:|`si.dev`|
+|:white_check_mark:|`so.dev`|
+|:white_check_mark:|`su.dev`|
+|:white_check_mark:|`sv.dev`|
+|:white_check_mark:|`sx.dev`|
+|:white_check_mark:|`sz.dev`|
 </details>
 <details>
 <summary>18 unregistered domains starting with <bold><code>t</code></bold></summary>
 
-- `t0.dev`
-- `t3.dev`
-- `t4.dev`
-- `t5.dev`
-- `t7.dev`
-- `t8.dev`
-- `t9.dev`
-- `ta.dev`
-- `te.dev`
-- `tf.dev`
-- `tl.dev`
-- `tm.dev`
-- `tp.dev`
-- `tq.dev`
-- `tu.dev`
-- `tx.dev`
-- `ty.dev`
-- `tz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`t0.dev`|
+|:white_check_mark:|`t3.dev`|
+|:white_check_mark:|`t4.dev`|
+|:white_check_mark:|`t5.dev`|
+|:white_check_mark:|`t7.dev`|
+|:white_check_mark:|`t8.dev`|
+|:white_check_mark:|`t9.dev`|
+|:white_check_mark:|`ta.dev`|
+|:white_check_mark:|`te.dev`|
+|:white_check_mark:|`tf.dev`|
+|:white_check_mark:|`tl.dev`|
+|:white_check_mark:|`tm.dev`|
+|:white_check_mark:|`tp.dev`|
+|:white_check_mark:|`tq.dev`|
+|:white_check_mark:|`tu.dev`|
+|:white_check_mark:|`tx.dev`|
+|:white_check_mark:|`ty.dev`|
+|:white_check_mark:|`tz.dev`|
 </details>
 <details>
 <summary>25 unregistered domains starting with <bold><code>u</code></bold></summary>
 
-- `u0.dev`
-- `u1.dev`
-- `u2.dev`
-- `u3.dev`
-- `u4.dev`
-- `u5.dev`
-- `u6.dev`
-- `u7.dev`
-- `u8.dev`
-- `u9.dev`
-- `ub.dev`
-- `uf.dev`
-- `ug.dev`
-- `uh.dev`
-- `uj.dev`
-- `uk.dev`
-- `ul.dev`
-- `un.dev`
-- `uo.dev`
-- `ur.dev`
-- `ut.dev`
-- `uu.dev`
-- `uw.dev`
-- `uy.dev`
-- `uz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`u0.dev`|
+|:white_check_mark:|`u1.dev`|
+|:white_check_mark:|`u2.dev`|
+|:white_check_mark:|`u3.dev`|
+|:white_check_mark:|`u4.dev`|
+|:white_check_mark:|`u5.dev`|
+|:white_check_mark:|`u6.dev`|
+|:white_check_mark:|`u7.dev`|
+|:white_check_mark:|`u8.dev`|
+|:white_check_mark:|`u9.dev`|
+|:white_check_mark:|`ub.dev`|
+|:white_check_mark:|`uf.dev`|
+|:white_check_mark:|`ug.dev`|
+|:white_check_mark:|`uh.dev`|
+|:white_check_mark:|`uj.dev`|
+|:white_check_mark:|`uk.dev`|
+|:white_check_mark:|`ul.dev`|
+|:white_check_mark:|`un.dev`|
+|:white_check_mark:|`uo.dev`|
+|:white_check_mark:|`ur.dev`|
+|:white_check_mark:|`ut.dev`|
+|:white_check_mark:|`uu.dev`|
+|:white_check_mark:|`uw.dev`|
+|:white_check_mark:|`uy.dev`|
+|:white_check_mark:|`uz.dev`|
 </details>
 <details>
 <summary>21 unregistered domains starting with <bold><code>v</code></bold></summary>
 
-- `v3.dev`
-- `v4.dev`
-- `v5.dev`
-- `v6.dev`
-- `v7.dev`
-- `v9.dev`
-- `va.dev`
-- `vd.dev`
-- `ve.dev`
-- `vf.dev`
-- `vg.dev`
-- `vh.dev`
-- `vj.dev`
-- `vl.dev`
-- `vn.dev`
-- `vq.dev`
-- `vr.dev`
-- `vu.dev`
-- `vw.dev`
-- `vy.dev`
-- `vz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`v3.dev`|
+|:white_check_mark:|`v4.dev`|
+|:white_check_mark:|`v5.dev`|
+|:white_check_mark:|`v6.dev`|
+|:white_check_mark:|`v7.dev`|
+|:white_check_mark:|`v9.dev`|
+|:white_check_mark:|`va.dev`|
+|:white_check_mark:|`vd.dev`|
+|:white_check_mark:|`ve.dev`|
+|:white_check_mark:|`vf.dev`|
+|:white_check_mark:|`vg.dev`|
+|:white_check_mark:|`vh.dev`|
+|:white_check_mark:|`vj.dev`|
+|:white_check_mark:|`vl.dev`|
+|:white_check_mark:|`vn.dev`|
+|:white_check_mark:|`vq.dev`|
+|:white_check_mark:|`vr.dev`|
+|:white_check_mark:|`vu.dev`|
+|:white_check_mark:|`vw.dev`|
+|:white_check_mark:|`vy.dev`|
+|:white_check_mark:|`vz.dev`|
 </details>
 <details>
 <summary>26 unregistered domains starting with <bold><code>w</code></bold></summary>
 
-- `w0.dev`
-- `w1.dev`
-- `w2.dev`
-- `w4.dev`
-- `w5.dev`
-- `w6.dev`
-- `w7.dev`
-- `w8.dev`
-- `w9.dev`
-- `wb.dev`
-- `wc.dev`
-- `wf.dev`
-- `wg.dev`
-- `wh.dev`
-- `wi.dev`
-- `wj.dev`
-- `wk.dev`
-- `wl.dev`
-- `wm.dev`
-- `wn.dev`
-- `wq.dev`
-- `wr.dev`
-- `wv.dev`
-- `wx.dev`
-- `wy.dev`
-- `wz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`w0.dev`|
+|:white_check_mark:|`w1.dev`|
+|:white_check_mark:|`w2.dev`|
+|:white_check_mark:|`w4.dev`|
+|:white_check_mark:|`w5.dev`|
+|:white_check_mark:|`w6.dev`|
+|:white_check_mark:|`w7.dev`|
+|:white_check_mark:|`w8.dev`|
+|:white_check_mark:|`w9.dev`|
+|:white_check_mark:|`wb.dev`|
+|:white_check_mark:|`wc.dev`|
+|:white_check_mark:|`wf.dev`|
+|:white_check_mark:|`wg.dev`|
+|:white_check_mark:|`wh.dev`|
+|:white_check_mark:|`wi.dev`|
+|:white_check_mark:|`wj.dev`|
+|:white_check_mark:|`wk.dev`|
+|:white_check_mark:|`wl.dev`|
+|:white_check_mark:|`wm.dev`|
+|:white_check_mark:|`wn.dev`|
+|:white_check_mark:|`wq.dev`|
+|:white_check_mark:|`wr.dev`|
+|:white_check_mark:|`wv.dev`|
+|:white_check_mark:|`wx.dev`|
+|:white_check_mark:|`wy.dev`|
+|:white_check_mark:|`wz.dev`|
 </details>
 <details>
 <summary>31 unregistered domains starting with <bold><code>x</code></bold></summary>
 
-- `x0.dev`
-- `x1.dev`
-- `x2.dev`
-- `x4.dev`
-- `x5.dev`
-- `x6.dev`
-- `x7.dev`
-- `x8.dev`
-- `x9.dev`
-- `xa.dev`
-- `xb.dev`
-- `xc.dev`
-- `xd.dev`
-- `xe.dev`
-- `xf.dev`
-- `xg.dev`
-- `xh.dev`
-- `xi.dev`
-- `xj.dev`
-- `xk.dev`
-- `xm.dev`
-- `xn.dev`
-- `xp.dev`
-- `xq.dev`
-- `xs.dev`
-- `xu.dev`
-- `xv.dev`
-- `xw.dev`
-- `xx.dev`
-- `xy.dev`
-- `xz.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`x0.dev`|
+|:white_check_mark:|`x1.dev`|
+|:white_check_mark:|`x2.dev`|
+|:white_check_mark:|`x4.dev`|
+|:white_check_mark:|`x5.dev`|
+|:white_check_mark:|`x6.dev`|
+|:white_check_mark:|`x7.dev`|
+|:white_check_mark:|`x8.dev`|
+|:white_check_mark:|`x9.dev`|
+|:white_check_mark:|`xa.dev`|
+|:white_check_mark:|`xb.dev`|
+|:white_check_mark:|`xc.dev`|
+|:white_check_mark:|`xd.dev`|
+|:white_check_mark:|`xe.dev`|
+|:white_check_mark:|`xf.dev`|
+|:white_check_mark:|`xg.dev`|
+|:white_check_mark:|`xh.dev`|
+|:white_check_mark:|`xi.dev`|
+|:white_check_mark:|`xj.dev`|
+|:white_check_mark:|`xk.dev`|
+|:white_check_mark:|`xm.dev`|
+|:white_check_mark:|`xn.dev`|
+|:white_check_mark:|`xp.dev`|
+|:white_check_mark:|`xq.dev`|
+|:white_check_mark:|`xs.dev`|
+|:white_check_mark:|`xu.dev`|
+|:white_check_mark:|`xv.dev`|
+|:white_check_mark:|`xw.dev`|
+|:white_check_mark:|`xx.dev`|
+|:white_check_mark:|`xy.dev`|
+|:white_check_mark:|`xz.dev`|
 </details>
 <details>
 <summary>28 unregistered domains starting with <bold><code>y</code></bold></summary>
 
-- `y0.dev`
-- `y1.dev`
-- `y2.dev`
-- `y3.dev`
-- `y4.dev`
-- `y5.dev`
-- `y6.dev`
-- `y7.dev`
-- `y8.dev`
-- `y9.dev`
-- `ya.dev`
-- `yd.dev`
-- `ye.dev`
-- `yf.dev`
-- `yh.dev`
-- `yi.dev`
-- `yk.dev`
-- `yl.dev`
-- `yn.dev`
-- `yp.dev`
-- `yq.dev`
-- `yr.dev`
-- `ys.dev`
-- `yt.dev`
-- `yv.dev`
-- `yw.dev`
-- `yx.dev`
-- `yy.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`y0.dev`|
+|:white_check_mark:|`y1.dev`|
+|:white_check_mark:|`y2.dev`|
+|:white_check_mark:|`y3.dev`|
+|:white_check_mark:|`y4.dev`|
+|:white_check_mark:|`y5.dev`|
+|:white_check_mark:|`y6.dev`|
+|:white_check_mark:|`y7.dev`|
+|:white_check_mark:|`y8.dev`|
+|:white_check_mark:|`y9.dev`|
+|:white_check_mark:|`ya.dev`|
+|:white_check_mark:|`yd.dev`|
+|:white_check_mark:|`ye.dev`|
+|:white_check_mark:|`yf.dev`|
+|:white_check_mark:|`yh.dev`|
+|:white_check_mark:|`yi.dev`|
+|:white_check_mark:|`yk.dev`|
+|:white_check_mark:|`yl.dev`|
+|:white_check_mark:|`yn.dev`|
+|:white_check_mark:|`yp.dev`|
+|:white_check_mark:|`yq.dev`|
+|:white_check_mark:|`yr.dev`|
+|:white_check_mark:|`ys.dev`|
+|:white_check_mark:|`yt.dev`|
+|:white_check_mark:|`yv.dev`|
+|:white_check_mark:|`yw.dev`|
+|:white_check_mark:|`yx.dev`|
+|:white_check_mark:|`yy.dev`|
 </details>
 <details>
 <summary>26 unregistered domains starting with <bold><code>z</code></bold></summary>
 
-- `z0.dev`
-- `z1.dev`
-- `z2.dev`
-- `z4.dev`
-- `z5.dev`
-- `z6.dev`
-- `z7.dev`
-- `z8.dev`
-- `z9.dev`
-- `za.dev`
-- `zc.dev`
-- `zd.dev`
-- `ze.dev`
-- `zf.dev`
-- `zh.dev`
-- `zi.dev`
-- `zj.dev`
-- `zl.dev`
-- `zm.dev`
-- `zn.dev`
-- `zq.dev`
-- `zr.dev`
-- `zs.dev`
-- `zu.dev`
-- `zv.dev`
-- `zw.dev`
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`z0.dev`|
+|:white_check_mark:|`z1.dev`|
+|:white_check_mark:|`z2.dev`|
+|:white_check_mark:|`z4.dev`|
+|:white_check_mark:|`z5.dev`|
+|:white_check_mark:|`z6.dev`|
+|:white_check_mark:|`z7.dev`|
+|:white_check_mark:|`z8.dev`|
+|:white_check_mark:|`z9.dev`|
+|:white_check_mark:|`za.dev`|
+|:white_check_mark:|`zc.dev`|
+|:white_check_mark:|`zd.dev`|
+|:white_check_mark:|`ze.dev`|
+|:white_check_mark:|`zf.dev`|
+|:white_check_mark:|`zh.dev`|
+|:white_check_mark:|`zi.dev`|
+|:white_check_mark:|`zj.dev`|
+|:white_check_mark:|`zl.dev`|
+|:white_check_mark:|`zm.dev`|
+|:white_check_mark:|`zn.dev`|
+|:white_check_mark:|`zq.dev`|
+|:white_check_mark:|`zr.dev`|
+|:white_check_mark:|`zs.dev`|
+|:white_check_mark:|`zu.dev`|
+|:white_check_mark:|`zv.dev`|
+|:white_check_mark:|`zw.dev`|
 </details>
