@@ -37,7 +37,7 @@ class StatsFormatted(TypedDict):
     data_formatted: str
 
 
-def format_data_to_md(domain_data: dict[str, int], tld: str, length: int) -> str:
+def format_data_to_md(domain_data: dict[str, int], tld: str, length: int) -> str | None:
     updated_at = datetime.fromtimestamp(
         timestamp=int(domain_data[LAST_UPDATED_KEY] or 0),
         tz=timezone.utc,
@@ -53,6 +53,9 @@ def format_data_to_md(domain_data: dict[str, int], tld: str, length: int) -> str
     unregistered_count += available_for_application_count
     failed_lookup_count = sum([1 for _, v in domain_data.items() if v == DomainStatus.FAILED.value])
     successful_lookup_count = registered_count + unregistered_count
+    if successful_lookup_count == 0:
+        return None
+
     total_count = registered_count + unregistered_count + failed_lookup_count
     success_rate = round((successful_lookup_count / total_count) * 100, 2)
     registration_rate = round((registered_count / successful_lookup_count) * 100, 2)
@@ -133,6 +136,9 @@ def main() -> None:
             tld=tld,
             length=length,
         )
+
+        if formatted_text is None:
+            continue
 
         registered_count = sum([1 for _, v in domain_json_data.items() if v == DomainStatus.REGISTERED.value])
         premium_count = sum([1 for _, v in domain_json_data.items() if v == DomainStatus.PREMIUM.value])
