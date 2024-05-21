@@ -24,7 +24,7 @@ def check_domain_registration(domain: str, tld: str, *, depth: int = 1) -> Domai
         response = whois.whois(domain, quiet=True)
     except TimeoutError:
         print(f"> [{tld}] [ !!! ] Timed out, trying again.")
-        return check_domain_registration(domain, tld)
+        return check_domain_registration(domain, tld, depth=depth + 5)
     except Exception:
         raise Exception("Unable to register domains with this TLD.")
 
