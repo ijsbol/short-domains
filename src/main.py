@@ -17,11 +17,11 @@ def generate_strings_to_check(size: int) -> list[str]:
 
 
 def check_domain_registration(domain: str, tld: str, *, depth: int = 1) -> DomainStatus:
-    if depth > 10:
-        return DomainStatus.FAILED
+    if depth > 30:
+        raise Exception("Unable to register domains with this TLD.")
 
     try:
-        response = whois.whois(domain)
+        response = whois.whois(domain, quiet=True)
     except TimeoutError:
         print(f"> [{tld}] [ !!! ] Timed out, trying again.")
         return check_domain_registration(domain, tld)
