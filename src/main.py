@@ -1,14 +1,12 @@
 import datetime
 import json
-import re
 import socket
 import string
 import itertools
 import threading
 import time
-from typing import Callable, Final
 
-from constants import LAST_UPDATED_KEY
+from constants import LAST_UPDATED_KEY, DomainStatus
 
 
 def generate_strings_to_check(size: int) -> list[str]:
@@ -17,36 +15,49 @@ def generate_strings_to_check(size: int) -> list[str]:
     return [''.join(s) for s in itertools.product(letters, repeat=size)]
 
 
-def check_domain_registration(domain: str, tld: str, whois: str) -> bool:
+def check_domain_registration(domain: str, tld: str, whois: str, *, depth: int = 1) -> DomainStatus:
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.settimeout(10)
     s.connect_ex((whois, 43))
-    s.send(bytes(domain, "utf-8") + b"\r\n")
+
+    try:
+        s.send(bytes(domain, "utf-8") + b"\r\n")
+    except TimeoutError:
+        print(f"> [{tld}] [ !!! ] Timed out, trying again.")
+        return check_domain_registration(domain, tld, whois)
+
     response = s.recv(1024)
     response_string = response.decode("utf-8")
     s.close()
-    if "Domain not found." in response_string:
-        return False
-    elif f"Domain Name: {domain}" in response_string:
-        return True
+    if "domain not found." in response_string.lower():
+        return DomainStatus.UNREGISTERED
+    elif f"domain name: {domain}" in response_string.lower():
+        return DomainStatus.REGISTERED
+    elif "application" in response_string.lower():
+        return DomainStatus.AVAILABLE_FOR_APPLICATION
+    elif "premium" in response_string.lower():
+        return DomainStatus.PREMIUM
+    elif len(response_string) > 10 or depth > 10:
+        return DomainStatus.FAILED
     else:
+        print(response_string)
         print(f"> [{tld}] [ ! ] Ratelimited, waiting a few seconds.")
         time.sleep(3)
-        return check_domain_registration(domain, tld, whois)
+        return check_domain_registration(domain, tld, whois, depth=depth + 1)
 
 
 def load_tld_registration_information(tld: str, size: int, whois: str) -> None:
     time_start = datetime.datetime.now(tz=datetime.timezone.utc).timestamp()
     domains_to_check: list[str] = generate_strings_to_check(size)
     number_of_domains_to_check: int = len(domains_to_check)
-    checked_domains: dict[str, bool | int] = {}
+    checked_domains: dict[str, DomainStatus | int] = {}
 
     for index, host_name in enumerate(domains_to_check):
         domain = f"{host_name}.{tld}"
         registered = check_domain_registration(domain, tld, whois)
-        print(f"> [{tld}] [{index + 1}/{number_of_domains_to_check}] \t{domain} is{[' not', ''][registered]} registered.")
+        print(f"> [{tld}] [{index + 1}/{number_of_domains_to_check}] \t{domain} is {registered.name}")
 
-        checked_domains[host_name] = registered
+        checked_domains[host_name] = registered.value
 
         if index % 10 == 0:
             print(f"> [{tld}] Saving progress...")
