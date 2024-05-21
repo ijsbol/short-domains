@@ -13,7 +13,7 @@ EMOJIS: Final[dict[int, str]] = {
     DomainStatus.AVAILABLE_FOR_APPLICATION.value: ':writing_hand:',
     DomainStatus.PREMIUM.value: ':gem:',
 }
-format_domain: Callable[[str, int], str] = lambda d, r: f'|{EMOJIS[r]}|`{d}.dev`|'
+format_domain: Callable[[str, str, int], str] = lambda d, t, r: f'|{EMOJIS[r]}|`{d}.{t}`|'
 
 
 class RawStats(TypedDict):
@@ -98,7 +98,7 @@ def format_data_to_md(domain_data: dict[str, int], tld: str, length: int) -> str
     output += f"\n"
 
     for starts_with_section, domains in starts_with_sections.items():
-        registration_data_formatted = '\n'.join([format_domain(domain, registration) for domain, registration in domains])
+        registration_data_formatted = '\n'.join([format_domain(domain, tld, registration) for domain, registration in domains])
         output += f"\n<details>\n<summary>{len(domains)} unregistered domains starting with <bold><code>{starts_with_section}</code></bold></summary>"
         output += f"\n\n|Type|Domain|"
         output += f"\n|--|--|"
@@ -125,7 +125,7 @@ def main() -> None:
         with open(file_path, "r") as fr:
             domain_json_data = json.load(fr)
 
-        raw_file_name = file_path.name.strip(".json")
+        raw_file_name = file_path.name.removesuffix(".json")
         tld = raw_file_name.split("-")[0]
         length = int(raw_file_name.split("-")[1])
 
