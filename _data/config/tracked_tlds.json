@@ -6,5 +6,9 @@
     "me": {
         "lengths": [2],
         "whois": "whois.nic.me"
+    },
+    "io": {
+        "lengths": [2],
+        "whois": "whois.nic.io"
     }
 }
