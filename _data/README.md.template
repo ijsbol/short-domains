@@ -8,6 +8,9 @@ This is a fun little project that allows you to check what domains are and aren'
 |--|--|
 |TLDs tracked|%(tlds_tracked)s|
 |Domains tracked|%(domains_tracked)s|
+|Failed lookups|%(failed_lookups)s|
+|Premium domains|%(premium_domains)s|
+|Application only|%(available_for_application)s|
 |Available 2L domains|%(available_domains_2l)s|
 |2L registration rate|%(registration_rate_2l)s|
 
