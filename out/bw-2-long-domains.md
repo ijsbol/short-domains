@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bw`
 
-## Data last updated: 05/21/2024, 19:13:17
+## Data last updated: 05/23/2024, 17:59:33
 
 |Stat|Amount|
 |--|--|
-|Registered domains|120|
-|Unregistered domains|1176|
+|Registered domains|60|
+|Unregistered domains|1236|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|9.26%|
+|Registration rate|4.63%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,19 +441,13 @@
 |:white_check_mark:|`9z.bw`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a4.bw`|
-|:white_check_mark:|`a7.bw`|
-|:white_check_mark:|`a9.bw`|
-</details>
-<details>
-<summary>9 unregistered domains starting with <bold><code>b</code></bold></summary>
-
-|Type|Domain|
-|--|--|
+|:white_check_mark:|`b0.bw`|
+|:white_check_mark:|`b1.bw`|
+|:white_check_mark:|`b2.bw`|
 |:white_check_mark:|`b3.bw`|
 |:white_check_mark:|`b4.bw`|
 |:white_check_mark:|`b5.bw`|
@@ -461,8 +455,8 @@
 |:white_check_mark:|`b7.bw`|
 |:white_check_mark:|`b8.bw`|
 |:white_check_mark:|`b9.bw`|
-|:white_check_mark:|`bo.bw`|
-|:white_check_mark:|`bp.bw`|
+|:white_check_mark:|`by.bw`|
+|:white_check_mark:|`bz.bw`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
@@ -1179,10 +1173,20 @@
 |:white_check_mark:|`sz.bw`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`t0.bw`|
+|:white_check_mark:|`t1.bw`|
+|:white_check_mark:|`t2.bw`|
+|:white_check_mark:|`t3.bw`|
+|:white_check_mark:|`t4.bw`|
+|:white_check_mark:|`t5.bw`|
+|:white_check_mark:|`t6.bw`|
+|:white_check_mark:|`t7.bw`|
+|:white_check_mark:|`t8.bw`|
+|:white_check_mark:|`t9.bw`|
 |:white_check_mark:|`ta.bw`|
 |:white_check_mark:|`tb.bw`|
 |:white_check_mark:|`tc.bw`|
@@ -1201,17 +1205,59 @@
 |:white_check_mark:|`tp.bw`|
 |:white_check_mark:|`tq.bw`|
 |:white_check_mark:|`tr.bw`|
+|:white_check_mark:|`ts.bw`|
+|:white_check_mark:|`tt.bw`|
+|:white_check_mark:|`tu.bw`|
+|:white_check_mark:|`tv.bw`|
+|:white_check_mark:|`tw.bw`|
+|:white_check_mark:|`tx.bw`|
+|:white_check_mark:|`ty.bw`|
+|:white_check_mark:|`tz.bw`|
 </details>
 <details>
-<summary>2 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`u0.bw`|
+|:white_check_mark:|`u1.bw`|
+|:white_check_mark:|`u2.bw`|
+|:white_check_mark:|`u3.bw`|
+|:white_check_mark:|`u4.bw`|
+|:white_check_mark:|`u5.bw`|
+|:white_check_mark:|`u6.bw`|
+|:white_check_mark:|`u7.bw`|
+|:white_check_mark:|`u8.bw`|
+|:white_check_mark:|`u9.bw`|
+|:white_check_mark:|`ua.bw`|
+|:white_check_mark:|`ub.bw`|
+|:white_check_mark:|`uc.bw`|
+|:white_check_mark:|`ud.bw`|
+|:white_check_mark:|`ue.bw`|
 |:white_check_mark:|`uf.bw`|
+|:white_check_mark:|`ug.bw`|
+|:white_check_mark:|`uh.bw`|
 |:white_check_mark:|`ui.bw`|
+|:white_check_mark:|`uj.bw`|
+|:white_check_mark:|`uk.bw`|
+|:white_check_mark:|`ul.bw`|
+|:white_check_mark:|`um.bw`|
+|:white_check_mark:|`un.bw`|
+|:white_check_mark:|`uo.bw`|
+|:white_check_mark:|`up.bw`|
+|:white_check_mark:|`uq.bw`|
+|:white_check_mark:|`ur.bw`|
+|:white_check_mark:|`us.bw`|
+|:white_check_mark:|`ut.bw`|
+|:white_check_mark:|`uu.bw`|
+|:white_check_mark:|`uv.bw`|
+|:white_check_mark:|`uw.bw`|
+|:white_check_mark:|`ux.bw`|
+|:white_check_mark:|`uy.bw`|
+|:white_check_mark:|`uz.bw`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1225,6 +1271,14 @@
 |:white_check_mark:|`v7.bw`|
 |:white_check_mark:|`v8.bw`|
 |:white_check_mark:|`v9.bw`|
+|:white_check_mark:|`va.bw`|
+|:white_check_mark:|`vb.bw`|
+|:white_check_mark:|`vc.bw`|
+|:white_check_mark:|`vd.bw`|
+|:white_check_mark:|`ve.bw`|
+|:white_check_mark:|`vf.bw`|
+|:white_check_mark:|`vg.bw`|
+|:white_check_mark:|`vh.bw`|
 |:white_check_mark:|`vi.bw`|
 |:white_check_mark:|`vj.bw`|
 |:white_check_mark:|`vk.bw`|

@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.id`
 
-## Data last updated: 05/21/2024, 15:30:51
+## Data last updated: 05/23/2024, 17:46:09
 
 |Stat|Amount|
 |--|--|

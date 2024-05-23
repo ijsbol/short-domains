@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.fi`
 
-## Data last updated: 05/21/2024, 15:08:39
+## Data last updated: 05/23/2024, 17:57:07
 
 |Stat|Amount|
 |--|--|
-|Registered domains|12|
-|Unregistered domains|9|
+|Registered domains|1292|
+|Unregistered domains|4|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|57.14%|
+|Registration rate|99.69%|
 |Failed lookups|0|
-|Successful lookups|21|
+|Successful lookups|1296|
 |Lookup success rate|100%|
 
 
@@ -21,17 +21,24 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>9 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`ad.fi`|
-|:white_check_mark:|`ae.fi`|
-|:white_check_mark:|`af.fi`|
 |:white_check_mark:|`ah.fi`|
-|:white_check_mark:|`ak.fi`|
-|:white_check_mark:|`al.fi`|
-|:white_check_mark:|`ap.fi`|
-|:white_check_mark:|`aq.fi`|
-|:white_check_mark:|`ar.fi`|
+|:white_check_mark:|`ay.fi`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>g</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`gl.fi`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>h</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`h5.fi`|
 </details>

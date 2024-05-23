@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.do`
 
-## Data last updated: 05/21/2024, 19:13:11
+## Data last updated: 05/23/2024, 17:50:59
 
 |Stat|Amount|
 |--|--|
-|Registered domains|120|
-|Unregistered domains|1176|
+|Registered domains|60|
+|Unregistered domains|1236|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|9.26%|
+|Registration rate|4.63%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,28 +441,22 @@
 |:white_check_mark:|`9z.do`|
 </details>
 <details>
-<summary>7 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a1.do`|
-|:white_check_mark:|`a2.do`|
-|:white_check_mark:|`a3.do`|
-|:white_check_mark:|`a5.do`|
-|:white_check_mark:|`af.do`|
-|:white_check_mark:|`an.do`|
-|:white_check_mark:|`aw.do`|
-</details>
-<details>
-<summary>5 unregistered domains starting with <bold><code>b</code></bold></summary>
-
-|Type|Domain|
-|--|--|
+|:white_check_mark:|`b0.do`|
+|:white_check_mark:|`b1.do`|
+|:white_check_mark:|`b2.do`|
+|:white_check_mark:|`b3.do`|
+|:white_check_mark:|`b4.do`|
+|:white_check_mark:|`b5.do`|
+|:white_check_mark:|`b6.do`|
 |:white_check_mark:|`b7.do`|
 |:white_check_mark:|`b8.do`|
 |:white_check_mark:|`b9.do`|
-|:white_check_mark:|`bi.do`|
-|:white_check_mark:|`bw.do`|
+|:white_check_mark:|`by.do`|
+|:white_check_mark:|`bz.do`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
@@ -1053,7 +1047,7 @@
 |:white_check_mark:|`pz.do`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1065,6 +1059,8 @@
 |:white_check_mark:|`q5.do`|
 |:white_check_mark:|`q6.do`|
 |:white_check_mark:|`q7.do`|
+|:white_check_mark:|`q8.do`|
+|:white_check_mark:|`q9.do`|
 |:white_check_mark:|`qa.do`|
 |:white_check_mark:|`qb.do`|
 |:white_check_mark:|`qc.do`|
@@ -1093,7 +1089,49 @@
 |:white_check_mark:|`qz.do`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`r0.do`|
+|:white_check_mark:|`r1.do`|
+|:white_check_mark:|`r2.do`|
+|:white_check_mark:|`r3.do`|
+|:white_check_mark:|`r4.do`|
+|:white_check_mark:|`r5.do`|
+|:white_check_mark:|`r6.do`|
+|:white_check_mark:|`r7.do`|
+|:white_check_mark:|`r8.do`|
+|:white_check_mark:|`r9.do`|
+|:white_check_mark:|`ra.do`|
+|:white_check_mark:|`rb.do`|
+|:white_check_mark:|`rc.do`|
+|:white_check_mark:|`rd.do`|
+|:white_check_mark:|`re.do`|
+|:white_check_mark:|`rf.do`|
+|:white_check_mark:|`rg.do`|
+|:white_check_mark:|`rh.do`|
+|:white_check_mark:|`ri.do`|
+|:white_check_mark:|`rj.do`|
+|:white_check_mark:|`rk.do`|
+|:white_check_mark:|`rl.do`|
+|:white_check_mark:|`rm.do`|
+|:white_check_mark:|`rn.do`|
+|:white_check_mark:|`ro.do`|
+|:white_check_mark:|`rp.do`|
+|:white_check_mark:|`rq.do`|
+|:white_check_mark:|`rr.do`|
+|:white_check_mark:|`rs.do`|
+|:white_check_mark:|`rt.do`|
+|:white_check_mark:|`ru.do`|
+|:white_check_mark:|`rv.do`|
+|:white_check_mark:|`rw.do`|
+|:white_check_mark:|`rx.do`|
+|:white_check_mark:|`ry.do`|
+|:white_check_mark:|`rz.do`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1107,7 +1145,29 @@
 |:white_check_mark:|`s7.do`|
 |:white_check_mark:|`s8.do`|
 |:white_check_mark:|`s9.do`|
+|:white_check_mark:|`sa.do`|
+|:white_check_mark:|`sb.do`|
+|:white_check_mark:|`sc.do`|
+|:white_check_mark:|`sd.do`|
+|:white_check_mark:|`se.do`|
+|:white_check_mark:|`sf.do`|
+|:white_check_mark:|`sg.do`|
+|:white_check_mark:|`sh.do`|
+|:white_check_mark:|`si.do`|
+|:white_check_mark:|`sj.do`|
 |:white_check_mark:|`sk.do`|
+|:white_check_mark:|`sl.do`|
+|:white_check_mark:|`sm.do`|
+|:white_check_mark:|`sn.do`|
+|:white_check_mark:|`so.do`|
+|:white_check_mark:|`sp.do`|
+|:white_check_mark:|`sq.do`|
+|:white_check_mark:|`sr.do`|
+|:white_check_mark:|`ss.do`|
+|:white_check_mark:|`st.do`|
+|:white_check_mark:|`su.do`|
+|:white_check_mark:|`sv.do`|
+|:white_check_mark:|`sw.do`|
 |:white_check_mark:|`sx.do`|
 |:white_check_mark:|`sy.do`|
 |:white_check_mark:|`sz.do`|

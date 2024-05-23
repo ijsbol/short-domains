@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.cl`
 
-## Data last updated: 05/21/2024, 19:15:55
+## Data last updated: 05/23/2024, 17:55:32
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1026|
-|Unregistered domains|270|
+|Registered domains|986|
+|Unregistered domains|310|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|79.17%|
+|Registration rate|76.08%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -104,7 +104,7 @@
 |:white_check_mark:|`5z.cl`|
 </details>
 <details>
-<summary>19 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>18 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -119,7 +119,6 @@
 |:white_check_mark:|`6m.cl`|
 |:white_check_mark:|`6n.cl`|
 |:white_check_mark:|`6o.cl`|
-|:white_check_mark:|`6p.cl`|
 |:white_check_mark:|`6q.cl`|
 |:white_check_mark:|`6r.cl`|
 |:white_check_mark:|`6t.cl`|
@@ -145,7 +144,7 @@
 |:white_check_mark:|`7y.cl`|
 </details>
 <details>
-<summary>20 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>18 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -162,8 +161,6 @@
 |:white_check_mark:|`8p.cl`|
 |:white_check_mark:|`8q.cl`|
 |:white_check_mark:|`8r.cl`|
-|:white_check_mark:|`8s.cl`|
-|:white_check_mark:|`8t.cl`|
 |:white_check_mark:|`8u.cl`|
 |:white_check_mark:|`8v.cl`|
 |:white_check_mark:|`8w.cl`|
@@ -196,85 +193,93 @@
 |:white_check_mark:|`9z.cl`|
 </details>
 <details>
-<summary>5 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a8.cl`|
-|:white_check_mark:|`au.cl`|
-|:white_check_mark:|`av.cl`|
-|:white_check_mark:|`ay.cl`|
-|:white_check_mark:|`az.cl`|
-</details>
-<details>
-<summary>10 unregistered domains starting with <bold><code>b</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`b0.cl`|
-|:white_check_mark:|`b5.cl`|
-|:white_check_mark:|`b6.cl`|
 |:white_check_mark:|`b7.cl`|
-|:white_check_mark:|`bf.cl`|
-|:white_check_mark:|`bi.cl`|
-|:white_check_mark:|`bn.cl`|
-|:white_check_mark:|`bp.cl`|
-|:white_check_mark:|`bs.cl`|
-|:white_check_mark:|`bt.cl`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`c0.cl`|
+|:white_check_mark:|`c1.cl`|
+|:white_check_mark:|`c2.cl`|
+|:white_check_mark:|`c3.cl`|
+|:white_check_mark:|`c4.cl`|
+|:white_check_mark:|`c5.cl`|
 |:white_check_mark:|`c6.cl`|
 |:white_check_mark:|`c7.cl`|
 |:white_check_mark:|`c8.cl`|
-|:white_check_mark:|`cc.cl`|
+|:white_check_mark:|`c9.cl`|
 |:white_check_mark:|`cd.cl`|
+|:white_check_mark:|`ce.cl`|
+|:white_check_mark:|`cf.cl`|
+|:white_check_mark:|`cg.cl`|
+|:white_check_mark:|`ch.cl`|
+|:white_check_mark:|`ci.cl`|
+|:white_check_mark:|`cj.cl`|
+|:white_check_mark:|`ck.cl`|
 |:white_check_mark:|`cl.cl`|
+|:white_check_mark:|`cm.cl`|
+|:white_check_mark:|`cn.cl`|
+|:white_check_mark:|`co.cl`|
+|:white_check_mark:|`cp.cl`|
+|:white_check_mark:|`cq.cl`|
 |:white_check_mark:|`cr.cl`|
+|:white_check_mark:|`cs.cl`|
+|:white_check_mark:|`ct.cl`|
+|:white_check_mark:|`cu.cl`|
+|:white_check_mark:|`cv.cl`|
+|:white_check_mark:|`cw.cl`|
+|:white_check_mark:|`cx.cl`|
 |:white_check_mark:|`cy.cl`|
 |:white_check_mark:|`cz.cl`|
 </details>
 <details>
-<summary>8 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`d9.cl`|
+|:white_check_mark:|`da.cl`|
 |:white_check_mark:|`db.cl`|
 |:white_check_mark:|`dc.cl`|
 |:white_check_mark:|`dd.cl`|
 |:white_check_mark:|`de.cl`|
+|:white_check_mark:|`df.cl`|
+|:white_check_mark:|`dg.cl`|
 |:white_check_mark:|`dh.cl`|
+|:white_check_mark:|`di.cl`|
+|:white_check_mark:|`dj.cl`|
+|:white_check_mark:|`dk.cl`|
+|:white_check_mark:|`dl.cl`|
+|:white_check_mark:|`dm.cl`|
+|:white_check_mark:|`dn.cl`|
+|:white_check_mark:|`do.cl`|
 |:white_check_mark:|`dp.cl`|
-|:white_check_mark:|`dx.cl`|
+|:white_check_mark:|`dq.cl`|
+|:white_check_mark:|`dr.cl`|
+|:white_check_mark:|`ds.cl`|
+|:white_check_mark:|`dt.cl`|
 </details>
 <details>
-<summary>5 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`e0.cl`|
 |:white_check_mark:|`e9.cl`|
-|:white_check_mark:|`ee.cl`|
-|:white_check_mark:|`em.cl`|
-|:white_check_mark:|`ev.cl`|
 </details>
 <details>
-<summary>7 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`f0.cl`|
-|:white_check_mark:|`f1.cl`|
-|:white_check_mark:|`f2.cl`|
 |:white_check_mark:|`f6.cl`|
-|:white_check_mark:|`f9.cl`|
-|:white_check_mark:|`fe.cl`|
-|:white_check_mark:|`fj.cl`|
 </details>
 <details>
 <summary>5 unregistered domains starting with <bold><code>g</code></bold></summary>
@@ -282,36 +287,66 @@
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`g5.cl`|
-|:white_check_mark:|`gc.cl`|
-|:white_check_mark:|`gd.cl`|
-|:white_check_mark:|`gk.cl`|
-|:white_check_mark:|`gl.cl`|
+|:white_check_mark:|`g6.cl`|
+|:white_check_mark:|`g7.cl`|
+|:white_check_mark:|`g8.cl`|
+|:white_check_mark:|`g9.cl`|
 </details>
 <details>
-<summary>7 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`h0.cl`|
+|:white_check_mark:|`h1.cl`|
+|:white_check_mark:|`h2.cl`|
 |:white_check_mark:|`h3.cl`|
+|:white_check_mark:|`h4.cl`|
 |:white_check_mark:|`h5.cl`|
+|:white_check_mark:|`h6.cl`|
 |:white_check_mark:|`h7.cl`|
+|:white_check_mark:|`h8.cl`|
+|:white_check_mark:|`h9.cl`|
+|:white_check_mark:|`ha.cl`|
+|:white_check_mark:|`hb.cl`|
+|:white_check_mark:|`hc.cl`|
+|:white_check_mark:|`hd.cl`|
 |:white_check_mark:|`he.cl`|
+|:white_check_mark:|`hf.cl`|
+|:white_check_mark:|`hg.cl`|
+|:white_check_mark:|`hh.cl`|
+|:white_check_mark:|`hi.cl`|
 |:white_check_mark:|`hj.cl`|
+|:white_check_mark:|`hk.cl`|
+|:white_check_mark:|`hl.cl`|
+|:white_check_mark:|`hm.cl`|
+|:white_check_mark:|`hn.cl`|
+|:white_check_mark:|`ho.cl`|
+|:white_check_mark:|`hp.cl`|
 |:white_check_mark:|`hq.cl`|
+|:white_check_mark:|`hr.cl`|
+|:white_check_mark:|`hs.cl`|
+|:white_check_mark:|`ht.cl`|
+|:white_check_mark:|`hu.cl`|
+|:white_check_mark:|`hv.cl`|
 |:white_check_mark:|`hw.cl`|
+|:white_check_mark:|`hx.cl`|
+|:white_check_mark:|`hy.cl`|
+|:white_check_mark:|`hz.cl`|
 </details>
 <details>
-<summary>7 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`i9.cl`|
+|:white_check_mark:|`ia.cl`|
+|:white_check_mark:|`ib.cl`|
+|:white_check_mark:|`ic.cl`|
 |:white_check_mark:|`id.cl`|
 |:white_check_mark:|`ie.cl`|
+|:white_check_mark:|`if.cl`|
+|:white_check_mark:|`ig.cl`|
 |:white_check_mark:|`ih.cl`|
-|:white_check_mark:|`in.cl`|
-|:white_check_mark:|`io.cl`|
-|:white_check_mark:|`it.cl`|
 </details>
 <details>
 <summary>12 unregistered domains starting with <bold><code>j</code></bold></summary>
@@ -319,30 +354,59 @@
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`j0.cl`|
+|:white_check_mark:|`j1.cl`|
+|:white_check_mark:|`j2.cl`|
+|:white_check_mark:|`j3.cl`|
+|:white_check_mark:|`j4.cl`|
 |:white_check_mark:|`j5.cl`|
 |:white_check_mark:|`j6.cl`|
 |:white_check_mark:|`j7.cl`|
 |:white_check_mark:|`j8.cl`|
-|:white_check_mark:|`ja.cl`|
-|:white_check_mark:|`jd.cl`|
-|:white_check_mark:|`jf.cl`|
-|:white_check_mark:|`jh.cl`|
-|:white_check_mark:|`jq.cl`|
-|:white_check_mark:|`jr.cl`|
-|:white_check_mark:|`jw.cl`|
+|:white_check_mark:|`j9.cl`|
+|:white_check_mark:|`jy.cl`|
+|:white_check_mark:|`jz.cl`|
 </details>
 <details>
-<summary>7 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`k0.cl`|
+|:white_check_mark:|`k1.cl`|
 |:white_check_mark:|`k2.cl`|
 |:white_check_mark:|`k3.cl`|
 |:white_check_mark:|`k4.cl`|
+|:white_check_mark:|`k5.cl`|
 |:white_check_mark:|`k6.cl`|
+|:white_check_mark:|`k7.cl`|
+|:white_check_mark:|`k8.cl`|
+|:white_check_mark:|`k9.cl`|
+|:white_check_mark:|`ka.cl`|
+|:white_check_mark:|`kb.cl`|
+|:white_check_mark:|`kc.cl`|
+|:white_check_mark:|`kd.cl`|
+|:white_check_mark:|`ke.cl`|
+|:white_check_mark:|`kf.cl`|
+|:white_check_mark:|`kg.cl`|
+|:white_check_mark:|`kh.cl`|
+|:white_check_mark:|`ki.cl`|
+|:white_check_mark:|`kj.cl`|
+|:white_check_mark:|`kk.cl`|
 |:white_check_mark:|`kl.cl`|
+|:white_check_mark:|`km.cl`|
+|:white_check_mark:|`kn.cl`|
+|:white_check_mark:|`ko.cl`|
+|:white_check_mark:|`kp.cl`|
+|:white_check_mark:|`kq.cl`|
 |:white_check_mark:|`kr.cl`|
+|:white_check_mark:|`ks.cl`|
+|:white_check_mark:|`kt.cl`|
+|:white_check_mark:|`ku.cl`|
+|:white_check_mark:|`kv.cl`|
+|:white_check_mark:|`kw.cl`|
+|:white_check_mark:|`kx.cl`|
+|:white_check_mark:|`ky.cl`|
+|:white_check_mark:|`kz.cl`|
 </details>
 <details>
 <summary>5 unregistered domains starting with <bold><code>l</code></bold></summary>
@@ -351,88 +415,33 @@
 |--|--|
 |:white_check_mark:|`l3.cl`|
 |:white_check_mark:|`l6.cl`|
-|:white_check_mark:|`l8.cl`|
-|:white_check_mark:|`ld.cl`|
-|:white_check_mark:|`lz.cl`|
+|:white_check_mark:|`la.cl`|
+|:white_check_mark:|`lb.cl`|
+|:white_check_mark:|`lc.cl`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>3 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`m1.cl`|
-|:white_check_mark:|`m6.cl`|
-|:white_check_mark:|`m7.cl`|
-|:white_check_mark:|`m8.cl`|
-|:white_check_mark:|`md.cl`|
-|:white_check_mark:|`mk.cl`|
-|:white_check_mark:|`ml.cl`|
-|:white_check_mark:|`mq.cl`|
-|:white_check_mark:|`mv.cl`|
-|:white_check_mark:|`mx.cl`|
-|:white_check_mark:|`my.cl`|
-|:white_check_mark:|`mz.cl`|
-</details>
-<details>
-<summary>6 unregistered domains starting with <bold><code>n</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`n1.cl`|
-|:white_check_mark:|`n7.cl`|
-|:white_check_mark:|`nb.cl`|
-|:white_check_mark:|`ng.cl`|
-|:white_check_mark:|`nq.cl`|
-|:white_check_mark:|`nr.cl`|
-</details>
-<details>
-<summary>11 unregistered domains starting with <bold><code>o</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`o1.cl`|
 |:white_check_mark:|`o6.cl`|
 |:white_check_mark:|`o8.cl`|
 |:white_check_mark:|`o9.cl`|
-|:white_check_mark:|`of.cl`|
-|:white_check_mark:|`og.cl`|
-|:white_check_mark:|`op.cl`|
-|:white_check_mark:|`oq.cl`|
-|:white_check_mark:|`ot.cl`|
-|:white_check_mark:|`ow.cl`|
-|:white_check_mark:|`oy.cl`|
 </details>
 <details>
-<summary>8 unregistered domains starting with <bold><code>p</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`p2.cl`|
-|:white_check_mark:|`p3.cl`|
-|:white_check_mark:|`p7.cl`|
-|:white_check_mark:|`pn.cl`|
-|:white_check_mark:|`po.cl`|
-|:white_check_mark:|`pv.cl`|
-|:white_check_mark:|`py.cl`|
-|:white_check_mark:|`pz.cl`|
-</details>
-<details>
-<summary>3 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`q0.cl`|
 |:white_check_mark:|`q8.cl`|
-|:white_check_mark:|`qq.cl`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`r0.cl`|
-|:white_check_mark:|`rq.cl`|
-|:white_check_mark:|`rz.cl`|
 </details>
 <details>
 <summary>3 unregistered domains starting with <bold><code>s</code></bold></summary>
@@ -461,36 +470,37 @@
 |:white_check_mark:|`u9.cl`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`w0.cl`|
+|:white_check_mark:|`w1.cl`|
+|:white_check_mark:|`w2.cl`|
+|:white_check_mark:|`w3.cl`|
 |:white_check_mark:|`w4.cl`|
 |:white_check_mark:|`w5.cl`|
 |:white_check_mark:|`w6.cl`|
+|:white_check_mark:|`w7.cl`|
+|:white_check_mark:|`ws.cl`|
+|:white_check_mark:|`wt.cl`|
+|:white_check_mark:|`wu.cl`|
+|:white_check_mark:|`wv.cl`|
+|:white_check_mark:|`ww.cl`|
+|:white_check_mark:|`wx.cl`|
+|:white_check_mark:|`wy.cl`|
+|:white_check_mark:|`wz.cl`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>x</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`x5.cl`|
-</details>
-<details>
-<summary>10 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`y0.cl`|
 |:white_check_mark:|`y4.cl`|
-|:white_check_mark:|`y5.cl`|
 |:white_check_mark:|`y6.cl`|
 |:white_check_mark:|`y8.cl`|
 |:white_check_mark:|`y9.cl`|
-|:white_check_mark:|`yq.cl`|
-|:white_check_mark:|`ys.cl`|
-|:white_check_mark:|`yt.cl`|
-|:white_check_mark:|`yu.cl`|
 </details>
 <details>
 <summary>2 unregistered domains starting with <bold><code>z</code></bold></summary>

@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.vi`
 
-## Data last updated: 05/21/2024, 15:04:21
+## Data last updated: 05/23/2024, 18:07:08
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1|
+|Registered domains|1296|
 |Unregistered domains|0|
 |Premium domains|0|
 |Application only domains|0|
 |Registration rate|100%|
 |Failed lookups|0|
-|Successful lookups|1|
+|Successful lookups|1296|
 |Lookup success rate|100%|
 
 

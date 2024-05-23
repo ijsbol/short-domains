@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.lt`
 
-## Data last updated: 05/21/2024, 19:12:33
+## Data last updated: 05/23/2024, 17:56:47
 
 |Stat|Amount|
 |--|--|
-|Registered domains|219|
-|Unregistered domains|1077|
+|Registered domains|103|
+|Unregistered domains|1193|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|16.9%|
+|Registration rate|7.95%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,48 +441,23 @@
 |:white_check_mark:|`9z.lt`|
 </details>
 <details>
-<summary>8 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`ac.lt`|
-|:white_check_mark:|`ad.lt`|
-|:white_check_mark:|`ae.lt`|
-|:white_check_mark:|`af.lt`|
-|:white_check_mark:|`ag.lt`|
-|:white_check_mark:|`ah.lt`|
-|:white_check_mark:|`aj.lt`|
-|:white_check_mark:|`al.lt`|
-</details>
-<details>
-<summary>3 unregistered domains starting with <bold><code>b</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`b5.lt`|
-|:white_check_mark:|`bv.lt`|
-|:white_check_mark:|`bx.lt`|
-</details>
-<details>
-<summary>9 unregistered domains starting with <bold><code>c</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`c3.lt`|
 |:white_check_mark:|`c5.lt`|
 |:white_check_mark:|`c6.lt`|
-|:white_check_mark:|`cf.lt`|
-|:white_check_mark:|`ch.lt`|
-|:white_check_mark:|`ci.lt`|
-|:white_check_mark:|`cj.lt`|
-|:white_check_mark:|`ct.lt`|
-|:white_check_mark:|`cw.lt`|
+|:white_check_mark:|`c7.lt`|
+|:white_check_mark:|`c8.lt`|
+|:white_check_mark:|`c9.lt`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`d0.lt`|
+|:white_check_mark:|`d1.lt`|
 |:white_check_mark:|`d2.lt`|
 |:white_check_mark:|`d3.lt`|
 |:white_check_mark:|`d4.lt`|
@@ -491,10 +466,32 @@
 |:white_check_mark:|`d7.lt`|
 |:white_check_mark:|`d8.lt`|
 |:white_check_mark:|`d9.lt`|
+|:white_check_mark:|`da.lt`|
+|:white_check_mark:|`db.lt`|
+|:white_check_mark:|`dc.lt`|
+|:white_check_mark:|`dd.lt`|
+|:white_check_mark:|`de.lt`|
+|:white_check_mark:|`df.lt`|
+|:white_check_mark:|`dg.lt`|
+|:white_check_mark:|`dh.lt`|
 |:white_check_mark:|`di.lt`|
+|:white_check_mark:|`dj.lt`|
+|:white_check_mark:|`dk.lt`|
+|:white_check_mark:|`dl.lt`|
+|:white_check_mark:|`dm.lt`|
+|:white_check_mark:|`dn.lt`|
+|:white_check_mark:|`do.lt`|
+|:white_check_mark:|`dp.lt`|
+|:white_check_mark:|`dq.lt`|
 |:white_check_mark:|`dr.lt`|
+|:white_check_mark:|`ds.lt`|
 |:white_check_mark:|`dt.lt`|
+|:white_check_mark:|`du.lt`|
+|:white_check_mark:|`dv.lt`|
+|:white_check_mark:|`dw.lt`|
+|:white_check_mark:|`dx.lt`|
 |:white_check_mark:|`dy.lt`|
+|:white_check_mark:|`dz.lt`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>e</code></bold></summary>
@@ -1169,32 +1166,133 @@
 |:white_check_mark:|`tz.lt`|
 </details>
 <details>
-<summary>5 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`u0.lt`|
+|:white_check_mark:|`u1.lt`|
+|:white_check_mark:|`u2.lt`|
+|:white_check_mark:|`u3.lt`|
+|:white_check_mark:|`u4.lt`|
+|:white_check_mark:|`u5.lt`|
+|:white_check_mark:|`u6.lt`|
+|:white_check_mark:|`u7.lt`|
+|:white_check_mark:|`u8.lt`|
+|:white_check_mark:|`u9.lt`|
 |:white_check_mark:|`ua.lt`|
 |:white_check_mark:|`ub.lt`|
 |:white_check_mark:|`uc.lt`|
 |:white_check_mark:|`ud.lt`|
 |:white_check_mark:|`ue.lt`|
+|:white_check_mark:|`uf.lt`|
+|:white_check_mark:|`ug.lt`|
+|:white_check_mark:|`uh.lt`|
+|:white_check_mark:|`ui.lt`|
+|:white_check_mark:|`uj.lt`|
+|:white_check_mark:|`uk.lt`|
+|:white_check_mark:|`ul.lt`|
+|:white_check_mark:|`um.lt`|
+|:white_check_mark:|`un.lt`|
+|:white_check_mark:|`uo.lt`|
+|:white_check_mark:|`up.lt`|
+|:white_check_mark:|`uq.lt`|
+|:white_check_mark:|`ur.lt`|
+|:white_check_mark:|`us.lt`|
+|:white_check_mark:|`ut.lt`|
+|:white_check_mark:|`uu.lt`|
+|:white_check_mark:|`uv.lt`|
+|:white_check_mark:|`uw.lt`|
+|:white_check_mark:|`ux.lt`|
+|:white_check_mark:|`uy.lt`|
+|:white_check_mark:|`uz.lt`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`v0.lt`|
+|:white_check_mark:|`v1.lt`|
+|:white_check_mark:|`v2.lt`|
+|:white_check_mark:|`v3.lt`|
+|:white_check_mark:|`v4.lt`|
+|:white_check_mark:|`v5.lt`|
+|:white_check_mark:|`v6.lt`|
+|:white_check_mark:|`v7.lt`|
+|:white_check_mark:|`v8.lt`|
+|:white_check_mark:|`v9.lt`|
+|:white_check_mark:|`va.lt`|
+|:white_check_mark:|`vb.lt`|
+|:white_check_mark:|`vc.lt`|
+|:white_check_mark:|`vd.lt`|
+|:white_check_mark:|`ve.lt`|
+|:white_check_mark:|`vf.lt`|
+|:white_check_mark:|`vg.lt`|
+|:white_check_mark:|`vh.lt`|
+|:white_check_mark:|`vi.lt`|
+|:white_check_mark:|`vj.lt`|
+|:white_check_mark:|`vk.lt`|
 |:white_check_mark:|`vl.lt`|
+|:white_check_mark:|`vm.lt`|
+|:white_check_mark:|`vn.lt`|
+|:white_check_mark:|`vo.lt`|
+|:white_check_mark:|`vp.lt`|
+|:white_check_mark:|`vq.lt`|
+|:white_check_mark:|`vr.lt`|
+|:white_check_mark:|`vs.lt`|
+|:white_check_mark:|`vt.lt`|
+|:white_check_mark:|`vu.lt`|
+|:white_check_mark:|`vv.lt`|
+|:white_check_mark:|`vw.lt`|
+|:white_check_mark:|`vx.lt`|
+|:white_check_mark:|`vy.lt`|
+|:white_check_mark:|`vz.lt`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`w0.lt`|
+|:white_check_mark:|`w1.lt`|
+|:white_check_mark:|`w2.lt`|
+|:white_check_mark:|`w3.lt`|
+|:white_check_mark:|`w4.lt`|
+|:white_check_mark:|`w5.lt`|
+|:white_check_mark:|`w6.lt`|
+|:white_check_mark:|`w7.lt`|
+|:white_check_mark:|`w8.lt`|
+|:white_check_mark:|`w9.lt`|
+|:white_check_mark:|`wa.lt`|
+|:white_check_mark:|`wb.lt`|
+|:white_check_mark:|`wc.lt`|
+|:white_check_mark:|`wd.lt`|
+|:white_check_mark:|`we.lt`|
+|:white_check_mark:|`wf.lt`|
+|:white_check_mark:|`wg.lt`|
+|:white_check_mark:|`wh.lt`|
+|:white_check_mark:|`wi.lt`|
+|:white_check_mark:|`wj.lt`|
 |:white_check_mark:|`wk.lt`|
+|:white_check_mark:|`wl.lt`|
+|:white_check_mark:|`wm.lt`|
+|:white_check_mark:|`wn.lt`|
+|:white_check_mark:|`wo.lt`|
+|:white_check_mark:|`wp.lt`|
+|:white_check_mark:|`wq.lt`|
+|:white_check_mark:|`wr.lt`|
+|:white_check_mark:|`ws.lt`|
+|:white_check_mark:|`wt.lt`|
+|:white_check_mark:|`wu.lt`|
+|:white_check_mark:|`wv.lt`|
+|:white_check_mark:|`ww.lt`|
+|:white_check_mark:|`wx.lt`|
+|:white_check_mark:|`wy.lt`|
+|:white_check_mark:|`wz.lt`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1208,6 +1306,12 @@
 |:white_check_mark:|`x7.lt`|
 |:white_check_mark:|`x8.lt`|
 |:white_check_mark:|`x9.lt`|
+|:white_check_mark:|`xa.lt`|
+|:white_check_mark:|`xb.lt`|
+|:white_check_mark:|`xc.lt`|
+|:white_check_mark:|`xd.lt`|
+|:white_check_mark:|`xe.lt`|
+|:white_check_mark:|`xf.lt`|
 |:white_check_mark:|`xg.lt`|
 |:white_check_mark:|`xh.lt`|
 |:white_check_mark:|`xi.lt`|

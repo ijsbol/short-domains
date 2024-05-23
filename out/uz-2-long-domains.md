@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.uz`
 
-## Data last updated: 05/21/2024, 15:05:19
+## Data last updated: 05/23/2024, 18:19:52
 
 |Stat|Amount|
 |--|--|
-|Registered domains|0|
+|Registered domains|1295|
 |Unregistered domains|1|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.0%|
+|Registration rate|99.92%|
 |Failed lookups|0|
-|Successful lookups|1|
+|Successful lookups|1296|
 |Lookup success rate|100%|
 
 
@@ -21,9 +21,9 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>1 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`aa.uz`|
+|:white_check_mark:|`un.uz`|
 </details>

@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.za`
 
-## Data last updated: 05/21/2024, 15:30:32
+## Data last updated: 05/23/2024, 17:46:06
 
 |Stat|Amount|
 |--|--|

@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.cc`
 
-## Data last updated: 05/21/2024, 16:01:43
+## Data last updated: 05/23/2024, 18:04:09
 
 |Stat|Amount|
 |--|--|
-|Registered domains|132|
-|Unregistered domains|49|
+|Registered domains|1256|
+|Unregistered domains|40|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|72.93%|
+|Registration rate|96.91%|
 |Failed lookups|0|
-|Successful lookups|181|
+|Successful lookups|1296|
 |Lookup success rate|100%|
 
 
@@ -21,24 +21,66 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>14 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>0</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`0a.cc`|
+</details>
+<details>
+<summary>3 unregistered domains starting with <bold><code>1</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`1d.cc`|
+|:white_check_mark:|`1j.cc`|
+|:white_check_mark:|`1s.cc`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>2</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`2r.cc`|
+|:white_check_mark:|`2w.cc`|
+</details>
+<details>
+<summary>3 unregistered domains starting with <bold><code>4</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`4c.cc`|
+|:white_check_mark:|`4t.cc`|
+|:white_check_mark:|`4x.cc`|
+</details>
+<details>
+<summary>3 unregistered domains starting with <bold><code>6</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`6c.cc`|
+|:white_check_mark:|`6k.cc`|
+|:white_check_mark:|`6n.cc`|
+</details>
+<details>
+<summary>4 unregistered domains starting with <bold><code>7</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`7e.cc`|
+|:white_check_mark:|`7l.cc`|
+|:white_check_mark:|`7p.cc`|
+|:white_check_mark:|`7v.cc`|
+</details>
+<details>
+<summary>4 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`a0.cc`|
 |:white_check_mark:|`a1.cc`|
-|:white_check_mark:|`a2.cc`|
-|:white_check_mark:|`a5.cc`|
-|:white_check_mark:|`a6.cc`|
-|:white_check_mark:|`a7.cc`|
 |:white_check_mark:|`a8.cc`|
-|:white_check_mark:|`a9.cc`|
 |:white_check_mark:|`af.cc`|
-|:white_check_mark:|`ai.cc`|
-|:white_check_mark:|`aj.cc`|
-|:white_check_mark:|`am.cc`|
-|:white_check_mark:|`ar.cc`|
-|:white_check_mark:|`ax.cc`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>b</code></bold></summary>
@@ -48,54 +90,99 @@
 |:white_check_mark:|`bs.cc`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`c5.cc`|
-|:white_check_mark:|`c6.cc`|
-|:white_check_mark:|`cd.cc`|
-|:white_check_mark:|`ci.cc`|
-|:white_check_mark:|`cj.cc`|
-|:white_check_mark:|`ck.cc`|
-|:white_check_mark:|`cl.cc`|
-|:white_check_mark:|`co.cc`|
-|:white_check_mark:|`cp.cc`|
-|:white_check_mark:|`cr.cc`|
 |:white_check_mark:|`cu.cc`|
-|:white_check_mark:|`cy.cc`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`d1.cc`|
-|:white_check_mark:|`d4.cc`|
-|:white_check_mark:|`d5.cc`|
-|:white_check_mark:|`d6.cc`|
-|:white_check_mark:|`dj.cc`|
 |:white_check_mark:|`dn.cc`|
-|:white_check_mark:|`do.cc`|
 |:white_check_mark:|`dr.cc`|
-|:white_check_mark:|`ds.cc`|
-|:white_check_mark:|`dw.cc`|
-|:white_check_mark:|`dy.cc`|
-|:white_check_mark:|`dz.cc`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`e7.cc`|
-|:white_check_mark:|`e8.cc`|
-|:white_check_mark:|`ec.cc`|
-|:white_check_mark:|`ed.cc`|
-|:white_check_mark:|`eg.cc`|
-|:white_check_mark:|`ek.cc`|
-|:white_check_mark:|`eo.cc`|
-|:white_check_mark:|`et.cc`|
-|:white_check_mark:|`ew.cc`|
-|:white_check_mark:|`ey.cc`|
+|:white_check_mark:|`fl.cc`|
+|:white_check_mark:|`fp.cc`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>k</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`k6.cc`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>l</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`l9.cc`|
+|:white_check_mark:|`ld.cc`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>m</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`mx.cc`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>n</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`ny.cc`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>o</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`o9.cc`|
+|:white_check_mark:|`oq.cc`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>q</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`qu.cc`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>r</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`r3.cc`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>s</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`sa.cc`|
+|:white_check_mark:|`sc.cc`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>t</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`th.cc`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>x</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`x8.cc`|
+|:white_check_mark:|`xu.cc`|
 </details>

@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.li`
 
-## Data last updated: 05/21/2024, 19:14:00
+## Data last updated: 05/23/2024, 17:53:26
 
 |Stat|Amount|
 |--|--|

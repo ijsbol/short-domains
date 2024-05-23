@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.ci`
 
-## Data last updated: 05/21/2024, 15:04:28
+## Data last updated: 05/23/2024, 17:53:47
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1|
+|Registered domains|451|
 |Unregistered domains|0|
 |Premium domains|0|
 |Application only domains|0|
 |Registration rate|100%|
 |Failed lookups|0|
-|Successful lookups|1|
+|Successful lookups|451|
 |Lookup success rate|100%|
 
 
