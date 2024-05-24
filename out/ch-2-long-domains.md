@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.ch`
 
-## Data last updated: 05/23/2024, 17:55:47
+## Data last updated: 05/24/2024, 14:20:56
 
 |Stat|Amount|
 |--|--|

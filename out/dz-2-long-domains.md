@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.dz`
 
-## Data last updated: 05/23/2024, 21:25:07
+## Data last updated: 05/24/2024, 16:34:20
 
 |Stat|Amount|
 |--|--|

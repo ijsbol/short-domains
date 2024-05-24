@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.nf`
 
-## Data last updated: 05/23/2024, 18:42:00
+## Data last updated: 05/24/2024, 14:25:05
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1125|
-|Unregistered domains|171|
+|Registered domains|1150|
+|Unregistered domains|146|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|86.81%|
+|Registration rate|88.73%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,221 +21,322 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>20 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`00.nf`|
-|:white_check_mark:|`01.nf`|
-|:white_check_mark:|`02.nf`|
-|:white_check_mark:|`03.nf`|
-|:white_check_mark:|`04.nf`|
-|:white_check_mark:|`05.nf`|
-|:white_check_mark:|`06.nf`|
-|:white_check_mark:|`07.nf`|
-|:white_check_mark:|`08.nf`|
-|:white_check_mark:|`09.nf`|
-|:white_check_mark:|`0q.nf`|
-|:white_check_mark:|`0r.nf`|
-|:white_check_mark:|`0s.nf`|
-|:white_check_mark:|`0t.nf`|
-|:white_check_mark:|`0u.nf`|
-|:white_check_mark:|`0v.nf`|
-|:white_check_mark:|`0w.nf`|
-|:white_check_mark:|`0x.nf`|
-|:white_check_mark:|`0y.nf`|
-|:white_check_mark:|`0z.nf`|
+|:white_check_mark:|`0m.nf`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`1a.nf`|
+|:white_check_mark:|`1l.nf`|
+|:white_check_mark:|`1n.nf`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>2</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`2j.nf`|
+|:white_check_mark:|`2l.nf`|
+|:white_check_mark:|`2q.nf`|
+|:white_check_mark:|`2u.nf`|
+</details>
+<details>
+<summary>3 unregistered domains starting with <bold><code>4</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`41.nf`|
+|:white_check_mark:|`4c.nf`|
+|:white_check_mark:|`4d.nf`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`5a.nf`|
-|:white_check_mark:|`5b.nf`|
-|:white_check_mark:|`5c.nf`|
-|:white_check_mark:|`5d.nf`|
-|:white_check_mark:|`5e.nf`|
-|:white_check_mark:|`5f.nf`|
-|:white_check_mark:|`5g.nf`|
-|:white_check_mark:|`5h.nf`|
-|:white_check_mark:|`5i.nf`|
-|:white_check_mark:|`5j.nf`|
-|:white_check_mark:|`5k.nf`|
-|:white_check_mark:|`5l.nf`|
-|:white_check_mark:|`5m.nf`|
-|:white_check_mark:|`5n.nf`|
-|:white_check_mark:|`5o.nf`|
-|:white_check_mark:|`5p.nf`|
-|:white_check_mark:|`5q.nf`|
-|:white_check_mark:|`5r.nf`|
-|:white_check_mark:|`5s.nf`|
-|:white_check_mark:|`5t.nf`|
-|:white_check_mark:|`5u.nf`|
-|:white_check_mark:|`5v.nf`|
-|:white_check_mark:|`5w.nf`|
-|:white_check_mark:|`5x.nf`|
-|:white_check_mark:|`5y.nf`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>6 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`d0.nf`|
-|:white_check_mark:|`d1.nf`|
-|:white_check_mark:|`d2.nf`|
-|:white_check_mark:|`d3.nf`|
-|:white_check_mark:|`d4.nf`|
-|:white_check_mark:|`d5.nf`|
-|:white_check_mark:|`d6.nf`|
-|:white_check_mark:|`d7.nf`|
-|:white_check_mark:|`dg.nf`|
-|:white_check_mark:|`dh.nf`|
-|:white_check_mark:|`di.nf`|
-|:white_check_mark:|`dj.nf`|
-|:white_check_mark:|`dk.nf`|
-|:white_check_mark:|`dl.nf`|
-|:white_check_mark:|`dm.nf`|
-|:white_check_mark:|`dn.nf`|
-|:white_check_mark:|`do.nf`|
-|:white_check_mark:|`dp.nf`|
-|:white_check_mark:|`dq.nf`|
-|:white_check_mark:|`dr.nf`|
-|:white_check_mark:|`ds.nf`|
-|:white_check_mark:|`dt.nf`|
-|:white_check_mark:|`du.nf`|
-|:white_check_mark:|`dv.nf`|
-|:white_check_mark:|`dw.nf`|
-|:white_check_mark:|`dx.nf`|
-|:white_check_mark:|`dy.nf`|
-|:white_check_mark:|`dz.nf`|
+|:white_check_mark:|`ah.nf`|
+|:white_check_mark:|`am.nf`|
+|:white_check_mark:|`ao.nf`|
+|:white_check_mark:|`ap.nf`|
+|:white_check_mark:|`aq.nf`|
+|:white_check_mark:|`ar.nf`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>b</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`be.nf`|
+|:white_check_mark:|`bh.nf`|
+|:white_check_mark:|`bl.nf`|
+|:white_check_mark:|`bw.nf`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>c</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`cb.nf`|
+|:white_check_mark:|`ct.nf`|
+</details>
+<details>
+<summary>6 unregistered domains starting with <bold><code>d</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`db.nf`|
+|:white_check_mark:|`dc.nf`|
+|:white_check_mark:|`dg.nf`|
+|:white_check_mark:|`ds.nf`|
+|:white_check_mark:|`dv.nf`|
+|:white_check_mark:|`dw.nf`|
+</details>
+<details>
+<summary>8 unregistered domains starting with <bold><code>e</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`e4.nf`|
+|:white_check_mark:|`e6.nf`|
+|:white_check_mark:|`e8.nf`|
+|:white_check_mark:|`ed.nf`|
+|:white_check_mark:|`ee.nf`|
+|:white_check_mark:|`eg.nf`|
+|:white_check_mark:|`ei.nf`|
+|:white_check_mark:|`el.nf`|
+</details>
+<details>
+<summary>4 unregistered domains starting with <bold><code>f</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`fg.nf`|
+|:white_check_mark:|`fn.nf`|
+|:white_check_mark:|`fw.nf`|
+|:white_check_mark:|`fx.nf`|
+</details>
+<details>
+<summary>6 unregistered domains starting with <bold><code>g</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`g3.nf`|
+|:white_check_mark:|`g4.nf`|
+|:white_check_mark:|`g5.nf`|
+|:white_check_mark:|`g6.nf`|
+|:white_check_mark:|`gj.nf`|
+|:white_check_mark:|`gr.nf`|
+</details>
+<details>
+<summary>7 unregistered domains starting with <bold><code>h</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`h5.nf`|
+|:white_check_mark:|`h8.nf`|
+|:white_check_mark:|`he.nf`|
+|:white_check_mark:|`hh.nf`|
+|:white_check_mark:|`hj.nf`|
+|:white_check_mark:|`hl.nf`|
+|:white_check_mark:|`hm.nf`|
+</details>
+<details>
+<summary>10 unregistered domains starting with <bold><code>i</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`i2.nf`|
+|:white_check_mark:|`i4.nf`|
+|:white_check_mark:|`ia.nf`|
+|:white_check_mark:|`ib.nf`|
+|:white_check_mark:|`id.nf`|
+|:white_check_mark:|`if.nf`|
+|:white_check_mark:|`ig.nf`|
+|:white_check_mark:|`iq.nf`|
+|:white_check_mark:|`ir.nf`|
+|:white_check_mark:|`is.nf`|
+</details>
+<details>
+<summary>9 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`j0.nf`|
-|:white_check_mark:|`j1.nf`|
-|:white_check_mark:|`j2.nf`|
-|:white_check_mark:|`j3.nf`|
 |:white_check_mark:|`j4.nf`|
-|:white_check_mark:|`j5.nf`|
-|:white_check_mark:|`j6.nf`|
-|:white_check_mark:|`jg.nf`|
-|:white_check_mark:|`jh.nf`|
-|:white_check_mark:|`ji.nf`|
-|:white_check_mark:|`jj.nf`|
+|:white_check_mark:|`j7.nf`|
+|:white_check_mark:|`j8.nf`|
 |:white_check_mark:|`jk.nf`|
-|:white_check_mark:|`jl.nf`|
-|:white_check_mark:|`jm.nf`|
 |:white_check_mark:|`jn.nf`|
-|:white_check_mark:|`jo.nf`|
-|:white_check_mark:|`jp.nf`|
 |:white_check_mark:|`jq.nf`|
-|:white_check_mark:|`jr.nf`|
 |:white_check_mark:|`js.nf`|
 |:white_check_mark:|`jt.nf`|
-|:white_check_mark:|`ju.nf`|
-|:white_check_mark:|`jv.nf`|
-|:white_check_mark:|`jw.nf`|
-|:white_check_mark:|`jx.nf`|
-|:white_check_mark:|`jy.nf`|
-|:white_check_mark:|`jz.nf`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`ka.nf`|
+|:white_check_mark:|`kb.nf`|
+|:white_check_mark:|`ke.nf`|
+|:white_check_mark:|`kf.nf`|
+|:white_check_mark:|`kg.nf`|
+|:white_check_mark:|`kj.nf`|
+|:white_check_mark:|`ku.nf`|
+|:white_check_mark:|`kx.nf`|
+</details>
+<details>
+<summary>6 unregistered domains starting with <bold><code>l</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`l0.nf`|
+|:white_check_mark:|`l6.nf`|
+|:white_check_mark:|`ld.nf`|
+|:white_check_mark:|`lj.nf`|
+|:white_check_mark:|`ll.nf`|
+|:white_check_mark:|`lt.nf`|
+</details>
+<details>
+<summary>8 unregistered domains starting with <bold><code>m</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`m6.nf`|
+|:white_check_mark:|`mb.nf`|
+|:white_check_mark:|`mg.nf`|
+|:white_check_mark:|`mi.nf`|
+|:white_check_mark:|`mk.nf`|
+|:white_check_mark:|`mr.nf`|
+|:white_check_mark:|`mv.nf`|
+|:white_check_mark:|`mw.nf`|
+</details>
+<details>
+<summary>8 unregistered domains starting with <bold><code>n</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`n7.nf`|
+|:white_check_mark:|`n9.nf`|
+|:white_check_mark:|`nj.nf`|
+|:white_check_mark:|`nl.nf`|
+|:white_check_mark:|`nm.nf`|
+|:white_check_mark:|`nr.nf`|
+|:white_check_mark:|`nt.nf`|
+|:white_check_mark:|`nz.nf`|
+</details>
+<details>
+<summary>10 unregistered domains starting with <bold><code>o</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`o5.nf`|
 |:white_check_mark:|`oa.nf`|
-|:white_check_mark:|`ob.nf`|
-|:white_check_mark:|`oc.nf`|
-|:white_check_mark:|`od.nf`|
-|:white_check_mark:|`oe.nf`|
-|:white_check_mark:|`of.nf`|
-|:white_check_mark:|`og.nf`|
 |:white_check_mark:|`oh.nf`|
 |:white_check_mark:|`oi.nf`|
-|:white_check_mark:|`oj.nf`|
-|:white_check_mark:|`ok.nf`|
-|:white_check_mark:|`ol.nf`|
-|:white_check_mark:|`om.nf`|
-|:white_check_mark:|`on.nf`|
 |:white_check_mark:|`oo.nf`|
-|:white_check_mark:|`op.nf`|
 |:white_check_mark:|`oq.nf`|
 |:white_check_mark:|`or.nf`|
-|:white_check_mark:|`os.nf`|
 |:white_check_mark:|`ot.nf`|
 |:white_check_mark:|`ou.nf`|
-|:white_check_mark:|`ov.nf`|
-|:white_check_mark:|`ow.nf`|
-|:white_check_mark:|`ox.nf`|
 |:white_check_mark:|`oy.nf`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>p</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`p6.nf`|
+|:white_check_mark:|`p7.nf`|
+|:white_check_mark:|`pa.nf`|
+|:white_check_mark:|`pb.nf`|
+|:white_check_mark:|`pn.nf`|
+|:white_check_mark:|`pt.nf`|
+|:white_check_mark:|`pu.nf`|
+|:white_check_mark:|`pv.nf`|
+</details>
+<details>
+<summary>6 unregistered domains starting with <bold><code>q</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`qf.nf`|
+|:white_check_mark:|`qg.nf`|
+|:white_check_mark:|`qh.nf`|
+|:white_check_mark:|`qi.nf`|
+|:white_check_mark:|`qo.nf`|
+|:white_check_mark:|`qq.nf`|
+</details>
+<details>
+<summary>6 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`s0.nf`|
-|:white_check_mark:|`s1.nf`|
-|:white_check_mark:|`s2.nf`|
-|:white_check_mark:|`s3.nf`|
-|:white_check_mark:|`s4.nf`|
-|:white_check_mark:|`s5.nf`|
-|:white_check_mark:|`s6.nf`|
-|:white_check_mark:|`si.nf`|
-|:white_check_mark:|`sj.nf`|
-|:white_check_mark:|`sk.nf`|
-|:white_check_mark:|`sl.nf`|
-|:white_check_mark:|`sm.nf`|
-|:white_check_mark:|`sn.nf`|
-|:white_check_mark:|`so.nf`|
-|:white_check_mark:|`sp.nf`|
-|:white_check_mark:|`sq.nf`|
-|:white_check_mark:|`sr.nf`|
-|:white_check_mark:|`ss.nf`|
-|:white_check_mark:|`st.nf`|
-|:white_check_mark:|`su.nf`|
-|:white_check_mark:|`sv.nf`|
-|:white_check_mark:|`sw.nf`|
+|:white_check_mark:|`sa.nf`|
+|:white_check_mark:|`sb.nf`|
 |:white_check_mark:|`sx.nf`|
 |:white_check_mark:|`sy.nf`|
 |:white_check_mark:|`sz.nf`|
 </details>
 <details>
-<summary>20 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>3 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`wf.nf`|
-|:white_check_mark:|`wg.nf`|
-|:white_check_mark:|`wh.nf`|
-|:white_check_mark:|`wi.nf`|
-|:white_check_mark:|`wj.nf`|
-|:white_check_mark:|`wk.nf`|
-|:white_check_mark:|`wl.nf`|
-|:white_check_mark:|`wm.nf`|
-|:white_check_mark:|`wn.nf`|
-|:white_check_mark:|`wo.nf`|
-|:white_check_mark:|`wp.nf`|
-|:white_check_mark:|`wq.nf`|
-|:white_check_mark:|`wr.nf`|
-|:white_check_mark:|`ws.nf`|
-|:white_check_mark:|`wt.nf`|
-|:white_check_mark:|`wu.nf`|
-|:white_check_mark:|`wv.nf`|
-|:white_check_mark:|`ww.nf`|
-|:white_check_mark:|`wx.nf`|
-|:white_check_mark:|`wy.nf`|
+|:white_check_mark:|`t6.nf`|
+|:white_check_mark:|`te.nf`|
+|:white_check_mark:|`tm.nf`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>u</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`u9.nf`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>v</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`ve.nf`|
+|:white_check_mark:|`vj.nf`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>x</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`x9.nf`|
+</details>
+<details>
+<summary>3 unregistered domains starting with <bold><code>y</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`y1.nf`|
+|:white_check_mark:|`yh.nf`|
+|:white_check_mark:|`yy.nf`|
+</details>
+<details>
+<summary>3 unregistered domains starting with <bold><code>z</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`z3.nf`|
+|:white_check_mark:|`z4.nf`|
+|:white_check_mark:|`zb.nf`|
 </details>

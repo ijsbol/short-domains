@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.lb`
 
-## Data last updated: 05/23/2024, 17:55:41
+## Data last updated: 05/24/2024, 12:18:57
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1296|
+|Registered domains|1|
 |Unregistered domains|0|
 |Premium domains|0|
 |Application only domains|0|
 |Registration rate|100%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|1|
 |Lookup success rate|100%|
 
 

@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.ly`
 
-## Data last updated: 05/23/2024, 18:00:36
+## Data last updated: 05/24/2024, 14:15:02
 
 |Stat|Amount|
 |--|--|
-|Registered domains|83|
-|Unregistered domains|1213|
+|Registered domains|92|
+|Unregistered domains|1204|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|6.4%|
+|Registration rate|7.1%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,38 +441,50 @@
 |:white_check_mark:|`9z.ly`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`c0.ly`|
-|:white_check_mark:|`c1.ly`|
-|:white_check_mark:|`c2.ly`|
-|:white_check_mark:|`c3.ly`|
-|:white_check_mark:|`c4.ly`|
-|:white_check_mark:|`c5.ly`|
-|:white_check_mark:|`c6.ly`|
-|:white_check_mark:|`c7.ly`|
-|:white_check_mark:|`c8.ly`|
-|:white_check_mark:|`c9.ly`|
-|:white_check_mark:|`cl.ly`|
-|:white_check_mark:|`cm.ly`|
-|:white_check_mark:|`cn.ly`|
-|:white_check_mark:|`co.ly`|
-|:white_check_mark:|`cp.ly`|
-|:white_check_mark:|`cq.ly`|
-|:white_check_mark:|`cr.ly`|
-|:white_check_mark:|`cs.ly`|
-|:white_check_mark:|`ct.ly`|
-|:white_check_mark:|`cu.ly`|
-|:white_check_mark:|`cv.ly`|
-|:white_check_mark:|`cw.ly`|
-|:white_check_mark:|`cx.ly`|
-|:white_check_mark:|`cy.ly`|
-|:white_check_mark:|`cz.ly`|
+|:white_check_mark:|`a0.ly`|
+|:white_check_mark:|`a7.ly`|
+|:white_check_mark:|`ae.ly`|
+|:white_check_mark:|`af.ly`|
+|:white_check_mark:|`ah.ly`|
+|:white_check_mark:|`ai.ly`|
+|:white_check_mark:|`ak.ly`|
+|:white_check_mark:|`al.ly`|
+|:white_check_mark:|`an.ly`|
+|:white_check_mark:|`ap.ly`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>b</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`b0.ly`|
+|:white_check_mark:|`b1.ly`|
+|:white_check_mark:|`b2.ly`|
+|:white_check_mark:|`b5.ly`|
+|:white_check_mark:|`bm.ly`|
+|:white_check_mark:|`bn.ly`|
+|:white_check_mark:|`by.ly`|
+|:white_check_mark:|`bz.ly`|
+</details>
+<details>
+<summary>7 unregistered domains starting with <bold><code>c</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`c6.ly`|
+|:white_check_mark:|`cd.ly`|
+|:white_check_mark:|`cf.ly`|
+|:white_check_mark:|`cr.ly`|
+|:white_check_mark:|`ct.ly`|
+|:white_check_mark:|`cw.ly`|
+|:white_check_mark:|`cx.ly`|
+</details>
+<details>
+<summary>27 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -486,17 +498,8 @@
 |:white_check_mark:|`d7.ly`|
 |:white_check_mark:|`d8.ly`|
 |:white_check_mark:|`d9.ly`|
-|:white_check_mark:|`da.ly`|
-|:white_check_mark:|`db.ly`|
-|:white_check_mark:|`dc.ly`|
-|:white_check_mark:|`dd.ly`|
-|:white_check_mark:|`de.ly`|
 |:white_check_mark:|`df.ly`|
 |:white_check_mark:|`dg.ly`|
-|:white_check_mark:|`dh.ly`|
-|:white_check_mark:|`di.ly`|
-|:white_check_mark:|`dj.ly`|
-|:white_check_mark:|`dk.ly`|
 |:white_check_mark:|`dl.ly`|
 |:white_check_mark:|`dm.ly`|
 |:white_check_mark:|`dn.ly`|

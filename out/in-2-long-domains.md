@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.in`
 
-## Data last updated: 05/23/2024, 18:00:01
+## Data last updated: 05/24/2024, 14:20:18
 
 |Stat|Amount|
 |--|--|

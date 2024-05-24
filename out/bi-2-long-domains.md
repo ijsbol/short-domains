@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.bi`
 
-## Data last updated: 05/23/2024, 18:02:09
+## Data last updated: 05/24/2024, 14:20:26
 
 |Stat|Amount|
 |--|--|
@@ -441,19 +441,49 @@
 |:white_check_mark:|`9z.bi`|
 </details>
 <details>
-<summary>6 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>6 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`c4.bi`|
-|:white_check_mark:|`c5.bi`|
-|:white_check_mark:|`c6.bi`|
-|:white_check_mark:|`c7.bi`|
-|:white_check_mark:|`c8.bi`|
-|:white_check_mark:|`c9.bi`|
+|:white_check_mark:|`ad.bi`|
+|:white_check_mark:|`ai.bi`|
+|:white_check_mark:|`ap.bi`|
+|:white_check_mark:|`ar.bi`|
+|:white_check_mark:|`aw.bi`|
+|:white_check_mark:|`az.bi`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>9 unregistered domains starting with <bold><code>b</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`b0.bi`|
+|:white_check_mark:|`b1.bi`|
+|:white_check_mark:|`b2.bi`|
+|:white_check_mark:|`b4.bi`|
+|:white_check_mark:|`ba.bi`|
+|:white_check_mark:|`bf.bi`|
+|:white_check_mark:|`bi.bi`|
+|:white_check_mark:|`bk.bi`|
+|:white_check_mark:|`bm.bi`|
+</details>
+<details>
+<summary>9 unregistered domains starting with <bold><code>c</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`c3.bi`|
+|:white_check_mark:|`c5.bi`|
+|:white_check_mark:|`ca.bi`|
+|:white_check_mark:|`cf.bi`|
+|:white_check_mark:|`co.bi`|
+|:white_check_mark:|`cp.bi`|
+|:white_check_mark:|`cr.bi`|
+|:white_check_mark:|`ct.bi`|
+|:white_check_mark:|`cw.bi`|
+</details>
+<details>
+<summary>18 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -467,28 +497,10 @@
 |:white_check_mark:|`d7.bi`|
 |:white_check_mark:|`d8.bi`|
 |:white_check_mark:|`d9.bi`|
-|:white_check_mark:|`da.bi`|
-|:white_check_mark:|`db.bi`|
-|:white_check_mark:|`dc.bi`|
-|:white_check_mark:|`dd.bi`|
-|:white_check_mark:|`de.bi`|
 |:white_check_mark:|`df.bi`|
 |:white_check_mark:|`dg.bi`|
-|:white_check_mark:|`dh.bi`|
-|:white_check_mark:|`di.bi`|
-|:white_check_mark:|`dj.bi`|
-|:white_check_mark:|`dk.bi`|
-|:white_check_mark:|`dl.bi`|
 |:white_check_mark:|`dm.bi`|
-|:white_check_mark:|`dn.bi`|
-|:white_check_mark:|`do.bi`|
-|:white_check_mark:|`dp.bi`|
-|:white_check_mark:|`dq.bi`|
-|:white_check_mark:|`dr.bi`|
-|:white_check_mark:|`ds.bi`|
 |:white_check_mark:|`dt.bi`|
-|:white_check_mark:|`du.bi`|
-|:white_check_mark:|`dv.bi`|
 |:white_check_mark:|`dw.bi`|
 |:white_check_mark:|`dx.bi`|
 |:white_check_mark:|`dy.bi`|

@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.hu`
 
-## Data last updated: 05/23/2024, 18:12:51
+## Data last updated: 05/24/2024, 14:26:36
 
 |Stat|Amount|
 |--|--|

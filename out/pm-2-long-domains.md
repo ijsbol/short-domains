@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.pm`
 
-## Data last updated: 05/23/2024, 19:43:23
+## Data last updated: 05/24/2024, 14:17:14
 
 |Stat|Amount|
 |--|--|

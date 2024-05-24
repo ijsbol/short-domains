@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.mn`
 
-## Data last updated: 05/23/2024, 19:41:56
+## Data last updated: 05/24/2024, 14:23:04
 
 |Stat|Amount|
 |--|--|
-|Registered domains|5|
-|Unregistered domains|1291|
+|Registered domains|62|
+|Unregistered domains|1234|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.39%|
+|Registration rate|4.78%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,11 +21,10 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>36 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`00.mn`|
 |:white_check_mark:|`01.mn`|
 |:white_check_mark:|`02.mn`|
 |:white_check_mark:|`03.mn`|
@@ -147,7 +146,7 @@
 |:white_check_mark:|`2z.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -173,7 +172,6 @@
 |:white_check_mark:|`3j.mn`|
 |:white_check_mark:|`3k.mn`|
 |:white_check_mark:|`3l.mn`|
-|:white_check_mark:|`3m.mn`|
 |:white_check_mark:|`3n.mn`|
 |:white_check_mark:|`3o.mn`|
 |:white_check_mark:|`3p.mn`|
@@ -441,7 +439,7 @@
 |:white_check_mark:|`9z.mn`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -465,20 +463,17 @@
 |:white_check_mark:|`al.mn`|
 |:white_check_mark:|`an.mn`|
 |:white_check_mark:|`ao.mn`|
-|:white_check_mark:|`ap.mn`|
 |:white_check_mark:|`aq.mn`|
 |:white_check_mark:|`ar.mn`|
 |:white_check_mark:|`as.mn`|
 |:white_check_mark:|`at.mn`|
 |:white_check_mark:|`au.mn`|
-|:white_check_mark:|`av.mn`|
 |:white_check_mark:|`aw.mn`|
 |:white_check_mark:|`ax.mn`|
 |:white_check_mark:|`ay.mn`|
-|:white_check_mark:|`az.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -517,10 +512,9 @@
 |:white_check_mark:|`bw.mn`|
 |:white_check_mark:|`bx.mn`|
 |:white_check_mark:|`by.mn`|
-|:white_check_mark:|`bz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -548,7 +542,6 @@
 |:white_check_mark:|`cl.mn`|
 |:white_check_mark:|`cm.mn`|
 |:white_check_mark:|`cn.mn`|
-|:white_check_mark:|`co.mn`|
 |:white_check_mark:|`cp.mn`|
 |:white_check_mark:|`cq.mn`|
 |:white_check_mark:|`cr.mn`|
@@ -562,7 +555,7 @@
 |:white_check_mark:|`cz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -580,7 +573,6 @@
 |:white_check_mark:|`db.mn`|
 |:white_check_mark:|`dc.mn`|
 |:white_check_mark:|`dd.mn`|
-|:white_check_mark:|`de.mn`|
 |:white_check_mark:|`df.mn`|
 |:white_check_mark:|`dg.mn`|
 |:white_check_mark:|`dh.mn`|
@@ -593,7 +585,6 @@
 |:white_check_mark:|`do.mn`|
 |:white_check_mark:|`dp.mn`|
 |:white_check_mark:|`dq.mn`|
-|:white_check_mark:|`dr.mn`|
 |:white_check_mark:|`ds.mn`|
 |:white_check_mark:|`dt.mn`|
 |:white_check_mark:|`du.mn`|
@@ -604,7 +595,7 @@
 |:white_check_mark:|`dz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -619,14 +610,11 @@
 |:white_check_mark:|`e8.mn`|
 |:white_check_mark:|`e9.mn`|
 |:white_check_mark:|`ea.mn`|
-|:white_check_mark:|`eb.mn`|
 |:white_check_mark:|`ec.mn`|
 |:white_check_mark:|`ed.mn`|
 |:white_check_mark:|`ee.mn`|
-|:white_check_mark:|`ef.mn`|
 |:white_check_mark:|`eg.mn`|
 |:white_check_mark:|`eh.mn`|
-|:white_check_mark:|`ei.mn`|
 |:white_check_mark:|`ej.mn`|
 |:white_check_mark:|`ek.mn`|
 |:white_check_mark:|`el.mn`|
@@ -643,10 +631,9 @@
 |:white_check_mark:|`ew.mn`|
 |:white_check_mark:|`ex.mn`|
 |:white_check_mark:|`ey.mn`|
-|:white_check_mark:|`ez.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -661,7 +648,6 @@
 |:white_check_mark:|`f8.mn`|
 |:white_check_mark:|`f9.mn`|
 |:white_check_mark:|`fa.mn`|
-|:white_check_mark:|`fb.mn`|
 |:white_check_mark:|`fc.mn`|
 |:white_check_mark:|`fd.mn`|
 |:white_check_mark:|`fe.mn`|
@@ -688,7 +674,7 @@
 |:white_check_mark:|`fz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -716,9 +702,7 @@
 |:white_check_mark:|`gl.mn`|
 |:white_check_mark:|`gm.mn`|
 |:white_check_mark:|`gn.mn`|
-|:white_check_mark:|`go.mn`|
 |:white_check_mark:|`gp.mn`|
-|:white_check_mark:|`gq.mn`|
 |:white_check_mark:|`gr.mn`|
 |:white_check_mark:|`gs.mn`|
 |:white_check_mark:|`gt.mn`|
@@ -730,7 +714,7 @@
 |:white_check_mark:|`gz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -752,7 +736,6 @@
 |:white_check_mark:|`hf.mn`|
 |:white_check_mark:|`hg.mn`|
 |:white_check_mark:|`hh.mn`|
-|:white_check_mark:|`hi.mn`|
 |:white_check_mark:|`hj.mn`|
 |:white_check_mark:|`hk.mn`|
 |:white_check_mark:|`hl.mn`|
@@ -772,7 +755,7 @@
 |:white_check_mark:|`hz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -788,8 +771,6 @@
 |:white_check_mark:|`i9.mn`|
 |:white_check_mark:|`ia.mn`|
 |:white_check_mark:|`ib.mn`|
-|:white_check_mark:|`ic.mn`|
-|:white_check_mark:|`id.mn`|
 |:white_check_mark:|`ie.mn`|
 |:white_check_mark:|`if.mn`|
 |:white_check_mark:|`ig.mn`|
@@ -799,7 +780,6 @@
 |:white_check_mark:|`ik.mn`|
 |:white_check_mark:|`il.mn`|
 |:white_check_mark:|`im.mn`|
-|:white_check_mark:|`in.mn`|
 |:white_check_mark:|`io.mn`|
 |:white_check_mark:|`ip.mn`|
 |:white_check_mark:|`iq.mn`|
@@ -856,7 +836,7 @@
 |:white_check_mark:|`jz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -889,7 +869,6 @@
 |:white_check_mark:|`kq.mn`|
 |:white_check_mark:|`kr.mn`|
 |:white_check_mark:|`ks.mn`|
-|:white_check_mark:|`kt.mn`|
 |:white_check_mark:|`ku.mn`|
 |:white_check_mark:|`kv.mn`|
 |:white_check_mark:|`kw.mn`|
@@ -898,7 +877,7 @@
 |:white_check_mark:|`kz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -920,11 +899,9 @@
 |:white_check_mark:|`lf.mn`|
 |:white_check_mark:|`lg.mn`|
 |:white_check_mark:|`lh.mn`|
-|:white_check_mark:|`li.mn`|
 |:white_check_mark:|`lj.mn`|
 |:white_check_mark:|`lk.mn`|
 |:white_check_mark:|`ll.mn`|
-|:white_check_mark:|`lm.mn`|
 |:white_check_mark:|`ln.mn`|
 |:white_check_mark:|`lo.mn`|
 |:white_check_mark:|`lp.mn`|
@@ -940,7 +917,7 @@
 |:white_check_mark:|`lz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -958,7 +935,6 @@
 |:white_check_mark:|`mb.mn`|
 |:white_check_mark:|`mc.mn`|
 |:white_check_mark:|`md.mn`|
-|:white_check_mark:|`me.mn`|
 |:white_check_mark:|`mf.mn`|
 |:white_check_mark:|`mg.mn`|
 |:white_check_mark:|`mh.mn`|
@@ -966,8 +942,6 @@
 |:white_check_mark:|`mj.mn`|
 |:white_check_mark:|`mk.mn`|
 |:white_check_mark:|`ml.mn`|
-|:white_check_mark:|`mm.mn`|
-|:white_check_mark:|`mn.mn`|
 |:white_check_mark:|`mo.mn`|
 |:white_check_mark:|`mp.mn`|
 |:white_check_mark:|`mq.mn`|
@@ -976,13 +950,12 @@
 |:white_check_mark:|`mt.mn`|
 |:white_check_mark:|`mu.mn`|
 |:white_check_mark:|`mv.mn`|
-|:white_check_mark:|`mw.mn`|
 |:white_check_mark:|`mx.mn`|
 |:white_check_mark:|`my.mn`|
 |:white_check_mark:|`mz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1000,7 +973,6 @@
 |:white_check_mark:|`nb.mn`|
 |:white_check_mark:|`nc.mn`|
 |:white_check_mark:|`nd.mn`|
-|:white_check_mark:|`ne.mn`|
 |:white_check_mark:|`nf.mn`|
 |:white_check_mark:|`ng.mn`|
 |:white_check_mark:|`nh.mn`|
@@ -1008,9 +980,7 @@
 |:white_check_mark:|`nj.mn`|
 |:white_check_mark:|`nk.mn`|
 |:white_check_mark:|`nl.mn`|
-|:white_check_mark:|`nm.mn`|
 |:white_check_mark:|`nn.mn`|
-|:white_check_mark:|`no.mn`|
 |:white_check_mark:|`np.mn`|
 |:white_check_mark:|`nq.mn`|
 |:white_check_mark:|`nr.mn`|
@@ -1024,7 +994,7 @@
 |:white_check_mark:|`nz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1048,16 +1018,12 @@
 |:white_check_mark:|`oh.mn`|
 |:white_check_mark:|`oi.mn`|
 |:white_check_mark:|`oj.mn`|
-|:white_check_mark:|`ok.mn`|
 |:white_check_mark:|`ol.mn`|
 |:white_check_mark:|`om.mn`|
-|:white_check_mark:|`on.mn`|
 |:white_check_mark:|`oo.mn`|
 |:white_check_mark:|`op.mn`|
 |:white_check_mark:|`oq.mn`|
-|:white_check_mark:|`or.mn`|
 |:white_check_mark:|`os.mn`|
-|:white_check_mark:|`ot.mn`|
 |:white_check_mark:|`ou.mn`|
 |:white_check_mark:|`ov.mn`|
 |:white_check_mark:|`ow.mn`|
@@ -1108,7 +1074,7 @@
 |:white_check_mark:|`pz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1139,7 +1105,6 @@
 |:white_check_mark:|`qo.mn`|
 |:white_check_mark:|`qp.mn`|
 |:white_check_mark:|`qq.mn`|
-|:white_check_mark:|`qr.mn`|
 |:white_check_mark:|`qs.mn`|
 |:white_check_mark:|`qt.mn`|
 |:white_check_mark:|`qu.mn`|
@@ -1150,7 +1115,7 @@
 |:white_check_mark:|`qz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1187,12 +1152,11 @@
 |:white_check_mark:|`ru.mn`|
 |:white_check_mark:|`rv.mn`|
 |:white_check_mark:|`rw.mn`|
-|:white_check_mark:|`rx.mn`|
 |:white_check_mark:|`ry.mn`|
 |:white_check_mark:|`rz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1212,7 +1176,6 @@
 |:white_check_mark:|`sd.mn`|
 |:white_check_mark:|`se.mn`|
 |:white_check_mark:|`sf.mn`|
-|:white_check_mark:|`sg.mn`|
 |:white_check_mark:|`sh.mn`|
 |:white_check_mark:|`si.mn`|
 |:white_check_mark:|`sj.mn`|
@@ -1223,7 +1186,6 @@
 |:white_check_mark:|`so.mn`|
 |:white_check_mark:|`sp.mn`|
 |:white_check_mark:|`sq.mn`|
-|:white_check_mark:|`sr.mn`|
 |:white_check_mark:|`ss.mn`|
 |:white_check_mark:|`st.mn`|
 |:white_check_mark:|`su.mn`|
@@ -1234,7 +1196,7 @@
 |:white_check_mark:|`sz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1248,35 +1210,29 @@
 |:white_check_mark:|`t7.mn`|
 |:white_check_mark:|`t8.mn`|
 |:white_check_mark:|`t9.mn`|
-|:white_check_mark:|`ta.mn`|
 |:white_check_mark:|`tb.mn`|
 |:white_check_mark:|`tc.mn`|
 |:white_check_mark:|`td.mn`|
 |:white_check_mark:|`te.mn`|
 |:white_check_mark:|`tf.mn`|
-|:white_check_mark:|`tg.mn`|
 |:white_check_mark:|`th.mn`|
-|:white_check_mark:|`ti.mn`|
 |:white_check_mark:|`tj.mn`|
 |:white_check_mark:|`tk.mn`|
 |:white_check_mark:|`tl.mn`|
 |:white_check_mark:|`tm.mn`|
 |:white_check_mark:|`tn.mn`|
-|:white_check_mark:|`to.mn`|
 |:white_check_mark:|`tp.mn`|
 |:white_check_mark:|`tq.mn`|
 |:white_check_mark:|`tr.mn`|
 |:white_check_mark:|`ts.mn`|
-|:white_check_mark:|`tt.mn`|
 |:white_check_mark:|`tu.mn`|
 |:white_check_mark:|`tv.mn`|
 |:white_check_mark:|`tw.mn`|
 |:white_check_mark:|`tx.mn`|
 |:white_check_mark:|`ty.mn`|
-|:white_check_mark:|`tz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1291,12 +1247,10 @@
 |:white_check_mark:|`u8.mn`|
 |:white_check_mark:|`u9.mn`|
 |:white_check_mark:|`ua.mn`|
-|:white_check_mark:|`ub.mn`|
 |:white_check_mark:|`uc.mn`|
 |:white_check_mark:|`ud.mn`|
 |:white_check_mark:|`ue.mn`|
 |:white_check_mark:|`uf.mn`|
-|:white_check_mark:|`ug.mn`|
 |:white_check_mark:|`uh.mn`|
 |:white_check_mark:|`ui.mn`|
 |:white_check_mark:|`uj.mn`|
@@ -1315,10 +1269,9 @@
 |:white_check_mark:|`uw.mn`|
 |:white_check_mark:|`ux.mn`|
 |:white_check_mark:|`uy.mn`|
-|:white_check_mark:|`uz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1347,20 +1300,18 @@
 |:white_check_mark:|`vm.mn`|
 |:white_check_mark:|`vn.mn`|
 |:white_check_mark:|`vo.mn`|
-|:white_check_mark:|`vp.mn`|
 |:white_check_mark:|`vq.mn`|
 |:white_check_mark:|`vr.mn`|
 |:white_check_mark:|`vs.mn`|
 |:white_check_mark:|`vt.mn`|
 |:white_check_mark:|`vu.mn`|
 |:white_check_mark:|`vv.mn`|
-|:white_check_mark:|`vw.mn`|
 |:white_check_mark:|`vx.mn`|
 |:white_check_mark:|`vy.mn`|
 |:white_check_mark:|`vz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1374,11 +1325,9 @@
 |:white_check_mark:|`w7.mn`|
 |:white_check_mark:|`w8.mn`|
 |:white_check_mark:|`w9.mn`|
-|:white_check_mark:|`wa.mn`|
 |:white_check_mark:|`wb.mn`|
 |:white_check_mark:|`wc.mn`|
 |:white_check_mark:|`wd.mn`|
-|:white_check_mark:|`we.mn`|
 |:white_check_mark:|`wf.mn`|
 |:white_check_mark:|`wg.mn`|
 |:white_check_mark:|`wh.mn`|
@@ -1392,7 +1341,6 @@
 |:white_check_mark:|`wp.mn`|
 |:white_check_mark:|`wq.mn`|
 |:white_check_mark:|`wr.mn`|
-|:white_check_mark:|`ws.mn`|
 |:white_check_mark:|`wt.mn`|
 |:white_check_mark:|`wu.mn`|
 |:white_check_mark:|`wv.mn`|
@@ -1402,7 +1350,7 @@
 |:white_check_mark:|`wz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1431,7 +1379,6 @@
 |:white_check_mark:|`xm.mn`|
 |:white_check_mark:|`xn.mn`|
 |:white_check_mark:|`xo.mn`|
-|:white_check_mark:|`xp.mn`|
 |:white_check_mark:|`xq.mn`|
 |:white_check_mark:|`xr.mn`|
 |:white_check_mark:|`xs.mn`|
@@ -1439,12 +1386,11 @@
 |:white_check_mark:|`xu.mn`|
 |:white_check_mark:|`xv.mn`|
 |:white_check_mark:|`xw.mn`|
-|:white_check_mark:|`xx.mn`|
 |:white_check_mark:|`xy.mn`|
 |:white_check_mark:|`xz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1473,11 +1419,9 @@
 |:white_check_mark:|`ym.mn`|
 |:white_check_mark:|`yn.mn`|
 |:white_check_mark:|`yo.mn`|
-|:white_check_mark:|`yp.mn`|
 |:white_check_mark:|`yq.mn`|
 |:white_check_mark:|`yr.mn`|
 |:white_check_mark:|`ys.mn`|
-|:white_check_mark:|`yt.mn`|
 |:white_check_mark:|`yu.mn`|
 |:white_check_mark:|`yv.mn`|
 |:white_check_mark:|`yw.mn`|
@@ -1486,7 +1430,7 @@
 |:white_check_mark:|`yz.mn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>z</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>z</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1500,7 +1444,6 @@
 |:white_check_mark:|`z7.mn`|
 |:white_check_mark:|`z8.mn`|
 |:white_check_mark:|`z9.mn`|
-|:white_check_mark:|`za.mn`|
 |:white_check_mark:|`zb.mn`|
 |:white_check_mark:|`zc.mn`|
 |:white_check_mark:|`zd.mn`|

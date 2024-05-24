@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.td`
 
-## Data last updated: 05/23/2024, 17:52:10
+## Data last updated: 05/24/2024, 14:55:07
 
 |Stat|Amount|
 |--|--|

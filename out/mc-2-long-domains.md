@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.mc`
 
-## Data last updated: 05/23/2024, 17:48:48
+## Data last updated: 05/24/2024, 13:46:23
 
 |Stat|Amount|
 |--|--|

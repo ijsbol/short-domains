@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.tn`
 
-## Data last updated: 05/23/2024, 17:58:01
+## Data last updated: 05/24/2024, 13:34:28
 
 |Stat|Amount|
 |--|--|
-|Registered domains|672|
-|Unregistered domains|624|
+|Registered domains|522|
+|Unregistered domains|774|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|51.85%|
+|Registration rate|40.28%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -57,10 +57,11 @@
 |:white_check_mark:|`0z.tn`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`12.tn`|
 |:white_check_mark:|`16.tn`|
 |:white_check_mark:|`1a.tn`|
 |:white_check_mark:|`1b.tn`|
@@ -73,6 +74,7 @@
 |:white_check_mark:|`1j.tn`|
 |:white_check_mark:|`1k.tn`|
 |:white_check_mark:|`1l.tn`|
+|:white_check_mark:|`1m.tn`|
 |:white_check_mark:|`1n.tn`|
 |:white_check_mark:|`1o.tn`|
 |:white_check_mark:|`1p.tn`|
@@ -87,12 +89,14 @@
 |:white_check_mark:|`1z.tn`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>25 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`20.tn`|
+|:white_check_mark:|`22.tn`|
 |:white_check_mark:|`29.tn`|
+|:white_check_mark:|`2b.tn`|
 |:white_check_mark:|`2c.tn`|
 |:white_check_mark:|`2d.tn`|
 |:white_check_mark:|`2e.tn`|
@@ -100,6 +104,7 @@
 |:white_check_mark:|`2h.tn`|
 |:white_check_mark:|`2i.tn`|
 |:white_check_mark:|`2j.tn`|
+|:white_check_mark:|`2k.tn`|
 |:white_check_mark:|`2l.tn`|
 |:white_check_mark:|`2m.tn`|
 |:white_check_mark:|`2o.tn`|
@@ -115,7 +120,7 @@
 |:white_check_mark:|`2z.tn`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -135,7 +140,9 @@
 |:white_check_mark:|`3l.tn`|
 |:white_check_mark:|`3n.tn`|
 |:white_check_mark:|`3o.tn`|
+|:white_check_mark:|`3p.tn`|
 |:white_check_mark:|`3q.tn`|
+|:white_check_mark:|`3s.tn`|
 |:white_check_mark:|`3u.tn`|
 |:white_check_mark:|`3v.tn`|
 |:white_check_mark:|`3x.tn`|
@@ -143,7 +150,7 @@
 |:white_check_mark:|`3z.tn`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>4</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>4</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -151,11 +158,14 @@
 |:white_check_mark:|`41.tn`|
 |:white_check_mark:|`42.tn`|
 |:white_check_mark:|`43.tn`|
+|:white_check_mark:|`44.tn`|
+|:white_check_mark:|`45.tn`|
 |:white_check_mark:|`46.tn`|
 |:white_check_mark:|`47.tn`|
 |:white_check_mark:|`48.tn`|
 |:white_check_mark:|`49.tn`|
 |:white_check_mark:|`4b.tn`|
+|:white_check_mark:|`4d.tn`|
 |:white_check_mark:|`4e.tn`|
 |:white_check_mark:|`4f.tn`|
 |:white_check_mark:|`4h.tn`|
@@ -216,7 +226,7 @@
 |:white_check_mark:|`5z.tn`|
 </details>
 <details>
-<summary>33 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -225,6 +235,7 @@
 |:white_check_mark:|`62.tn`|
 |:white_check_mark:|`63.tn`|
 |:white_check_mark:|`65.tn`|
+|:white_check_mark:|`66.tn`|
 |:white_check_mark:|`67.tn`|
 |:white_check_mark:|`68.tn`|
 |:white_check_mark:|`6a.tn`|
@@ -296,7 +307,7 @@
 |:white_check_mark:|`7z.tn`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -307,6 +318,7 @@
 |:white_check_mark:|`84.tn`|
 |:white_check_mark:|`85.tn`|
 |:white_check_mark:|`87.tn`|
+|:white_check_mark:|`88.tn`|
 |:white_check_mark:|`89.tn`|
 |:white_check_mark:|`8a.tn`|
 |:white_check_mark:|`8b.tn`|
@@ -373,22 +385,37 @@
 |:white_check_mark:|`9z.tn`|
 </details>
 <details>
-<summary>9 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`a0.tn`|
 |:white_check_mark:|`a1.tn`|
+|:white_check_mark:|`a2.tn`|
 |:white_check_mark:|`a3.tn`|
 |:white_check_mark:|`a5.tn`|
 |:white_check_mark:|`a6.tn`|
 |:white_check_mark:|`a7.tn`|
 |:white_check_mark:|`a8.tn`|
 |:white_check_mark:|`a9.tn`|
+|:white_check_mark:|`ad.tn`|
+|:white_check_mark:|`ae.tn`|
+|:white_check_mark:|`af.tn`|
+|:white_check_mark:|`ag.tn`|
 |:white_check_mark:|`ah.tn`|
+|:white_check_mark:|`aj.tn`|
+|:white_check_mark:|`am.tn`|
+|:white_check_mark:|`ao.tn`|
+|:white_check_mark:|`ap.tn`|
+|:white_check_mark:|`aq.tn`|
+|:white_check_mark:|`as.tn`|
+|:white_check_mark:|`at.tn`|
+|:white_check_mark:|`au.tn`|
+|:white_check_mark:|`av.tn`|
+|:white_check_mark:|`ax.tn`|
 </details>
 <details>
-<summary>9 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>17 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -401,9 +428,17 @@
 |:white_check_mark:|`b7.tn`|
 |:white_check_mark:|`b8.tn`|
 |:white_check_mark:|`b9.tn`|
+|:white_check_mark:|`bd.tn`|
+|:white_check_mark:|`be.tn`|
+|:white_check_mark:|`bg.tn`|
+|:white_check_mark:|`bk.tn`|
+|:white_check_mark:|`bt.tn`|
+|:white_check_mark:|`bu.tn`|
+|:white_check_mark:|`bv.tn`|
+|:white_check_mark:|`by.tn`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -417,12 +452,18 @@
 |:white_check_mark:|`c7.tn`|
 |:white_check_mark:|`c8.tn`|
 |:white_check_mark:|`c9.tn`|
+|:white_check_mark:|`ca.tn`|
+|:white_check_mark:|`cf.tn`|
+|:white_check_mark:|`ch.tn`|
+|:white_check_mark:|`ci.tn`|
+|:white_check_mark:|`cj.tn`|
 |:white_check_mark:|`ck.tn`|
+|:white_check_mark:|`co.tn`|
 |:white_check_mark:|`cq.tn`|
 |:white_check_mark:|`cz.tn`|
 </details>
 <details>
-<summary>16 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -436,15 +477,21 @@
 |:white_check_mark:|`d7.tn`|
 |:white_check_mark:|`d8.tn`|
 |:white_check_mark:|`d9.tn`|
+|:white_check_mark:|`dc.tn`|
+|:white_check_mark:|`df.tn`|
 |:white_check_mark:|`dg.tn`|
 |:white_check_mark:|`dh.tn`|
 |:white_check_mark:|`di.tn`|
+|:white_check_mark:|`dl.tn`|
 |:white_check_mark:|`dp.tn`|
+|:white_check_mark:|`dr.tn`|
+|:white_check_mark:|`dv.tn`|
 |:white_check_mark:|`dx.tn`|
+|:white_check_mark:|`dy.tn`|
 |:white_check_mark:|`dz.tn`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -455,15 +502,22 @@
 |:white_check_mark:|`e4.tn`|
 |:white_check_mark:|`e5.tn`|
 |:white_check_mark:|`e6.tn`|
+|:white_check_mark:|`e7.tn`|
 |:white_check_mark:|`e8.tn`|
 |:white_check_mark:|`e9.tn`|
 |:white_check_mark:|`ec.tn`|
+|:white_check_mark:|`ed.tn`|
+|:white_check_mark:|`ef.tn`|
 |:white_check_mark:|`eh.tn`|
 |:white_check_mark:|`ej.tn`|
 |:white_check_mark:|`em.tn`|
+|:white_check_mark:|`eo.tn`|
+|:white_check_mark:|`eq.tn`|
+|:white_check_mark:|`er.tn`|
+|:white_check_mark:|`es.tn`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -475,13 +529,23 @@
 |:white_check_mark:|`f7.tn`|
 |:white_check_mark:|`f8.tn`|
 |:white_check_mark:|`f9.tn`|
+|:white_check_mark:|`fb.tn`|
+|:white_check_mark:|`fc.tn`|
+|:white_check_mark:|`fd.tn`|
+|:white_check_mark:|`fe.tn`|
+|:white_check_mark:|`ff.tn`|
+|:white_check_mark:|`fk.tn`|
+|:white_check_mark:|`fo.tn`|
+|:white_check_mark:|`fp.tn`|
 |:white_check_mark:|`fq.tn`|
 |:white_check_mark:|`fs.tn`|
 |:white_check_mark:|`ft.tn`|
+|:white_check_mark:|`fu.tn`|
+|:white_check_mark:|`fv.tn`|
 |:white_check_mark:|`fz.tn`|
 </details>
 <details>
-<summary>9 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -494,9 +558,11 @@
 |:white_check_mark:|`g7.tn`|
 |:white_check_mark:|`g8.tn`|
 |:white_check_mark:|`g9.tn`|
+|:white_check_mark:|`gx.tn`|
+|:white_check_mark:|`gz.tn`|
 </details>
 <details>
-<summary>15 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -510,14 +576,21 @@
 |:white_check_mark:|`h8.tn`|
 |:white_check_mark:|`h9.tn`|
 |:white_check_mark:|`hc.tn`|
+|:white_check_mark:|`hd.tn`|
 |:white_check_mark:|`hf.tn`|
+|:white_check_mark:|`hg.tn`|
 |:white_check_mark:|`hj.tn`|
+|:white_check_mark:|`hk.tn`|
+|:white_check_mark:|`hl.tn`|
+|:white_check_mark:|`hm.tn`|
 |:white_check_mark:|`ho.tn`|
 |:white_check_mark:|`hp.tn`|
+|:white_check_mark:|`ht.tn`|
+|:white_check_mark:|`hu.tn`|
 |:white_check_mark:|`hw.tn`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -530,14 +603,22 @@
 |:white_check_mark:|`i6.tn`|
 |:white_check_mark:|`i7.tn`|
 |:white_check_mark:|`i9.tn`|
+|:white_check_mark:|`ia.tn`|
+|:white_check_mark:|`ib.tn`|
+|:white_check_mark:|`ig.tn`|
+|:white_check_mark:|`ih.tn`|
+|:white_check_mark:|`in.tn`|
+|:white_check_mark:|`io.tn`|
+|:white_check_mark:|`ip.tn`|
 |:white_check_mark:|`iq.tn`|
 |:white_check_mark:|`iu.tn`|
+|:white_check_mark:|`iv.tn`|
 |:white_check_mark:|`iw.tn`|
 |:white_check_mark:|`iy.tn`|
 |:white_check_mark:|`iz.tn`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -551,6 +632,7 @@
 |:white_check_mark:|`j7.tn`|
 |:white_check_mark:|`j8.tn`|
 |:white_check_mark:|`j9.tn`|
+|:white_check_mark:|`ja.tn`|
 |:white_check_mark:|`ji.tn`|
 |:white_check_mark:|`jq.tn`|
 |:white_check_mark:|`jr.tn`|
@@ -561,7 +643,7 @@
 |:white_check_mark:|`jz.tn`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -574,12 +656,15 @@
 |:white_check_mark:|`k7.tn`|
 |:white_check_mark:|`k8.tn`|
 |:white_check_mark:|`k9.tn`|
+|:white_check_mark:|`kd.tn`|
 |:white_check_mark:|`kf.tn`|
+|:white_check_mark:|`kl.tn`|
 |:white_check_mark:|`kq.tn`|
+|:white_check_mark:|`ks.tn`|
 |:white_check_mark:|`kx.tn`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -592,12 +677,16 @@
 |:white_check_mark:|`l8.tn`|
 |:white_check_mark:|`l9.tn`|
 |:white_check_mark:|`lf.tn`|
+|:white_check_mark:|`lj.tn`|
+|:white_check_mark:|`lk.tn`|
 |:white_check_mark:|`lq.tn`|
+|:white_check_mark:|`ls.tn`|
 |:white_check_mark:|`lt.tn`|
+|:white_check_mark:|`lu.tn`|
 |:white_check_mark:|`lz.tn`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -611,11 +700,15 @@
 |:white_check_mark:|`m7.tn`|
 |:white_check_mark:|`m8.tn`|
 |:white_check_mark:|`m9.tn`|
+|:white_check_mark:|`ma.tn`|
+|:white_check_mark:|`mc.tn`|
 |:white_check_mark:|`ml.tn`|
 |:white_check_mark:|`ms.tn`|
+|:white_check_mark:|`mv.tn`|
+|:white_check_mark:|`mx.tn`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -628,12 +721,19 @@
 |:white_check_mark:|`n7.tn`|
 |:white_check_mark:|`n8.tn`|
 |:white_check_mark:|`n9.tn`|
+|:white_check_mark:|`na.tn`|
+|:white_check_mark:|`nb.tn`|
+|:white_check_mark:|`nc.tn`|
+|:white_check_mark:|`nh.tn`|
+|:white_check_mark:|`ni.tn`|
 |:white_check_mark:|`nk.tn`|
 |:white_check_mark:|`nq.tn`|
+|:white_check_mark:|`nv.tn`|
 |:white_check_mark:|`nw.tn`|
+|:white_check_mark:|`nx.tn`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -645,12 +745,17 @@
 |:white_check_mark:|`o7.tn`|
 |:white_check_mark:|`o8.tn`|
 |:white_check_mark:|`o9.tn`|
+|:white_check_mark:|`oa.tn`|
+|:white_check_mark:|`of.tn`|
 |:white_check_mark:|`oh.tn`|
+|:white_check_mark:|`oi.tn`|
 |:white_check_mark:|`om.tn`|
+|:white_check_mark:|`or.tn`|
 |:white_check_mark:|`os.tn`|
+|:white_check_mark:|`oz.tn`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -664,12 +769,14 @@
 |:white_check_mark:|`p7.tn`|
 |:white_check_mark:|`p8.tn`|
 |:white_check_mark:|`p9.tn`|
+|:white_check_mark:|`pg.tn`|
+|:white_check_mark:|`pi.tn`|
 |:white_check_mark:|`pk.tn`|
 |:white_check_mark:|`po.tn`|
 |:white_check_mark:|`pv.tn`|
 </details>
 <details>
-<summary>15 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -682,15 +789,23 @@
 |:white_check_mark:|`q6.tn`|
 |:white_check_mark:|`q7.tn`|
 |:white_check_mark:|`q8.tn`|
+|:white_check_mark:|`q9.tn`|
+|:white_check_mark:|`qa.tn`|
 |:white_check_mark:|`qc.tn`|
+|:white_check_mark:|`qe.tn`|
 |:white_check_mark:|`qg.tn`|
 |:white_check_mark:|`qh.tn`|
 |:white_check_mark:|`qi.tn`|
 |:white_check_mark:|`qj.tn`|
+|:white_check_mark:|`ql.tn`|
+|:white_check_mark:|`qm.tn`|
+|:white_check_mark:|`qo.tn`|
+|:white_check_mark:|`qp.tn`|
+|:white_check_mark:|`qu.tn`|
 |:white_check_mark:|`qz.tn`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>18 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -703,12 +818,18 @@
 |:white_check_mark:|`r6.tn`|
 |:white_check_mark:|`r8.tn`|
 |:white_check_mark:|`r9.tn`|
+|:white_check_mark:|`ra.tn`|
 |:white_check_mark:|`rf.tn`|
 |:white_check_mark:|`ri.tn`|
+|:white_check_mark:|`rp.tn`|
+|:white_check_mark:|`rq.tn`|
+|:white_check_mark:|`rr.tn`|
+|:white_check_mark:|`rv.tn`|
 |:white_check_mark:|`rw.tn`|
+|:white_check_mark:|`rx.tn`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>17 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -721,13 +842,17 @@
 |:white_check_mark:|`s7.tn`|
 |:white_check_mark:|`s8.tn`|
 |:white_check_mark:|`s9.tn`|
+|:white_check_mark:|`sb.tn`|
+|:white_check_mark:|`sf.tn`|
+|:white_check_mark:|`si.tn`|
 |:white_check_mark:|`sj.tn`|
 |:white_check_mark:|`sl.tn`|
+|:white_check_mark:|`sw.tn`|
 |:white_check_mark:|`sx.tn`|
 |:white_check_mark:|`sy.tn`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>14 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -740,10 +865,14 @@
 |:white_check_mark:|`t7.tn`|
 |:white_check_mark:|`t9.tn`|
 |:white_check_mark:|`tj.tn`|
+|:white_check_mark:|`tp.tn`|
 |:white_check_mark:|`tq.tn`|
+|:white_check_mark:|`tr.tn`|
+|:white_check_mark:|`ts.tn`|
+|:white_check_mark:|`tt.tn`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -757,20 +886,30 @@
 |:white_check_mark:|`u7.tn`|
 |:white_check_mark:|`u8.tn`|
 |:white_check_mark:|`u9.tn`|
+|:white_check_mark:|`ua.tn`|
+|:white_check_mark:|`ub.tn`|
+|:white_check_mark:|`ug.tn`|
+|:white_check_mark:|`ur.tn`|
+|:white_check_mark:|`uw.tn`|
+|:white_check_mark:|`uz.tn`|
 </details>
 <details>
-<summary>8 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`v0.tn`|
 |:white_check_mark:|`v1.tn`|
+|:white_check_mark:|`v2.tn`|
 |:white_check_mark:|`v3.tn`|
 |:white_check_mark:|`v5.tn`|
 |:white_check_mark:|`v7.tn`|
 |:white_check_mark:|`v8.tn`|
 |:white_check_mark:|`v9.tn`|
 |:white_check_mark:|`vb.tn`|
+|:white_check_mark:|`vp.tn`|
+|:white_check_mark:|`vy.tn`|
+|:white_check_mark:|`vz.tn`|
 </details>
 <details>
 <summary>13 unregistered domains starting with <bold><code>w</code></bold></summary>
@@ -792,7 +931,7 @@
 |:white_check_mark:|`wq.tn`|
 </details>
 <details>
-<summary>16 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -808,18 +947,22 @@
 |:white_check_mark:|`xd.tn`|
 |:white_check_mark:|`xf.tn`|
 |:white_check_mark:|`xh.tn`|
+|:white_check_mark:|`xi.tn`|
 |:white_check_mark:|`xj.tn`|
 |:white_check_mark:|`xk.tn`|
+|:white_check_mark:|`xl.tn`|
 |:white_check_mark:|`xq.tn`|
+|:white_check_mark:|`xr.tn`|
 |:white_check_mark:|`xw.tn`|
 </details>
 <details>
-<summary>15 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`y0.tn`|
 |:white_check_mark:|`y1.tn`|
+|:white_check_mark:|`y2.tn`|
 |:white_check_mark:|`y3.tn`|
 |:white_check_mark:|`y4.tn`|
 |:white_check_mark:|`y5.tn`|
@@ -830,12 +973,15 @@
 |:white_check_mark:|`yf.tn`|
 |:white_check_mark:|`yi.tn`|
 |:white_check_mark:|`yk.tn`|
+|:white_check_mark:|`ym.tn`|
 |:white_check_mark:|`yp.tn`|
 |:white_check_mark:|`yq.tn`|
 |:white_check_mark:|`ys.tn`|
+|:white_check_mark:|`yv.tn`|
+|:white_check_mark:|`yw.tn`|
 </details>
 <details>
-<summary>20 unregistered domains starting with <bold><code>z</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>z</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -852,11 +998,15 @@
 |:white_check_mark:|`zc.tn`|
 |:white_check_mark:|`zd.tn`|
 |:white_check_mark:|`zf.tn`|
+|:white_check_mark:|`zg.tn`|
+|:white_check_mark:|`zh.tn`|
 |:white_check_mark:|`zj.tn`|
 |:white_check_mark:|`zk.tn`|
+|:white_check_mark:|`zn.tn`|
 |:white_check_mark:|`zq.tn`|
 |:white_check_mark:|`zs.tn`|
 |:white_check_mark:|`zw.tn`|
 |:white_check_mark:|`zx.tn`|
 |:white_check_mark:|`zy.tn`|
+|:white_check_mark:|`zz.tn`|
 </details>

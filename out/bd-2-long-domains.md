@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.bd`
 
-## Data last updated: 05/23/2024, 17:46:23
+## Data last updated: 05/24/2024, 12:18:40
 
 |Stat|Amount|
 |--|--|

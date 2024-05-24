@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.gh`
 
-## Data last updated: 05/23/2024, 21:25:06
+## Data last updated: 05/24/2024, 14:20:39
 
 |Stat|Amount|
 |--|--|
-|Registered domains|0|
-|Unregistered domains|1296|
+|Registered domains|97|
+|Unregistered domains|1199|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.0%|
+|Registration rate|7.48%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,133 +441,50 @@
 |:white_check_mark:|`9z.gh`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>9 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`a0.gh`|
 |:white_check_mark:|`a1.gh`|
 |:white_check_mark:|`a2.gh`|
-|:white_check_mark:|`a3.gh`|
-|:white_check_mark:|`a4.gh`|
 |:white_check_mark:|`a5.gh`|
-|:white_check_mark:|`a6.gh`|
-|:white_check_mark:|`a7.gh`|
-|:white_check_mark:|`a8.gh`|
-|:white_check_mark:|`a9.gh`|
-|:white_check_mark:|`aa.gh`|
-|:white_check_mark:|`ab.gh`|
-|:white_check_mark:|`ac.gh`|
-|:white_check_mark:|`ad.gh`|
 |:white_check_mark:|`ae.gh`|
-|:white_check_mark:|`af.gh`|
-|:white_check_mark:|`ag.gh`|
 |:white_check_mark:|`ah.gh`|
-|:white_check_mark:|`ai.gh`|
-|:white_check_mark:|`aj.gh`|
-|:white_check_mark:|`ak.gh`|
-|:white_check_mark:|`al.gh`|
-|:white_check_mark:|`am.gh`|
-|:white_check_mark:|`an.gh`|
 |:white_check_mark:|`ao.gh`|
-|:white_check_mark:|`ap.gh`|
 |:white_check_mark:|`aq.gh`|
-|:white_check_mark:|`ar.gh`|
-|:white_check_mark:|`as.gh`|
-|:white_check_mark:|`at.gh`|
-|:white_check_mark:|`au.gh`|
-|:white_check_mark:|`av.gh`|
-|:white_check_mark:|`aw.gh`|
 |:white_check_mark:|`ax.gh`|
-|:white_check_mark:|`ay.gh`|
-|:white_check_mark:|`az.gh`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`b0.gh`|
 |:white_check_mark:|`b1.gh`|
 |:white_check_mark:|`b2.gh`|
-|:white_check_mark:|`b3.gh`|
-|:white_check_mark:|`b4.gh`|
 |:white_check_mark:|`b5.gh`|
-|:white_check_mark:|`b6.gh`|
-|:white_check_mark:|`b7.gh`|
-|:white_check_mark:|`b8.gh`|
-|:white_check_mark:|`b9.gh`|
 |:white_check_mark:|`ba.gh`|
-|:white_check_mark:|`bb.gh`|
-|:white_check_mark:|`bc.gh`|
-|:white_check_mark:|`bd.gh`|
-|:white_check_mark:|`be.gh`|
-|:white_check_mark:|`bf.gh`|
 |:white_check_mark:|`bg.gh`|
-|:white_check_mark:|`bh.gh`|
-|:white_check_mark:|`bi.gh`|
-|:white_check_mark:|`bj.gh`|
-|:white_check_mark:|`bk.gh`|
-|:white_check_mark:|`bl.gh`|
 |:white_check_mark:|`bm.gh`|
-|:white_check_mark:|`bn.gh`|
-|:white_check_mark:|`bo.gh`|
 |:white_check_mark:|`bp.gh`|
-|:white_check_mark:|`bq.gh`|
-|:white_check_mark:|`br.gh`|
 |:white_check_mark:|`bs.gh`|
-|:white_check_mark:|`bt.gh`|
-|:white_check_mark:|`bu.gh`|
-|:white_check_mark:|`bv.gh`|
 |:white_check_mark:|`bw.gh`|
 |:white_check_mark:|`bx.gh`|
 |:white_check_mark:|`by.gh`|
-|:white_check_mark:|`bz.gh`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`c0.gh`|
-|:white_check_mark:|`c1.gh`|
-|:white_check_mark:|`c2.gh`|
-|:white_check_mark:|`c3.gh`|
-|:white_check_mark:|`c4.gh`|
-|:white_check_mark:|`c5.gh`|
-|:white_check_mark:|`c6.gh`|
-|:white_check_mark:|`c7.gh`|
-|:white_check_mark:|`c8.gh`|
-|:white_check_mark:|`c9.gh`|
-|:white_check_mark:|`ca.gh`|
-|:white_check_mark:|`cb.gh`|
-|:white_check_mark:|`cc.gh`|
-|:white_check_mark:|`cd.gh`|
 |:white_check_mark:|`ce.gh`|
-|:white_check_mark:|`cf.gh`|
-|:white_check_mark:|`cg.gh`|
-|:white_check_mark:|`ch.gh`|
-|:white_check_mark:|`ci.gh`|
 |:white_check_mark:|`cj.gh`|
-|:white_check_mark:|`ck.gh`|
-|:white_check_mark:|`cl.gh`|
-|:white_check_mark:|`cm.gh`|
-|:white_check_mark:|`cn.gh`|
-|:white_check_mark:|`co.gh`|
-|:white_check_mark:|`cp.gh`|
-|:white_check_mark:|`cq.gh`|
 |:white_check_mark:|`cr.gh`|
-|:white_check_mark:|`cs.gh`|
-|:white_check_mark:|`ct.gh`|
-|:white_check_mark:|`cu.gh`|
-|:white_check_mark:|`cv.gh`|
-|:white_check_mark:|`cw.gh`|
-|:white_check_mark:|`cx.gh`|
 |:white_check_mark:|`cy.gh`|
-|:white_check_mark:|`cz.gh`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -581,27 +498,13 @@
 |:white_check_mark:|`d7.gh`|
 |:white_check_mark:|`d8.gh`|
 |:white_check_mark:|`d9.gh`|
-|:white_check_mark:|`da.gh`|
-|:white_check_mark:|`db.gh`|
-|:white_check_mark:|`dc.gh`|
-|:white_check_mark:|`dd.gh`|
-|:white_check_mark:|`de.gh`|
 |:white_check_mark:|`df.gh`|
 |:white_check_mark:|`dg.gh`|
 |:white_check_mark:|`dh.gh`|
-|:white_check_mark:|`di.gh`|
 |:white_check_mark:|`dj.gh`|
-|:white_check_mark:|`dk.gh`|
-|:white_check_mark:|`dl.gh`|
-|:white_check_mark:|`dm.gh`|
 |:white_check_mark:|`dn.gh`|
 |:white_check_mark:|`do.gh`|
-|:white_check_mark:|`dp.gh`|
-|:white_check_mark:|`dq.gh`|
-|:white_check_mark:|`dr.gh`|
-|:white_check_mark:|`ds.gh`|
 |:white_check_mark:|`dt.gh`|
-|:white_check_mark:|`du.gh`|
 |:white_check_mark:|`dv.gh`|
 |:white_check_mark:|`dw.gh`|
 |:white_check_mark:|`dx.gh`|

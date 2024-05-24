@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bm`
 
-## Data last updated: 05/23/2024, 19:44:19
+## Data last updated: 05/24/2024, 14:19:37
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1|
-|Unregistered domains|1295|
+|Registered domains|12|
+|Unregistered domains|1284|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.08%|
+|Registration rate|0.93%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -482,7 +482,7 @@
 |:white_check_mark:|`az.bm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -508,7 +508,6 @@
 |:white_check_mark:|`bj.bm`|
 |:white_check_mark:|`bk.bm`|
 |:white_check_mark:|`bl.bm`|
-|:white_check_mark:|`bm.bm`|
 |:white_check_mark:|`bn.bm`|
 |:white_check_mark:|`bo.bm`|
 |:white_check_mark:|`bp.bm`|
@@ -517,19 +516,17 @@
 |:white_check_mark:|`bs.bm`|
 |:white_check_mark:|`bt.bm`|
 |:white_check_mark:|`bu.bm`|
-|:white_check_mark:|`bv.bm`|
 |:white_check_mark:|`bw.bm`|
 |:white_check_mark:|`bx.bm`|
 |:white_check_mark:|`by.bm`|
 |:white_check_mark:|`bz.bm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`c0.bm`|
-|:white_check_mark:|`c1.bm`|
 |:white_check_mark:|`c2.bm`|
 |:white_check_mark:|`c3.bm`|
 |:white_check_mark:|`c4.bm`|
@@ -549,7 +546,6 @@
 |:white_check_mark:|`ci.bm`|
 |:white_check_mark:|`cj.bm`|
 |:white_check_mark:|`ck.bm`|
-|:white_check_mark:|`cl.bm`|
 |:white_check_mark:|`cm.bm`|
 |:white_check_mark:|`cn.bm`|
 |:white_check_mark:|`co.bm`|
@@ -566,7 +562,7 @@
 |:white_check_mark:|`cz.bm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -591,7 +587,6 @@
 |:white_check_mark:|`di.bm`|
 |:white_check_mark:|`dj.bm`|
 |:white_check_mark:|`dk.bm`|
-|:white_check_mark:|`dl.bm`|
 |:white_check_mark:|`dm.bm`|
 |:white_check_mark:|`dn.bm`|
 |:white_check_mark:|`do.bm`|
@@ -818,7 +813,7 @@
 |:white_check_mark:|`iz.bm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -834,7 +829,6 @@
 |:white_check_mark:|`j9.bm`|
 |:white_check_mark:|`ja.bm`|
 |:white_check_mark:|`jb.bm`|
-|:white_check_mark:|`jc.bm`|
 |:white_check_mark:|`jd.bm`|
 |:white_check_mark:|`je.bm`|
 |:white_check_mark:|`jf.bm`|
@@ -902,7 +896,7 @@
 |:white_check_mark:|`kz.bm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -937,7 +931,6 @@
 |:white_check_mark:|`ls.bm`|
 |:white_check_mark:|`lt.bm`|
 |:white_check_mark:|`lu.bm`|
-|:white_check_mark:|`lv.bm`|
 |:white_check_mark:|`lw.bm`|
 |:white_check_mark:|`lx.bm`|
 |:white_check_mark:|`ly.bm`|
@@ -1154,7 +1147,7 @@
 |:white_check_mark:|`qz.bm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1168,13 +1161,11 @@
 |:white_check_mark:|`r7.bm`|
 |:white_check_mark:|`r8.bm`|
 |:white_check_mark:|`r9.bm`|
-|:white_check_mark:|`ra.bm`|
 |:white_check_mark:|`rb.bm`|
 |:white_check_mark:|`rc.bm`|
 |:white_check_mark:|`rd.bm`|
 |:white_check_mark:|`re.bm`|
 |:white_check_mark:|`rf.bm`|
-|:white_check_mark:|`rg.bm`|
 |:white_check_mark:|`rh.bm`|
 |:white_check_mark:|`ri.bm`|
 |:white_check_mark:|`rj.bm`|
@@ -1238,7 +1229,7 @@
 |:white_check_mark:|`sz.bm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1255,7 +1246,6 @@
 |:white_check_mark:|`ta.bm`|
 |:white_check_mark:|`tb.bm`|
 |:white_check_mark:|`tc.bm`|
-|:white_check_mark:|`td.bm`|
 |:white_check_mark:|`te.bm`|
 |:white_check_mark:|`tf.bm`|
 |:white_check_mark:|`tg.bm`|
@@ -1364,7 +1354,7 @@
 |:white_check_mark:|`vz.bm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1394,7 +1384,6 @@
 |:white_check_mark:|`wn.bm`|
 |:white_check_mark:|`wo.bm`|
 |:white_check_mark:|`wp.bm`|
-|:white_check_mark:|`wq.bm`|
 |:white_check_mark:|`wr.bm`|
 |:white_check_mark:|`ws.bm`|
 |:white_check_mark:|`wt.bm`|

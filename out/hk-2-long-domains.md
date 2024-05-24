@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.hk`
 
-## Data last updated: 05/23/2024, 17:46:09
+## Data last updated: 05/24/2024, 12:18:17
 
 |Stat|Amount|
 |--|--|

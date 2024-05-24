@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.cu`
 
-## Data last updated: 05/23/2024, 17:48:46
+## Data last updated: 05/24/2024, 13:41:11
 
 |Stat|Amount|
 |--|--|

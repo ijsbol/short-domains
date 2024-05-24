@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.sg`
 
-## Data last updated: 05/23/2024, 17:55:03
+## Data last updated: 05/24/2024, 13:41:17
 
 |Stat|Amount|
 |--|--|
-|Registered domains|606|
-|Unregistered domains|690|
+|Registered domains|468|
+|Unregistered domains|828|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|46.76%|
+|Registration rate|36.11%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -61,7 +61,7 @@
 |:white_check_mark:|`0z.sg`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>29 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -84,6 +84,7 @@
 |:white_check_mark:|`1l.sg`|
 |:white_check_mark:|`1n.sg`|
 |:white_check_mark:|`1o.sg`|
+|:white_check_mark:|`1p.sg`|
 |:white_check_mark:|`1q.sg`|
 |:white_check_mark:|`1r.sg`|
 |:white_check_mark:|`1t.sg`|
@@ -95,7 +96,7 @@
 |:white_check_mark:|`1z.sg`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -112,6 +113,7 @@
 |:white_check_mark:|`2e.sg`|
 |:white_check_mark:|`2f.sg`|
 |:white_check_mark:|`2h.sg`|
+|:white_check_mark:|`2i.sg`|
 |:white_check_mark:|`2j.sg`|
 |:white_check_mark:|`2k.sg`|
 |:white_check_mark:|`2l.sg`|
@@ -131,7 +133,7 @@
 |:white_check_mark:|`2z.sg`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>25 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -142,12 +144,15 @@
 |:white_check_mark:|`35.sg`|
 |:white_check_mark:|`36.sg`|
 |:white_check_mark:|`37.sg`|
+|:white_check_mark:|`38.sg`|
 |:white_check_mark:|`39.sg`|
 |:white_check_mark:|`3a.sg`|
 |:white_check_mark:|`3f.sg`|
 |:white_check_mark:|`3h.sg`|
 |:white_check_mark:|`3i.sg`|
 |:white_check_mark:|`3j.sg`|
+|:white_check_mark:|`3k.sg`|
+|:white_check_mark:|`3l.sg`|
 |:white_check_mark:|`3n.sg`|
 |:white_check_mark:|`3o.sg`|
 |:white_check_mark:|`3p.sg`|
@@ -232,7 +237,7 @@
 |:white_check_mark:|`5z.sg`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -241,14 +246,17 @@
 |:white_check_mark:|`62.sg`|
 |:white_check_mark:|`63.sg`|
 |:white_check_mark:|`64.sg`|
+|:white_check_mark:|`65.sg`|
 |:white_check_mark:|`67.sg`|
 |:white_check_mark:|`68.sg`|
+|:white_check_mark:|`69.sg`|
 |:white_check_mark:|`6a.sg`|
 |:white_check_mark:|`6b.sg`|
 |:white_check_mark:|`6c.sg`|
 |:white_check_mark:|`6d.sg`|
 |:white_check_mark:|`6e.sg`|
 |:white_check_mark:|`6f.sg`|
+|:white_check_mark:|`6g.sg`|
 |:white_check_mark:|`6h.sg`|
 |:white_check_mark:|`6i.sg`|
 |:white_check_mark:|`6j.sg`|
@@ -309,7 +317,7 @@
 |:white_check_mark:|`7z.sg`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -323,6 +331,7 @@
 |:white_check_mark:|`89.sg`|
 |:white_check_mark:|`8a.sg`|
 |:white_check_mark:|`8b.sg`|
+|:white_check_mark:|`8d.sg`|
 |:white_check_mark:|`8e.sg`|
 |:white_check_mark:|`8f.sg`|
 |:white_check_mark:|`8g.sg`|
@@ -386,7 +395,7 @@
 |:white_check_mark:|`9z.sg`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -394,57 +403,89 @@
 |:white_check_mark:|`a3.sg`|
 |:white_check_mark:|`a4.sg`|
 |:white_check_mark:|`a5.sg`|
+|:white_check_mark:|`a6.sg`|
 |:white_check_mark:|`a7.sg`|
 |:white_check_mark:|`a9.sg`|
+|:white_check_mark:|`aa.sg`|
+|:white_check_mark:|`ab.sg`|
 |:white_check_mark:|`ac.sg`|
+|:white_check_mark:|`ad.sg`|
 |:white_check_mark:|`ae.sg`|
+|:white_check_mark:|`af.sg`|
+|:white_check_mark:|`ag.sg`|
+|:white_check_mark:|`ah.sg`|
+|:white_check_mark:|`ai.sg`|
+|:white_check_mark:|`aj.sg`|
 |:white_check_mark:|`ak.sg`|
 |:white_check_mark:|`al.sg`|
 |:white_check_mark:|`ao.sg`|
+|:white_check_mark:|`aq.sg`|
 |:white_check_mark:|`ar.sg`|
+|:white_check_mark:|`as.sg`|
+|:white_check_mark:|`at.sg`|
 |:white_check_mark:|`au.sg`|
+|:white_check_mark:|`ax.sg`|
+|:white_check_mark:|`ay.sg`|
 |:white_check_mark:|`az.sg`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`b0.sg`|
 |:white_check_mark:|`b1.sg`|
+|:white_check_mark:|`b2.sg`|
+|:white_check_mark:|`b3.sg`|
 |:white_check_mark:|`b5.sg`|
 |:white_check_mark:|`b6.sg`|
 |:white_check_mark:|`b7.sg`|
 |:white_check_mark:|`b8.sg`|
 |:white_check_mark:|`b9.sg`|
 |:white_check_mark:|`bb.sg`|
+|:white_check_mark:|`be.sg`|
 |:white_check_mark:|`bf.sg`|
+|:white_check_mark:|`bg.sg`|
+|:white_check_mark:|`bi.sg`|
 |:white_check_mark:|`bj.sg`|
+|:white_check_mark:|`bk.sg`|
+|:white_check_mark:|`bl.sg`|
 |:white_check_mark:|`bm.sg`|
 |:white_check_mark:|`bo.sg`|
+|:white_check_mark:|`bq.sg`|
+|:white_check_mark:|`bu.sg`|
+|:white_check_mark:|`bv.sg`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`c0.sg`|
 |:white_check_mark:|`c1.sg`|
+|:white_check_mark:|`c3.sg`|
 |:white_check_mark:|`c4.sg`|
 |:white_check_mark:|`c5.sg`|
 |:white_check_mark:|`c6.sg`|
 |:white_check_mark:|`c7.sg`|
 |:white_check_mark:|`c8.sg`|
 |:white_check_mark:|`c9.sg`|
+|:white_check_mark:|`ca.sg`|
 |:white_check_mark:|`cd.sg`|
 |:white_check_mark:|`ci.sg`|
+|:white_check_mark:|`ck.sg`|
+|:white_check_mark:|`cl.sg`|
+|:white_check_mark:|`cm.sg`|
+|:white_check_mark:|`cn.sg`|
 |:white_check_mark:|`co.sg`|
+|:white_check_mark:|`cp.sg`|
 |:white_check_mark:|`cr.sg`|
 |:white_check_mark:|`cv.sg`|
+|:white_check_mark:|`cw.sg`|
 |:white_check_mark:|`cz.sg`|
 </details>
 <details>
-<summary>16 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -458,15 +499,23 @@
 |:white_check_mark:|`d7.sg`|
 |:white_check_mark:|`d8.sg`|
 |:white_check_mark:|`d9.sg`|
+|:white_check_mark:|`da.sg`|
+|:white_check_mark:|`db.sg`|
+|:white_check_mark:|`dc.sg`|
+|:white_check_mark:|`dd.sg`|
+|:white_check_mark:|`de.sg`|
 |:white_check_mark:|`dg.sg`|
 |:white_check_mark:|`dj.sg`|
+|:white_check_mark:|`dk.sg`|
+|:white_check_mark:|`dl.sg`|
 |:white_check_mark:|`do.sg`|
 |:white_check_mark:|`dq.sg`|
 |:white_check_mark:|`du.sg`|
+|:white_check_mark:|`dx.sg`|
 |:white_check_mark:|`dz.sg`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -474,35 +523,46 @@
 |:white_check_mark:|`e3.sg`|
 |:white_check_mark:|`e4.sg`|
 |:white_check_mark:|`e5.sg`|
+|:white_check_mark:|`e6.sg`|
 |:white_check_mark:|`e7.sg`|
 |:white_check_mark:|`e8.sg`|
 |:white_check_mark:|`e9.sg`|
 |:white_check_mark:|`ed.sg`|
+|:white_check_mark:|`ee.sg`|
+|:white_check_mark:|`eh.sg`|
+|:white_check_mark:|`ej.sg`|
 |:white_check_mark:|`ek.sg`|
 |:white_check_mark:|`eo.sg`|
 |:white_check_mark:|`ep.sg`|
+|:white_check_mark:|`eq.sg`|
 |:white_check_mark:|`er.sg`|
+|:white_check_mark:|`es.sg`|
+|:white_check_mark:|`et.sg`|
 |:white_check_mark:|`eu.sg`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`f0.sg`|
+|:white_check_mark:|`f1.sg`|
 |:white_check_mark:|`f2.sg`|
 |:white_check_mark:|`f3.sg`|
+|:white_check_mark:|`f4.sg`|
 |:white_check_mark:|`f6.sg`|
 |:white_check_mark:|`f7.sg`|
 |:white_check_mark:|`f8.sg`|
 |:white_check_mark:|`f9.sg`|
+|:white_check_mark:|`fc.sg`|
 |:white_check_mark:|`fm.sg`|
 |:white_check_mark:|`fo.sg`|
 |:white_check_mark:|`fq.sg`|
+|:white_check_mark:|`fv.sg`|
 |:white_check_mark:|`fy.sg`|
 </details>
 <details>
-<summary>20 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -522,13 +582,17 @@
 |:white_check_mark:|`gi.sg`|
 |:white_check_mark:|`gj.sg`|
 |:white_check_mark:|`gl.sg`|
+|:white_check_mark:|`gp.sg`|
 |:white_check_mark:|`gq.sg`|
 |:white_check_mark:|`gt.sg`|
+|:white_check_mark:|`gu.sg`|
+|:white_check_mark:|`gv.sg`|
 |:white_check_mark:|`gw.sg`|
 |:white_check_mark:|`gy.sg`|
+|:white_check_mark:|`gz.sg`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>14 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -540,12 +604,15 @@
 |:white_check_mark:|`h7.sg`|
 |:white_check_mark:|`h8.sg`|
 |:white_check_mark:|`h9.sg`|
+|:white_check_mark:|`ha.sg`|
+|:white_check_mark:|`hb.sg`|
+|:white_check_mark:|`hg.sg`|
 |:white_check_mark:|`hk.sg`|
 |:white_check_mark:|`hl.sg`|
 |:white_check_mark:|`hz.sg`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -557,13 +624,20 @@
 |:white_check_mark:|`i6.sg`|
 |:white_check_mark:|`i7.sg`|
 |:white_check_mark:|`i9.sg`|
+|:white_check_mark:|`if.sg`|
+|:white_check_mark:|`ig.sg`|
+|:white_check_mark:|`ih.sg`|
 |:white_check_mark:|`ij.sg`|
 |:white_check_mark:|`il.sg`|
+|:white_check_mark:|`io.sg`|
+|:white_check_mark:|`ip.sg`|
 |:white_check_mark:|`iq.sg`|
+|:white_check_mark:|`ir.sg`|
+|:white_check_mark:|`is.sg`|
 |:white_check_mark:|`iy.sg`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -576,6 +650,7 @@
 |:white_check_mark:|`j7.sg`|
 |:white_check_mark:|`j8.sg`|
 |:white_check_mark:|`j9.sg`|
+|:white_check_mark:|`jg.sg`|
 |:white_check_mark:|`jl.sg`|
 |:white_check_mark:|`jm.sg`|
 |:white_check_mark:|`jn.sg`|
@@ -583,7 +658,7 @@
 |:white_check_mark:|`jy.sg`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -594,15 +669,18 @@
 |:white_check_mark:|`k4.sg`|
 |:white_check_mark:|`k6.sg`|
 |:white_check_mark:|`k7.sg`|
+|:white_check_mark:|`ke.sg`|
 |:white_check_mark:|`kh.sg`|
+|:white_check_mark:|`kn.sg`|
 |:white_check_mark:|`kp.sg`|
 |:white_check_mark:|`kq.sg`|
 |:white_check_mark:|`kr.sg`|
+|:white_check_mark:|`ks.sg`|
 |:white_check_mark:|`ku.sg`|
 |:white_check_mark:|`kz.sg`|
 </details>
 <details>
-<summary>16 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -615,33 +693,46 @@
 |:white_check_mark:|`l6.sg`|
 |:white_check_mark:|`l7.sg`|
 |:white_check_mark:|`l8.sg`|
+|:white_check_mark:|`lb.sg`|
 |:white_check_mark:|`ld.sg`|
+|:white_check_mark:|`lf.sg`|
+|:white_check_mark:|`lg.sg`|
+|:white_check_mark:|`lj.sg`|
 |:white_check_mark:|`lk.sg`|
 |:white_check_mark:|`ln.sg`|
+|:white_check_mark:|`lp.sg`|
 |:white_check_mark:|`lr.sg`|
 |:white_check_mark:|`ls.sg`|
+|:white_check_mark:|`lt.sg`|
+|:white_check_mark:|`lu.sg`|
 |:white_check_mark:|`lv.sg`|
 |:white_check_mark:|`ly.sg`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>17 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`m0.sg`|
 |:white_check_mark:|`m4.sg`|
 |:white_check_mark:|`m5.sg`|
+|:white_check_mark:|`m6.sg`|
 |:white_check_mark:|`m7.sg`|
 |:white_check_mark:|`m8.sg`|
+|:white_check_mark:|`ma.sg`|
 |:white_check_mark:|`mb.sg`|
+|:white_check_mark:|`mg.sg`|
 |:white_check_mark:|`mh.sg`|
+|:white_check_mark:|`mo.sg`|
 |:white_check_mark:|`mp.sg`|
 |:white_check_mark:|`mq.sg`|
 |:white_check_mark:|`mr.sg`|
+|:white_check_mark:|`mw.sg`|
+|:white_check_mark:|`mx.sg`|
 |:white_check_mark:|`mz.sg`|
 </details>
 <details>
-<summary>16 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -653,8 +744,12 @@
 |:white_check_mark:|`n6.sg`|
 |:white_check_mark:|`n7.sg`|
 |:white_check_mark:|`n8.sg`|
+|:white_check_mark:|`n9.sg`|
 |:white_check_mark:|`na.sg`|
+|:white_check_mark:|`nb.sg`|
+|:white_check_mark:|`nd.sg`|
 |:white_check_mark:|`ne.sg`|
+|:white_check_mark:|`nh.sg`|
 |:white_check_mark:|`ni.sg`|
 |:white_check_mark:|`no.sg`|
 |:white_check_mark:|`nq.sg`|
@@ -663,12 +758,13 @@
 |:white_check_mark:|`nz.sg`|
 </details>
 <details>
-<summary>16 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`o0.sg`|
 |:white_check_mark:|`o1.sg`|
+|:white_check_mark:|`o2.sg`|
 |:white_check_mark:|`o3.sg`|
 |:white_check_mark:|`o4.sg`|
 |:white_check_mark:|`o5.sg`|
@@ -677,15 +773,18 @@
 |:white_check_mark:|`o8.sg`|
 |:white_check_mark:|`o9.sg`|
 |:white_check_mark:|`oj.sg`|
+|:white_check_mark:|`om.sg`|
 |:white_check_mark:|`oq.sg`|
 |:white_check_mark:|`or.sg`|
+|:white_check_mark:|`os.sg`|
 |:white_check_mark:|`ot.sg`|
 |:white_check_mark:|`ou.sg`|
 |:white_check_mark:|`ov.sg`|
 |:white_check_mark:|`oy.sg`|
+|:white_check_mark:|`oz.sg`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -696,12 +795,17 @@
 |:white_check_mark:|`p7.sg`|
 |:white_check_mark:|`p8.sg`|
 |:white_check_mark:|`p9.sg`|
+|:white_check_mark:|`pa.sg`|
+|:white_check_mark:|`pe.sg`|
+|:white_check_mark:|`pj.sg`|
 |:white_check_mark:|`pk.sg`|
+|:white_check_mark:|`pl.sg`|
+|:white_check_mark:|`pt.sg`|
 |:white_check_mark:|`py.sg`|
 |:white_check_mark:|`pz.sg`|
 </details>
 <details>
-<summary>20 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -723,11 +827,13 @@
 |:white_check_mark:|`qk.sg`|
 |:white_check_mark:|`qn.sg`|
 |:white_check_mark:|`qo.sg`|
+|:white_check_mark:|`qp.sg`|
+|:white_check_mark:|`qq.sg`|
 |:white_check_mark:|`qu.sg`|
 |:white_check_mark:|`qx.sg`|
 </details>
 <details>
-<summary>15 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -740,15 +846,19 @@
 |:white_check_mark:|`r7.sg`|
 |:white_check_mark:|`r8.sg`|
 |:white_check_mark:|`r9.sg`|
+|:white_check_mark:|`rc.sg`|
 |:white_check_mark:|`rg.sg`|
 |:white_check_mark:|`rl.sg`|
+|:white_check_mark:|`rm.sg`|
 |:white_check_mark:|`rn.sg`|
 |:white_check_mark:|`ro.sg`|
+|:white_check_mark:|`rq.sg`|
 |:white_check_mark:|`ru.sg`|
 |:white_check_mark:|`rv.sg`|
+|:white_check_mark:|`rz.sg`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -756,36 +866,46 @@
 |:white_check_mark:|`s2.sg`|
 |:white_check_mark:|`s4.sg`|
 |:white_check_mark:|`s5.sg`|
+|:white_check_mark:|`s6.sg`|
 |:white_check_mark:|`s7.sg`|
 |:white_check_mark:|`s8.sg`|
 |:white_check_mark:|`s9.sg`|
+|:white_check_mark:|`sa.sg`|
 |:white_check_mark:|`sb.sg`|
+|:white_check_mark:|`sc.sg`|
 |:white_check_mark:|`sd.sg`|
+|:white_check_mark:|`sg.sg`|
 |:white_check_mark:|`sk.sg`|
+|:white_check_mark:|`sl.sg`|
 |:white_check_mark:|`sr.sg`|
 |:white_check_mark:|`sv.sg`|
+|:white_check_mark:|`sx.sg`|
 |:white_check_mark:|`sy.sg`|
 |:white_check_mark:|`sz.sg`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`t0.sg`|
+|:white_check_mark:|`t2.sg`|
 |:white_check_mark:|`t3.sg`|
 |:white_check_mark:|`t4.sg`|
 |:white_check_mark:|`t5.sg`|
 |:white_check_mark:|`t6.sg`|
+|:white_check_mark:|`t7.sg`|
 |:white_check_mark:|`t8.sg`|
 |:white_check_mark:|`t9.sg`|
 |:white_check_mark:|`th.sg`|
+|:white_check_mark:|`tn.sg`|
+|:white_check_mark:|`tt.sg`|
 |:white_check_mark:|`tw.sg`|
 |:white_check_mark:|`tx.sg`|
 |:white_check_mark:|`tz.sg`|
 </details>
 <details>
-<summary>21 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -799,6 +919,7 @@
 |:white_check_mark:|`u7.sg`|
 |:white_check_mark:|`u8.sg`|
 |:white_check_mark:|`u9.sg`|
+|:white_check_mark:|`ub.sg`|
 |:white_check_mark:|`ug.sg`|
 |:white_check_mark:|`uh.sg`|
 |:white_check_mark:|`uj.sg`|
@@ -807,18 +928,21 @@
 |:white_check_mark:|`un.sg`|
 |:white_check_mark:|`uq.sg`|
 |:white_check_mark:|`us.sg`|
+|:white_check_mark:|`uu.sg`|
+|:white_check_mark:|`uv.sg`|
 |:white_check_mark:|`uw.sg`|
 |:white_check_mark:|`uy.sg`|
 |:white_check_mark:|`uz.sg`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`v0.sg`|
 |:white_check_mark:|`v1.sg`|
 |:white_check_mark:|`v2.sg`|
+|:white_check_mark:|`v3.sg`|
 |:white_check_mark:|`v4.sg`|
 |:white_check_mark:|`v5.sg`|
 |:white_check_mark:|`v6.sg`|
@@ -829,14 +953,16 @@
 |:white_check_mark:|`vi.sg`|
 |:white_check_mark:|`vj.sg`|
 |:white_check_mark:|`vl.sg`|
+|:white_check_mark:|`vm.sg`|
 |:white_check_mark:|`vn.sg`|
 |:white_check_mark:|`vq.sg`|
+|:white_check_mark:|`vs.sg`|
 |:white_check_mark:|`vu.sg`|
 |:white_check_mark:|`vy.sg`|
 |:white_check_mark:|`vz.sg`|
 </details>
 <details>
-<summary>15 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -850,14 +976,18 @@
 |:white_check_mark:|`w8.sg`|
 |:white_check_mark:|`w9.sg`|
 |:white_check_mark:|`wb.sg`|
+|:white_check_mark:|`wc.sg`|
 |:white_check_mark:|`wf.sg`|
 |:white_check_mark:|`wn.sg`|
+|:white_check_mark:|`wp.sg`|
 |:white_check_mark:|`wq.sg`|
+|:white_check_mark:|`wr.sg`|
+|:white_check_mark:|`wt.sg`|
 |:white_check_mark:|`wv.sg`|
 |:white_check_mark:|`wz.sg`|
 </details>
 <details>
-<summary>20 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -869,9 +999,12 @@
 |:white_check_mark:|`x5.sg`|
 |:white_check_mark:|`x6.sg`|
 |:white_check_mark:|`x7.sg`|
+|:white_check_mark:|`x8.sg`|
 |:white_check_mark:|`x9.sg`|
 |:white_check_mark:|`xa.sg`|
 |:white_check_mark:|`xb.sg`|
+|:white_check_mark:|`xd.sg`|
+|:white_check_mark:|`xe.sg`|
 |:white_check_mark:|`xf.sg`|
 |:white_check_mark:|`xg.sg`|
 |:white_check_mark:|`xh.sg`|
@@ -880,6 +1013,7 @@
 |:white_check_mark:|`xq.sg`|
 |:white_check_mark:|`xu.sg`|
 |:white_check_mark:|`xw.sg`|
+|:white_check_mark:|`xx.sg`|
 |:white_check_mark:|`xz.sg`|
 </details>
 <details>
@@ -902,7 +1036,7 @@
 |:white_check_mark:|`yv.sg`|
 </details>
 <details>
-<summary>19 unregistered domains starting with <bold><code>z</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>z</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -918,6 +1052,10 @@
 |:white_check_mark:|`z9.sg`|
 |:white_check_mark:|`zc.sg`|
 |:white_check_mark:|`ze.sg`|
+|:white_check_mark:|`zf.sg`|
+|:white_check_mark:|`zg.sg`|
+|:white_check_mark:|`zh.sg`|
+|:white_check_mark:|`zi.sg`|
 |:white_check_mark:|`zm.sg`|
 |:white_check_mark:|`zp.sg`|
 |:white_check_mark:|`zq.sg`|

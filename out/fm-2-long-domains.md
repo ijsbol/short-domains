@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.fm`
 
-## Data last updated: 05/23/2024, 17:58:16
+## Data last updated: 05/24/2024, 14:24:59
 
 |Stat|Amount|
 |--|--|
-|Registered domains|26|
-|Unregistered domains|1270|
-|Premium domains|8|
+|Registered domains|195|
+|Unregistered domains|1101|
+|Premium domains|47|
 |Application only domains|0|
-|Registration rate|2.01%|
+|Registration rate|15.05%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,20 +21,11 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>36 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>25 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`00.fm`|
-|:white_check_mark:|`01.fm`|
-|:white_check_mark:|`02.fm`|
-|:white_check_mark:|`03.fm`|
-|:white_check_mark:|`04.fm`|
-|:white_check_mark:|`05.fm`|
-|:white_check_mark:|`06.fm`|
-|:white_check_mark:|`07.fm`|
-|:white_check_mark:|`08.fm`|
-|:white_check_mark:|`09.fm`|
+|:gem:|`01.fm`|
 |:white_check_mark:|`0a.fm`|
 |:white_check_mark:|`0b.fm`|
 |:white_check_mark:|`0c.fm`|
@@ -49,7 +40,6 @@
 |:white_check_mark:|`0l.fm`|
 |:white_check_mark:|`0m.fm`|
 |:white_check_mark:|`0n.fm`|
-|:white_check_mark:|`0o.fm`|
 |:white_check_mark:|`0p.fm`|
 |:white_check_mark:|`0q.fm`|
 |:white_check_mark:|`0r.fm`|
@@ -58,16 +48,14 @@
 |:white_check_mark:|`0u.fm`|
 |:white_check_mark:|`0v.fm`|
 |:white_check_mark:|`0w.fm`|
-|:white_check_mark:|`0x.fm`|
 |:white_check_mark:|`0y.fm`|
 |:white_check_mark:|`0z.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`10.fm`|
 |:white_check_mark:|`11.fm`|
 |:white_check_mark:|`12.fm`|
 |:white_check_mark:|`13.fm`|
@@ -92,7 +80,7 @@
 |:white_check_mark:|`1m.fm`|
 |:white_check_mark:|`1n.fm`|
 |:white_check_mark:|`1o.fm`|
-|:white_check_mark:|`1p.fm`|
+|:gem:|`1p.fm`|
 |:white_check_mark:|`1q.fm`|
 |:white_check_mark:|`1r.fm`|
 |:white_check_mark:|`1s.fm`|
@@ -105,15 +93,14 @@
 |:white_check_mark:|`1z.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`20.fm`|
-|:white_check_mark:|`21.fm`|
 |:white_check_mark:|`22.fm`|
 |:white_check_mark:|`23.fm`|
-|:white_check_mark:|`24.fm`|
+|:gem:|`24.fm`|
 |:white_check_mark:|`25.fm`|
 |:white_check_mark:|`26.fm`|
 |:white_check_mark:|`27.fm`|
@@ -132,9 +119,7 @@
 |:white_check_mark:|`2k.fm`|
 |:white_check_mark:|`2l.fm`|
 |:white_check_mark:|`2m.fm`|
-|:white_check_mark:|`2n.fm`|
 |:white_check_mark:|`2o.fm`|
-|:white_check_mark:|`2p.fm`|
 |:white_check_mark:|`2q.fm`|
 |:white_check_mark:|`2r.fm`|
 |:white_check_mark:|`2s.fm`|
@@ -147,7 +132,7 @@
 |:white_check_mark:|`2z.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -158,22 +143,19 @@
 |:white_check_mark:|`34.fm`|
 |:white_check_mark:|`35.fm`|
 |:white_check_mark:|`36.fm`|
-|:white_check_mark:|`37.fm`|
 |:white_check_mark:|`38.fm`|
 |:white_check_mark:|`39.fm`|
 |:white_check_mark:|`3a.fm`|
 |:white_check_mark:|`3b.fm`|
 |:white_check_mark:|`3c.fm`|
-|:white_check_mark:|`3d.fm`|
 |:white_check_mark:|`3e.fm`|
 |:white_check_mark:|`3f.fm`|
-|:white_check_mark:|`3g.fm`|
+|:gem:|`3g.fm`|
 |:white_check_mark:|`3h.fm`|
 |:white_check_mark:|`3i.fm`|
 |:white_check_mark:|`3j.fm`|
 |:white_check_mark:|`3k.fm`|
 |:white_check_mark:|`3l.fm`|
-|:white_check_mark:|`3m.fm`|
 |:white_check_mark:|`3n.fm`|
 |:white_check_mark:|`3o.fm`|
 |:white_check_mark:|`3p.fm`|
@@ -189,7 +171,7 @@
 |:white_check_mark:|`3z.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>4</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>4</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -226,7 +208,6 @@
 |:white_check_mark:|`4u.fm`|
 |:white_check_mark:|`4v.fm`|
 |:white_check_mark:|`4w.fm`|
-|:white_check_mark:|`4x.fm`|
 |:white_check_mark:|`4y.fm`|
 |:white_check_mark:|`4z.fm`|
 </details>
@@ -315,7 +296,7 @@
 |:white_check_mark:|`6z.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>7</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -327,7 +308,6 @@
 |:white_check_mark:|`75.fm`|
 |:white_check_mark:|`76.fm`|
 |:white_check_mark:|`77.fm`|
-|:white_check_mark:|`78.fm`|
 |:white_check_mark:|`79.fm`|
 |:white_check_mark:|`7a.fm`|
 |:white_check_mark:|`7b.fm`|
@@ -357,11 +337,10 @@
 |:white_check_mark:|`7z.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`80.fm`|
 |:white_check_mark:|`81.fm`|
 |:white_check_mark:|`82.fm`|
 |:white_check_mark:|`83.fm`|
@@ -369,7 +348,7 @@
 |:white_check_mark:|`85.fm`|
 |:white_check_mark:|`86.fm`|
 |:white_check_mark:|`87.fm`|
-|:white_check_mark:|`88.fm`|
+|:gem:|`88.fm`|
 |:white_check_mark:|`89.fm`|
 |:white_check_mark:|`8a.fm`|
 |:white_check_mark:|`8b.fm`|
@@ -399,7 +378,7 @@
 |:white_check_mark:|`8z.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>9</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -412,7 +391,6 @@
 |:white_check_mark:|`96.fm`|
 |:white_check_mark:|`97.fm`|
 |:white_check_mark:|`98.fm`|
-|:white_check_mark:|`99.fm`|
 |:white_check_mark:|`9a.fm`|
 |:white_check_mark:|`9b.fm`|
 |:white_check_mark:|`9c.fm`|
@@ -441,12 +419,13 @@
 |:white_check_mark:|`9z.fm`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`a0.fm`|
 |:white_check_mark:|`a1.fm`|
+|:white_check_mark:|`a2.fm`|
 |:white_check_mark:|`a3.fm`|
 |:white_check_mark:|`a4.fm`|
 |:white_check_mark:|`a5.fm`|
@@ -464,6 +443,7 @@
 |:white_check_mark:|`al.fm`|
 |:white_check_mark:|`an.fm`|
 |:white_check_mark:|`ao.fm`|
+|:white_check_mark:|`ap.fm`|
 |:white_check_mark:|`aq.fm`|
 |:white_check_mark:|`ar.fm`|
 |:white_check_mark:|`as.fm`|
@@ -511,7 +491,7 @@
 |:white_check_mark:|`bx.fm`|
 </details>
 <details>
-<summary>29 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -527,6 +507,7 @@
 |:white_check_mark:|`ca.fm`|
 |:white_check_mark:|`cb.fm`|
 |:gem:|`cc.fm`|
+|:white_check_mark:|`cd.fm`|
 |:white_check_mark:|`ce.fm`|
 |:white_check_mark:|`cf.fm`|
 |:white_check_mark:|`cg.fm`|
@@ -585,14 +566,13 @@
 |:white_check_mark:|`dz.fm`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`e0.fm`|
 |:white_check_mark:|`e1.fm`|
 |:white_check_mark:|`e2.fm`|
-|:white_check_mark:|`e3.fm`|
 |:white_check_mark:|`e4.fm`|
 |:white_check_mark:|`e5.fm`|
 |:white_check_mark:|`e6.fm`|
@@ -613,19 +593,17 @@
 |:white_check_mark:|`en.fm`|
 |:white_check_mark:|`eo.fm`|
 |:white_check_mark:|`ep.fm`|
-|:white_check_mark:|`eq.fm`|
 |:white_check_mark:|`er.fm`|
 |:white_check_mark:|`es.fm`|
 |:white_check_mark:|`et.fm`|
 |:white_check_mark:|`eu.fm`|
 |:white_check_mark:|`ev.fm`|
 |:white_check_mark:|`ew.fm`|
-|:white_check_mark:|`ex.fm`|
+|:gem:|`ex.fm`|
 |:white_check_mark:|`ey.fm`|
-|:white_check_mark:|`ez.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -640,34 +618,30 @@
 |:white_check_mark:|`f8.fm`|
 |:white_check_mark:|`f9.fm`|
 |:white_check_mark:|`fa.fm`|
-|:white_check_mark:|`fb.fm`|
 |:white_check_mark:|`fc.fm`|
 |:white_check_mark:|`fd.fm`|
 |:white_check_mark:|`fe.fm`|
-|:white_check_mark:|`ff.fm`|
 |:white_check_mark:|`fg.fm`|
 |:white_check_mark:|`fh.fm`|
 |:white_check_mark:|`fi.fm`|
 |:white_check_mark:|`fj.fm`|
 |:white_check_mark:|`fk.fm`|
 |:white_check_mark:|`fl.fm`|
-|:white_check_mark:|`fm.fm`|
 |:white_check_mark:|`fn.fm`|
 |:white_check_mark:|`fo.fm`|
 |:white_check_mark:|`fp.fm`|
 |:white_check_mark:|`fq.fm`|
-|:white_check_mark:|`fr.fm`|
+|:gem:|`fr.fm`|
 |:white_check_mark:|`fs.fm`|
 |:white_check_mark:|`ft.fm`|
 |:white_check_mark:|`fu.fm`|
 |:white_check_mark:|`fv.fm`|
 |:white_check_mark:|`fw.fm`|
-|:white_check_mark:|`fx.fm`|
 |:white_check_mark:|`fy.fm`|
 |:white_check_mark:|`fz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -688,19 +662,15 @@
 |:white_check_mark:|`ge.fm`|
 |:white_check_mark:|`gf.fm`|
 |:white_check_mark:|`gg.fm`|
-|:white_check_mark:|`gh.fm`|
 |:white_check_mark:|`gi.fm`|
 |:white_check_mark:|`gj.fm`|
 |:white_check_mark:|`gk.fm`|
 |:white_check_mark:|`gl.fm`|
 |:white_check_mark:|`gm.fm`|
 |:white_check_mark:|`gn.fm`|
-|:white_check_mark:|`go.fm`|
 |:white_check_mark:|`gp.fm`|
 |:white_check_mark:|`gq.fm`|
-|:white_check_mark:|`gr.fm`|
-|:white_check_mark:|`gs.fm`|
-|:white_check_mark:|`gt.fm`|
+|:gem:|`gr.fm`|
 |:white_check_mark:|`gu.fm`|
 |:white_check_mark:|`gv.fm`|
 |:white_check_mark:|`gw.fm`|
@@ -709,12 +679,11 @@
 |:white_check_mark:|`gz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`h0.fm`|
-|:white_check_mark:|`h1.fm`|
 |:white_check_mark:|`h2.fm`|
 |:white_check_mark:|`h3.fm`|
 |:white_check_mark:|`h4.fm`|
@@ -723,35 +692,24 @@
 |:white_check_mark:|`h7.fm`|
 |:white_check_mark:|`h8.fm`|
 |:white_check_mark:|`h9.fm`|
-|:white_check_mark:|`ha.fm`|
-|:white_check_mark:|`hb.fm`|
-|:white_check_mark:|`hc.fm`|
-|:white_check_mark:|`hd.fm`|
 |:white_check_mark:|`he.fm`|
 |:white_check_mark:|`hf.fm`|
-|:white_check_mark:|`hg.fm`|
 |:white_check_mark:|`hh.fm`|
-|:white_check_mark:|`hi.fm`|
+|:gem:|`hi.fm`|
 |:white_check_mark:|`hj.fm`|
 |:white_check_mark:|`hk.fm`|
 |:white_check_mark:|`hl.fm`|
 |:white_check_mark:|`hm.fm`|
-|:white_check_mark:|`hn.fm`|
-|:white_check_mark:|`ho.fm`|
 |:white_check_mark:|`hp.fm`|
 |:white_check_mark:|`hq.fm`|
-|:white_check_mark:|`hr.fm`|
 |:white_check_mark:|`hs.fm`|
-|:white_check_mark:|`ht.fm`|
-|:white_check_mark:|`hu.fm`|
 |:white_check_mark:|`hv.fm`|
 |:white_check_mark:|`hw.fm`|
 |:white_check_mark:|`hx.fm`|
 |:white_check_mark:|`hy.fm`|
-|:white_check_mark:|`hz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -767,23 +725,15 @@
 |:white_check_mark:|`i9.fm`|
 |:white_check_mark:|`ia.fm`|
 |:white_check_mark:|`ib.fm`|
-|:white_check_mark:|`ic.fm`|
-|:white_check_mark:|`id.fm`|
-|:white_check_mark:|`ie.fm`|
-|:white_check_mark:|`if.fm`|
+|:gem:|`ic.fm`|
+|:gem:|`id.fm`|
 |:white_check_mark:|`ig.fm`|
 |:white_check_mark:|`ih.fm`|
-|:white_check_mark:|`ii.fm`|
+|:gem:|`ii.fm`|
 |:white_check_mark:|`ij.fm`|
 |:white_check_mark:|`ik.fm`|
 |:white_check_mark:|`il.fm`|
-|:white_check_mark:|`im.fm`|
-|:white_check_mark:|`in.fm`|
-|:white_check_mark:|`io.fm`|
-|:white_check_mark:|`ip.fm`|
-|:white_check_mark:|`iq.fm`|
 |:white_check_mark:|`ir.fm`|
-|:white_check_mark:|`is.fm`|
 |:white_check_mark:|`it.fm`|
 |:white_check_mark:|`iu.fm`|
 |:white_check_mark:|`iv.fm`|
@@ -793,7 +743,7 @@
 |:white_check_mark:|`iz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -807,17 +757,14 @@
 |:white_check_mark:|`j7.fm`|
 |:white_check_mark:|`j8.fm`|
 |:white_check_mark:|`j9.fm`|
-|:white_check_mark:|`ja.fm`|
-|:white_check_mark:|`jb.fm`|
-|:white_check_mark:|`jc.fm`|
-|:white_check_mark:|`jd.fm`|
+|:gem:|`ja.fm`|
 |:white_check_mark:|`je.fm`|
 |:white_check_mark:|`jf.fm`|
 |:white_check_mark:|`jg.fm`|
 |:white_check_mark:|`jh.fm`|
 |:white_check_mark:|`ji.fm`|
-|:white_check_mark:|`jj.fm`|
-|:white_check_mark:|`jk.fm`|
+|:gem:|`jj.fm`|
+|:gem:|`jk.fm`|
 |:white_check_mark:|`jl.fm`|
 |:white_check_mark:|`jm.fm`|
 |:white_check_mark:|`jn.fm`|
@@ -830,12 +777,11 @@
 |:white_check_mark:|`ju.fm`|
 |:white_check_mark:|`jv.fm`|
 |:white_check_mark:|`jw.fm`|
-|:white_check_mark:|`jx.fm`|
 |:white_check_mark:|`jy.fm`|
 |:white_check_mark:|`jz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>29 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -850,34 +796,27 @@
 |:white_check_mark:|`k8.fm`|
 |:white_check_mark:|`k9.fm`|
 |:white_check_mark:|`ka.fm`|
-|:white_check_mark:|`kb.fm`|
 |:white_check_mark:|`kc.fm`|
 |:white_check_mark:|`kd.fm`|
-|:white_check_mark:|`ke.fm`|
 |:white_check_mark:|`kf.fm`|
 |:white_check_mark:|`kg.fm`|
 |:white_check_mark:|`kh.fm`|
 |:white_check_mark:|`ki.fm`|
 |:white_check_mark:|`kj.fm`|
-|:white_check_mark:|`kk.fm`|
 |:white_check_mark:|`kl.fm`|
-|:white_check_mark:|`km.fm`|
 |:white_check_mark:|`kn.fm`|
 |:white_check_mark:|`ko.fm`|
 |:white_check_mark:|`kp.fm`|
 |:white_check_mark:|`kq.fm`|
 |:white_check_mark:|`kr.fm`|
 |:white_check_mark:|`ks.fm`|
-|:white_check_mark:|`kt.fm`|
 |:white_check_mark:|`ku.fm`|
 |:white_check_mark:|`kv.fm`|
 |:white_check_mark:|`kw.fm`|
-|:white_check_mark:|`kx.fm`|
-|:white_check_mark:|`ky.fm`|
 |:white_check_mark:|`kz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -893,25 +832,17 @@
 |:white_check_mark:|`l9.fm`|
 |:white_check_mark:|`la.fm`|
 |:white_check_mark:|`lb.fm`|
-|:white_check_mark:|`lc.fm`|
 |:white_check_mark:|`ld.fm`|
 |:white_check_mark:|`le.fm`|
-|:white_check_mark:|`lf.fm`|
-|:white_check_mark:|`lg.fm`|
 |:white_check_mark:|`lh.fm`|
 |:white_check_mark:|`li.fm`|
 |:white_check_mark:|`lj.fm`|
-|:white_check_mark:|`lk.fm`|
+|:gem:|`lk.fm`|
 |:white_check_mark:|`ll.fm`|
-|:white_check_mark:|`lm.fm`|
 |:white_check_mark:|`ln.fm`|
-|:white_check_mark:|`lo.fm`|
-|:white_check_mark:|`lp.fm`|
 |:white_check_mark:|`lq.fm`|
 |:white_check_mark:|`lr.fm`|
 |:white_check_mark:|`ls.fm`|
-|:white_check_mark:|`lt.fm`|
-|:white_check_mark:|`lu.fm`|
 |:white_check_mark:|`lv.fm`|
 |:white_check_mark:|`lw.fm`|
 |:white_check_mark:|`lx.fm`|
@@ -919,12 +850,11 @@
 |:white_check_mark:|`lz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`m0.fm`|
-|:white_check_mark:|`m1.fm`|
 |:white_check_mark:|`m2.fm`|
 |:white_check_mark:|`m3.fm`|
 |:white_check_mark:|`m4.fm`|
@@ -935,33 +865,21 @@
 |:white_check_mark:|`m9.fm`|
 |:white_check_mark:|`ma.fm`|
 |:white_check_mark:|`mb.fm`|
-|:white_check_mark:|`mc.fm`|
-|:white_check_mark:|`md.fm`|
-|:white_check_mark:|`me.fm`|
-|:white_check_mark:|`mf.fm`|
-|:white_check_mark:|`mg.fm`|
-|:white_check_mark:|`mh.fm`|
+|:gem:|`md.fm`|
+|:gem:|`me.fm`|
 |:white_check_mark:|`mi.fm`|
-|:white_check_mark:|`mj.fm`|
-|:white_check_mark:|`mk.fm`|
-|:white_check_mark:|`ml.fm`|
-|:white_check_mark:|`mm.fm`|
 |:white_check_mark:|`mn.fm`|
 |:white_check_mark:|`mo.fm`|
-|:white_check_mark:|`mp.fm`|
 |:white_check_mark:|`mq.fm`|
-|:white_check_mark:|`mr.fm`|
-|:white_check_mark:|`ms.fm`|
+|:gem:|`ms.fm`|
 |:white_check_mark:|`mt.fm`|
-|:white_check_mark:|`mu.fm`|
 |:white_check_mark:|`mv.fm`|
-|:white_check_mark:|`mw.fm`|
 |:white_check_mark:|`mx.fm`|
 |:white_check_mark:|`my.fm`|
 |:white_check_mark:|`mz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -973,37 +891,31 @@
 |:white_check_mark:|`n5.fm`|
 |:white_check_mark:|`n6.fm`|
 |:white_check_mark:|`n7.fm`|
-|:white_check_mark:|`n8.fm`|
+|:gem:|`n8.fm`|
 |:white_check_mark:|`n9.fm`|
 |:white_check_mark:|`na.fm`|
 |:white_check_mark:|`nb.fm`|
-|:white_check_mark:|`nc.fm`|
+|:gem:|`nc.fm`|
 |:white_check_mark:|`nd.fm`|
-|:white_check_mark:|`ne.fm`|
+|:gem:|`ne.fm`|
 |:white_check_mark:|`nf.fm`|
-|:white_check_mark:|`ng.fm`|
+|:gem:|`ng.fm`|
 |:white_check_mark:|`nh.fm`|
-|:white_check_mark:|`ni.fm`|
+|:gem:|`ni.fm`|
 |:white_check_mark:|`nj.fm`|
 |:white_check_mark:|`nk.fm`|
 |:white_check_mark:|`nl.fm`|
 |:white_check_mark:|`nm.fm`|
 |:white_check_mark:|`nn.fm`|
-|:white_check_mark:|`no.fm`|
-|:white_check_mark:|`np.fm`|
 |:white_check_mark:|`nq.fm`|
-|:white_check_mark:|`nr.fm`|
 |:white_check_mark:|`ns.fm`|
-|:white_check_mark:|`nt.fm`|
-|:white_check_mark:|`nu.fm`|
-|:white_check_mark:|`nv.fm`|
+|:gem:|`nu.fm`|
 |:white_check_mark:|`nw.fm`|
 |:white_check_mark:|`nx.fm`|
-|:white_check_mark:|`ny.fm`|
 |:white_check_mark:|`nz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>27 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1014,7 +926,6 @@
 |:white_check_mark:|`o4.fm`|
 |:white_check_mark:|`o5.fm`|
 |:white_check_mark:|`o6.fm`|
-|:white_check_mark:|`o7.fm`|
 |:white_check_mark:|`o8.fm`|
 |:white_check_mark:|`o9.fm`|
 |:white_check_mark:|`oa.fm`|
@@ -1022,30 +933,22 @@
 |:white_check_mark:|`oc.fm`|
 |:white_check_mark:|`od.fm`|
 |:white_check_mark:|`oe.fm`|
-|:white_check_mark:|`of.fm`|
-|:white_check_mark:|`og.fm`|
-|:white_check_mark:|`oh.fm`|
+|:gem:|`of.fm`|
 |:white_check_mark:|`oi.fm`|
 |:white_check_mark:|`oj.fm`|
 |:white_check_mark:|`ok.fm`|
 |:white_check_mark:|`ol.fm`|
-|:white_check_mark:|`om.fm`|
 |:white_check_mark:|`on.fm`|
-|:white_check_mark:|`oo.fm`|
-|:white_check_mark:|`op.fm`|
+|:gem:|`op.fm`|
 |:white_check_mark:|`oq.fm`|
-|:white_check_mark:|`or.fm`|
 |:white_check_mark:|`os.fm`|
 |:white_check_mark:|`ot.fm`|
 |:white_check_mark:|`ou.fm`|
 |:white_check_mark:|`ov.fm`|
-|:white_check_mark:|`ow.fm`|
-|:white_check_mark:|`ox.fm`|
-|:white_check_mark:|`oy.fm`|
 |:white_check_mark:|`oz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1061,33 +964,23 @@
 |:white_check_mark:|`p9.fm`|
 |:white_check_mark:|`pa.fm`|
 |:white_check_mark:|`pb.fm`|
-|:white_check_mark:|`pc.fm`|
-|:white_check_mark:|`pd.fm`|
+|:gem:|`pc.fm`|
 |:white_check_mark:|`pe.fm`|
 |:white_check_mark:|`pf.fm`|
-|:white_check_mark:|`pg.fm`|
 |:white_check_mark:|`ph.fm`|
 |:white_check_mark:|`pi.fm`|
-|:white_check_mark:|`pj.fm`|
 |:white_check_mark:|`pk.fm`|
-|:white_check_mark:|`pl.fm`|
-|:white_check_mark:|`pm.fm`|
-|:white_check_mark:|`pn.fm`|
+|:gem:|`pn.fm`|
 |:white_check_mark:|`po.fm`|
-|:white_check_mark:|`pp.fm`|
 |:white_check_mark:|`pq.fm`|
-|:white_check_mark:|`pr.fm`|
-|:white_check_mark:|`ps.fm`|
-|:white_check_mark:|`pt.fm`|
 |:white_check_mark:|`pu.fm`|
 |:white_check_mark:|`pv.fm`|
-|:white_check_mark:|`pw.fm`|
 |:white_check_mark:|`px.fm`|
 |:white_check_mark:|`py.fm`|
 |:white_check_mark:|`pz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>29 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1101,9 +994,7 @@
 |:white_check_mark:|`q7.fm`|
 |:white_check_mark:|`q8.fm`|
 |:white_check_mark:|`q9.fm`|
-|:white_check_mark:|`qa.fm`|
 |:white_check_mark:|`qb.fm`|
-|:white_check_mark:|`qc.fm`|
 |:white_check_mark:|`qd.fm`|
 |:white_check_mark:|`qe.fm`|
 |:white_check_mark:|`qf.fm`|
@@ -1113,14 +1004,9 @@
 |:white_check_mark:|`qj.fm`|
 |:white_check_mark:|`qk.fm`|
 |:white_check_mark:|`ql.fm`|
-|:white_check_mark:|`qm.fm`|
 |:white_check_mark:|`qn.fm`|
 |:white_check_mark:|`qo.fm`|
 |:white_check_mark:|`qp.fm`|
-|:white_check_mark:|`qq.fm`|
-|:white_check_mark:|`qr.fm`|
-|:white_check_mark:|`qs.fm`|
-|:white_check_mark:|`qt.fm`|
 |:white_check_mark:|`qu.fm`|
 |:white_check_mark:|`qv.fm`|
 |:white_check_mark:|`qw.fm`|
@@ -1129,91 +1015,73 @@
 |:white_check_mark:|`qz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`r0.fm`|
 |:white_check_mark:|`r1.fm`|
-|:white_check_mark:|`r2.fm`|
 |:white_check_mark:|`r3.fm`|
 |:white_check_mark:|`r4.fm`|
 |:white_check_mark:|`r5.fm`|
 |:white_check_mark:|`r6.fm`|
-|:white_check_mark:|`r7.fm`|
+|:gem:|`r7.fm`|
 |:white_check_mark:|`r8.fm`|
 |:white_check_mark:|`r9.fm`|
-|:white_check_mark:|`ra.fm`|
 |:white_check_mark:|`rb.fm`|
-|:white_check_mark:|`rc.fm`|
-|:white_check_mark:|`rd.fm`|
-|:white_check_mark:|`re.fm`|
 |:white_check_mark:|`rf.fm`|
 |:white_check_mark:|`rg.fm`|
-|:white_check_mark:|`rh.fm`|
+|:gem:|`rh.fm`|
 |:white_check_mark:|`ri.fm`|
 |:white_check_mark:|`rj.fm`|
 |:white_check_mark:|`rk.fm`|
 |:white_check_mark:|`rl.fm`|
-|:white_check_mark:|`rm.fm`|
 |:white_check_mark:|`rn.fm`|
-|:white_check_mark:|`ro.fm`|
 |:white_check_mark:|`rp.fm`|
 |:white_check_mark:|`rq.fm`|
-|:white_check_mark:|`rr.fm`|
-|:white_check_mark:|`rs.fm`|
-|:white_check_mark:|`rt.fm`|
-|:white_check_mark:|`ru.fm`|
 |:white_check_mark:|`rv.fm`|
 |:white_check_mark:|`rw.fm`|
 |:white_check_mark:|`rx.fm`|
 |:white_check_mark:|`ry.fm`|
-|:white_check_mark:|`rz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`s0.fm`|
 |:white_check_mark:|`s1.fm`|
 |:white_check_mark:|`s2.fm`|
-|:white_check_mark:|`s3.fm`|
 |:white_check_mark:|`s4.fm`|
 |:white_check_mark:|`s5.fm`|
 |:white_check_mark:|`s6.fm`|
 |:white_check_mark:|`s7.fm`|
 |:white_check_mark:|`s8.fm`|
 |:white_check_mark:|`s9.fm`|
-|:white_check_mark:|`sa.fm`|
 |:white_check_mark:|`sb.fm`|
-|:white_check_mark:|`sc.fm`|
 |:white_check_mark:|`sd.fm`|
 |:white_check_mark:|`se.fm`|
 |:white_check_mark:|`sf.fm`|
 |:white_check_mark:|`sg.fm`|
-|:white_check_mark:|`sh.fm`|
 |:white_check_mark:|`si.fm`|
 |:white_check_mark:|`sj.fm`|
 |:white_check_mark:|`sk.fm`|
 |:white_check_mark:|`sl.fm`|
 |:white_check_mark:|`sm.fm`|
 |:white_check_mark:|`sn.fm`|
-|:white_check_mark:|`so.fm`|
+|:gem:|`so.fm`|
 |:white_check_mark:|`sp.fm`|
 |:white_check_mark:|`sq.fm`|
 |:white_check_mark:|`sr.fm`|
-|:white_check_mark:|`ss.fm`|
 |:white_check_mark:|`st.fm`|
 |:white_check_mark:|`su.fm`|
 |:white_check_mark:|`sv.fm`|
 |:white_check_mark:|`sw.fm`|
-|:white_check_mark:|`sx.fm`|
 |:white_check_mark:|`sy.fm`|
 |:white_check_mark:|`sz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1228,7 +1096,6 @@
 |:white_check_mark:|`t8.fm`|
 |:white_check_mark:|`t9.fm`|
 |:white_check_mark:|`ta.fm`|
-|:white_check_mark:|`tb.fm`|
 |:white_check_mark:|`tc.fm`|
 |:white_check_mark:|`td.fm`|
 |:white_check_mark:|`te.fm`|
@@ -1241,27 +1108,22 @@
 |:white_check_mark:|`tl.fm`|
 |:white_check_mark:|`tm.fm`|
 |:white_check_mark:|`tn.fm`|
-|:white_check_mark:|`to.fm`|
+|:gem:|`to.fm`|
 |:white_check_mark:|`tp.fm`|
 |:white_check_mark:|`tq.fm`|
 |:white_check_mark:|`tr.fm`|
-|:white_check_mark:|`ts.fm`|
-|:white_check_mark:|`tt.fm`|
 |:white_check_mark:|`tu.fm`|
-|:white_check_mark:|`tv.fm`|
-|:white_check_mark:|`tw.fm`|
-|:white_check_mark:|`tx.fm`|
-|:white_check_mark:|`ty.fm`|
+|:gem:|`ty.fm`|
 |:white_check_mark:|`tz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`u0.fm`|
 |:white_check_mark:|`u1.fm`|
-|:white_check_mark:|`u2.fm`|
+|:gem:|`u2.fm`|
 |:white_check_mark:|`u3.fm`|
 |:white_check_mark:|`u4.fm`|
 |:white_check_mark:|`u5.fm`|
@@ -1269,25 +1131,19 @@
 |:white_check_mark:|`u7.fm`|
 |:white_check_mark:|`u8.fm`|
 |:white_check_mark:|`u9.fm`|
-|:white_check_mark:|`ua.fm`|
 |:white_check_mark:|`ub.fm`|
-|:white_check_mark:|`uc.fm`|
 |:white_check_mark:|`ud.fm`|
 |:white_check_mark:|`ue.fm`|
 |:white_check_mark:|`uf.fm`|
-|:white_check_mark:|`ug.fm`|
+|:gem:|`ug.fm`|
 |:white_check_mark:|`uh.fm`|
 |:white_check_mark:|`ui.fm`|
 |:white_check_mark:|`uj.fm`|
-|:white_check_mark:|`uk.fm`|
 |:white_check_mark:|`ul.fm`|
 |:white_check_mark:|`um.fm`|
 |:white_check_mark:|`un.fm`|
 |:white_check_mark:|`uo.fm`|
-|:white_check_mark:|`up.fm`|
 |:white_check_mark:|`uq.fm`|
-|:white_check_mark:|`ur.fm`|
-|:white_check_mark:|`us.fm`|
 |:white_check_mark:|`ut.fm`|
 |:white_check_mark:|`uu.fm`|
 |:white_check_mark:|`uv.fm`|
@@ -1297,13 +1153,12 @@
 |:white_check_mark:|`uz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>29 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`v0.fm`|
 |:white_check_mark:|`v1.fm`|
-|:white_check_mark:|`v2.fm`|
 |:white_check_mark:|`v3.fm`|
 |:white_check_mark:|`v4.fm`|
 |:white_check_mark:|`v5.fm`|
@@ -1313,18 +1168,13 @@
 |:white_check_mark:|`v9.fm`|
 |:white_check_mark:|`va.fm`|
 |:white_check_mark:|`vb.fm`|
-|:white_check_mark:|`vc.fm`|
-|:white_check_mark:|`vd.fm`|
 |:white_check_mark:|`ve.fm`|
 |:white_check_mark:|`vf.fm`|
 |:white_check_mark:|`vg.fm`|
 |:white_check_mark:|`vh.fm`|
 |:white_check_mark:|`vi.fm`|
-|:white_check_mark:|`vj.fm`|
-|:white_check_mark:|`vk.fm`|
 |:white_check_mark:|`vl.fm`|
-|:white_check_mark:|`vm.fm`|
-|:white_check_mark:|`vn.fm`|
+|:gem:|`vm.fm`|
 |:white_check_mark:|`vo.fm`|
 |:white_check_mark:|`vp.fm`|
 |:white_check_mark:|`vq.fm`|
@@ -1332,14 +1182,13 @@
 |:white_check_mark:|`vs.fm`|
 |:white_check_mark:|`vt.fm`|
 |:white_check_mark:|`vu.fm`|
-|:white_check_mark:|`vv.fm`|
 |:white_check_mark:|`vw.fm`|
 |:white_check_mark:|`vx.fm`|
 |:white_check_mark:|`vy.fm`|
 |:white_check_mark:|`vz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1354,10 +1203,8 @@
 |:white_check_mark:|`w8.fm`|
 |:white_check_mark:|`w9.fm`|
 |:white_check_mark:|`wa.fm`|
-|:white_check_mark:|`wb.fm`|
 |:white_check_mark:|`wc.fm`|
 |:white_check_mark:|`wd.fm`|
-|:white_check_mark:|`we.fm`|
 |:white_check_mark:|`wf.fm`|
 |:white_check_mark:|`wg.fm`|
 |:white_check_mark:|`wh.fm`|
@@ -1365,23 +1212,21 @@
 |:white_check_mark:|`wj.fm`|
 |:white_check_mark:|`wk.fm`|
 |:white_check_mark:|`wl.fm`|
-|:white_check_mark:|`wm.fm`|
+|:gem:|`wm.fm`|
 |:white_check_mark:|`wn.fm`|
 |:white_check_mark:|`wo.fm`|
-|:white_check_mark:|`wp.fm`|
 |:white_check_mark:|`wq.fm`|
 |:white_check_mark:|`wr.fm`|
 |:white_check_mark:|`ws.fm`|
 |:white_check_mark:|`wt.fm`|
 |:white_check_mark:|`wu.fm`|
 |:white_check_mark:|`wv.fm`|
-|:white_check_mark:|`ww.fm`|
 |:white_check_mark:|`wx.fm`|
 |:white_check_mark:|`wy.fm`|
 |:white_check_mark:|`wz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1409,7 +1254,6 @@
 |:white_check_mark:|`xl.fm`|
 |:white_check_mark:|`xm.fm`|
 |:white_check_mark:|`xn.fm`|
-|:white_check_mark:|`xo.fm`|
 |:white_check_mark:|`xp.fm`|
 |:white_check_mark:|`xq.fm`|
 |:white_check_mark:|`xr.fm`|
@@ -1418,27 +1262,22 @@
 |:white_check_mark:|`xu.fm`|
 |:white_check_mark:|`xv.fm`|
 |:white_check_mark:|`xw.fm`|
-|:white_check_mark:|`xx.fm`|
-|:white_check_mark:|`xy.fm`|
 |:white_check_mark:|`xz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`y0.fm`|
 |:white_check_mark:|`y1.fm`|
 |:white_check_mark:|`y2.fm`|
-|:white_check_mark:|`y3.fm`|
 |:white_check_mark:|`y4.fm`|
 |:white_check_mark:|`y5.fm`|
 |:white_check_mark:|`y6.fm`|
 |:white_check_mark:|`y7.fm`|
-|:white_check_mark:|`y8.fm`|
 |:white_check_mark:|`y9.fm`|
 |:white_check_mark:|`ya.fm`|
-|:white_check_mark:|`yb.fm`|
 |:white_check_mark:|`yc.fm`|
 |:white_check_mark:|`yd.fm`|
 |:white_check_mark:|`ye.fm`|
@@ -1451,28 +1290,23 @@
 |:white_check_mark:|`yl.fm`|
 |:white_check_mark:|`ym.fm`|
 |:white_check_mark:|`yn.fm`|
-|:white_check_mark:|`yo.fm`|
 |:white_check_mark:|`yp.fm`|
 |:white_check_mark:|`yq.fm`|
 |:white_check_mark:|`yr.fm`|
 |:white_check_mark:|`ys.fm`|
 |:white_check_mark:|`yt.fm`|
-|:white_check_mark:|`yu.fm`|
+|:gem:|`yu.fm`|
 |:white_check_mark:|`yv.fm`|
 |:white_check_mark:|`yw.fm`|
 |:white_check_mark:|`yx.fm`|
-|:white_check_mark:|`yy.fm`|
 |:white_check_mark:|`yz.fm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>z</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>z</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`z0.fm`|
-|:white_check_mark:|`z1.fm`|
-|:white_check_mark:|`z2.fm`|
-|:white_check_mark:|`z3.fm`|
 |:white_check_mark:|`z4.fm`|
 |:white_check_mark:|`z5.fm`|
 |:white_check_mark:|`z6.fm`|
@@ -1484,12 +1318,10 @@
 |:white_check_mark:|`zc.fm`|
 |:white_check_mark:|`zd.fm`|
 |:white_check_mark:|`ze.fm`|
-|:white_check_mark:|`zf.fm`|
 |:white_check_mark:|`zg.fm`|
 |:white_check_mark:|`zh.fm`|
 |:white_check_mark:|`zi.fm`|
 |:white_check_mark:|`zj.fm`|
-|:white_check_mark:|`zk.fm`|
 |:white_check_mark:|`zl.fm`|
 |:white_check_mark:|`zm.fm`|
 |:white_check_mark:|`zn.fm`|
@@ -1500,7 +1332,6 @@
 |:white_check_mark:|`zs.fm`|
 |:white_check_mark:|`zt.fm`|
 |:white_check_mark:|`zu.fm`|
-|:white_check_mark:|`zv.fm`|
 |:white_check_mark:|`zw.fm`|
 |:white_check_mark:|`zx.fm`|
 |:white_check_mark:|`zy.fm`|

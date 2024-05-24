@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.an`
 
-## Data last updated: 05/23/2024, 17:46:24
+## Data last updated: 05/24/2024, 12:18:41
 
 |Stat|Amount|
 |--|--|

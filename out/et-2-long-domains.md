@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.et`
 
-## Data last updated: 05/23/2024, 17:48:45
+## Data last updated: 05/24/2024, 13:45:47
 
 |Stat|Amount|
 |--|--|
