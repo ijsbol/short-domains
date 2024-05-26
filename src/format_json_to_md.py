@@ -2,10 +2,11 @@ from collections import defaultdict
 from datetime import datetime, timezone
 import json
 import glob
+import os
 import pathlib
 from typing import Callable, Final, TypedDict
 
-from constants import LAST_UPDATED_KEY, DomainStatus
+from utils import LAST_UPDATED_KEY, DomainStatus, generate_strings_to_check
 
 
 EMOJIS: Final[dict[int, str]] = {
@@ -108,6 +109,11 @@ def format_data_to_md(domain_data: dict[str, int], tld: str, length: int) -> str
 
 
 def main() -> None:
+    old_md_files = glob.glob("out/*.md")
+    for old_md_file_path in old_md_files:
+        md_file_path = pathlib.Path(old_md_file_path)
+        os.remove(md_file_path)
+
     json_data_files = glob.glob("_data/json/*.json")
     raw_stats: RawStats = {
         "tlds_tracked": set(),
@@ -128,6 +134,28 @@ def main() -> None:
         raw_file_name = file_path.name.removesuffix(".json")
         tld = raw_file_name.split("-")[0]
         length = int(raw_file_name.split("-")[1])
+
+        clone_domain_json_data = domain_json_data.copy()
+        del clone_domain_json_data[LAST_UPDATED_KEY]
+        unregistered_domains = 0
+        registered_domains = 0
+        raw_file_name = file_path.name.removesuffix(".json")
+        length = int(raw_file_name.split("-")[1])
+        max_available_domains = len(generate_strings_to_check(length))
+        for domain in clone_domain_json_data:
+            if clone_domain_json_data[domain] == DomainStatus.REGISTERED.value:
+                registered_domains += 1
+            elif clone_domain_json_data[domain] in [
+                DomainStatus.UNREGISTERED.value,
+                DomainStatus.AVAILABLE_FOR_APPLICATION.value,
+                DomainStatus.PREMIUM.value,
+            ]:
+                unregistered_domains += 1
+        if (
+            unregistered_domains == max_available_domains
+            or unregistered_domains == 0
+        ):
+            continue
 
         raw_stats["tlds_tracked"].add(tld)
 

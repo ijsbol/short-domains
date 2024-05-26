@@ -7,13 +7,7 @@ import time
 
 import whois
 
-from constants import LAST_UPDATED_KEY, DomainStatus
-
-
-def generate_strings_to_check(size: int) -> list[str]:
-    """Generate all possible x-length domain combinations."""
-    letters = string.ascii_lowercase + string.digits
-    return [''.join(s) for s in itertools.product(letters, repeat=size)]
+from utils import LAST_UPDATED_KEY, DomainStatus, generate_strings_to_check
 
 
 def check_domain_registration(domain: str, tld: str, *, depth: int = 1) -> DomainStatus:
