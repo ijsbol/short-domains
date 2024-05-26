@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.tr`
 
-## Data last updated: 05/23/2024, 17:58:16
+## Data last updated: 05/26/2024, 14:28:14
 
 |Stat|Amount|
 |--|--|
-|Registered domains|67|
-|Unregistered domains|1229|
+|Registered domains|57|
+|Unregistered domains|1239|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|5.17%|
+|Registration rate|4.4%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -438,7 +438,7 @@
 |:white_check_mark:|`9z.tr`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -469,6 +469,7 @@
 |:white_check_mark:|`ar.tr`|
 |:white_check_mark:|`as.tr`|
 |:white_check_mark:|`at.tr`|
+|:white_check_mark:|`au.tr`|
 |:white_check_mark:|`av.tr`|
 |:white_check_mark:|`aw.tr`|
 |:white_check_mark:|`ax.tr`|
@@ -592,7 +593,7 @@
 |:white_check_mark:|`dz.tr`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -607,6 +608,7 @@
 |:white_check_mark:|`e8.tr`|
 |:white_check_mark:|`e9.tr`|
 |:white_check_mark:|`ea.tr`|
+|:white_check_mark:|`eb.tr`|
 |:white_check_mark:|`ec.tr`|
 |:white_check_mark:|`ed.tr`|
 |:white_check_mark:|`ee.tr`|
@@ -632,7 +634,7 @@
 |:white_check_mark:|`ez.tr`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -647,6 +649,7 @@
 |:white_check_mark:|`f8.tr`|
 |:white_check_mark:|`f9.tr`|
 |:white_check_mark:|`fa.tr`|
+|:white_check_mark:|`fb.tr`|
 |:white_check_mark:|`fc.tr`|
 |:white_check_mark:|`fd.tr`|
 |:white_check_mark:|`fe.tr`|
@@ -752,7 +755,7 @@
 |:white_check_mark:|`hz.tr`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -783,6 +786,7 @@
 |:white_check_mark:|`iq.tr`|
 |:white_check_mark:|`ir.tr`|
 |:white_check_mark:|`it.tr`|
+|:white_check_mark:|`iu.tr`|
 |:white_check_mark:|`iv.tr`|
 |:white_check_mark:|`iw.tr`|
 |:white_check_mark:|`ix.tr`|
@@ -832,7 +836,7 @@
 |:white_check_mark:|`jz.tr`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -846,6 +850,7 @@
 |:white_check_mark:|`k7.tr`|
 |:white_check_mark:|`k8.tr`|
 |:white_check_mark:|`k9.tr`|
+|:white_check_mark:|`ka.tr`|
 |:white_check_mark:|`kb.tr`|
 |:white_check_mark:|`kc.tr`|
 |:white_check_mark:|`kd.tr`|
@@ -912,7 +917,7 @@
 |:white_check_mark:|`lz.tr`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -931,8 +936,10 @@
 |:white_check_mark:|`md.tr`|
 |:white_check_mark:|`mf.tr`|
 |:white_check_mark:|`mg.tr`|
+|:white_check_mark:|`mh.tr`|
 |:white_check_mark:|`mi.tr`|
 |:white_check_mark:|`mj.tr`|
+|:white_check_mark:|`mk.tr`|
 |:white_check_mark:|`ml.tr`|
 |:white_check_mark:|`mm.tr`|
 |:white_check_mark:|`mn.tr`|
@@ -1110,7 +1117,7 @@
 |:white_check_mark:|`qz.tr`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1126,6 +1133,7 @@
 |:white_check_mark:|`r9.tr`|
 |:white_check_mark:|`ra.tr`|
 |:white_check_mark:|`rb.tr`|
+|:white_check_mark:|`rc.tr`|
 |:white_check_mark:|`rd.tr`|
 |:white_check_mark:|`re.tr`|
 |:white_check_mark:|`rf.tr`|
@@ -1151,7 +1159,7 @@
 |:white_check_mark:|`rz.tr`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>29 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1178,6 +1186,7 @@
 |:white_check_mark:|`sq.tr`|
 |:white_check_mark:|`sr.tr`|
 |:white_check_mark:|`ss.tr`|
+|:white_check_mark:|`su.tr`|
 |:white_check_mark:|`sv.tr`|
 |:white_check_mark:|`sw.tr`|
 |:white_check_mark:|`sx.tr`|
@@ -1185,7 +1194,7 @@
 |:white_check_mark:|`sz.tr`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>29 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1211,6 +1220,7 @@
 |:white_check_mark:|`tq.tr`|
 |:white_check_mark:|`tr.tr`|
 |:white_check_mark:|`ts.tr`|
+|:white_check_mark:|`tt.tr`|
 |:white_check_mark:|`tu.tr`|
 |:white_check_mark:|`tv.tr`|
 |:white_check_mark:|`tw.tr`|

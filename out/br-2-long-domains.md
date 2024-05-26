@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.br`
 
-## Data last updated: 05/23/2024, 17:56:13
+## Data last updated: 05/26/2024, 14:28:39
 
 |Stat|Amount|
 |--|--|
-|Registered domains|9|
-|Unregistered domains|1287|
+|Registered domains|7|
+|Unregistered domains|1289|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.69%|
+|Registration rate|0.54%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -940,7 +940,7 @@
 |:white_check_mark:|`lz.br`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -965,6 +965,7 @@
 |:white_check_mark:|`mi.br`|
 |:white_check_mark:|`mj.br`|
 |:white_check_mark:|`mk.br`|
+|:white_check_mark:|`ml.br`|
 |:white_check_mark:|`mm.br`|
 |:white_check_mark:|`mn.br`|
 |:white_check_mark:|`mo.br`|
@@ -1023,7 +1024,7 @@
 |:white_check_mark:|`nz.br`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1050,6 +1051,7 @@
 |:white_check_mark:|`ok.br`|
 |:white_check_mark:|`ol.br`|
 |:white_check_mark:|`om.br`|
+|:white_check_mark:|`on.br`|
 |:white_check_mark:|`oo.br`|
 |:white_check_mark:|`op.br`|
 |:white_check_mark:|`oq.br`|

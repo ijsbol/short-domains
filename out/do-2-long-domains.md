@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.do`
 
-## Data last updated: 05/24/2024, 13:31:46
+## Data last updated: 05/26/2024, 13:39:57
 
 |Stat|Amount|
 |--|--|
@@ -441,36 +441,31 @@
 |:white_check_mark:|`9z.do`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>6 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a1.do`|
-|:white_check_mark:|`a2.do`|
-|:white_check_mark:|`a6.do`|
-|:white_check_mark:|`ac.do`|
 |:white_check_mark:|`ai.do`|
 |:white_check_mark:|`aj.do`|
-|:white_check_mark:|`ao.do`|
 |:white_check_mark:|`ap.do`|
-|:white_check_mark:|`aq.do`|
-|:white_check_mark:|`as.do`|
+|:white_check_mark:|`at.do`|
+|:white_check_mark:|`ax.do`|
+|:white_check_mark:|`az.do`|
 </details>
 <details>
-<summary>7 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>6 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`b6.do`|
+|:white_check_mark:|`b0.do`|
+|:white_check_mark:|`b8.do`|
 |:white_check_mark:|`b9.do`|
-|:white_check_mark:|`ba.do`|
-|:white_check_mark:|`bj.do`|
-|:white_check_mark:|`br.do`|
+|:white_check_mark:|`bo.do`|
 |:white_check_mark:|`bs.do`|
-|:white_check_mark:|`bv.do`|
+|:white_check_mark:|`bt.do`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -485,9 +480,14 @@
 |:white_check_mark:|`c8.do`|
 |:white_check_mark:|`c9.do`|
 |:white_check_mark:|`ca.do`|
+|:white_check_mark:|`cb.do`|
+|:white_check_mark:|`cc.do`|
+|:white_check_mark:|`cd.do`|
 |:white_check_mark:|`ce.do`|
+|:white_check_mark:|`cf.do`|
 |:white_check_mark:|`cg.do`|
 |:white_check_mark:|`ch.do`|
+|:white_check_mark:|`ci.do`|
 |:white_check_mark:|`cj.do`|
 |:white_check_mark:|`ck.do`|
 |:white_check_mark:|`cl.do`|

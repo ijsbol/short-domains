@@ -1,7 +1,0 @@
-Traceback (most recent call last):
-  File "/root/domain-registration-tracking/src/main.py", line 101, in <module>
-    main()
-  File "/root/domain-registration-tracking/src/main.py", line 93, in main
-    with open("_data/config/tracked_tlds.json", "r") as f:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: '_data/config/tracked_tlds.json'

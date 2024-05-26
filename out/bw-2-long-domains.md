@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bw`
 
-## Data last updated: 05/24/2024, 13:28:59
+## Data last updated: 05/26/2024, 13:46:25
 
 |Stat|Amount|
 |--|--|
-|Registered domains|55|
-|Unregistered domains|1241|
+|Registered domains|60|
+|Unregistered domains|1236|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|4.24%|
+|Registration rate|4.63%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,45 +441,31 @@
 |:white_check_mark:|`9z.bw`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>6 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a0.bw`|
-|:white_check_mark:|`a6.bw`|
-|:white_check_mark:|`ah.bw`|
-|:white_check_mark:|`ai.bw`|
-|:white_check_mark:|`aj.bw`|
-|:white_check_mark:|`ak.bw`|
-|:white_check_mark:|`al.bw`|
-|:white_check_mark:|`ar.bw`|
+|:white_check_mark:|`a1.bw`|
+|:white_check_mark:|`am.bw`|
+|:white_check_mark:|`an.bw`|
+|:white_check_mark:|`ap.bw`|
 |:white_check_mark:|`as.bw`|
 |:white_check_mark:|`at.bw`|
-|:white_check_mark:|`aw.bw`|
 </details>
 <details>
-<summary>15 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>6 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`b2.bw`|
-|:white_check_mark:|`b6.bw`|
+|:white_check_mark:|`b1.bw`|
 |:white_check_mark:|`b7.bw`|
-|:white_check_mark:|`bc.bw`|
-|:white_check_mark:|`bi.bw`|
-|:white_check_mark:|`bj.bw`|
-|:white_check_mark:|`bk.bw`|
-|:white_check_mark:|`bl.bw`|
-|:white_check_mark:|`bm.bw`|
-|:white_check_mark:|`bq.bw`|
-|:white_check_mark:|`bs.bw`|
-|:white_check_mark:|`bv.bw`|
-|:white_check_mark:|`bx.bw`|
-|:white_check_mark:|`by.bw`|
-|:white_check_mark:|`bz.bw`|
+|:white_check_mark:|`b8.bw`|
+|:white_check_mark:|`b9.bw`|
+|:white_check_mark:|`ba.bw`|
+|:white_check_mark:|`be.bw`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -493,9 +479,18 @@
 |:white_check_mark:|`c7.bw`|
 |:white_check_mark:|`c8.bw`|
 |:white_check_mark:|`c9.bw`|
+|:white_check_mark:|`ca.bw`|
+|:white_check_mark:|`cb.bw`|
+|:white_check_mark:|`cc.bw`|
 |:white_check_mark:|`cd.bw`|
 |:white_check_mark:|`ce.bw`|
 |:white_check_mark:|`cf.bw`|
+|:white_check_mark:|`cg.bw`|
+|:white_check_mark:|`ch.bw`|
+|:white_check_mark:|`ci.bw`|
+|:white_check_mark:|`cj.bw`|
+|:white_check_mark:|`ck.bw`|
+|:white_check_mark:|`cl.bw`|
 |:white_check_mark:|`cm.bw`|
 |:white_check_mark:|`cn.bw`|
 |:white_check_mark:|`co.bw`|

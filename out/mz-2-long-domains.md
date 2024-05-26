@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.mz`
 
-## Data last updated: 05/23/2024, 18:04:39
+## Data last updated: 05/26/2024, 14:28:28
 
 |Stat|Amount|
 |--|--|
@@ -441,37 +441,65 @@
 |:white_check_mark:|`9z.mz`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>7 unregistered domains starting with <bold><code>a</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`a4.mz`|
+|:white_check_mark:|`a5.mz`|
+|:white_check_mark:|`a6.mz`|
+|:white_check_mark:|`a9.mz`|
+|:white_check_mark:|`ac.mz`|
+|:white_check_mark:|`am.mz`|
+|:white_check_mark:|`as.mz`|
+</details>
+<details>
+<summary>14 unregistered domains starting with <bold><code>b</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`b0.mz`|
+|:white_check_mark:|`b4.mz`|
+|:white_check_mark:|`b5.mz`|
+|:white_check_mark:|`b6.mz`|
+|:white_check_mark:|`b7.mz`|
+|:white_check_mark:|`bd.mz`|
+|:white_check_mark:|`bi.mz`|
+|:white_check_mark:|`bj.mz`|
+|:white_check_mark:|`bk.mz`|
+|:white_check_mark:|`bn.mz`|
+|:white_check_mark:|`bs.mz`|
+|:white_check_mark:|`bu.mz`|
+|:white_check_mark:|`bv.mz`|
+|:white_check_mark:|`bw.mz`|
+</details>
+<details>
+<summary>5 unregistered domains starting with <bold><code>c</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`c8.mz`|
+|:white_check_mark:|`cd.mz`|
+|:white_check_mark:|`ce.mz`|
+|:white_check_mark:|`cg.mz`|
+|:white_check_mark:|`ck.mz`|
+</details>
+<details>
+<summary>8 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`d0.mz`|
-|:white_check_mark:|`d1.mz`|
-|:white_check_mark:|`d2.mz`|
-|:white_check_mark:|`d3.mz`|
-|:white_check_mark:|`d4.mz`|
 |:white_check_mark:|`d5.mz`|
-|:white_check_mark:|`d6.mz`|
-|:white_check_mark:|`d7.mz`|
 |:white_check_mark:|`d8.mz`|
-|:white_check_mark:|`d9.mz`|
+|:white_check_mark:|`da.mz`|
+|:white_check_mark:|`dg.mz`|
 |:white_check_mark:|`dm.mz`|
-|:white_check_mark:|`dn.mz`|
-|:white_check_mark:|`do.mz`|
-|:white_check_mark:|`dp.mz`|
 |:white_check_mark:|`dq.mz`|
-|:white_check_mark:|`dr.mz`|
-|:white_check_mark:|`ds.mz`|
 |:white_check_mark:|`dt.mz`|
-|:white_check_mark:|`du.mz`|
-|:white_check_mark:|`dv.mz`|
-|:white_check_mark:|`dw.mz`|
-|:white_check_mark:|`dx.mz`|
-|:white_check_mark:|`dy.mz`|
-|:white_check_mark:|`dz.mz`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -485,24 +513,14 @@
 |:white_check_mark:|`e7.mz`|
 |:white_check_mark:|`e8.mz`|
 |:white_check_mark:|`e9.mz`|
-|:white_check_mark:|`ea.mz`|
-|:white_check_mark:|`eb.mz`|
-|:white_check_mark:|`ec.mz`|
 |:white_check_mark:|`ed.mz`|
 |:white_check_mark:|`ee.mz`|
-|:white_check_mark:|`ef.mz`|
 |:white_check_mark:|`eg.mz`|
-|:white_check_mark:|`eh.mz`|
-|:white_check_mark:|`ei.mz`|
-|:white_check_mark:|`ej.mz`|
 |:white_check_mark:|`ek.mz`|
-|:white_check_mark:|`el.mz`|
 |:white_check_mark:|`em.mz`|
 |:white_check_mark:|`en.mz`|
 |:white_check_mark:|`eo.mz`|
 |:white_check_mark:|`ep.mz`|
-|:white_check_mark:|`eq.mz`|
-|:white_check_mark:|`er.mz`|
 |:white_check_mark:|`es.mz`|
 |:white_check_mark:|`et.mz`|
 |:white_check_mark:|`eu.mz`|
