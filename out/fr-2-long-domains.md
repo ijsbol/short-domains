@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.fr`
 
-## Data last updated: 05/23/2024, 19:43:27
+## Data last updated: 05/27/2024, 12:47:54
 
 |Stat|Amount|
 |--|--|

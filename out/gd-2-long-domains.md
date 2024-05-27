@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.gd`
 
-## Data last updated: 05/23/2024, 17:57:30
+## Data last updated: 05/27/2024, 11:02:15
 
 |Stat|Amount|
 |--|--|
-|Registered domains|78|
-|Unregistered domains|1218|
+|Registered domains|72|
+|Unregistered domains|1224|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|6.02%|
+|Registration rate|5.56%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -105,7 +105,7 @@
 |:white_check_mark:|`1z.gd`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -117,7 +117,6 @@
 |:white_check_mark:|`25.gd`|
 |:white_check_mark:|`26.gd`|
 |:white_check_mark:|`27.gd`|
-|:white_check_mark:|`28.gd`|
 |:white_check_mark:|`29.gd`|
 |:white_check_mark:|`2a.gd`|
 |:white_check_mark:|`2b.gd`|
@@ -664,7 +663,7 @@
 |:white_check_mark:|`gz.gd`|
 </details>
 <details>
-<summary>29 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -681,16 +680,23 @@
 |:white_check_mark:|`ha.gd`|
 |:white_check_mark:|`hb.gd`|
 |:white_check_mark:|`hc.gd`|
+|:white_check_mark:|`hd.gd`|
 |:white_check_mark:|`he.gd`|
 |:white_check_mark:|`hf.gd`|
+|:white_check_mark:|`hg.gd`|
 |:white_check_mark:|`hh.gd`|
+|:white_check_mark:|`hi.gd`|
 |:white_check_mark:|`hj.gd`|
+|:white_check_mark:|`hk.gd`|
 |:white_check_mark:|`hl.gd`|
 |:white_check_mark:|`hm.gd`|
 |:white_check_mark:|`hn.gd`|
 |:white_check_mark:|`ho.gd`|
+|:white_check_mark:|`hp.gd`|
+|:white_check_mark:|`hq.gd`|
 |:white_check_mark:|`hr.gd`|
 |:white_check_mark:|`hs.gd`|
+|:white_check_mark:|`ht.gd`|
 |:white_check_mark:|`hu.gd`|
 |:white_check_mark:|`hv.gd`|
 |:white_check_mark:|`hw.gd`|

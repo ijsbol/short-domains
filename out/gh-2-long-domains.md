@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.gh`
 
-## Data last updated: 05/24/2024, 14:20:39
+## Data last updated: 05/27/2024, 11:09:08
 
 |Stat|Amount|
 |--|--|
-|Registered domains|97|
-|Unregistered domains|1199|
+|Registered domains|100|
+|Unregistered domains|1196|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|7.48%|
+|Registration rate|7.72%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,50 +441,21 @@
 |:white_check_mark:|`9z.gh`|
 </details>
 <details>
-<summary>9 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a0.gh`|
-|:white_check_mark:|`a1.gh`|
-|:white_check_mark:|`a2.gh`|
-|:white_check_mark:|`a5.gh`|
-|:white_check_mark:|`ae.gh`|
-|:white_check_mark:|`ah.gh`|
-|:white_check_mark:|`ao.gh`|
-|:white_check_mark:|`aq.gh`|
-|:white_check_mark:|`ax.gh`|
+|:white_check_mark:|`c2.gh`|
+|:white_check_mark:|`c3.gh`|
+|:white_check_mark:|`c4.gh`|
+|:white_check_mark:|`c5.gh`|
+|:white_check_mark:|`c6.gh`|
+|:white_check_mark:|`c7.gh`|
+|:white_check_mark:|`c8.gh`|
+|:white_check_mark:|`c9.gh`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`b0.gh`|
-|:white_check_mark:|`b1.gh`|
-|:white_check_mark:|`b2.gh`|
-|:white_check_mark:|`b5.gh`|
-|:white_check_mark:|`ba.gh`|
-|:white_check_mark:|`bg.gh`|
-|:white_check_mark:|`bm.gh`|
-|:white_check_mark:|`bp.gh`|
-|:white_check_mark:|`bs.gh`|
-|:white_check_mark:|`bw.gh`|
-|:white_check_mark:|`bx.gh`|
-|:white_check_mark:|`by.gh`|
-</details>
-<details>
-<summary>4 unregistered domains starting with <bold><code>c</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`ce.gh`|
-|:white_check_mark:|`cj.gh`|
-|:white_check_mark:|`cr.gh`|
-|:white_check_mark:|`cy.gh`|
-</details>
-<details>
-<summary>22 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -498,13 +469,27 @@
 |:white_check_mark:|`d7.gh`|
 |:white_check_mark:|`d8.gh`|
 |:white_check_mark:|`d9.gh`|
+|:white_check_mark:|`da.gh`|
+|:white_check_mark:|`db.gh`|
+|:white_check_mark:|`dc.gh`|
+|:white_check_mark:|`dd.gh`|
+|:white_check_mark:|`de.gh`|
 |:white_check_mark:|`df.gh`|
 |:white_check_mark:|`dg.gh`|
 |:white_check_mark:|`dh.gh`|
+|:white_check_mark:|`di.gh`|
 |:white_check_mark:|`dj.gh`|
+|:white_check_mark:|`dk.gh`|
+|:white_check_mark:|`dl.gh`|
+|:white_check_mark:|`dm.gh`|
 |:white_check_mark:|`dn.gh`|
 |:white_check_mark:|`do.gh`|
+|:white_check_mark:|`dp.gh`|
+|:white_check_mark:|`dq.gh`|
+|:white_check_mark:|`dr.gh`|
+|:white_check_mark:|`ds.gh`|
 |:white_check_mark:|`dt.gh`|
+|:white_check_mark:|`du.gh`|
 |:white_check_mark:|`dv.gh`|
 |:white_check_mark:|`dw.gh`|
 |:white_check_mark:|`dx.gh`|

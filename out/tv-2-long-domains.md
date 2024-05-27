@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.tv`
 
-## Data last updated: 05/23/2024, 17:49:00
+## Data last updated: 05/27/2024, 11:07:27
 
 |Stat|Amount|
 |--|--|
-|Registered domains|15|
-|Unregistered domains|1281|
+|Registered domains|16|
+|Unregistered domains|1280|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|1.16%|
+|Registration rate|1.23%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,7 +441,7 @@
 |:white_check_mark:|`9z.tv`|
 </details>
 <details>
-<summary>21 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -460,7 +460,6 @@
 |:white_check_mark:|`ao.tv`|
 |:white_check_mark:|`aq.tv`|
 |:white_check_mark:|`as.tv`|
-|:white_check_mark:|`au.tv`|
 |:white_check_mark:|`av.tv`|
 |:white_check_mark:|`aw.tv`|
 |:white_check_mark:|`ax.tv`|

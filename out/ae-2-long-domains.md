@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.ae`
 
-## Data last updated: 05/26/2024, 14:28:09
+## Data last updated: 05/27/2024, 11:06:44
 
 |Stat|Amount|
 |--|--|
@@ -455,11 +455,11 @@
 |:white_check_mark:|`a7.ae`|
 |:white_check_mark:|`a8.ae`|
 |:white_check_mark:|`a9.ae`|
-|:white_check_mark:|`aj.ae`|
-|:white_check_mark:|`am.ae`|
-|:white_check_mark:|`an.ae`|
-|:white_check_mark:|`ao.ae`|
-|:white_check_mark:|`ap.ae`|
+|:white_check_mark:|`au.ae`|
+|:white_check_mark:|`av.ae`|
+|:white_check_mark:|`aw.ae`|
+|:white_check_mark:|`ax.ae`|
+|:white_check_mark:|`ay.ae`|
 |:white_check_mark:|`az.ae`|
 </details>
 <details>

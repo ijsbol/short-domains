@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.gl`
 
-## Data last updated: 05/23/2024, 17:58:45
+## Data last updated: 05/27/2024, 11:03:02
 
 |Stat|Amount|
 |--|--|
-|Registered domains|102|
-|Unregistered domains|1194|
+|Registered domains|104|
+|Unregistered domains|1192|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|7.87%|
+|Registration rate|8.02%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -63,11 +63,10 @@
 |:white_check_mark:|`0z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`10.gl`|
 |:white_check_mark:|`11.gl`|
 |:white_check_mark:|`12.gl`|
 |:white_check_mark:|`13.gl`|
@@ -105,7 +104,7 @@
 |:white_check_mark:|`1z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -117,7 +116,6 @@
 |:white_check_mark:|`25.gl`|
 |:white_check_mark:|`26.gl`|
 |:white_check_mark:|`27.gl`|
-|:white_check_mark:|`28.gl`|
 |:white_check_mark:|`29.gl`|
 |:white_check_mark:|`2a.gl`|
 |:white_check_mark:|`2b.gl`|
@@ -231,7 +229,7 @@
 |:white_check_mark:|`4z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -244,7 +242,6 @@
 |:white_check_mark:|`56.gl`|
 |:white_check_mark:|`57.gl`|
 |:white_check_mark:|`58.gl`|
-|:white_check_mark:|`59.gl`|
 |:white_check_mark:|`5a.gl`|
 |:white_check_mark:|`5b.gl`|
 |:white_check_mark:|`5c.gl`|
@@ -315,7 +312,7 @@
 |:white_check_mark:|`6z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>7</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -330,11 +327,9 @@
 |:white_check_mark:|`78.gl`|
 |:white_check_mark:|`79.gl`|
 |:white_check_mark:|`7a.gl`|
-|:white_check_mark:|`7b.gl`|
 |:white_check_mark:|`7c.gl`|
 |:white_check_mark:|`7d.gl`|
 |:white_check_mark:|`7e.gl`|
-|:white_check_mark:|`7f.gl`|
 |:white_check_mark:|`7g.gl`|
 |:white_check_mark:|`7h.gl`|
 |:white_check_mark:|`7i.gl`|
@@ -357,7 +352,7 @@
 |:white_check_mark:|`7z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -367,9 +362,7 @@
 |:white_check_mark:|`83.gl`|
 |:white_check_mark:|`84.gl`|
 |:white_check_mark:|`85.gl`|
-|:white_check_mark:|`86.gl`|
 |:white_check_mark:|`87.gl`|
-|:white_check_mark:|`88.gl`|
 |:white_check_mark:|`89.gl`|
 |:white_check_mark:|`8a.gl`|
 |:white_check_mark:|`8b.gl`|
@@ -490,7 +483,7 @@
 |:white_check_mark:|`cj.gl`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -500,11 +493,21 @@
 |:white_check_mark:|`d3.gl`|
 |:white_check_mark:|`d4.gl`|
 |:white_check_mark:|`d5.gl`|
+|:white_check_mark:|`d6.gl`|
 |:white_check_mark:|`d7.gl`|
 |:white_check_mark:|`d8.gl`|
 |:white_check_mark:|`d9.gl`|
+|:white_check_mark:|`dp.gl`|
 |:white_check_mark:|`dq.gl`|
+|:white_check_mark:|`dr.gl`|
+|:white_check_mark:|`ds.gl`|
+|:white_check_mark:|`dt.gl`|
+|:white_check_mark:|`du.gl`|
+|:white_check_mark:|`dv.gl`|
 |:white_check_mark:|`dw.gl`|
+|:white_check_mark:|`dx.gl`|
+|:white_check_mark:|`dy.gl`|
+|:white_check_mark:|`dz.gl`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>e</code></bold></summary>
@@ -1347,7 +1350,7 @@
 |:white_check_mark:|`xz.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1361,8 +1364,6 @@
 |:white_check_mark:|`y7.gl`|
 |:white_check_mark:|`y8.gl`|
 |:white_check_mark:|`y9.gl`|
-|:white_check_mark:|`ya.gl`|
-|:white_check_mark:|`yb.gl`|
 |:white_check_mark:|`yc.gl`|
 |:white_check_mark:|`yd.gl`|
 |:white_check_mark:|`ye.gl`|
@@ -1375,7 +1376,6 @@
 |:white_check_mark:|`yl.gl`|
 |:white_check_mark:|`ym.gl`|
 |:white_check_mark:|`yn.gl`|
-|:white_check_mark:|`yo.gl`|
 |:white_check_mark:|`yp.gl`|
 |:white_check_mark:|`yq.gl`|
 |:white_check_mark:|`yr.gl`|
@@ -1389,7 +1389,7 @@
 |:white_check_mark:|`yz.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>z</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>z</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1422,11 +1422,9 @@
 |:white_check_mark:|`zq.gl`|
 |:white_check_mark:|`zr.gl`|
 |:white_check_mark:|`zs.gl`|
-|:white_check_mark:|`zt.gl`|
 |:white_check_mark:|`zu.gl`|
 |:white_check_mark:|`zv.gl`|
 |:white_check_mark:|`zw.gl`|
 |:white_check_mark:|`zx.gl`|
-|:white_check_mark:|`zy.gl`|
 |:white_check_mark:|`zz.gl`|
 </details>

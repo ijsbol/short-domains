@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.kn`
 
-## Data last updated: 05/23/2024, 17:58:13
+## Data last updated: 05/27/2024, 11:03:18
 
 |Stat|Amount|
 |--|--|

@@ -1,12 +1,12 @@
 # Available 2 character long domains for `.sc`
 
-## Data last updated: 05/23/2024, 19:46:43
+## Data last updated: 05/27/2024, 14:33:06
 
 |Stat|Amount|
 |--|--|
 |Registered domains|1|
 |Unregistered domains|1295|
-|Premium domains|16|
+|Premium domains|14|
 |Application only domains|0|
 |Registration rate|0.08%|
 |Failed lookups|0|
@@ -469,8 +469,8 @@
 |:gem:|`am.sc`|
 |:gem:|`an.sc`|
 |:gem:|`ao.sc`|
-|:gem:|`ap.sc`|
-|:gem:|`aq.sc`|
+|:white_check_mark:|`ap.sc`|
+|:white_check_mark:|`aq.sc`|
 |:white_check_mark:|`ar.sc`|
 |:white_check_mark:|`as.sc`|
 |:white_check_mark:|`at.sc`|

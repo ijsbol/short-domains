@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.bw`
 
-## Data last updated: 05/26/2024, 13:46:25
+## Data last updated: 05/27/2024, 11:01:44
 
 |Stat|Amount|
 |--|--|
@@ -441,28 +441,22 @@
 |:white_check_mark:|`9z.bw`|
 </details>
 <details>
-<summary>6 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a1.bw`|
-|:white_check_mark:|`am.bw`|
-|:white_check_mark:|`an.bw`|
-|:white_check_mark:|`ap.bw`|
-|:white_check_mark:|`as.bw`|
-|:white_check_mark:|`at.bw`|
-</details>
-<details>
-<summary>6 unregistered domains starting with <bold><code>b</code></bold></summary>
-
-|Type|Domain|
-|--|--|
+|:white_check_mark:|`b0.bw`|
 |:white_check_mark:|`b1.bw`|
+|:white_check_mark:|`b2.bw`|
+|:white_check_mark:|`b3.bw`|
+|:white_check_mark:|`b4.bw`|
+|:white_check_mark:|`b5.bw`|
+|:white_check_mark:|`b6.bw`|
 |:white_check_mark:|`b7.bw`|
 |:white_check_mark:|`b8.bw`|
 |:white_check_mark:|`b9.bw`|
-|:white_check_mark:|`ba.bw`|
-|:white_check_mark:|`be.bw`|
+|:white_check_mark:|`by.bw`|
+|:white_check_mark:|`bz.bw`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>

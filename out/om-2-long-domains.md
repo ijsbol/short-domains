@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.om`
 
-## Data last updated: 05/23/2024, 18:02:02
+## Data last updated: 05/27/2024, 11:15:13
 
 |Stat|Amount|
 |--|--|
-|Registered domains|4|
-|Unregistered domains|1292|
+|Registered domains|5|
+|Unregistered domains|1291|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.31%|
+|Registration rate|0.39%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,7 +441,7 @@
 |:white_check_mark:|`9z.om`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -465,7 +465,6 @@
 |:white_check_mark:|`aj.om`|
 |:white_check_mark:|`ak.om`|
 |:white_check_mark:|`al.om`|
-|:white_check_mark:|`am.om`|
 |:white_check_mark:|`an.om`|
 |:white_check_mark:|`ao.om`|
 |:white_check_mark:|`ap.om`|

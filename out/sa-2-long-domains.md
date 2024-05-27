@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.sa`
 
-## Data last updated: 05/23/2024, 18:07:25
+## Data last updated: 05/27/2024, 11:09:11
 
 |Stat|Amount|
 |--|--|
@@ -198,7 +198,7 @@
 |:white_check_mark:|`4y.sa`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -226,7 +226,6 @@
 |:white_check_mark:|`5p.sa`|
 |:white_check_mark:|`5q.sa`|
 |:white_check_mark:|`5r.sa`|
-|:white_check_mark:|`5s.sa`|
 |:white_check_mark:|`5t.sa`|
 |:white_check_mark:|`5u.sa`|
 |:white_check_mark:|`5v.sa`|
@@ -585,7 +584,7 @@
 |:white_check_mark:|`jy.sa`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -598,6 +597,7 @@
 |:white_check_mark:|`k7.sa`|
 |:white_check_mark:|`k8.sa`|
 |:white_check_mark:|`k9.sa`|
+|:white_check_mark:|`kb.sa`|
 |:white_check_mark:|`kd.sa`|
 |:white_check_mark:|`ke.sa`|
 |:white_check_mark:|`kg.sa`|
@@ -652,7 +652,7 @@
 |:white_check_mark:|`my.sa`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -667,11 +667,10 @@
 |:white_check_mark:|`ne.sa`|
 |:white_check_mark:|`ni.sa`|
 |:white_check_mark:|`nl.sa`|
-|:white_check_mark:|`nu.sa`|
 |:white_check_mark:|`nx.sa`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>18 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -692,6 +691,7 @@
 |:white_check_mark:|`oq.sa`|
 |:white_check_mark:|`ou.sa`|
 |:white_check_mark:|`ow.sa`|
+|:white_check_mark:|`ox.sa`|
 </details>
 <details>
 <summary>13 unregistered domains starting with <bold><code>p</code></bold></summary>

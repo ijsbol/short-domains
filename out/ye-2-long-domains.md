@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.ye`
 
-## Data last updated: 05/23/2024, 18:03:03
+## Data last updated: 05/27/2024, 11:06:30
 
 |Stat|Amount|
 |--|--|
-|Registered domains|2|
-|Unregistered domains|1294|
+|Registered domains|5|
+|Unregistered domains|1291|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.15%|
+|Registration rate|0.39%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -1237,7 +1237,7 @@
 |:white_check_mark:|`sz.ye`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1272,7 +1272,6 @@
 |:white_check_mark:|`ts.ye`|
 |:white_check_mark:|`tt.ye`|
 |:white_check_mark:|`tu.ye`|
-|:white_check_mark:|`tv.ye`|
 |:white_check_mark:|`tw.ye`|
 |:white_check_mark:|`tx.ye`|
 |:white_check_mark:|`ty.ye`|
@@ -1447,7 +1446,7 @@
 |:white_check_mark:|`xz.ye`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1473,8 +1472,6 @@
 |:white_check_mark:|`yj.ye`|
 |:white_check_mark:|`yk.ye`|
 |:white_check_mark:|`yl.ye`|
-|:white_check_mark:|`ym.ye`|
-|:white_check_mark:|`yn.ye`|
 |:white_check_mark:|`yo.ye`|
 |:white_check_mark:|`yp.ye`|
 |:white_check_mark:|`yq.ye`|

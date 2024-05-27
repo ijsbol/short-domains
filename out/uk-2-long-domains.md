@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.uk`
 
-## Data last updated: 05/23/2024, 17:55:28
+## Data last updated: 05/27/2024, 11:00:40
 
 |Stat|Amount|
 |--|--|
@@ -21,11 +21,10 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>8 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>7 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`12.uk`|
 |:white_check_mark:|`13.uk`|
 |:white_check_mark:|`14.uk`|
 |:white_check_mark:|`15.uk`|
@@ -369,6 +368,13 @@
 |:white_check_mark:|`9x.uk`|
 |:white_check_mark:|`9y.uk`|
 |:white_check_mark:|`9z.uk`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>l</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`lu.uk`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>u</code></bold></summary>

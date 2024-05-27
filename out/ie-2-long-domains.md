@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.ie`
 
-## Data last updated: 05/23/2024, 17:55:46
+## Data last updated: 05/27/2024, 11:01:57
 
 |Stat|Amount|
 |--|--|

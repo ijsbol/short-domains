@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.pr`
 
-## Data last updated: 05/23/2024, 19:43:51
+## Data last updated: 05/27/2024, 14:33:16
 
 |Stat|Amount|
 |--|--|

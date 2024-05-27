@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.mg`
 
-## Data last updated: 05/23/2024, 18:06:40
+## Data last updated: 05/27/2024, 11:09:19
 
 |Stat|Amount|
 |--|--|

@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.sh`
 
-## Data last updated: 05/23/2024, 19:44:21
+## Data last updated: 05/27/2024, 14:33:14
 
 |Stat|Amount|
 |--|--|
-|Registered domains|13|
-|Unregistered domains|1283|
+|Registered domains|14|
+|Unregistered domains|1282|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|1.0%|
+|Registration rate|1.08%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,7 +441,7 @@
 |:white_check_mark:|`9z.sh`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -455,7 +455,6 @@
 |:white_check_mark:|`a7.sh`|
 |:white_check_mark:|`a8.sh`|
 |:white_check_mark:|`a9.sh`|
-|:white_check_mark:|`an.sh`|
 |:white_check_mark:|`ao.sh`|
 |:white_check_mark:|`ap.sh`|
 |:white_check_mark:|`aq.sh`|

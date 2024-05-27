@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.lu`
 
-## Data last updated: 05/23/2024, 17:55:20
+## Data last updated: 05/27/2024, 11:01:18
 
 |Stat|Amount|
 |--|--|
-|Registered domains|5|
-|Unregistered domains|1291|
+|Registered domains|1|
+|Unregistered domains|1295|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.39%|
+|Registration rate|0.08%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,7 +441,7 @@
 |:white_check_mark:|`9z.lu`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -455,14 +455,18 @@
 |:white_check_mark:|`a7.lu`|
 |:white_check_mark:|`a8.lu`|
 |:white_check_mark:|`a9.lu`|
+|:white_check_mark:|`ab.lu`|
 |:white_check_mark:|`ac.lu`|
 |:white_check_mark:|`ad.lu`|
 |:white_check_mark:|`ae.lu`|
 |:white_check_mark:|`af.lu`|
+|:white_check_mark:|`ag.lu`|
 |:white_check_mark:|`ah.lu`|
 |:white_check_mark:|`ai.lu`|
+|:white_check_mark:|`aj.lu`|
 |:white_check_mark:|`ak.lu`|
 |:white_check_mark:|`al.lu`|
+|:white_check_mark:|`am.lu`|
 |:white_check_mark:|`an.lu`|
 |:white_check_mark:|`ao.lu`|
 |:white_check_mark:|`ap.lu`|

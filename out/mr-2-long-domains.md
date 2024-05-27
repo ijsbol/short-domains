@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.mr`
 
-## Data last updated: 05/23/2024, 17:59:08
+## Data last updated: 05/27/2024, 11:04:51
 
 |Stat|Amount|
 |--|--|

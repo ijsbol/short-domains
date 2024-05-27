@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.au`
 
-## Data last updated: 05/24/2024, 14:23:34
+## Data last updated: 05/27/2024, 11:13:19
 
 |Stat|Amount|
 |--|--|
-|Registered domains|27|
-|Unregistered domains|1269|
+|Registered domains|6|
+|Unregistered domains|1290|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|2.08%|
+|Registration rate|0.46%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -231,7 +231,7 @@
 |:white_check_mark:|`4z.au`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -243,6 +243,8 @@
 |:white_check_mark:|`55.au`|
 |:white_check_mark:|`56.au`|
 |:white_check_mark:|`57.au`|
+|:white_check_mark:|`58.au`|
+|:white_check_mark:|`59.au`|
 |:white_check_mark:|`5a.au`|
 |:white_check_mark:|`5b.au`|
 |:white_check_mark:|`5c.au`|
@@ -271,7 +273,7 @@
 |:white_check_mark:|`5z.au`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -284,12 +286,16 @@
 |:white_check_mark:|`66.au`|
 |:white_check_mark:|`67.au`|
 |:white_check_mark:|`68.au`|
+|:white_check_mark:|`69.au`|
+|:white_check_mark:|`6a.au`|
 |:white_check_mark:|`6b.au`|
 |:white_check_mark:|`6c.au`|
 |:white_check_mark:|`6d.au`|
 |:white_check_mark:|`6e.au`|
 |:white_check_mark:|`6f.au`|
 |:white_check_mark:|`6g.au`|
+|:white_check_mark:|`6h.au`|
+|:white_check_mark:|`6i.au`|
 |:white_check_mark:|`6j.au`|
 |:white_check_mark:|`6k.au`|
 |:white_check_mark:|`6l.au`|
@@ -309,22 +315,27 @@
 |:white_check_mark:|`6z.au`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>7</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`70.au`|
 |:white_check_mark:|`71.au`|
+|:white_check_mark:|`72.au`|
 |:white_check_mark:|`73.au`|
 |:white_check_mark:|`74.au`|
 |:white_check_mark:|`75.au`|
 |:white_check_mark:|`76.au`|
+|:white_check_mark:|`77.au`|
 |:white_check_mark:|`78.au`|
 |:white_check_mark:|`79.au`|
+|:white_check_mark:|`7a.au`|
 |:white_check_mark:|`7b.au`|
+|:white_check_mark:|`7c.au`|
 |:white_check_mark:|`7d.au`|
 |:white_check_mark:|`7e.au`|
 |:white_check_mark:|`7f.au`|
+|:white_check_mark:|`7g.au`|
 |:white_check_mark:|`7h.au`|
 |:white_check_mark:|`7i.au`|
 |:white_check_mark:|`7j.au`|
@@ -336,6 +347,7 @@
 |:white_check_mark:|`7p.au`|
 |:white_check_mark:|`7q.au`|
 |:white_check_mark:|`7r.au`|
+|:white_check_mark:|`7s.au`|
 |:white_check_mark:|`7t.au`|
 |:white_check_mark:|`7u.au`|
 |:white_check_mark:|`7v.au`|
@@ -345,7 +357,7 @@
 |:white_check_mark:|`7z.au`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -371,6 +383,7 @@
 |:white_check_mark:|`8j.au`|
 |:white_check_mark:|`8k.au`|
 |:white_check_mark:|`8l.au`|
+|:white_check_mark:|`8m.au`|
 |:white_check_mark:|`8n.au`|
 |:white_check_mark:|`8o.au`|
 |:white_check_mark:|`8p.au`|
@@ -842,16 +855,20 @@
 |:white_check_mark:|`jz.au`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`k0.au`|
 |:white_check_mark:|`k1.au`|
+|:white_check_mark:|`k2.au`|
 |:white_check_mark:|`k3.au`|
+|:white_check_mark:|`k4.au`|
+|:white_check_mark:|`k5.au`|
 |:white_check_mark:|`k6.au`|
 |:white_check_mark:|`k7.au`|
 |:white_check_mark:|`k8.au`|
+|:white_check_mark:|`k9.au`|
 |:white_check_mark:|`ka.au`|
 |:white_check_mark:|`kb.au`|
 |:white_check_mark:|`kc.au`|
@@ -880,7 +897,7 @@
 |:white_check_mark:|`kz.au`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -895,10 +912,14 @@
 |:white_check_mark:|`l8.au`|
 |:white_check_mark:|`l9.au`|
 |:white_check_mark:|`la.au`|
+|:white_check_mark:|`lb.au`|
 |:white_check_mark:|`lc.au`|
 |:white_check_mark:|`ld.au`|
+|:white_check_mark:|`le.au`|
+|:white_check_mark:|`lf.au`|
 |:white_check_mark:|`lg.au`|
 |:white_check_mark:|`lh.au`|
+|:white_check_mark:|`li.au`|
 |:white_check_mark:|`lj.au`|
 |:white_check_mark:|`lk.au`|
 |:white_check_mark:|`ll.au`|

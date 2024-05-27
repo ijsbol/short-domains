@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.dev`
 
-## Data last updated: 05/26/2024, 13:58:59
+## Data last updated: 05/27/2024, 11:02:04
 
 |Stat|Amount|
 |--|--|
-|Registered domains|345|
-|Unregistered domains|951|
+|Registered domains|387|
+|Unregistered domains|909|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|26.62%|
+|Registration rate|29.86%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,11 +21,12 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>32 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`00.dev`|
+|:white_check_mark:|`01.dev`|
 |:white_check_mark:|`02.dev`|
 |:white_check_mark:|`03.dev`|
 |:white_check_mark:|`04.dev`|
@@ -44,7 +45,9 @@
 |:white_check_mark:|`0h.dev`|
 |:white_check_mark:|`0i.dev`|
 |:white_check_mark:|`0j.dev`|
+|:white_check_mark:|`0k.dev`|
 |:white_check_mark:|`0l.dev`|
+|:white_check_mark:|`0m.dev`|
 |:white_check_mark:|`0n.dev`|
 |:white_check_mark:|`0o.dev`|
 |:white_check_mark:|`0p.dev`|
@@ -55,17 +58,21 @@
 |:white_check_mark:|`0u.dev`|
 |:white_check_mark:|`0v.dev`|
 |:white_check_mark:|`0w.dev`|
+|:white_check_mark:|`0x.dev`|
 |:white_check_mark:|`0y.dev`|
 |:white_check_mark:|`0z.dev`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`10.dev`|
 |:white_check_mark:|`11.dev`|
 |:white_check_mark:|`12.dev`|
 |:white_check_mark:|`13.dev`|
+|:white_check_mark:|`14.dev`|
+|:white_check_mark:|`15.dev`|
 |:white_check_mark:|`16.dev`|
 |:white_check_mark:|`17.dev`|
 |:white_check_mark:|`18.dev`|
@@ -84,6 +91,7 @@
 |:white_check_mark:|`1m.dev`|
 |:white_check_mark:|`1n.dev`|
 |:white_check_mark:|`1o.dev`|
+|:white_check_mark:|`1p.dev`|
 |:white_check_mark:|`1q.dev`|
 |:white_check_mark:|`1r.dev`|
 |:white_check_mark:|`1s.dev`|
@@ -91,11 +99,12 @@
 |:white_check_mark:|`1u.dev`|
 |:white_check_mark:|`1v.dev`|
 |:white_check_mark:|`1w.dev`|
+|:white_check_mark:|`1x.dev`|
 |:white_check_mark:|`1y.dev`|
 |:white_check_mark:|`1z.dev`|
 </details>
 <details>
-<summary>33 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -111,12 +120,14 @@
 |:white_check_mark:|`2a.dev`|
 |:white_check_mark:|`2b.dev`|
 |:white_check_mark:|`2c.dev`|
+|:white_check_mark:|`2d.dev`|
 |:white_check_mark:|`2e.dev`|
 |:white_check_mark:|`2f.dev`|
 |:white_check_mark:|`2g.dev`|
 |:white_check_mark:|`2h.dev`|
 |:white_check_mark:|`2i.dev`|
 |:white_check_mark:|`2j.dev`|
+|:white_check_mark:|`2k.dev`|
 |:white_check_mark:|`2l.dev`|
 |:white_check_mark:|`2m.dev`|
 |:white_check_mark:|`2n.dev`|
@@ -134,7 +145,7 @@
 |:white_check_mark:|`2z.dev`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -144,12 +155,14 @@
 |:white_check_mark:|`33.dev`|
 |:white_check_mark:|`34.dev`|
 |:white_check_mark:|`35.dev`|
+|:white_check_mark:|`36.dev`|
 |:white_check_mark:|`37.dev`|
 |:white_check_mark:|`38.dev`|
 |:white_check_mark:|`39.dev`|
 |:white_check_mark:|`3a.dev`|
 |:white_check_mark:|`3b.dev`|
 |:white_check_mark:|`3c.dev`|
+|:white_check_mark:|`3d.dev`|
 |:white_check_mark:|`3e.dev`|
 |:white_check_mark:|`3f.dev`|
 |:white_check_mark:|`3g.dev`|
@@ -158,24 +171,29 @@
 |:white_check_mark:|`3j.dev`|
 |:white_check_mark:|`3k.dev`|
 |:white_check_mark:|`3l.dev`|
+|:white_check_mark:|`3m.dev`|
 |:white_check_mark:|`3n.dev`|
 |:white_check_mark:|`3o.dev`|
 |:white_check_mark:|`3p.dev`|
 |:white_check_mark:|`3q.dev`|
 |:white_check_mark:|`3r.dev`|
+|:white_check_mark:|`3s.dev`|
+|:white_check_mark:|`3t.dev`|
 |:white_check_mark:|`3u.dev`|
 |:white_check_mark:|`3v.dev`|
 |:white_check_mark:|`3w.dev`|
 |:white_check_mark:|`3x.dev`|
 |:white_check_mark:|`3y.dev`|
+|:white_check_mark:|`3z.dev`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>4</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>4</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`40.dev`|
 |:white_check_mark:|`41.dev`|
+|:white_check_mark:|`42.dev`|
 |:white_check_mark:|`43.dev`|
 |:white_check_mark:|`44.dev`|
 |:white_check_mark:|`45.dev`|
@@ -211,14 +229,16 @@
 |:white_check_mark:|`4z.dev`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`50.dev`|
+|:white_check_mark:|`51.dev`|
 |:white_check_mark:|`52.dev`|
 |:white_check_mark:|`53.dev`|
 |:white_check_mark:|`54.dev`|
+|:white_check_mark:|`55.dev`|
 |:white_check_mark:|`56.dev`|
 |:white_check_mark:|`57.dev`|
 |:white_check_mark:|`58.dev`|
@@ -228,6 +248,8 @@
 |:white_check_mark:|`5c.dev`|
 |:white_check_mark:|`5d.dev`|
 |:white_check_mark:|`5e.dev`|
+|:white_check_mark:|`5f.dev`|
+|:white_check_mark:|`5g.dev`|
 |:white_check_mark:|`5h.dev`|
 |:white_check_mark:|`5i.dev`|
 |:white_check_mark:|`5j.dev`|
@@ -333,7 +355,7 @@
 |:white_check_mark:|`7z.dev`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -359,6 +381,7 @@
 |:white_check_mark:|`8j.dev`|
 |:white_check_mark:|`8k.dev`|
 |:white_check_mark:|`8l.dev`|
+|:white_check_mark:|`8m.dev`|
 |:white_check_mark:|`8n.dev`|
 |:white_check_mark:|`8o.dev`|
 |:white_check_mark:|`8p.dev`|
@@ -374,7 +397,7 @@
 |:white_check_mark:|`8z.dev`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>9</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -387,6 +410,7 @@
 |:white_check_mark:|`96.dev`|
 |:white_check_mark:|`97.dev`|
 |:white_check_mark:|`98.dev`|
+|:white_check_mark:|`99.dev`|
 |:white_check_mark:|`9a.dev`|
 |:white_check_mark:|`9b.dev`|
 |:white_check_mark:|`9c.dev`|
@@ -415,41 +439,33 @@
 |:white_check_mark:|`9z.dev`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`a0.dev`|
 |:white_check_mark:|`a1.dev`|
 |:white_check_mark:|`a2.dev`|
-|:white_check_mark:|`a3.dev`|
 |:white_check_mark:|`a4.dev`|
 |:white_check_mark:|`a5.dev`|
 |:white_check_mark:|`a6.dev`|
 |:white_check_mark:|`a7.dev`|
 |:white_check_mark:|`a8.dev`|
-|:white_check_mark:|`ab.dev`|
-|:white_check_mark:|`ac.dev`|
-|:white_check_mark:|`ad.dev`|
-|:white_check_mark:|`af.dev`|
 |:white_check_mark:|`ag.dev`|
 |:white_check_mark:|`ai.dev`|
 |:white_check_mark:|`aj.dev`|
 |:white_check_mark:|`ak.dev`|
 |:white_check_mark:|`an.dev`|
-|:white_check_mark:|`ap.dev`|
 |:white_check_mark:|`au.dev`|
 |:white_check_mark:|`aw.dev`|
-|:white_check_mark:|`ax.dev`|
 |:white_check_mark:|`ay.dev`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`b0.dev`|
-|:white_check_mark:|`b2.dev`|
 |:white_check_mark:|`b3.dev`|
 |:white_check_mark:|`b4.dev`|
 |:white_check_mark:|`b5.dev`|
@@ -457,11 +473,9 @@
 |:white_check_mark:|`b7.dev`|
 |:white_check_mark:|`b8.dev`|
 |:white_check_mark:|`b9.dev`|
-|:white_check_mark:|`bd.dev`|
 |:white_check_mark:|`bg.dev`|
 |:white_check_mark:|`bh.dev`|
 |:white_check_mark:|`bj.dev`|
-|:white_check_mark:|`bk.dev`|
 |:white_check_mark:|`bm.dev`|
 |:white_check_mark:|`bn.dev`|
 |:white_check_mark:|`bp.dev`|
@@ -474,7 +488,7 @@
 |:white_check_mark:|`bz.dev`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -492,26 +506,21 @@
 |:white_check_mark:|`cp.dev`|
 |:white_check_mark:|`cq.dev`|
 |:white_check_mark:|`ct.dev`|
-|:white_check_mark:|`cx.dev`|
 |:white_check_mark:|`cy.dev`|
 |:white_check_mark:|`cz.dev`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`d0.dev`|
 |:white_check_mark:|`d1.dev`|
-|:white_check_mark:|`d3.dev`|
 |:white_check_mark:|`d4.dev`|
 |:white_check_mark:|`d5.dev`|
 |:white_check_mark:|`d6.dev`|
 |:white_check_mark:|`d8.dev`|
 |:white_check_mark:|`d9.dev`|
-|:white_check_mark:|`dd.dev`|
-|:white_check_mark:|`de.dev`|
-|:white_check_mark:|`df.dev`|
 |:white_check_mark:|`dk.dev`|
 |:white_check_mark:|`dl.dev`|
 |:white_check_mark:|`dp.dev`|
@@ -520,7 +529,7 @@
 |:white_check_mark:|`dz.dev`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -537,7 +546,6 @@
 |:white_check_mark:|`eb.dev`|
 |:white_check_mark:|`ec.dev`|
 |:white_check_mark:|`ee.dev`|
-|:white_check_mark:|`ef.dev`|
 |:white_check_mark:|`eh.dev`|
 |:white_check_mark:|`ei.dev`|
 |:white_check_mark:|`ej.dev`|
@@ -553,7 +561,7 @@
 |:white_check_mark:|`ey.dev`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>18 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -567,25 +575,17 @@
 |:white_check_mark:|`f7.dev`|
 |:white_check_mark:|`f8.dev`|
 |:white_check_mark:|`f9.dev`|
-|:white_check_mark:|`fc.dev`|
 |:white_check_mark:|`fd.dev`|
-|:white_check_mark:|`fi.dev`|
 |:white_check_mark:|`fj.dev`|
-|:white_check_mark:|`fo.dev`|
-|:white_check_mark:|`fp.dev`|
 |:white_check_mark:|`fq.dev`|
 |:white_check_mark:|`fr.dev`|
-|:white_check_mark:|`fs.dev`|
-|:white_check_mark:|`ft.dev`|
 |:white_check_mark:|`fu.dev`|
-|:white_check_mark:|`fv.dev`|
 |:white_check_mark:|`fw.dev`|
-|:white_check_mark:|`fx.dev`|
 |:white_check_mark:|`fy.dev`|
 |:white_check_mark:|`fz.dev`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -600,22 +600,19 @@
 |:white_check_mark:|`gc.dev`|
 |:white_check_mark:|`gd.dev`|
 |:white_check_mark:|`ge.dev`|
-|:white_check_mark:|`gf.dev`|
 |:white_check_mark:|`gi.dev`|
 |:white_check_mark:|`gj.dev`|
-|:white_check_mark:|`gk.dev`|
 |:white_check_mark:|`gl.dev`|
 |:white_check_mark:|`gn.dev`|
 |:white_check_mark:|`gp.dev`|
 |:white_check_mark:|`gq.dev`|
-|:white_check_mark:|`gr.dev`|
 |:white_check_mark:|`gu.dev`|
 |:white_check_mark:|`gw.dev`|
 |:white_check_mark:|`gy.dev`|
 |:white_check_mark:|`gz.dev`|
 </details>
 <details>
-<summary>29 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -629,18 +626,13 @@
 |:white_check_mark:|`h8.dev`|
 |:white_check_mark:|`h9.dev`|
 |:white_check_mark:|`hb.dev`|
-|:white_check_mark:|`hc.dev`|
-|:white_check_mark:|`hd.dev`|
 |:white_check_mark:|`he.dev`|
 |:white_check_mark:|`hf.dev`|
-|:white_check_mark:|`hg.dev`|
 |:white_check_mark:|`hh.dev`|
-|:white_check_mark:|`hi.dev`|
 |:white_check_mark:|`hj.dev`|
 |:white_check_mark:|`hl.dev`|
 |:white_check_mark:|`hm.dev`|
 |:white_check_mark:|`ho.dev`|
-|:white_check_mark:|`hp.dev`|
 |:white_check_mark:|`hq.dev`|
 |:white_check_mark:|`hs.dev`|
 |:white_check_mark:|`ht.dev`|
@@ -650,7 +642,7 @@
 |:white_check_mark:|`hz.dev`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -660,28 +652,22 @@
 |:white_check_mark:|`i3.dev`|
 |:white_check_mark:|`i4.dev`|
 |:white_check_mark:|`i5.dev`|
-|:white_check_mark:|`i6.dev`|
 |:white_check_mark:|`i7.dev`|
 |:white_check_mark:|`i8.dev`|
 |:white_check_mark:|`i9.dev`|
 |:white_check_mark:|`ia.dev`|
-|:white_check_mark:|`ib.dev`|
 |:white_check_mark:|`ie.dev`|
-|:white_check_mark:|`if.dev`|
 |:white_check_mark:|`ig.dev`|
 |:white_check_mark:|`ih.dev`|
 |:white_check_mark:|`ii.dev`|
 |:white_check_mark:|`ij.dev`|
 |:white_check_mark:|`ik.dev`|
-|:white_check_mark:|`io.dev`|
-|:white_check_mark:|`it.dev`|
 |:white_check_mark:|`iu.dev`|
-|:white_check_mark:|`ix.dev`|
 |:white_check_mark:|`iy.dev`|
 |:white_check_mark:|`iz.dev`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -697,9 +683,7 @@
 |:white_check_mark:|`j9.dev`|
 |:white_check_mark:|`jc.dev`|
 |:white_check_mark:|`jd.dev`|
-|:white_check_mark:|`jf.dev`|
 |:white_check_mark:|`jg.dev`|
-|:white_check_mark:|`jh.dev`|
 |:white_check_mark:|`ji.dev`|
 |:white_check_mark:|`jj.dev`|
 |:white_check_mark:|`jn.dev`|
@@ -712,7 +696,7 @@
 |:white_check_mark:|`jz.dev`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -727,16 +711,9 @@
 |:white_check_mark:|`k8.dev`|
 |:white_check_mark:|`k9.dev`|
 |:white_check_mark:|`kb.dev`|
-|:white_check_mark:|`kf.dev`|
-|:white_check_mark:|`kg.dev`|
-|:white_check_mark:|`kk.dev`|
 |:white_check_mark:|`kl.dev`|
-|:white_check_mark:|`km.dev`|
-|:white_check_mark:|`kn.dev`|
 |:white_check_mark:|`kp.dev`|
 |:white_check_mark:|`kq.dev`|
-|:white_check_mark:|`kr.dev`|
-|:white_check_mark:|`kt.dev`|
 |:white_check_mark:|`ku.dev`|
 |:white_check_mark:|`kv.dev`|
 |:white_check_mark:|`kw.dev`|
@@ -745,7 +722,7 @@
 |:white_check_mark:|`kz.dev`|
 </details>
 <details>
-<summary>19 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -753,12 +730,9 @@
 |:white_check_mark:|`l2.dev`|
 |:white_check_mark:|`l5.dev`|
 |:white_check_mark:|`l6.dev`|
-|:white_check_mark:|`l7.dev`|
 |:white_check_mark:|`l9.dev`|
 |:white_check_mark:|`lh.dev`|
 |:white_check_mark:|`li.dev`|
-|:white_check_mark:|`ll.dev`|
-|:white_check_mark:|`lm.dev`|
 |:white_check_mark:|`lo.dev`|
 |:white_check_mark:|`lp.dev`|
 |:white_check_mark:|`lq.dev`|
@@ -770,11 +744,10 @@
 |:white_check_mark:|`ly.dev`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`m2.dev`|
 |:white_check_mark:|`m3.dev`|
 |:white_check_mark:|`m4.dev`|
 |:white_check_mark:|`m5.dev`|
@@ -782,14 +755,13 @@
 |:white_check_mark:|`m7.dev`|
 |:white_check_mark:|`m8.dev`|
 |:white_check_mark:|`m9.dev`|
-|:white_check_mark:|`mb.dev`|
 |:white_check_mark:|`mj.dev`|
 |:white_check_mark:|`mr.dev`|
 |:white_check_mark:|`mx.dev`|
 |:white_check_mark:|`mz.dev`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -808,22 +780,19 @@
 |:white_check_mark:|`nf.dev`|
 |:white_check_mark:|`nh.dev`|
 |:white_check_mark:|`nn.dev`|
-|:white_check_mark:|`no.dev`|
 |:white_check_mark:|`nq.dev`|
 |:white_check_mark:|`nr.dev`|
-|:white_check_mark:|`nu.dev`|
 |:white_check_mark:|`nw.dev`|
 |:white_check_mark:|`ny.dev`|
 |:white_check_mark:|`nz.dev`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`o0.dev`|
 |:white_check_mark:|`o1.dev`|
-|:white_check_mark:|`o2.dev`|
 |:white_check_mark:|`o3.dev`|
 |:white_check_mark:|`o4.dev`|
 |:white_check_mark:|`o5.dev`|
@@ -834,22 +803,19 @@
 |:white_check_mark:|`oa.dev`|
 |:white_check_mark:|`od.dev`|
 |:white_check_mark:|`oe.dev`|
-|:white_check_mark:|`of.dev`|
 |:white_check_mark:|`oj.dev`|
-|:white_check_mark:|`ok.dev`|
 |:white_check_mark:|`ol.dev`|
 |:white_check_mark:|`oo.dev`|
 |:white_check_mark:|`op.dev`|
 |:white_check_mark:|`oq.dev`|
 |:white_check_mark:|`or.dev`|
-|:white_check_mark:|`os.dev`|
 |:white_check_mark:|`ot.dev`|
 |:white_check_mark:|`ou.dev`|
 |:white_check_mark:|`ow.dev`|
 |:white_check_mark:|`oy.dev`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -861,18 +827,16 @@
 |:white_check_mark:|`p7.dev`|
 |:white_check_mark:|`p8.dev`|
 |:white_check_mark:|`p9.dev`|
-|:white_check_mark:|`pa.dev`|
-|:white_check_mark:|`pb.dev`|
+|:white_check_mark:|`pd.dev`|
 |:white_check_mark:|`pf.dev`|
 |:white_check_mark:|`pn.dev`|
 |:white_check_mark:|`po.dev`|
 |:white_check_mark:|`pq.dev`|
 |:white_check_mark:|`pu.dev`|
-|:white_check_mark:|`pv.dev`|
 |:white_check_mark:|`pz.dev`|
 </details>
 <details>
-<summary>33 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -887,7 +851,6 @@
 |:white_check_mark:|`q8.dev`|
 |:white_check_mark:|`q9.dev`|
 |:white_check_mark:|`qa.dev`|
-|:white_check_mark:|`qb.dev`|
 |:white_check_mark:|`qc.dev`|
 |:white_check_mark:|`qd.dev`|
 |:white_check_mark:|`qe.dev`|
@@ -911,7 +874,7 @@
 |:white_check_mark:|`qz.dev`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -924,27 +887,23 @@
 |:white_check_mark:|`r7.dev`|
 |:white_check_mark:|`r8.dev`|
 |:white_check_mark:|`r9.dev`|
-|:white_check_mark:|`rb.dev`|
 |:white_check_mark:|`rc.dev`|
 |:white_check_mark:|`rf.dev`|
 |:white_check_mark:|`rj.dev`|
 |:white_check_mark:|`rk.dev`|
-|:white_check_mark:|`rl.dev`|
 |:white_check_mark:|`rm.dev`|
 |:white_check_mark:|`rq.dev`|
 |:white_check_mark:|`rt.dev`|
 |:white_check_mark:|`rv.dev`|
 |:white_check_mark:|`rw.dev`|
-|:white_check_mark:|`rx.dev`|
 |:white_check_mark:|`ry.dev`|
 |:white_check_mark:|`rz.dev`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>14 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`s0.dev`|
 |:white_check_mark:|`s1.dev`|
 |:white_check_mark:|`s3.dev`|
 |:white_check_mark:|`s4.dev`|
@@ -952,23 +911,20 @@
 |:white_check_mark:|`s7.dev`|
 |:white_check_mark:|`s8.dev`|
 |:white_check_mark:|`s9.dev`|
-|:white_check_mark:|`se.dev`|
 |:white_check_mark:|`sf.dev`|
 |:white_check_mark:|`si.dev`|
 |:white_check_mark:|`so.dev`|
-|:white_check_mark:|`sq.dev`|
 |:white_check_mark:|`su.dev`|
 |:white_check_mark:|`sv.dev`|
 |:white_check_mark:|`sx.dev`|
 |:white_check_mark:|`sz.dev`|
 </details>
 <details>
-<summary>20 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>18 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`t0.dev`|
-|:white_check_mark:|`t1.dev`|
 |:white_check_mark:|`t3.dev`|
 |:white_check_mark:|`t4.dev`|
 |:white_check_mark:|`t5.dev`|
@@ -980,7 +936,6 @@
 |:white_check_mark:|`tf.dev`|
 |:white_check_mark:|`tl.dev`|
 |:white_check_mark:|`tm.dev`|
-|:white_check_mark:|`to.dev`|
 |:white_check_mark:|`tp.dev`|
 |:white_check_mark:|`tq.dev`|
 |:white_check_mark:|`tu.dev`|
@@ -989,7 +944,7 @@
 |:white_check_mark:|`tz.dev`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>25 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1016,15 +971,16 @@
 |:white_check_mark:|`ut.dev`|
 |:white_check_mark:|`uu.dev`|
 |:white_check_mark:|`uw.dev`|
-|:white_check_mark:|`ux.dev`|
 |:white_check_mark:|`uy.dev`|
 |:white_check_mark:|`uz.dev`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`v0.dev`|
+|:white_check_mark:|`v1.dev`|
 |:white_check_mark:|`v3.dev`|
 |:white_check_mark:|`v4.dev`|
 |:white_check_mark:|`v5.dev`|
@@ -1043,7 +999,6 @@
 |:white_check_mark:|`vq.dev`|
 |:white_check_mark:|`vr.dev`|
 |:white_check_mark:|`vu.dev`|
-|:white_check_mark:|`vv.dev`|
 |:white_check_mark:|`vw.dev`|
 |:white_check_mark:|`vy.dev`|
 |:white_check_mark:|`vz.dev`|
@@ -1075,20 +1030,21 @@
 |:white_check_mark:|`wn.dev`|
 |:white_check_mark:|`wq.dev`|
 |:white_check_mark:|`wr.dev`|
-|:white_check_mark:|`wu.dev`|
 |:white_check_mark:|`wv.dev`|
+|:white_check_mark:|`ww.dev`|
 |:white_check_mark:|`wx.dev`|
 |:white_check_mark:|`wy.dev`|
 |:white_check_mark:|`wz.dev`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`x0.dev`|
 |:white_check_mark:|`x1.dev`|
 |:white_check_mark:|`x2.dev`|
+|:white_check_mark:|`x3.dev`|
 |:white_check_mark:|`x4.dev`|
 |:white_check_mark:|`x5.dev`|
 |:white_check_mark:|`x6.dev`|
@@ -1106,9 +1062,9 @@
 |:white_check_mark:|`xi.dev`|
 |:white_check_mark:|`xj.dev`|
 |:white_check_mark:|`xk.dev`|
+|:white_check_mark:|`xl.dev`|
 |:white_check_mark:|`xm.dev`|
 |:white_check_mark:|`xn.dev`|
-|:white_check_mark:|`xp.dev`|
 |:white_check_mark:|`xq.dev`|
 |:white_check_mark:|`xs.dev`|
 |:white_check_mark:|`xu.dev`|
@@ -1142,7 +1098,6 @@
 |:white_check_mark:|`yi.dev`|
 |:white_check_mark:|`yk.dev`|
 |:white_check_mark:|`yl.dev`|
-|:white_check_mark:|`ym.dev`|
 |:white_check_mark:|`yn.dev`|
 |:white_check_mark:|`yp.dev`|
 |:white_check_mark:|`yq.dev`|
@@ -1153,15 +1108,17 @@
 |:white_check_mark:|`yw.dev`|
 |:white_check_mark:|`yx.dev`|
 |:white_check_mark:|`yy.dev`|
+|:white_check_mark:|`yz.dev`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>z</code></bold></summary>
+<summary>29 unregistered domains starting with <bold><code>z</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`z0.dev`|
 |:white_check_mark:|`z1.dev`|
 |:white_check_mark:|`z2.dev`|
+|:white_check_mark:|`z3.dev`|
 |:white_check_mark:|`z4.dev`|
 |:white_check_mark:|`z5.dev`|
 |:white_check_mark:|`z6.dev`|
@@ -1180,6 +1137,7 @@
 |:white_check_mark:|`zl.dev`|
 |:white_check_mark:|`zm.dev`|
 |:white_check_mark:|`zn.dev`|
+|:white_check_mark:|`zo.dev`|
 |:white_check_mark:|`zq.dev`|
 |:white_check_mark:|`zr.dev`|
 |:white_check_mark:|`zs.dev`|

@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.sy`
 
-## Data last updated: 05/23/2024, 18:09:28
+## Data last updated: 05/27/2024, 14:25:40
 
 |Stat|Amount|
 |--|--|
-|Registered domains|22|
-|Unregistered domains|1274|
+|Registered domains|61|
+|Unregistered domains|1235|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|1.7%|
+|Registration rate|4.71%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -147,7 +147,7 @@
 |:white_check_mark:|`2z.sy`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>25 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -163,17 +163,6 @@
 |:white_check_mark:|`39.sy`|
 |:white_check_mark:|`3a.sy`|
 |:white_check_mark:|`3b.sy`|
-|:white_check_mark:|`3c.sy`|
-|:white_check_mark:|`3d.sy`|
-|:white_check_mark:|`3e.sy`|
-|:white_check_mark:|`3f.sy`|
-|:white_check_mark:|`3g.sy`|
-|:white_check_mark:|`3h.sy`|
-|:white_check_mark:|`3i.sy`|
-|:white_check_mark:|`3j.sy`|
-|:white_check_mark:|`3k.sy`|
-|:white_check_mark:|`3l.sy`|
-|:white_check_mark:|`3m.sy`|
 |:white_check_mark:|`3n.sy`|
 |:white_check_mark:|`3o.sy`|
 |:white_check_mark:|`3p.sy`|
@@ -231,7 +220,7 @@
 |:white_check_mark:|`4z.sy`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -254,6 +243,17 @@
 |:white_check_mark:|`5g.sy`|
 |:white_check_mark:|`5h.sy`|
 |:white_check_mark:|`5i.sy`|
+|:white_check_mark:|`5j.sy`|
+|:white_check_mark:|`5k.sy`|
+|:white_check_mark:|`5l.sy`|
+|:white_check_mark:|`5m.sy`|
+|:white_check_mark:|`5n.sy`|
+|:white_check_mark:|`5o.sy`|
+|:white_check_mark:|`5p.sy`|
+|:white_check_mark:|`5q.sy`|
+|:white_check_mark:|`5r.sy`|
+|:white_check_mark:|`5s.sy`|
+|:white_check_mark:|`5t.sy`|
 |:white_check_mark:|`5u.sy`|
 |:white_check_mark:|`5v.sy`|
 |:white_check_mark:|`5w.sy`|
@@ -262,18 +262,10 @@
 |:white_check_mark:|`5z.sy`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`60.sy`|
-|:white_check_mark:|`61.sy`|
-|:white_check_mark:|`62.sy`|
-|:white_check_mark:|`63.sy`|
-|:white_check_mark:|`64.sy`|
-|:white_check_mark:|`65.sy`|
-|:white_check_mark:|`66.sy`|
-|:white_check_mark:|`67.sy`|
 |:white_check_mark:|`68.sy`|
 |:white_check_mark:|`69.sy`|
 |:white_check_mark:|`6a.sy`|
@@ -297,11 +289,6 @@
 |:white_check_mark:|`6s.sy`|
 |:white_check_mark:|`6t.sy`|
 |:white_check_mark:|`6u.sy`|
-|:white_check_mark:|`6v.sy`|
-|:white_check_mark:|`6w.sy`|
-|:white_check_mark:|`6x.sy`|
-|:white_check_mark:|`6y.sy`|
-|:white_check_mark:|`6z.sy`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
@@ -430,7 +417,7 @@
 |:white_check_mark:|`9z.sy`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -444,6 +431,17 @@
 |:white_check_mark:|`a7.sy`|
 |:white_check_mark:|`a8.sy`|
 |:white_check_mark:|`a9.sy`|
+|:white_check_mark:|`aa.sy`|
+|:white_check_mark:|`ab.sy`|
+|:white_check_mark:|`ac.sy`|
+|:white_check_mark:|`ad.sy`|
+|:white_check_mark:|`ae.sy`|
+|:white_check_mark:|`af.sy`|
+|:white_check_mark:|`ag.sy`|
+|:white_check_mark:|`ah.sy`|
+|:white_check_mark:|`ai.sy`|
+|:white_check_mark:|`aj.sy`|
+|:white_check_mark:|`ak.sy`|
 |:white_check_mark:|`al.sy`|
 |:white_check_mark:|`am.sy`|
 |:white_check_mark:|`an.sy`|
@@ -1175,7 +1173,7 @@
 |:white_check_mark:|`rz.sy`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1199,18 +1197,6 @@
 |:white_check_mark:|`sh.sy`|
 |:white_check_mark:|`si.sy`|
 |:white_check_mark:|`sj.sy`|
-|:white_check_mark:|`sk.sy`|
-|:white_check_mark:|`sl.sy`|
-|:white_check_mark:|`sm.sy`|
-|:white_check_mark:|`sn.sy`|
-|:white_check_mark:|`so.sy`|
-|:white_check_mark:|`sp.sy`|
-|:white_check_mark:|`sq.sy`|
-|:white_check_mark:|`sr.sy`|
-|:white_check_mark:|`ss.sy`|
-|:white_check_mark:|`st.sy`|
-|:white_check_mark:|`su.sy`|
-|:white_check_mark:|`sv.sy`|
 |:white_check_mark:|`sw.sy`|
 |:white_check_mark:|`sx.sy`|
 |:white_check_mark:|`sy.sy`|
@@ -1301,7 +1287,7 @@
 |:white_check_mark:|`uz.sy`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1310,11 +1296,6 @@
 |:white_check_mark:|`v2.sy`|
 |:white_check_mark:|`v3.sy`|
 |:white_check_mark:|`v4.sy`|
-|:white_check_mark:|`v5.sy`|
-|:white_check_mark:|`v6.sy`|
-|:white_check_mark:|`v7.sy`|
-|:white_check_mark:|`v8.sy`|
-|:white_check_mark:|`v9.sy`|
 |:white_check_mark:|`va.sy`|
 |:white_check_mark:|`vb.sy`|
 |:white_check_mark:|`vc.sy`|
@@ -1343,7 +1324,7 @@
 |:white_check_mark:|`vz.sy`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1357,12 +1338,6 @@
 |:white_check_mark:|`w7.sy`|
 |:white_check_mark:|`w8.sy`|
 |:white_check_mark:|`w9.sy`|
-|:white_check_mark:|`wa.sy`|
-|:white_check_mark:|`wb.sy`|
-|:white_check_mark:|`wc.sy`|
-|:white_check_mark:|`wd.sy`|
-|:white_check_mark:|`we.sy`|
-|:white_check_mark:|`wf.sy`|
 |:white_check_mark:|`wg.sy`|
 |:white_check_mark:|`wh.sy`|
 |:white_check_mark:|`wi.sy`|
@@ -1469,13 +1444,10 @@
 |:white_check_mark:|`yz.sy`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>z</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>z</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`z0.sy`|
-|:white_check_mark:|`z1.sy`|
-|:white_check_mark:|`z2.sy`|
 |:white_check_mark:|`z3.sy`|
 |:white_check_mark:|`z4.sy`|
 |:white_check_mark:|`z5.sy`|
@@ -1498,15 +1470,4 @@
 |:white_check_mark:|`zm.sy`|
 |:white_check_mark:|`zn.sy`|
 |:white_check_mark:|`zo.sy`|
-|:white_check_mark:|`zp.sy`|
-|:white_check_mark:|`zq.sy`|
-|:white_check_mark:|`zr.sy`|
-|:white_check_mark:|`zs.sy`|
-|:white_check_mark:|`zt.sy`|
-|:white_check_mark:|`zu.sy`|
-|:white_check_mark:|`zv.sy`|
-|:white_check_mark:|`zw.sy`|
-|:white_check_mark:|`zx.sy`|
-|:white_check_mark:|`zy.sy`|
-|:white_check_mark:|`zz.sy`|
 </details>

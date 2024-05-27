@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.la`
 
-## Data last updated: 05/23/2024, 18:19:21
+## Data last updated: 05/27/2024, 11:24:06
 
 |Stat|Amount|
 |--|--|

@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.uz`
 
-## Data last updated: 05/23/2024, 18:19:52
+## Data last updated: 05/27/2024, 11:16:44
 
 |Stat|Amount|
 |--|--|

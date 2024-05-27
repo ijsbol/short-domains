@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.co`
 
-## Data last updated: 05/23/2024, 17:49:01
+## Data last updated: 05/27/2024, 11:07:32
 
 |Stat|Amount|
 |--|--|
-|Registered domains|4|
-|Unregistered domains|1292|
+|Registered domains|8|
+|Unregistered domains|1288|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.31%|
+|Registration rate|0.62%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,7 +441,7 @@
 |:white_check_mark:|`9z.co`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -455,10 +455,6 @@
 |:white_check_mark:|`a7.co`|
 |:white_check_mark:|`a8.co`|
 |:white_check_mark:|`a9.co`|
-|:white_check_mark:|`ae.co`|
-|:white_check_mark:|`af.co`|
-|:white_check_mark:|`ag.co`|
-|:white_check_mark:|`ah.co`|
 |:white_check_mark:|`ai.co`|
 |:white_check_mark:|`aj.co`|
 |:white_check_mark:|`ak.co`|

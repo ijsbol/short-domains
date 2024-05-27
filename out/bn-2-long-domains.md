@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.bn`
 
-## Data last updated: 05/23/2024, 17:59:32
+## Data last updated: 05/27/2024, 11:15:02
 
 |Stat|Amount|
 |--|--|

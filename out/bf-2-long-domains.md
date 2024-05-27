@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.bf`
 
-## Data last updated: 05/23/2024, 18:00:32
+## Data last updated: 05/27/2024, 11:07:27
 
 |Stat|Amount|
 |--|--|

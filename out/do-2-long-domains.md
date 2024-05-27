@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.do`
 
-## Data last updated: 05/26/2024, 13:39:57
+## Data last updated: 05/27/2024, 11:00:26
 
 |Stat|Amount|
 |--|--|
@@ -441,28 +441,22 @@
 |:white_check_mark:|`9z.do`|
 </details>
 <details>
-<summary>6 unregistered domains starting with <bold><code>a</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`ai.do`|
-|:white_check_mark:|`aj.do`|
-|:white_check_mark:|`ap.do`|
-|:white_check_mark:|`at.do`|
-|:white_check_mark:|`ax.do`|
-|:white_check_mark:|`az.do`|
-</details>
-<details>
-<summary>6 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`b0.do`|
+|:white_check_mark:|`b1.do`|
+|:white_check_mark:|`b2.do`|
+|:white_check_mark:|`b3.do`|
+|:white_check_mark:|`b4.do`|
+|:white_check_mark:|`b5.do`|
+|:white_check_mark:|`b6.do`|
+|:white_check_mark:|`b7.do`|
 |:white_check_mark:|`b8.do`|
 |:white_check_mark:|`b9.do`|
-|:white_check_mark:|`bo.do`|
-|:white_check_mark:|`bs.do`|
-|:white_check_mark:|`bt.do`|
+|:white_check_mark:|`by.do`|
+|:white_check_mark:|`bz.do`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>

@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.lt`
 
-## Data last updated: 05/26/2024, 13:52:48
+## Data last updated: 05/27/2024, 11:04:15
 
 |Stat|Amount|
 |--|--|
-|Registered domains|119|
-|Unregistered domains|1177|
+|Registered domains|103|
+|Unregistered domains|1193|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|9.18%|
+|Registration rate|7.95%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,45 +441,23 @@
 |:white_check_mark:|`9z.lt`|
 </details>
 <details>
-<summary>6 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a4.lt`|
-|:white_check_mark:|`a7.lt`|
-|:white_check_mark:|`a8.lt`|
-|:white_check_mark:|`ab.lt`|
-|:white_check_mark:|`ag.lt`|
-|:white_check_mark:|`au.lt`|
-</details>
-<details>
-<summary>3 unregistered domains starting with <bold><code>b</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`ba.lt`|
-|:white_check_mark:|`bc.lt`|
-|:white_check_mark:|`bu.lt`|
-</details>
-<details>
-<summary>8 unregistered domains starting with <bold><code>c</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`c1.lt`|
-|:white_check_mark:|`c2.lt`|
+|:white_check_mark:|`c5.lt`|
+|:white_check_mark:|`c6.lt`|
+|:white_check_mark:|`c7.lt`|
+|:white_check_mark:|`c8.lt`|
 |:white_check_mark:|`c9.lt`|
-|:white_check_mark:|`cc.lt`|
-|:white_check_mark:|`cd.lt`|
-|:white_check_mark:|`cg.lt`|
-|:white_check_mark:|`cp.lt`|
-|:white_check_mark:|`cr.lt`|
 </details>
 <details>
-<summary>8 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`d0.lt`|
+|:white_check_mark:|`d1.lt`|
 |:white_check_mark:|`d2.lt`|
 |:white_check_mark:|`d3.lt`|
 |:white_check_mark:|`d4.lt`|
@@ -488,6 +466,32 @@
 |:white_check_mark:|`d7.lt`|
 |:white_check_mark:|`d8.lt`|
 |:white_check_mark:|`d9.lt`|
+|:white_check_mark:|`da.lt`|
+|:white_check_mark:|`db.lt`|
+|:white_check_mark:|`dc.lt`|
+|:white_check_mark:|`dd.lt`|
+|:white_check_mark:|`de.lt`|
+|:white_check_mark:|`df.lt`|
+|:white_check_mark:|`dg.lt`|
+|:white_check_mark:|`dh.lt`|
+|:white_check_mark:|`di.lt`|
+|:white_check_mark:|`dj.lt`|
+|:white_check_mark:|`dk.lt`|
+|:white_check_mark:|`dl.lt`|
+|:white_check_mark:|`dm.lt`|
+|:white_check_mark:|`dn.lt`|
+|:white_check_mark:|`do.lt`|
+|:white_check_mark:|`dp.lt`|
+|:white_check_mark:|`dq.lt`|
+|:white_check_mark:|`dr.lt`|
+|:white_check_mark:|`ds.lt`|
+|:white_check_mark:|`dt.lt`|
+|:white_check_mark:|`du.lt`|
+|:white_check_mark:|`dv.lt`|
+|:white_check_mark:|`dw.lt`|
+|:white_check_mark:|`dx.lt`|
+|:white_check_mark:|`dy.lt`|
+|:white_check_mark:|`dz.lt`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>e</code></bold></summary>

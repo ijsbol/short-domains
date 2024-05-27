@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.rw`
 
-## Data last updated: 05/23/2024, 18:01:50
+## Data last updated: 05/27/2024, 11:07:37
 
 |Stat|Amount|
 |--|--|
@@ -455,7 +455,7 @@
 |:white_check_mark:|`a7.rw`|
 |:white_check_mark:|`a8.rw`|
 |:white_check_mark:|`a9.rw`|
-|:white_check_mark:|`aa.rw`|
+|:white_check_mark:|`au.rw`|
 |:white_check_mark:|`av.rw`|
 |:white_check_mark:|`aw.rw`|
 |:white_check_mark:|`ax.rw`|

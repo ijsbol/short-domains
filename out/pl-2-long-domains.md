@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.pl`
 
-## Data last updated: 05/23/2024, 17:56:04
+## Data last updated: 05/27/2024, 11:02:40
 
 |Stat|Amount|
 |--|--|

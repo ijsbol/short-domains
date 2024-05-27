@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.vg`
 
-## Data last updated: 05/23/2024, 17:57:20
+## Data last updated: 05/27/2024, 11:02:06
 
 |Stat|Amount|
 |--|--|
-|Registered domains|54|
-|Unregistered domains|1242|
+|Registered domains|51|
+|Unregistered domains|1245|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|4.17%|
+|Registration rate|3.94%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -63,14 +63,13 @@
 |:white_check_mark:|`0z.vg`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`10.vg`|
 |:white_check_mark:|`11.vg`|
 |:white_check_mark:|`12.vg`|
-|:white_check_mark:|`13.vg`|
 |:white_check_mark:|`14.vg`|
 |:white_check_mark:|`15.vg`|
 |:white_check_mark:|`16.vg`|
@@ -357,7 +356,7 @@
 |:white_check_mark:|`7z.vg`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -369,7 +368,6 @@
 |:white_check_mark:|`85.vg`|
 |:white_check_mark:|`86.vg`|
 |:white_check_mark:|`87.vg`|
-|:white_check_mark:|`88.vg`|
 |:white_check_mark:|`89.vg`|
 |:white_check_mark:|`8a.vg`|
 |:white_check_mark:|`8b.vg`|
@@ -686,7 +684,7 @@
 |:white_check_mark:|`gz.vg`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -710,21 +708,25 @@
 |:white_check_mark:|`hh.vg`|
 |:white_check_mark:|`hi.vg`|
 |:white_check_mark:|`hj.vg`|
+|:white_check_mark:|`hk.vg`|
 |:white_check_mark:|`hl.vg`|
 |:white_check_mark:|`hm.vg`|
 |:white_check_mark:|`hn.vg`|
 |:white_check_mark:|`ho.vg`|
+|:white_check_mark:|`hp.vg`|
+|:white_check_mark:|`hq.vg`|
 |:white_check_mark:|`hr.vg`|
 |:white_check_mark:|`hs.vg`|
 |:white_check_mark:|`ht.vg`|
 |:white_check_mark:|`hu.vg`|
 |:white_check_mark:|`hv.vg`|
+|:white_check_mark:|`hw.vg`|
 |:white_check_mark:|`hx.vg`|
 |:white_check_mark:|`hy.vg`|
 |:white_check_mark:|`hz.vg`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -741,6 +743,7 @@
 |:white_check_mark:|`ia.vg`|
 |:white_check_mark:|`ib.vg`|
 |:white_check_mark:|`ic.vg`|
+|:white_check_mark:|`id.vg`|
 |:white_check_mark:|`ie.vg`|
 |:white_check_mark:|`if.vg`|
 |:white_check_mark:|`ig.vg`|

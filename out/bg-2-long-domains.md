@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bg`
 
-## Data last updated: 05/24/2024, 14:17:12
+## Data last updated: 05/27/2024, 11:02:17
 
 |Stat|Amount|
 |--|--|
-|Registered domains|11|
-|Unregistered domains|1285|
+|Registered domains|2|
+|Unregistered domains|1294|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.85%|
+|Registration rate|0.15%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -481,7 +481,7 @@
 |:white_check_mark:|`az.bg`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -499,8 +499,11 @@
 |:white_check_mark:|`bb.bg`|
 |:white_check_mark:|`bc.bg`|
 |:white_check_mark:|`bd.bg`|
+|:white_check_mark:|`be.bg`|
 |:white_check_mark:|`bf.bg`|
 |:white_check_mark:|`bg.bg`|
+|:white_check_mark:|`bh.bg`|
+|:white_check_mark:|`bi.bg`|
 |:white_check_mark:|`bj.bg`|
 |:white_check_mark:|`bk.bg`|
 |:white_check_mark:|`bl.bg`|
@@ -513,12 +516,14 @@
 |:white_check_mark:|`bs.bg`|
 |:white_check_mark:|`bt.bg`|
 |:white_check_mark:|`bu.bg`|
+|:white_check_mark:|`bv.bg`|
 |:white_check_mark:|`bw.bg`|
+|:white_check_mark:|`bx.bg`|
 |:white_check_mark:|`by.bg`|
 |:white_check_mark:|`bz.bg`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -539,9 +544,13 @@
 |:white_check_mark:|`ce.bg`|
 |:white_check_mark:|`cf.bg`|
 |:white_check_mark:|`cg.bg`|
+|:white_check_mark:|`ch.bg`|
+|:white_check_mark:|`ci.bg`|
 |:white_check_mark:|`cj.bg`|
 |:white_check_mark:|`ck.bg`|
 |:white_check_mark:|`cl.bg`|
+|:white_check_mark:|`cm.bg`|
+|:white_check_mark:|`cn.bg`|
 |:white_check_mark:|`co.bg`|
 |:white_check_mark:|`cp.bg`|
 |:white_check_mark:|`cq.bg`|

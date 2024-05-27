@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.cv`
 
-## Data last updated: 05/23/2024, 17:56:06
+## Data last updated: 05/27/2024, 11:10:24
 
 |Stat|Amount|
 |--|--|
 |Registered domains|1000|
-|Unregistered domains|296|
+|Unregistered domains|141|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|77.16%|
+|Registration rate|87.64%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|1141|
 |Lookup success rate|100%|
 
 
@@ -161,20 +161,10 @@
 |:white_check_mark:|`4z.cv`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>25 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`50.cv`|
-|:white_check_mark:|`51.cv`|
-|:white_check_mark:|`52.cv`|
-|:white_check_mark:|`53.cv`|
-|:white_check_mark:|`54.cv`|
-|:white_check_mark:|`55.cv`|
-|:white_check_mark:|`56.cv`|
-|:white_check_mark:|`57.cv`|
-|:white_check_mark:|`58.cv`|
-|:white_check_mark:|`59.cv`|
 |:white_check_mark:|`5a.cv`|
 |:white_check_mark:|`5b.cv`|
 |:white_check_mark:|`5c.cv`|
@@ -200,173 +190,4 @@
 |:white_check_mark:|`5w.cv`|
 |:white_check_mark:|`5x.cv`|
 |:white_check_mark:|`5y.cv`|
-|:white_check_mark:|`5z.cv`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>6</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`60.cv`|
-|:white_check_mark:|`61.cv`|
-|:white_check_mark:|`62.cv`|
-|:white_check_mark:|`63.cv`|
-|:white_check_mark:|`64.cv`|
-|:white_check_mark:|`65.cv`|
-|:white_check_mark:|`66.cv`|
-|:white_check_mark:|`67.cv`|
-|:white_check_mark:|`68.cv`|
-|:white_check_mark:|`69.cv`|
-|:white_check_mark:|`6a.cv`|
-|:white_check_mark:|`6b.cv`|
-|:white_check_mark:|`6c.cv`|
-|:white_check_mark:|`6d.cv`|
-|:white_check_mark:|`6e.cv`|
-|:white_check_mark:|`6f.cv`|
-|:white_check_mark:|`6g.cv`|
-|:white_check_mark:|`6h.cv`|
-|:white_check_mark:|`6i.cv`|
-|:white_check_mark:|`6j.cv`|
-|:white_check_mark:|`6k.cv`|
-|:white_check_mark:|`6l.cv`|
-|:white_check_mark:|`6m.cv`|
-|:white_check_mark:|`6n.cv`|
-|:white_check_mark:|`6o.cv`|
-|:white_check_mark:|`6p.cv`|
-|:white_check_mark:|`6q.cv`|
-|:white_check_mark:|`6r.cv`|
-|:white_check_mark:|`6s.cv`|
-|:white_check_mark:|`6t.cv`|
-|:white_check_mark:|`6u.cv`|
-|:white_check_mark:|`6v.cv`|
-|:white_check_mark:|`6w.cv`|
-|:white_check_mark:|`6x.cv`|
-|:white_check_mark:|`6y.cv`|
-|:white_check_mark:|`6z.cv`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`70.cv`|
-|:white_check_mark:|`71.cv`|
-|:white_check_mark:|`72.cv`|
-|:white_check_mark:|`73.cv`|
-|:white_check_mark:|`74.cv`|
-|:white_check_mark:|`75.cv`|
-|:white_check_mark:|`76.cv`|
-|:white_check_mark:|`77.cv`|
-|:white_check_mark:|`78.cv`|
-|:white_check_mark:|`79.cv`|
-|:white_check_mark:|`7a.cv`|
-|:white_check_mark:|`7b.cv`|
-|:white_check_mark:|`7c.cv`|
-|:white_check_mark:|`7d.cv`|
-|:white_check_mark:|`7e.cv`|
-|:white_check_mark:|`7f.cv`|
-|:white_check_mark:|`7g.cv`|
-|:white_check_mark:|`7h.cv`|
-|:white_check_mark:|`7i.cv`|
-|:white_check_mark:|`7j.cv`|
-|:white_check_mark:|`7k.cv`|
-|:white_check_mark:|`7l.cv`|
-|:white_check_mark:|`7m.cv`|
-|:white_check_mark:|`7n.cv`|
-|:white_check_mark:|`7o.cv`|
-|:white_check_mark:|`7p.cv`|
-|:white_check_mark:|`7q.cv`|
-|:white_check_mark:|`7r.cv`|
-|:white_check_mark:|`7s.cv`|
-|:white_check_mark:|`7t.cv`|
-|:white_check_mark:|`7u.cv`|
-|:white_check_mark:|`7v.cv`|
-|:white_check_mark:|`7w.cv`|
-|:white_check_mark:|`7x.cv`|
-|:white_check_mark:|`7y.cv`|
-|:white_check_mark:|`7z.cv`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`80.cv`|
-|:white_check_mark:|`81.cv`|
-|:white_check_mark:|`82.cv`|
-|:white_check_mark:|`83.cv`|
-|:white_check_mark:|`84.cv`|
-|:white_check_mark:|`85.cv`|
-|:white_check_mark:|`86.cv`|
-|:white_check_mark:|`87.cv`|
-|:white_check_mark:|`88.cv`|
-|:white_check_mark:|`89.cv`|
-|:white_check_mark:|`8a.cv`|
-|:white_check_mark:|`8b.cv`|
-|:white_check_mark:|`8c.cv`|
-|:white_check_mark:|`8d.cv`|
-|:white_check_mark:|`8e.cv`|
-|:white_check_mark:|`8f.cv`|
-|:white_check_mark:|`8g.cv`|
-|:white_check_mark:|`8h.cv`|
-|:white_check_mark:|`8i.cv`|
-|:white_check_mark:|`8j.cv`|
-|:white_check_mark:|`8k.cv`|
-|:white_check_mark:|`8l.cv`|
-|:white_check_mark:|`8m.cv`|
-|:white_check_mark:|`8n.cv`|
-|:white_check_mark:|`8o.cv`|
-|:white_check_mark:|`8p.cv`|
-|:white_check_mark:|`8q.cv`|
-|:white_check_mark:|`8r.cv`|
-|:white_check_mark:|`8s.cv`|
-|:white_check_mark:|`8t.cv`|
-|:white_check_mark:|`8u.cv`|
-|:white_check_mark:|`8v.cv`|
-|:white_check_mark:|`8w.cv`|
-|:white_check_mark:|`8x.cv`|
-|:white_check_mark:|`8y.cv`|
-|:white_check_mark:|`8z.cv`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`90.cv`|
-|:white_check_mark:|`91.cv`|
-|:white_check_mark:|`92.cv`|
-|:white_check_mark:|`93.cv`|
-|:white_check_mark:|`94.cv`|
-|:white_check_mark:|`95.cv`|
-|:white_check_mark:|`96.cv`|
-|:white_check_mark:|`97.cv`|
-|:white_check_mark:|`98.cv`|
-|:white_check_mark:|`99.cv`|
-|:white_check_mark:|`9a.cv`|
-|:white_check_mark:|`9b.cv`|
-|:white_check_mark:|`9c.cv`|
-|:white_check_mark:|`9d.cv`|
-|:white_check_mark:|`9e.cv`|
-|:white_check_mark:|`9f.cv`|
-|:white_check_mark:|`9g.cv`|
-|:white_check_mark:|`9h.cv`|
-|:white_check_mark:|`9i.cv`|
-|:white_check_mark:|`9j.cv`|
-|:white_check_mark:|`9k.cv`|
-|:white_check_mark:|`9l.cv`|
-|:white_check_mark:|`9m.cv`|
-|:white_check_mark:|`9n.cv`|
-|:white_check_mark:|`9o.cv`|
-|:white_check_mark:|`9p.cv`|
-|:white_check_mark:|`9q.cv`|
-|:white_check_mark:|`9r.cv`|
-|:white_check_mark:|`9s.cv`|
-|:white_check_mark:|`9t.cv`|
-|:white_check_mark:|`9u.cv`|
-|:white_check_mark:|`9v.cv`|
-|:white_check_mark:|`9w.cv`|
-|:white_check_mark:|`9x.cv`|
-|:white_check_mark:|`9y.cv`|
-|:white_check_mark:|`9z.cv`|
 </details>

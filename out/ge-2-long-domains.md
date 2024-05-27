@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.ge`
 
-## Data last updated: 05/23/2024, 17:58:31
+## Data last updated: 05/27/2024, 11:04:17
 
 |Stat|Amount|
 |--|--|
-|Registered domains|285|
-|Unregistered domains|1011|
+|Registered domains|284|
+|Unregistered domains|1012|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|21.99%|
+|Registration rate|21.91%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -528,7 +528,7 @@
 |:white_check_mark:|`dz.ge`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -543,6 +543,7 @@
 |:white_check_mark:|`e9.ge`|
 |:white_check_mark:|`ea.ge`|
 |:white_check_mark:|`ef.ge`|
+|:white_check_mark:|`eh.ge`|
 |:white_check_mark:|`ei.ge`|
 |:white_check_mark:|`ej.ge`|
 |:white_check_mark:|`ek.ge`|

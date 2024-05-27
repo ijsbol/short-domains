@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.io`
 
-## Data last updated: 05/23/2024, 19:46:51
+## Data last updated: 05/27/2024, 14:33:24
 
 |Stat|Amount|
 |--|--|
-|Registered domains|22|
-|Unregistered domains|1274|
+|Registered domains|13|
+|Unregistered domains|1283|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|1.7%|
+|Registration rate|1.0%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -399,10 +399,20 @@
 |:white_check_mark:|`8z.io`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>9</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`90.io`|
+|:white_check_mark:|`91.io`|
+|:white_check_mark:|`92.io`|
+|:white_check_mark:|`93.io`|
+|:white_check_mark:|`94.io`|
+|:white_check_mark:|`95.io`|
+|:white_check_mark:|`96.io`|
+|:white_check_mark:|`97.io`|
+|:white_check_mark:|`98.io`|
+|:white_check_mark:|`99.io`|
 |:white_check_mark:|`9a.io`|
 |:white_check_mark:|`9b.io`|
 |:white_check_mark:|`9c.io`|
@@ -431,7 +441,7 @@
 |:white_check_mark:|`9z.io`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -445,7 +455,6 @@
 |:white_check_mark:|`a7.io`|
 |:white_check_mark:|`a8.io`|
 |:white_check_mark:|`a9.io`|
-|:white_check_mark:|`am.io`|
 |:white_check_mark:|`an.io`|
 |:white_check_mark:|`ao.io`|
 |:white_check_mark:|`ap.io`|

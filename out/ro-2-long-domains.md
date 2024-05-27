@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.ro`
 
-## Data last updated: 05/23/2024, 18:06:47
+## Data last updated: 05/27/2024, 13:57:14
 
 |Stat|Amount|
 |--|--|
-|Registered domains|95|
-|Unregistered domains|1201|
+|Registered domains|233|
+|Unregistered domains|1063|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|7.33%|
+|Registration rate|17.98%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -357,20 +357,12 @@
 |:white_check_mark:|`7z.ro`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`80.ro`|
 |:white_check_mark:|`81.ro`|
-|:white_check_mark:|`82.ro`|
-|:white_check_mark:|`83.ro`|
-|:white_check_mark:|`84.ro`|
-|:white_check_mark:|`85.ro`|
-|:white_check_mark:|`86.ro`|
-|:white_check_mark:|`87.ro`|
-|:white_check_mark:|`88.ro`|
-|:white_check_mark:|`89.ro`|
 |:white_check_mark:|`8a.ro`|
 |:white_check_mark:|`8b.ro`|
 |:white_check_mark:|`8c.ro`|
@@ -399,49 +391,35 @@
 |:white_check_mark:|`8z.ro`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`90.ro`|
-|:white_check_mark:|`91.ro`|
-|:white_check_mark:|`92.ro`|
-|:white_check_mark:|`93.ro`|
-|:white_check_mark:|`94.ro`|
-|:white_check_mark:|`95.ro`|
-|:white_check_mark:|`96.ro`|
-|:white_check_mark:|`97.ro`|
-|:white_check_mark:|`98.ro`|
-|:white_check_mark:|`99.ro`|
-|:white_check_mark:|`9a.ro`|
-|:white_check_mark:|`9b.ro`|
-|:white_check_mark:|`9c.ro`|
-|:white_check_mark:|`9d.ro`|
-|:white_check_mark:|`9e.ro`|
-|:white_check_mark:|`9f.ro`|
-|:white_check_mark:|`9g.ro`|
-|:white_check_mark:|`9h.ro`|
-|:white_check_mark:|`9i.ro`|
-|:white_check_mark:|`9j.ro`|
-|:white_check_mark:|`9k.ro`|
-|:white_check_mark:|`9l.ro`|
-|:white_check_mark:|`9m.ro`|
-|:white_check_mark:|`9n.ro`|
-|:white_check_mark:|`9o.ro`|
-|:white_check_mark:|`9p.ro`|
-|:white_check_mark:|`9q.ro`|
-|:white_check_mark:|`9r.ro`|
-|:white_check_mark:|`9s.ro`|
-|:white_check_mark:|`9t.ro`|
-|:white_check_mark:|`9u.ro`|
-|:white_check_mark:|`9v.ro`|
-|:white_check_mark:|`9w.ro`|
-|:white_check_mark:|`9x.ro`|
-|:white_check_mark:|`9y.ro`|
-|:white_check_mark:|`9z.ro`|
+|:white_check_mark:|`b0.ro`|
+|:white_check_mark:|`b1.ro`|
+|:white_check_mark:|`b2.ro`|
+|:white_check_mark:|`b3.ro`|
+|:white_check_mark:|`b4.ro`|
+|:white_check_mark:|`b5.ro`|
+|:white_check_mark:|`b6.ro`|
+|:white_check_mark:|`b7.ro`|
+|:white_check_mark:|`b8.ro`|
+|:white_check_mark:|`b9.ro`|
+|:white_check_mark:|`bo.ro`|
+|:white_check_mark:|`bp.ro`|
+|:white_check_mark:|`bq.ro`|
+|:white_check_mark:|`br.ro`|
+|:white_check_mark:|`bs.ro`|
+|:white_check_mark:|`bt.ro`|
+|:white_check_mark:|`bu.ro`|
+|:white_check_mark:|`bv.ro`|
+|:white_check_mark:|`bw.ro`|
+|:white_check_mark:|`bx.ro`|
+|:white_check_mark:|`by.ro`|
+|:white_check_mark:|`bz.ro`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -455,6 +433,29 @@
 |:white_check_mark:|`c7.ro`|
 |:white_check_mark:|`c8.ro`|
 |:white_check_mark:|`c9.ro`|
+|:white_check_mark:|`ca.ro`|
+|:white_check_mark:|`cb.ro`|
+|:white_check_mark:|`cc.ro`|
+|:white_check_mark:|`cd.ro`|
+|:white_check_mark:|`ce.ro`|
+|:white_check_mark:|`cf.ro`|
+|:white_check_mark:|`cg.ro`|
+|:white_check_mark:|`ch.ro`|
+|:white_check_mark:|`ci.ro`|
+|:white_check_mark:|`cj.ro`|
+|:white_check_mark:|`ck.ro`|
+|:white_check_mark:|`cl.ro`|
+|:white_check_mark:|`cm.ro`|
+|:white_check_mark:|`cn.ro`|
+|:white_check_mark:|`co.ro`|
+|:white_check_mark:|`cp.ro`|
+|:white_check_mark:|`cq.ro`|
+|:white_check_mark:|`cr.ro`|
+|:white_check_mark:|`cs.ro`|
+|:white_check_mark:|`ct.ro`|
+|:white_check_mark:|`cu.ro`|
+|:white_check_mark:|`cv.ro`|
+|:white_check_mark:|`cw.ro`|
 |:white_check_mark:|`cx.ro`|
 |:white_check_mark:|`cy.ro`|
 |:white_check_mark:|`cz.ro`|
@@ -670,7 +671,7 @@
 |:white_check_mark:|`hz.ro`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -678,12 +679,6 @@
 |:white_check_mark:|`i1.ro`|
 |:white_check_mark:|`i2.ro`|
 |:white_check_mark:|`i3.ro`|
-|:white_check_mark:|`i4.ro`|
-|:white_check_mark:|`i5.ro`|
-|:white_check_mark:|`i6.ro`|
-|:white_check_mark:|`i7.ro`|
-|:white_check_mark:|`i8.ro`|
-|:white_check_mark:|`i9.ro`|
 |:white_check_mark:|`ia.ro`|
 |:white_check_mark:|`ib.ro`|
 |:white_check_mark:|`ic.ro`|
@@ -712,133 +707,7 @@
 |:white_check_mark:|`iz.ro`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>j</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`j0.ro`|
-|:white_check_mark:|`j1.ro`|
-|:white_check_mark:|`j2.ro`|
-|:white_check_mark:|`j3.ro`|
-|:white_check_mark:|`j4.ro`|
-|:white_check_mark:|`j5.ro`|
-|:white_check_mark:|`j6.ro`|
-|:white_check_mark:|`j7.ro`|
-|:white_check_mark:|`j8.ro`|
-|:white_check_mark:|`j9.ro`|
-|:white_check_mark:|`ja.ro`|
-|:white_check_mark:|`jb.ro`|
-|:white_check_mark:|`jc.ro`|
-|:white_check_mark:|`jd.ro`|
-|:white_check_mark:|`je.ro`|
-|:white_check_mark:|`jf.ro`|
-|:white_check_mark:|`jg.ro`|
-|:white_check_mark:|`jh.ro`|
-|:white_check_mark:|`ji.ro`|
-|:white_check_mark:|`jj.ro`|
-|:white_check_mark:|`jk.ro`|
-|:white_check_mark:|`jl.ro`|
-|:white_check_mark:|`jm.ro`|
-|:white_check_mark:|`jn.ro`|
-|:white_check_mark:|`jo.ro`|
-|:white_check_mark:|`jp.ro`|
-|:white_check_mark:|`jq.ro`|
-|:white_check_mark:|`jr.ro`|
-|:white_check_mark:|`js.ro`|
-|:white_check_mark:|`jt.ro`|
-|:white_check_mark:|`ju.ro`|
-|:white_check_mark:|`jv.ro`|
-|:white_check_mark:|`jw.ro`|
-|:white_check_mark:|`jx.ro`|
-|:white_check_mark:|`jy.ro`|
-|:white_check_mark:|`jz.ro`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`k0.ro`|
-|:white_check_mark:|`k1.ro`|
-|:white_check_mark:|`k2.ro`|
-|:white_check_mark:|`k3.ro`|
-|:white_check_mark:|`k4.ro`|
-|:white_check_mark:|`k5.ro`|
-|:white_check_mark:|`k6.ro`|
-|:white_check_mark:|`k7.ro`|
-|:white_check_mark:|`k8.ro`|
-|:white_check_mark:|`k9.ro`|
-|:white_check_mark:|`ka.ro`|
-|:white_check_mark:|`kb.ro`|
-|:white_check_mark:|`kc.ro`|
-|:white_check_mark:|`kd.ro`|
-|:white_check_mark:|`ke.ro`|
-|:white_check_mark:|`kf.ro`|
-|:white_check_mark:|`kg.ro`|
-|:white_check_mark:|`kh.ro`|
-|:white_check_mark:|`ki.ro`|
-|:white_check_mark:|`kj.ro`|
-|:white_check_mark:|`kk.ro`|
-|:white_check_mark:|`kl.ro`|
-|:white_check_mark:|`km.ro`|
-|:white_check_mark:|`kn.ro`|
-|:white_check_mark:|`ko.ro`|
-|:white_check_mark:|`kp.ro`|
-|:white_check_mark:|`kq.ro`|
-|:white_check_mark:|`kr.ro`|
-|:white_check_mark:|`ks.ro`|
-|:white_check_mark:|`kt.ro`|
-|:white_check_mark:|`ku.ro`|
-|:white_check_mark:|`kv.ro`|
-|:white_check_mark:|`kw.ro`|
-|:white_check_mark:|`kx.ro`|
-|:white_check_mark:|`ky.ro`|
-|:white_check_mark:|`kz.ro`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`l0.ro`|
-|:white_check_mark:|`l1.ro`|
-|:white_check_mark:|`l2.ro`|
-|:white_check_mark:|`l3.ro`|
-|:white_check_mark:|`l4.ro`|
-|:white_check_mark:|`l5.ro`|
-|:white_check_mark:|`l6.ro`|
-|:white_check_mark:|`l7.ro`|
-|:white_check_mark:|`l8.ro`|
-|:white_check_mark:|`l9.ro`|
-|:white_check_mark:|`la.ro`|
-|:white_check_mark:|`lb.ro`|
-|:white_check_mark:|`lc.ro`|
-|:white_check_mark:|`ld.ro`|
-|:white_check_mark:|`le.ro`|
-|:white_check_mark:|`lf.ro`|
-|:white_check_mark:|`lg.ro`|
-|:white_check_mark:|`lh.ro`|
-|:white_check_mark:|`li.ro`|
-|:white_check_mark:|`lj.ro`|
-|:white_check_mark:|`lk.ro`|
-|:white_check_mark:|`ll.ro`|
-|:white_check_mark:|`lm.ro`|
-|:white_check_mark:|`ln.ro`|
-|:white_check_mark:|`lo.ro`|
-|:white_check_mark:|`lp.ro`|
-|:white_check_mark:|`lq.ro`|
-|:white_check_mark:|`lr.ro`|
-|:white_check_mark:|`ls.ro`|
-|:white_check_mark:|`lt.ro`|
-|:white_check_mark:|`lu.ro`|
-|:white_check_mark:|`lv.ro`|
-|:white_check_mark:|`lw.ro`|
-|:white_check_mark:|`lx.ro`|
-|:white_check_mark:|`ly.ro`|
-|:white_check_mark:|`lz.ro`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -852,31 +721,6 @@
 |:white_check_mark:|`m7.ro`|
 |:white_check_mark:|`m8.ro`|
 |:white_check_mark:|`m9.ro`|
-|:white_check_mark:|`ma.ro`|
-|:white_check_mark:|`mb.ro`|
-|:white_check_mark:|`mc.ro`|
-|:white_check_mark:|`md.ro`|
-|:white_check_mark:|`me.ro`|
-|:white_check_mark:|`mf.ro`|
-|:white_check_mark:|`mg.ro`|
-|:white_check_mark:|`mh.ro`|
-|:white_check_mark:|`mi.ro`|
-|:white_check_mark:|`mj.ro`|
-|:white_check_mark:|`mk.ro`|
-|:white_check_mark:|`ml.ro`|
-|:white_check_mark:|`mm.ro`|
-|:white_check_mark:|`mn.ro`|
-|:white_check_mark:|`mo.ro`|
-|:white_check_mark:|`mp.ro`|
-|:white_check_mark:|`mq.ro`|
-|:white_check_mark:|`mr.ro`|
-|:white_check_mark:|`ms.ro`|
-|:white_check_mark:|`mt.ro`|
-|:white_check_mark:|`mu.ro`|
-|:white_check_mark:|`mv.ro`|
-|:white_check_mark:|`mw.ro`|
-|:white_check_mark:|`mx.ro`|
-|:white_check_mark:|`my.ro`|
 |:white_check_mark:|`mz.ro`|
 </details>
 <details>

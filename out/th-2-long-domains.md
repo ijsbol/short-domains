@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.th`
 
-## Data last updated: 05/23/2024, 18:01:30
+## Data last updated: 05/27/2024, 11:14:12
 
 |Stat|Amount|
 |--|--|
-|Registered domains|10|
-|Unregistered domains|1286|
+|Registered domains|5|
+|Unregistered domains|1291|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.77%|
+|Registration rate|0.39%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -565,7 +565,7 @@
 |:white_check_mark:|`cz.th`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -585,6 +585,7 @@
 |:white_check_mark:|`dd.th`|
 |:white_check_mark:|`de.th`|
 |:white_check_mark:|`df.th`|
+|:white_check_mark:|`dg.th`|
 |:white_check_mark:|`dh.th`|
 |:white_check_mark:|`di.th`|
 |:white_check_mark:|`dj.th`|
@@ -774,7 +775,7 @@
 |:white_check_mark:|`hz.th`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -791,6 +792,7 @@
 |:white_check_mark:|`ia.th`|
 |:white_check_mark:|`ib.th`|
 |:white_check_mark:|`ic.th`|
+|:white_check_mark:|`id.th`|
 |:white_check_mark:|`ie.th`|
 |:white_check_mark:|`if.th`|
 |:white_check_mark:|`ig.th`|
@@ -815,7 +817,7 @@
 |:white_check_mark:|`iz.th`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -832,6 +834,7 @@
 |:white_check_mark:|`ja.th`|
 |:white_check_mark:|`jb.th`|
 |:white_check_mark:|`jc.th`|
+|:white_check_mark:|`jd.th`|
 |:white_check_mark:|`je.th`|
 |:white_check_mark:|`jf.th`|
 |:white_check_mark:|`jg.th`|
@@ -856,7 +859,7 @@
 |:white_check_mark:|`jz.th`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -890,6 +893,7 @@
 |:white_check_mark:|`kr.th`|
 |:white_check_mark:|`ks.th`|
 |:white_check_mark:|`kt.th`|
+|:white_check_mark:|`ku.th`|
 |:white_check_mark:|`kv.th`|
 |:white_check_mark:|`kw.th`|
 |:white_check_mark:|`kx.th`|
@@ -897,7 +901,7 @@
 |:white_check_mark:|`kz.th`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -922,6 +926,7 @@
 |:white_check_mark:|`li.th`|
 |:white_check_mark:|`lj.th`|
 |:white_check_mark:|`lk.th`|
+|:white_check_mark:|`ll.th`|
 |:white_check_mark:|`lm.th`|
 |:white_check_mark:|`ln.th`|
 |:white_check_mark:|`lo.th`|
@@ -1022,7 +1027,7 @@
 |:white_check_mark:|`nz.th`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1042,6 +1047,7 @@
 |:white_check_mark:|`od.th`|
 |:white_check_mark:|`oe.th`|
 |:white_check_mark:|`of.th`|
+|:white_check_mark:|`og.th`|
 |:white_check_mark:|`oh.th`|
 |:white_check_mark:|`oi.th`|
 |:white_check_mark:|`oj.th`|
@@ -1063,7 +1069,7 @@
 |:white_check_mark:|`oz.th`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1077,7 +1083,6 @@
 |:white_check_mark:|`p7.th`|
 |:white_check_mark:|`p8.th`|
 |:white_check_mark:|`p9.th`|
-|:white_check_mark:|`pa.th`|
 |:white_check_mark:|`pb.th`|
 |:white_check_mark:|`pc.th`|
 |:white_check_mark:|`pd.th`|

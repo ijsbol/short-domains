@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.zm`
 
-## Data last updated: 05/23/2024, 17:55:45
+## Data last updated: 05/27/2024, 11:00:54
 
 |Stat|Amount|
 |--|--|
