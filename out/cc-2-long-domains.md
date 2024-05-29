@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.cc`
 
-## Data last updated: 05/27/2024, 11:18:13
+## Data last updated: 05/29/2024, 12:22:02
 
 |Stat|Amount|
 |--|--|

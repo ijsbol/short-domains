@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.pt`
 
-## Data last updated: 05/27/2024, 12:17:09
+## Data last updated: 05/29/2024, 12:56:35
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1280|
-|Unregistered domains|16|
+|Registered domains|956|
+|Unregistered domains|5|
 |Premium domains|1|
 |Application only domains|0|
-|Registration rate|98.77%|
+|Registration rate|99.48%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|961|
 |Lookup success rate|100%|
 
 
@@ -21,52 +21,11 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>3 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`2a.pt`|
-|:white_check_mark:|`2k.pt`|
-|:white_check_mark:|`2s.pt`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>3</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`31.pt`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>5</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`57.pt`|
-|:white_check_mark:|`59.pt`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>6</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`62.pt`|
-|:white_check_mark:|`65.pt`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>8</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`83.pt`|
-|:white_check_mark:|`84.pt`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>9</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`92.pt`|
-|:white_check_mark:|`94.pt`|
+|:white_check_mark:|`0f.pt`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>h</code></bold></summary>

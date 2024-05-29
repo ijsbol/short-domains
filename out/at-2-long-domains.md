@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.at`
 
-## Data last updated: 05/27/2024, 11:01:09
+## Data last updated: 05/29/2024, 11:51:40
 
 |Stat|Amount|
 |--|--|

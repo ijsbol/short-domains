@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.cr`
 
-## Data last updated: 05/27/2024, 11:09:23
+## Data last updated: 05/29/2024, 11:54:56
 
 |Stat|Amount|
 |--|--|
-|Registered domains|255|
-|Unregistered domains|1041|
+|Registered domains|253|
+|Unregistered domains|1043|
 |Premium domains|1|
 |Application only domains|0|
-|Registration rate|19.68%|
+|Registration rate|19.52%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -968,7 +968,7 @@
 |:white_check_mark:|`qz.cr`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -994,6 +994,7 @@
 |:white_check_mark:|`rq.cr`|
 |:white_check_mark:|`rs.cr`|
 |:white_check_mark:|`ru.cr`|
+|:white_check_mark:|`rv.cr`|
 |:white_check_mark:|`rx.cr`|
 |:white_check_mark:|`ry.cr`|
 |:white_check_mark:|`rz.cr`|
@@ -1032,7 +1033,7 @@
 |:white_check_mark:|`sz.cr`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1057,6 +1058,7 @@
 |:white_check_mark:|`tq.cr`|
 |:white_check_mark:|`tt.cr`|
 |:white_check_mark:|`tw.cr`|
+|:white_check_mark:|`tx.cr`|
 |:white_check_mark:|`ty.cr`|
 </details>
 <details>

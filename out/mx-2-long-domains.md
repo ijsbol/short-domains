@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.mx`
 
-## Data last updated: 05/27/2024, 10:59:40
+## Data last updated: 05/29/2024, 11:38:07
 
 |Stat|Amount|
 |--|--|

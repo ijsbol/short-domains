@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bf`
 
-## Data last updated: 05/27/2024, 11:07:27
+## Data last updated: 05/29/2024, 11:56:53
 
 |Stat|Amount|
 |--|--|
-|Registered domains|10|
-|Unregistered domains|1286|
+|Registered domains|20|
+|Unregistered domains|1276|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.77%|
+|Registration rate|1.54%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -1229,7 +1229,7 @@
 |:white_check_mark:|`sz.bf`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1252,16 +1252,6 @@
 |:white_check_mark:|`tg.bf`|
 |:white_check_mark:|`th.bf`|
 |:white_check_mark:|`ti.bf`|
-|:white_check_mark:|`tj.bf`|
-|:white_check_mark:|`tk.bf`|
-|:white_check_mark:|`tl.bf`|
-|:white_check_mark:|`tm.bf`|
-|:white_check_mark:|`tn.bf`|
-|:white_check_mark:|`to.bf`|
-|:white_check_mark:|`tp.bf`|
-|:white_check_mark:|`tq.bf`|
-|:white_check_mark:|`tr.bf`|
-|:white_check_mark:|`ts.bf`|
 |:white_check_mark:|`tt.bf`|
 |:white_check_mark:|`tu.bf`|
 |:white_check_mark:|`tv.bf`|

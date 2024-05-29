@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.mo`
 
-## Data last updated: 05/27/2024, 11:15:00
+## Data last updated: 05/29/2024, 12:02:51
 
 |Stat|Amount|
 |--|--|

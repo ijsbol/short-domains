@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.be`
 
-## Data last updated: 05/27/2024, 11:00:36
+## Data last updated: 05/29/2024, 11:38:54
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1295|
+|Registered domains|1140|
 |Unregistered domains|1|
 |Premium domains|0|
 |Application only domains|1|
-|Registration rate|99.92%|
+|Registration rate|99.91%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|1141|
 |Lookup success rate|100%|
 
 

@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.gn`
 
-## Data last updated: 05/27/2024, 11:04:46
+## Data last updated: 05/29/2024, 11:54:35
 
 |Stat|Amount|
 |--|--|
-|Registered domains|10|
-|Unregistered domains|1286|
+|Registered domains|20|
+|Unregistered domains|1276|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.77%|
+|Registration rate|1.54%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -1397,7 +1397,7 @@
 |:white_check_mark:|`wz.gn`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1413,16 +1413,6 @@
 |:white_check_mark:|`x9.gn`|
 |:white_check_mark:|`xa.gn`|
 |:white_check_mark:|`xb.gn`|
-|:white_check_mark:|`xc.gn`|
-|:white_check_mark:|`xd.gn`|
-|:white_check_mark:|`xe.gn`|
-|:white_check_mark:|`xf.gn`|
-|:white_check_mark:|`xg.gn`|
-|:white_check_mark:|`xh.gn`|
-|:white_check_mark:|`xi.gn`|
-|:white_check_mark:|`xj.gn`|
-|:white_check_mark:|`xk.gn`|
-|:white_check_mark:|`xl.gn`|
 |:white_check_mark:|`xm.gn`|
 |:white_check_mark:|`xn.gn`|
 |:white_check_mark:|`xo.gn`|

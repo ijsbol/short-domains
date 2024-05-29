@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.ws`
 
-## Data last updated: 05/27/2024, 12:08:40
+## Data last updated: 05/29/2024, 12:41:34
 
 |Stat|Amount|
 |--|--|
-|Registered domains|14|
-|Unregistered domains|1282|
+|Registered domains|20|
+|Unregistered domains|1276|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|1.08%|
+|Registration rate|1.54%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,7 +441,7 @@
 |:white_check_mark:|`9z.ws`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -449,32 +449,21 @@
 |:white_check_mark:|`a1.ws`|
 |:white_check_mark:|`a2.ws`|
 |:white_check_mark:|`a3.ws`|
+|:white_check_mark:|`a4.ws`|
 |:white_check_mark:|`a5.ws`|
 |:white_check_mark:|`a6.ws`|
 |:white_check_mark:|`a7.ws`|
 |:white_check_mark:|`a8.ws`|
 |:white_check_mark:|`a9.ws`|
-|:white_check_mark:|`aa.ws`|
-|:white_check_mark:|`ab.ws`|
-|:white_check_mark:|`ad.ws`|
-|:white_check_mark:|`ae.ws`|
-|:white_check_mark:|`af.ws`|
-|:white_check_mark:|`ag.ws`|
-|:white_check_mark:|`ai.ws`|
-|:white_check_mark:|`ak.ws`|
-|:white_check_mark:|`al.ws`|
-|:white_check_mark:|`am.ws`|
+|:white_check_mark:|`ac.ws`|
 |:white_check_mark:|`an.ws`|
-|:white_check_mark:|`ao.ws`|
-|:white_check_mark:|`ap.ws`|
-|:white_check_mark:|`ar.ws`|
-|:white_check_mark:|`as.ws`|
+|:white_check_mark:|`at.ws`|
 |:white_check_mark:|`au.ws`|
 |:white_check_mark:|`av.ws`|
 |:white_check_mark:|`ax.ws`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -488,6 +477,11 @@
 |:white_check_mark:|`b7.ws`|
 |:white_check_mark:|`b8.ws`|
 |:white_check_mark:|`b9.ws`|
+|:white_check_mark:|`ba.ws`|
+|:white_check_mark:|`bb.ws`|
+|:white_check_mark:|`bc.ws`|
+|:white_check_mark:|`bd.ws`|
+|:white_check_mark:|`be.ws`|
 |:white_check_mark:|`bf.ws`|
 |:white_check_mark:|`bg.ws`|
 |:white_check_mark:|`bh.ws`|

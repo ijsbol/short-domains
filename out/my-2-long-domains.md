@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.my`
 
-## Data last updated: 05/27/2024, 11:06:11
+## Data last updated: 05/29/2024, 11:56:44
 
 |Stat|Amount|
 |--|--|
-|Registered domains|22|
-|Unregistered domains|1274|
+|Registered domains|52|
+|Unregistered domains|1244|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|1.7%|
+|Registration rate|4.01%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -462,7 +462,7 @@
 |:white_check_mark:|`ay.my`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -479,22 +479,13 @@
 |:white_check_mark:|`ba.my`|
 |:white_check_mark:|`bc.my`|
 |:white_check_mark:|`bd.my`|
-|:white_check_mark:|`be.my`|
 |:white_check_mark:|`bf.my`|
-|:white_check_mark:|`bg.my`|
-|:white_check_mark:|`bh.my`|
 |:white_check_mark:|`bi.my`|
 |:white_check_mark:|`bj.my`|
-|:white_check_mark:|`bk.my`|
-|:white_check_mark:|`bl.my`|
-|:white_check_mark:|`bm.my`|
 |:white_check_mark:|`bn.my`|
 |:white_check_mark:|`bo.my`|
-|:white_check_mark:|`bp.my`|
 |:white_check_mark:|`bq.my`|
 |:white_check_mark:|`br.my`|
-|:white_check_mark:|`bs.my`|
-|:white_check_mark:|`bt.my`|
 |:white_check_mark:|`bu.my`|
 |:white_check_mark:|`bv.my`|
 |:white_check_mark:|`bw.my`|
@@ -1175,7 +1166,7 @@
 |:white_check_mark:|`rz.my`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1184,10 +1175,8 @@
 |:white_check_mark:|`s2.my`|
 |:white_check_mark:|`s3.my`|
 |:white_check_mark:|`s4.my`|
-|:white_check_mark:|`s5.my`|
 |:white_check_mark:|`s6.my`|
 |:white_check_mark:|`s7.my`|
-|:white_check_mark:|`s8.my`|
 |:white_check_mark:|`s9.my`|
 |:white_check_mark:|`sa.my`|
 |:white_check_mark:|`sb.my`|
@@ -1217,7 +1206,7 @@
 |:white_check_mark:|`sz.my`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>17 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1231,30 +1220,11 @@
 |:white_check_mark:|`t7.my`|
 |:white_check_mark:|`t8.my`|
 |:white_check_mark:|`t9.my`|
-|:white_check_mark:|`ta.my`|
-|:white_check_mark:|`tb.my`|
-|:white_check_mark:|`tc.my`|
-|:white_check_mark:|`td.my`|
-|:white_check_mark:|`te.my`|
-|:white_check_mark:|`tf.my`|
-|:white_check_mark:|`tg.my`|
-|:white_check_mark:|`th.my`|
-|:white_check_mark:|`ti.my`|
 |:white_check_mark:|`tj.my`|
 |:white_check_mark:|`tk.my`|
 |:white_check_mark:|`tl.my`|
-|:white_check_mark:|`tm.my`|
 |:white_check_mark:|`tn.my`|
-|:white_check_mark:|`to.my`|
-|:white_check_mark:|`tp.my`|
 |:white_check_mark:|`tq.my`|
-|:white_check_mark:|`tr.my`|
-|:white_check_mark:|`ts.my`|
-|:white_check_mark:|`tt.my`|
-|:white_check_mark:|`tu.my`|
-|:white_check_mark:|`tv.my`|
-|:white_check_mark:|`tw.my`|
-|:white_check_mark:|`tx.my`|
 |:white_check_mark:|`ty.my`|
 |:white_check_mark:|`tz.my`|
 </details>

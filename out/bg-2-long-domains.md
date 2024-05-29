@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bg`
 
-## Data last updated: 05/27/2024, 11:02:17
+## Data last updated: 05/29/2024, 11:52:15
 
 |Stat|Amount|
 |--|--|
-|Registered domains|2|
-|Unregistered domains|1294|
+|Registered domains|4|
+|Unregistered domains|1292|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.15%|
+|Registration rate|0.31%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -105,7 +105,7 @@
 |:white_check_mark:|`1z.bg`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -141,8 +141,6 @@
 |:white_check_mark:|`2t.bg`|
 |:white_check_mark:|`2u.bg`|
 |:white_check_mark:|`2v.bg`|
-|:white_check_mark:|`2w.bg`|
-|:white_check_mark:|`2x.bg`|
 |:white_check_mark:|`2y.bg`|
 |:white_check_mark:|`2z.bg`|
 </details>

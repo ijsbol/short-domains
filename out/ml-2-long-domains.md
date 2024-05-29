@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.ml`
 
-## Data last updated: 05/27/2024, 11:04:42
+## Data last updated: 05/29/2024, 11:54:33
 
 |Stat|Amount|
 |--|--|
-|Registered domains|10|
-|Unregistered domains|1286|
+|Registered domains|20|
+|Unregistered domains|1276|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.77%|
+|Registration rate|1.54%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -1397,7 +1397,7 @@
 |:white_check_mark:|`wz.ml`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1424,16 +1424,6 @@
 |:white_check_mark:|`xk.ml`|
 |:white_check_mark:|`xl.ml`|
 |:white_check_mark:|`xm.ml`|
-|:white_check_mark:|`xn.ml`|
-|:white_check_mark:|`xo.ml`|
-|:white_check_mark:|`xp.ml`|
-|:white_check_mark:|`xq.ml`|
-|:white_check_mark:|`xr.ml`|
-|:white_check_mark:|`xs.ml`|
-|:white_check_mark:|`xt.ml`|
-|:white_check_mark:|`xu.ml`|
-|:white_check_mark:|`xv.ml`|
-|:white_check_mark:|`xw.ml`|
 |:white_check_mark:|`xx.ml`|
 |:white_check_mark:|`xy.ml`|
 |:white_check_mark:|`xz.ml`|

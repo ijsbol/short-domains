@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bi`
 
-## Data last updated: 05/27/2024, 11:07:26
+## Data last updated: 05/29/2024, 11:58:51
 
 |Stat|Amount|
 |--|--|
-|Registered domains|102|
-|Unregistered domains|1194|
+|Registered domains|204|
+|Unregistered domains|1092|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|7.87%|
+|Registration rate|15.74%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -999,20 +999,11 @@
 |:white_check_mark:|`pz.bi`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>27 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`q0.bi`|
-|:white_check_mark:|`q1.bi`|
-|:white_check_mark:|`q2.bi`|
-|:white_check_mark:|`q3.bi`|
-|:white_check_mark:|`q4.bi`|
-|:white_check_mark:|`q5.bi`|
-|:white_check_mark:|`q6.bi`|
-|:white_check_mark:|`q7.bi`|
-|:white_check_mark:|`q8.bi`|
-|:white_check_mark:|`q9.bi`|
 |:white_check_mark:|`qa.bi`|
 |:white_check_mark:|`qb.bi`|
 |:white_check_mark:|`qc.bi`|
@@ -1041,91 +1032,7 @@
 |:white_check_mark:|`qz.bi`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`r0.bi`|
-|:white_check_mark:|`r1.bi`|
-|:white_check_mark:|`r2.bi`|
-|:white_check_mark:|`r3.bi`|
-|:white_check_mark:|`r4.bi`|
-|:white_check_mark:|`r5.bi`|
-|:white_check_mark:|`r6.bi`|
-|:white_check_mark:|`r7.bi`|
-|:white_check_mark:|`r8.bi`|
-|:white_check_mark:|`r9.bi`|
-|:white_check_mark:|`ra.bi`|
-|:white_check_mark:|`rb.bi`|
-|:white_check_mark:|`rc.bi`|
-|:white_check_mark:|`rd.bi`|
-|:white_check_mark:|`re.bi`|
-|:white_check_mark:|`rf.bi`|
-|:white_check_mark:|`rg.bi`|
-|:white_check_mark:|`rh.bi`|
-|:white_check_mark:|`ri.bi`|
-|:white_check_mark:|`rj.bi`|
-|:white_check_mark:|`rk.bi`|
-|:white_check_mark:|`rl.bi`|
-|:white_check_mark:|`rm.bi`|
-|:white_check_mark:|`rn.bi`|
-|:white_check_mark:|`ro.bi`|
-|:white_check_mark:|`rp.bi`|
-|:white_check_mark:|`rq.bi`|
-|:white_check_mark:|`rr.bi`|
-|:white_check_mark:|`rs.bi`|
-|:white_check_mark:|`rt.bi`|
-|:white_check_mark:|`ru.bi`|
-|:white_check_mark:|`rv.bi`|
-|:white_check_mark:|`rw.bi`|
-|:white_check_mark:|`rx.bi`|
-|:white_check_mark:|`ry.bi`|
-|:white_check_mark:|`rz.bi`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>s</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`s0.bi`|
-|:white_check_mark:|`s1.bi`|
-|:white_check_mark:|`s2.bi`|
-|:white_check_mark:|`s3.bi`|
-|:white_check_mark:|`s4.bi`|
-|:white_check_mark:|`s5.bi`|
-|:white_check_mark:|`s6.bi`|
-|:white_check_mark:|`s7.bi`|
-|:white_check_mark:|`s8.bi`|
-|:white_check_mark:|`s9.bi`|
-|:white_check_mark:|`sa.bi`|
-|:white_check_mark:|`sb.bi`|
-|:white_check_mark:|`sc.bi`|
-|:white_check_mark:|`sd.bi`|
-|:white_check_mark:|`se.bi`|
-|:white_check_mark:|`sf.bi`|
-|:white_check_mark:|`sg.bi`|
-|:white_check_mark:|`sh.bi`|
-|:white_check_mark:|`si.bi`|
-|:white_check_mark:|`sj.bi`|
-|:white_check_mark:|`sk.bi`|
-|:white_check_mark:|`sl.bi`|
-|:white_check_mark:|`sm.bi`|
-|:white_check_mark:|`sn.bi`|
-|:white_check_mark:|`so.bi`|
-|:white_check_mark:|`sp.bi`|
-|:white_check_mark:|`sq.bi`|
-|:white_check_mark:|`sr.bi`|
-|:white_check_mark:|`ss.bi`|
-|:white_check_mark:|`st.bi`|
-|:white_check_mark:|`su.bi`|
-|:white_check_mark:|`sv.bi`|
-|:white_check_mark:|`sw.bi`|
-|:white_check_mark:|`sx.bi`|
-|:white_check_mark:|`sy.bi`|
-|:white_check_mark:|`sz.bi`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1139,27 +1046,6 @@
 |:white_check_mark:|`t7.bi`|
 |:white_check_mark:|`t8.bi`|
 |:white_check_mark:|`t9.bi`|
-|:white_check_mark:|`ta.bi`|
-|:white_check_mark:|`tb.bi`|
-|:white_check_mark:|`tc.bi`|
-|:white_check_mark:|`td.bi`|
-|:white_check_mark:|`te.bi`|
-|:white_check_mark:|`tf.bi`|
-|:white_check_mark:|`tg.bi`|
-|:white_check_mark:|`th.bi`|
-|:white_check_mark:|`ti.bi`|
-|:white_check_mark:|`tj.bi`|
-|:white_check_mark:|`tk.bi`|
-|:white_check_mark:|`tl.bi`|
-|:white_check_mark:|`tm.bi`|
-|:white_check_mark:|`tn.bi`|
-|:white_check_mark:|`to.bi`|
-|:white_check_mark:|`tp.bi`|
-|:white_check_mark:|`tq.bi`|
-|:white_check_mark:|`tr.bi`|
-|:white_check_mark:|`ts.bi`|
-|:white_check_mark:|`tt.bi`|
-|:white_check_mark:|`tu.bi`|
 |:white_check_mark:|`tv.bi`|
 |:white_check_mark:|`tw.bi`|
 |:white_check_mark:|`tx.bi`|

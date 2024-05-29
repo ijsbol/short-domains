@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.zm`
 
-## Data last updated: 05/27/2024, 11:00:54
+## Data last updated: 05/29/2024, 11:51:10
 
 |Stat|Amount|
 |--|--|
-|Registered domains|100|
-|Unregistered domains|1196|
+|Registered domains|200|
+|Unregistered domains|1096|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|7.72%|
+|Registration rate|15.43%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -273,20 +273,10 @@
 |:white_check_mark:|`5z.zm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`60.zm`|
-|:white_check_mark:|`61.zm`|
-|:white_check_mark:|`62.zm`|
-|:white_check_mark:|`63.zm`|
-|:white_check_mark:|`64.zm`|
-|:white_check_mark:|`65.zm`|
-|:white_check_mark:|`66.zm`|
-|:white_check_mark:|`67.zm`|
-|:white_check_mark:|`68.zm`|
-|:white_check_mark:|`69.zm`|
 |:white_check_mark:|`6a.zm`|
 |:white_check_mark:|`6b.zm`|
 |:white_check_mark:|`6c.zm`|
@@ -297,109 +287,9 @@
 |:white_check_mark:|`6h.zm`|
 |:white_check_mark:|`6i.zm`|
 |:white_check_mark:|`6j.zm`|
-|:white_check_mark:|`6k.zm`|
-|:white_check_mark:|`6l.zm`|
-|:white_check_mark:|`6m.zm`|
-|:white_check_mark:|`6n.zm`|
-|:white_check_mark:|`6o.zm`|
-|:white_check_mark:|`6p.zm`|
-|:white_check_mark:|`6q.zm`|
-|:white_check_mark:|`6r.zm`|
-|:white_check_mark:|`6s.zm`|
-|:white_check_mark:|`6t.zm`|
-|:white_check_mark:|`6u.zm`|
-|:white_check_mark:|`6v.zm`|
-|:white_check_mark:|`6w.zm`|
-|:white_check_mark:|`6x.zm`|
-|:white_check_mark:|`6y.zm`|
-|:white_check_mark:|`6z.zm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`70.zm`|
-|:white_check_mark:|`71.zm`|
-|:white_check_mark:|`72.zm`|
-|:white_check_mark:|`73.zm`|
-|:white_check_mark:|`74.zm`|
-|:white_check_mark:|`75.zm`|
-|:white_check_mark:|`76.zm`|
-|:white_check_mark:|`77.zm`|
-|:white_check_mark:|`78.zm`|
-|:white_check_mark:|`79.zm`|
-|:white_check_mark:|`7a.zm`|
-|:white_check_mark:|`7b.zm`|
-|:white_check_mark:|`7c.zm`|
-|:white_check_mark:|`7d.zm`|
-|:white_check_mark:|`7e.zm`|
-|:white_check_mark:|`7f.zm`|
-|:white_check_mark:|`7g.zm`|
-|:white_check_mark:|`7h.zm`|
-|:white_check_mark:|`7i.zm`|
-|:white_check_mark:|`7j.zm`|
-|:white_check_mark:|`7k.zm`|
-|:white_check_mark:|`7l.zm`|
-|:white_check_mark:|`7m.zm`|
-|:white_check_mark:|`7n.zm`|
-|:white_check_mark:|`7o.zm`|
-|:white_check_mark:|`7p.zm`|
-|:white_check_mark:|`7q.zm`|
-|:white_check_mark:|`7r.zm`|
-|:white_check_mark:|`7s.zm`|
-|:white_check_mark:|`7t.zm`|
-|:white_check_mark:|`7u.zm`|
-|:white_check_mark:|`7v.zm`|
-|:white_check_mark:|`7w.zm`|
-|:white_check_mark:|`7x.zm`|
-|:white_check_mark:|`7y.zm`|
-|:white_check_mark:|`7z.zm`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`80.zm`|
-|:white_check_mark:|`81.zm`|
-|:white_check_mark:|`82.zm`|
-|:white_check_mark:|`83.zm`|
-|:white_check_mark:|`84.zm`|
-|:white_check_mark:|`85.zm`|
-|:white_check_mark:|`86.zm`|
-|:white_check_mark:|`87.zm`|
-|:white_check_mark:|`88.zm`|
-|:white_check_mark:|`89.zm`|
-|:white_check_mark:|`8a.zm`|
-|:white_check_mark:|`8b.zm`|
-|:white_check_mark:|`8c.zm`|
-|:white_check_mark:|`8d.zm`|
-|:white_check_mark:|`8e.zm`|
-|:white_check_mark:|`8f.zm`|
-|:white_check_mark:|`8g.zm`|
-|:white_check_mark:|`8h.zm`|
-|:white_check_mark:|`8i.zm`|
-|:white_check_mark:|`8j.zm`|
-|:white_check_mark:|`8k.zm`|
-|:white_check_mark:|`8l.zm`|
-|:white_check_mark:|`8m.zm`|
-|:white_check_mark:|`8n.zm`|
-|:white_check_mark:|`8o.zm`|
-|:white_check_mark:|`8p.zm`|
-|:white_check_mark:|`8q.zm`|
-|:white_check_mark:|`8r.zm`|
-|:white_check_mark:|`8s.zm`|
-|:white_check_mark:|`8t.zm`|
-|:white_check_mark:|`8u.zm`|
-|:white_check_mark:|`8v.zm`|
-|:white_check_mark:|`8w.zm`|
-|:white_check_mark:|`8x.zm`|
-|:white_check_mark:|`8y.zm`|
-|:white_check_mark:|`8z.zm`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>9</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -413,8 +303,6 @@
 |:white_check_mark:|`97.zm`|
 |:white_check_mark:|`98.zm`|
 |:white_check_mark:|`99.zm`|
-|:white_check_mark:|`9a.zm`|
-|:white_check_mark:|`9b.zm`|
 |:white_check_mark:|`9c.zm`|
 |:white_check_mark:|`9d.zm`|
 |:white_check_mark:|`9e.zm`|

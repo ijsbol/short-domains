@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.tn`
 
-## Data last updated: 05/27/2024, 11:00:17
+## Data last updated: 05/29/2024, 11:37:57
 
 |Stat|Amount|
 |--|--|
-|Registered domains|668|
-|Unregistered domains|628|
+|Registered domains|671|
+|Unregistered domains|625|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|51.54%|
+|Registration rate|51.77%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -373,7 +373,7 @@
 |:white_check_mark:|`9z.tn`|
 </details>
 <details>
-<summary>9 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -386,6 +386,7 @@
 |:white_check_mark:|`a8.tn`|
 |:white_check_mark:|`a9.tn`|
 |:white_check_mark:|`ah.tn`|
+|:white_check_mark:|`ax.tn`|
 </details>
 <details>
 <summary>9 unregistered domains starting with <bold><code>b</code></bold></summary>
@@ -422,7 +423,7 @@
 |:white_check_mark:|`cz.tn`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -439,7 +440,6 @@
 |:white_check_mark:|`dg.tn`|
 |:white_check_mark:|`dh.tn`|
 |:white_check_mark:|`di.tn`|
-|:white_check_mark:|`do.tn`|
 |:white_check_mark:|`dp.tn`|
 |:white_check_mark:|`dx.tn`|
 |:white_check_mark:|`dz.tn`|
@@ -464,7 +464,7 @@
 |:white_check_mark:|`em.tn`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -479,7 +479,6 @@
 |:white_check_mark:|`fq.tn`|
 |:white_check_mark:|`fs.tn`|
 |:white_check_mark:|`ft.tn`|
-|:white_check_mark:|`fy.tn`|
 |:white_check_mark:|`fz.tn`|
 </details>
 <details>
@@ -652,7 +651,7 @@
 |:white_check_mark:|`os.tn`|
 </details>
 <details>
-<summary>15 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -666,9 +665,7 @@
 |:white_check_mark:|`p7.tn`|
 |:white_check_mark:|`p8.tn`|
 |:white_check_mark:|`p9.tn`|
-|:white_check_mark:|`pb.tn`|
 |:white_check_mark:|`pk.tn`|
-|:white_check_mark:|`pn.tn`|
 |:white_check_mark:|`po.tn`|
 |:white_check_mark:|`pv.tn`|
 </details>

@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.ua`
 
-## Data last updated: 05/27/2024, 11:02:56
+## Data last updated: 05/29/2024, 11:53:09
 
 |Stat|Amount|
 |--|--|

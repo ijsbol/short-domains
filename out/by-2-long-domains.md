@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.by`
 
-## Data last updated: 05/27/2024, 10:56:17
+## Data last updated: 05/29/2024, 11:34:14
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1118|
-|Unregistered domains|178|
+|Registered domains|1119|
+|Unregistered domains|177|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|86.27%|
+|Registration rate|86.34%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -53,11 +53,10 @@
 |:white_check_mark:|`1i.by`|
 </details>
 <details>
-<summary>5 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`2c.by`|
 |:white_check_mark:|`2j.by`|
 |:white_check_mark:|`2u.by`|
 |:white_check_mark:|`2w.by`|
@@ -109,7 +108,7 @@
 |:white_check_mark:|`5y.by`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -121,7 +120,6 @@
 |:white_check_mark:|`6h.by`|
 |:white_check_mark:|`6i.by`|
 |:white_check_mark:|`6j.by`|
-|:white_check_mark:|`6k.by`|
 |:white_check_mark:|`6l.by`|
 |:white_check_mark:|`6n.by`|
 |:white_check_mark:|`6o.by`|
@@ -225,11 +223,12 @@
 |:white_check_mark:|`d9.by`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`e0.by`|
+|:white_check_mark:|`ea.by`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>f</code></bold></summary>

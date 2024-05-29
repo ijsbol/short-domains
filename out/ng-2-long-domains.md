@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.ng`
 
-## Data last updated: 05/27/2024, 11:00:34
+## Data last updated: 05/29/2024, 11:38:36
 
 |Stat|Amount|
 |--|--|

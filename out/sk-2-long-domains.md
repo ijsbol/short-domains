@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.sk`
 
-## Data last updated: 05/27/2024, 12:39:12
+## Data last updated: 05/29/2024, 12:56:15
 
 |Stat|Amount|
 |--|--|
-|Registered domains|577|
-|Unregistered domains|719|
+|Registered domains|289|
+|Unregistered domains|482|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|44.52%|
+|Registration rate|37.48%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|771|
 |Lookup success rate|100%|
 
 
@@ -21,247 +21,16 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>10 unregistered domains starting with <bold><code>0</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`07.sk`|
-|:white_check_mark:|`08.sk`|
-|:white_check_mark:|`09.sk`|
-|:white_check_mark:|`0h.sk`|
-|:white_check_mark:|`0i.sk`|
-|:white_check_mark:|`0s.sk`|
-|:white_check_mark:|`0t.sk`|
-|:white_check_mark:|`0u.sk`|
-|:white_check_mark:|`0v.sk`|
-|:white_check_mark:|`0x.sk`|
-</details>
-<details>
-<summary>19 unregistered domains starting with <bold><code>1</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`10.sk`|
-|:white_check_mark:|`17.sk`|
-|:white_check_mark:|`19.sk`|
-|:white_check_mark:|`1a.sk`|
-|:white_check_mark:|`1b.sk`|
-|:white_check_mark:|`1c.sk`|
-|:white_check_mark:|`1d.sk`|
-|:white_check_mark:|`1g.sk`|
-|:white_check_mark:|`1h.sk`|
-|:white_check_mark:|`1i.sk`|
-|:white_check_mark:|`1k.sk`|
-|:white_check_mark:|`1p.sk`|
-|:white_check_mark:|`1q.sk`|
-|:white_check_mark:|`1r.sk`|
-|:white_check_mark:|`1s.sk`|
-|:white_check_mark:|`1t.sk`|
-|:white_check_mark:|`1w.sk`|
-|:white_check_mark:|`1y.sk`|
-|:white_check_mark:|`1z.sk`|
-</details>
-<details>
-<summary>15 unregistered domains starting with <bold><code>2</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`26.sk`|
-|:white_check_mark:|`27.sk`|
-|:white_check_mark:|`28.sk`|
-|:white_check_mark:|`29.sk`|
-|:white_check_mark:|`2d.sk`|
-|:white_check_mark:|`2e.sk`|
-|:white_check_mark:|`2f.sk`|
-|:white_check_mark:|`2h.sk`|
-|:white_check_mark:|`2i.sk`|
-|:white_check_mark:|`2k.sk`|
-|:white_check_mark:|`2s.sk`|
-|:white_check_mark:|`2t.sk`|
-|:white_check_mark:|`2u.sk`|
-|:white_check_mark:|`2v.sk`|
-|:white_check_mark:|`2w.sk`|
-</details>
-<details>
-<summary>20 unregistered domains starting with <bold><code>3</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`30.sk`|
-|:white_check_mark:|`31.sk`|
-|:white_check_mark:|`39.sk`|
-|:white_check_mark:|`3a.sk`|
-|:white_check_mark:|`3b.sk`|
-|:white_check_mark:|`3c.sk`|
-|:white_check_mark:|`3d.sk`|
-|:white_check_mark:|`3e.sk`|
-|:white_check_mark:|`3f.sk`|
-|:white_check_mark:|`3g.sk`|
-|:white_check_mark:|`3h.sk`|
-|:white_check_mark:|`3i.sk`|
-|:white_check_mark:|`3s.sk`|
-|:white_check_mark:|`3t.sk`|
-|:white_check_mark:|`3u.sk`|
-|:white_check_mark:|`3v.sk`|
-|:white_check_mark:|`3w.sk`|
-|:white_check_mark:|`3x.sk`|
-|:white_check_mark:|`3y.sk`|
-|:white_check_mark:|`3z.sk`|
-</details>
-<details>
-<summary>17 unregistered domains starting with <bold><code>4</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`40.sk`|
-|:white_check_mark:|`41.sk`|
-|:white_check_mark:|`42.sk`|
-|:white_check_mark:|`43.sk`|
-|:white_check_mark:|`44.sk`|
-|:white_check_mark:|`45.sk`|
-|:white_check_mark:|`4b.sk`|
-|:white_check_mark:|`4c.sk`|
-|:white_check_mark:|`4d.sk`|
-|:white_check_mark:|`4e.sk`|
-|:white_check_mark:|`4f.sk`|
-|:white_check_mark:|`4g.sk`|
-|:white_check_mark:|`4h.sk`|
-|:white_check_mark:|`4i.sk`|
-|:white_check_mark:|`4u.sk`|
-|:white_check_mark:|`4y.sk`|
-|:white_check_mark:|`4z.sk`|
-</details>
-<details>
-<summary>12 unregistered domains starting with <bold><code>5</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`52.sk`|
-|:white_check_mark:|`53.sk`|
-|:white_check_mark:|`5f.sk`|
-|:white_check_mark:|`5g.sk`|
-|:white_check_mark:|`5h.sk`|
-|:white_check_mark:|`5i.sk`|
-|:white_check_mark:|`5s.sk`|
-|:white_check_mark:|`5t.sk`|
-|:white_check_mark:|`5u.sk`|
-|:white_check_mark:|`5v.sk`|
-|:white_check_mark:|`5w.sk`|
-|:white_check_mark:|`5x.sk`|
-</details>
-<details>
-<summary>24 unregistered domains starting with <bold><code>6</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`60.sk`|
-|:white_check_mark:|`61.sk`|
-|:white_check_mark:|`62.sk`|
-|:white_check_mark:|`63.sk`|
-|:white_check_mark:|`64.sk`|
-|:white_check_mark:|`65.sk`|
-|:white_check_mark:|`66.sk`|
-|:white_check_mark:|`67.sk`|
-|:white_check_mark:|`68.sk`|
-|:white_check_mark:|`69.sk`|
-|:white_check_mark:|`6b.sk`|
-|:white_check_mark:|`6c.sk`|
-|:white_check_mark:|`6f.sk`|
-|:white_check_mark:|`6g.sk`|
-|:white_check_mark:|`6h.sk`|
-|:white_check_mark:|`6i.sk`|
-|:white_check_mark:|`6j.sk`|
-|:white_check_mark:|`6k.sk`|
-|:white_check_mark:|`6l.sk`|
-|:white_check_mark:|`6o.sk`|
-|:white_check_mark:|`6u.sk`|
-|:white_check_mark:|`6v.sk`|
-|:white_check_mark:|`6y.sk`|
-|:white_check_mark:|`6z.sk`|
-</details>
-<details>
-<summary>23 unregistered domains starting with <bold><code>7</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`70.sk`|
-|:white_check_mark:|`71.sk`|
-|:white_check_mark:|`72.sk`|
-|:white_check_mark:|`73.sk`|
-|:white_check_mark:|`74.sk`|
-|:white_check_mark:|`75.sk`|
-|:white_check_mark:|`76.sk`|
-|:white_check_mark:|`78.sk`|
-|:white_check_mark:|`79.sk`|
-|:white_check_mark:|`7a.sk`|
-|:white_check_mark:|`7b.sk`|
-|:white_check_mark:|`7c.sk`|
-|:white_check_mark:|`7d.sk`|
-|:white_check_mark:|`7e.sk`|
-|:white_check_mark:|`7f.sk`|
-|:white_check_mark:|`7g.sk`|
-|:white_check_mark:|`7h.sk`|
-|:white_check_mark:|`7i.sk`|
-|:white_check_mark:|`7j.sk`|
-|:white_check_mark:|`7k.sk`|
-|:white_check_mark:|`7m.sk`|
-|:white_check_mark:|`7y.sk`|
-|:white_check_mark:|`7z.sk`|
-</details>
-<details>
-<summary>12 unregistered domains starting with <bold><code>8</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`86.sk`|
-|:white_check_mark:|`87.sk`|
-|:white_check_mark:|`8a.sk`|
-|:white_check_mark:|`8b.sk`|
-|:white_check_mark:|`8d.sk`|
-|:white_check_mark:|`8i.sk`|
-|:white_check_mark:|`8n.sk`|
-|:white_check_mark:|`8o.sk`|
-|:white_check_mark:|`8p.sk`|
-|:white_check_mark:|`8r.sk`|
-|:white_check_mark:|`8s.sk`|
-|:white_check_mark:|`8x.sk`|
-</details>
-<details>
-<summary>22 unregistered domains starting with <bold><code>9</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`92.sk`|
-|:white_check_mark:|`93.sk`|
-|:white_check_mark:|`94.sk`|
-|:white_check_mark:|`95.sk`|
-|:white_check_mark:|`96.sk`|
-|:white_check_mark:|`97.sk`|
-|:white_check_mark:|`98.sk`|
-|:white_check_mark:|`99.sk`|
-|:white_check_mark:|`9d.sk`|
-|:white_check_mark:|`9e.sk`|
-|:white_check_mark:|`9f.sk`|
-|:white_check_mark:|`9g.sk`|
-|:white_check_mark:|`9h.sk`|
-|:white_check_mark:|`9i.sk`|
-|:white_check_mark:|`9j.sk`|
-|:white_check_mark:|`9k.sk`|
-|:white_check_mark:|`9o.sk`|
-|:white_check_mark:|`9p.sk`|
-|:white_check_mark:|`9q.sk`|
-|:white_check_mark:|`9r.sk`|
-|:white_check_mark:|`9s.sk`|
-|:white_check_mark:|`9v.sk`|
-</details>
-<details>
-<summary>21 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`a4.sk`|
 |:white_check_mark:|`a5.sk`|
 |:white_check_mark:|`a6.sk`|
+|:white_check_mark:|`a7.sk`|
+|:white_check_mark:|`a8.sk`|
+|:white_check_mark:|`a9.sk`|
 |:white_check_mark:|`ac.sk`|
 |:white_check_mark:|`ad.sk`|
 |:white_check_mark:|`ae.sk`|
@@ -282,12 +51,10 @@
 |:white_check_mark:|`az.sk`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`b6.sk`|
-|:white_check_mark:|`b7.sk`|
 |:white_check_mark:|`ba.sk`|
 |:white_check_mark:|`bb.sk`|
 |:white_check_mark:|`bc.sk`|
@@ -298,15 +65,15 @@
 |:white_check_mark:|`bh.sk`|
 |:white_check_mark:|`bi.sk`|
 |:white_check_mark:|`bj.sk`|
-|:white_check_mark:|`bk.sk`|
 |:white_check_mark:|`bl.sk`|
 |:white_check_mark:|`bm.sk`|
 |:white_check_mark:|`bn.sk`|
 |:white_check_mark:|`bo.sk`|
+|:white_check_mark:|`bp.sk`|
+|:white_check_mark:|`bq.sk`|
 |:white_check_mark:|`br.sk`|
 |:white_check_mark:|`bs.sk`|
 |:white_check_mark:|`bt.sk`|
-|:white_check_mark:|`bu.sk`|
 |:white_check_mark:|`bv.sk`|
 |:white_check_mark:|`bw.sk`|
 |:white_check_mark:|`bx.sk`|
@@ -314,122 +81,108 @@
 |:white_check_mark:|`bz.sk`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`c0.sk`|
-|:white_check_mark:|`c1.sk`|
-|:white_check_mark:|`c2.sk`|
 |:white_check_mark:|`c4.sk`|
 |:white_check_mark:|`c5.sk`|
 |:white_check_mark:|`c6.sk`|
 |:white_check_mark:|`c7.sk`|
-|:white_check_mark:|`c8.sk`|
 |:white_check_mark:|`ca.sk`|
+|:white_check_mark:|`cb.sk`|
 |:white_check_mark:|`cc.sk`|
 |:white_check_mark:|`cd.sk`|
+|:white_check_mark:|`ce.sk`|
 |:white_check_mark:|`cf.sk`|
 |:white_check_mark:|`cg.sk`|
 |:white_check_mark:|`ch.sk`|
 |:white_check_mark:|`ci.sk`|
+|:white_check_mark:|`cj.sk`|
 |:white_check_mark:|`ck.sk`|
 |:white_check_mark:|`cl.sk`|
 |:white_check_mark:|`cm.sk`|
 |:white_check_mark:|`cn.sk`|
 |:white_check_mark:|`co.sk`|
 |:white_check_mark:|`cp.sk`|
+|:white_check_mark:|`cq.sk`|
 |:white_check_mark:|`cr.sk`|
+|:white_check_mark:|`cs.sk`|
+|:white_check_mark:|`ct.sk`|
 |:white_check_mark:|`cu.sk`|
 |:white_check_mark:|`cv.sk`|
+|:white_check_mark:|`cw.sk`|
 |:white_check_mark:|`cx.sk`|
 |:white_check_mark:|`cy.sk`|
 |:white_check_mark:|`cz.sk`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`d0.sk`|
-|:white_check_mark:|`d1.sk`|
-|:white_check_mark:|`d2.sk`|
 |:white_check_mark:|`d3.sk`|
-|:white_check_mark:|`d8.sk`|
-|:white_check_mark:|`d9.sk`|
-|:white_check_mark:|`db.sk`|
 |:white_check_mark:|`de.sk`|
 |:white_check_mark:|`df.sk`|
+|:white_check_mark:|`dg.sk`|
 |:white_check_mark:|`dj.sk`|
 |:white_check_mark:|`dk.sk`|
-|:white_check_mark:|`dl.sk`|
 |:white_check_mark:|`dm.sk`|
-|:white_check_mark:|`dn.sk`|
 |:white_check_mark:|`do.sk`|
-|:white_check_mark:|`dp.sk`|
-|:white_check_mark:|`dq.sk`|
-|:white_check_mark:|`dr.sk`|
-|:white_check_mark:|`ds.sk`|
-|:white_check_mark:|`dt.sk`|
-|:white_check_mark:|`dx.sk`|
 |:white_check_mark:|`dy.sk`|
 |:white_check_mark:|`dz.sk`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`e0.sk`|
-|:white_check_mark:|`e1.sk`|
 |:white_check_mark:|`e2.sk`|
 |:white_check_mark:|`e3.sk`|
 |:white_check_mark:|`e4.sk`|
 |:white_check_mark:|`e5.sk`|
-|:white_check_mark:|`e6.sk`|
-|:white_check_mark:|`e7.sk`|
-|:white_check_mark:|`ea.sk`|
-|:white_check_mark:|`eb.sk`|
 |:white_check_mark:|`ec.sk`|
-|:white_check_mark:|`ed.sk`|
 |:white_check_mark:|`ee.sk`|
 |:white_check_mark:|`ef.sk`|
 |:white_check_mark:|`eg.sk`|
 |:white_check_mark:|`eh.sk`|
-|:white_check_mark:|`eq.sk`|
+|:white_check_mark:|`ei.sk`|
+|:white_check_mark:|`ej.sk`|
+|:white_check_mark:|`ek.sk`|
+|:white_check_mark:|`el.sk`|
+|:white_check_mark:|`em.sk`|
 |:white_check_mark:|`er.sk`|
 |:white_check_mark:|`es.sk`|
-|:white_check_mark:|`et.sk`|
-|:white_check_mark:|`eu.sk`|
-|:white_check_mark:|`ev.sk`|
+|:white_check_mark:|`ew.sk`|
+|:white_check_mark:|`ex.sk`|
 |:white_check_mark:|`ez.sk`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`f3.sk`|
-|:white_check_mark:|`f4.sk`|
-|:white_check_mark:|`f5.sk`|
 |:white_check_mark:|`f6.sk`|
 |:white_check_mark:|`f7.sk`|
-|:white_check_mark:|`f8.sk`|
-|:white_check_mark:|`f9.sk`|
-|:white_check_mark:|`fa.sk`|
+|:white_check_mark:|`fe.sk`|
+|:white_check_mark:|`ff.sk`|
 |:white_check_mark:|`fi.sk`|
 |:white_check_mark:|`fj.sk`|
 |:white_check_mark:|`fk.sk`|
-|:white_check_mark:|`fl.sk`|
 |:white_check_mark:|`fm.sk`|
 |:white_check_mark:|`fo.sk`|
 |:white_check_mark:|`fp.sk`|
 |:white_check_mark:|`fq.sk`|
 |:white_check_mark:|`fr.sk`|
+|:white_check_mark:|`fw.sk`|
 |:white_check_mark:|`fx.sk`|
+|:white_check_mark:|`fy.sk`|
+|:white_check_mark:|`fz.sk`|
 </details>
 <details>
-<summary>29 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -438,19 +191,22 @@
 |:white_check_mark:|`g2.sk`|
 |:white_check_mark:|`g3.sk`|
 |:white_check_mark:|`g4.sk`|
-|:white_check_mark:|`g7.sk`|
+|:white_check_mark:|`g5.sk`|
+|:white_check_mark:|`g9.sk`|
 |:white_check_mark:|`ga.sk`|
 |:white_check_mark:|`gb.sk`|
+|:white_check_mark:|`gc.sk`|
 |:white_check_mark:|`gd.sk`|
 |:white_check_mark:|`ge.sk`|
 |:white_check_mark:|`gf.sk`|
+|:white_check_mark:|`gg.sk`|
 |:white_check_mark:|`gh.sk`|
 |:white_check_mark:|`gi.sk`|
+|:white_check_mark:|`gj.sk`|
 |:white_check_mark:|`gk.sk`|
 |:white_check_mark:|`gl.sk`|
 |:white_check_mark:|`gm.sk`|
 |:white_check_mark:|`gn.sk`|
-|:white_check_mark:|`go.sk`|
 |:white_check_mark:|`gp.sk`|
 |:white_check_mark:|`gq.sk`|
 |:white_check_mark:|`gr.sk`|
@@ -464,126 +220,118 @@
 |:white_check_mark:|`gz.sk`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`h0.sk`|
-|:white_check_mark:|`h2.sk`|
-|:white_check_mark:|`h3.sk`|
+|:white_check_mark:|`h6.sk`|
 |:white_check_mark:|`h7.sk`|
 |:white_check_mark:|`h8.sk`|
 |:white_check_mark:|`h9.sk`|
-|:white_check_mark:|`hf.sk`|
-|:white_check_mark:|`hg.sk`|
 |:white_check_mark:|`hh.sk`|
 |:white_check_mark:|`hi.sk`|
-|:white_check_mark:|`hj.sk`|
 |:white_check_mark:|`hk.sk`|
-|:white_check_mark:|`hl.sk`|
 |:white_check_mark:|`hm.sk`|
 |:white_check_mark:|`hn.sk`|
-|:white_check_mark:|`ho.sk`|
-|:white_check_mark:|`hp.sk`|
 |:white_check_mark:|`hq.sk`|
 |:white_check_mark:|`hr.sk`|
 |:white_check_mark:|`hs.sk`|
 |:white_check_mark:|`ht.sk`|
 |:white_check_mark:|`hu.sk`|
 |:white_check_mark:|`hv.sk`|
+|:white_check_mark:|`hw.sk`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>17 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`i0.sk`|
-|:white_check_mark:|`i1.sk`|
-|:white_check_mark:|`i2.sk`|
 |:white_check_mark:|`i6.sk`|
 |:white_check_mark:|`i7.sk`|
 |:white_check_mark:|`i8.sk`|
+|:white_check_mark:|`ia.sk`|
 |:white_check_mark:|`id.sk`|
 |:white_check_mark:|`ie.sk`|
-|:white_check_mark:|`if.sk`|
-|:white_check_mark:|`ig.sk`|
-|:white_check_mark:|`ih.sk`|
-|:white_check_mark:|`ij.sk`|
-|:white_check_mark:|`ik.sk`|
+|:white_check_mark:|`ii.sk`|
 |:white_check_mark:|`il.sk`|
 |:white_check_mark:|`im.sk`|
 |:white_check_mark:|`in.sk`|
 |:white_check_mark:|`io.sk`|
-|:white_check_mark:|`ip.sk`|
 |:white_check_mark:|`iq.sk`|
 |:white_check_mark:|`ir.sk`|
 |:white_check_mark:|`is.sk`|
 |:white_check_mark:|`it.sk`|
+|:white_check_mark:|`ix.sk`|
+|:white_check_mark:|`iz.sk`|
 </details>
 <details>
-<summary>19 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`j0.sk`|
-|:white_check_mark:|`j1.sk`|
-|:white_check_mark:|`j2.sk`|
+|:white_check_mark:|`j5.sk`|
+|:white_check_mark:|`j6.sk`|
 |:white_check_mark:|`j7.sk`|
 |:white_check_mark:|`j8.sk`|
-|:white_check_mark:|`j9.sk`|
-|:white_check_mark:|`jf.sk`|
-|:white_check_mark:|`jg.sk`|
-|:white_check_mark:|`jh.sk`|
+|:white_check_mark:|`ji.sk`|
 |:white_check_mark:|`jj.sk`|
+|:white_check_mark:|`jk.sk`|
+|:white_check_mark:|`jl.sk`|
 |:white_check_mark:|`jm.sk`|
+|:white_check_mark:|`jn.sk`|
 |:white_check_mark:|`jo.sk`|
 |:white_check_mark:|`jp.sk`|
-|:white_check_mark:|`jq.sk`|
+|:white_check_mark:|`js.sk`|
+|:white_check_mark:|`jt.sk`|
 |:white_check_mark:|`ju.sk`|
 |:white_check_mark:|`jv.sk`|
-|:white_check_mark:|`jx.sk`|
-|:white_check_mark:|`jy.sk`|
-|:white_check_mark:|`jz.sk`|
 </details>
 <details>
-<summary>20 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>17 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`k0.sk`|
-|:white_check_mark:|`k5.sk`|
-|:white_check_mark:|`k6.sk`|
-|:white_check_mark:|`ka.sk`|
+|:white_check_mark:|`k3.sk`|
 |:white_check_mark:|`ke.sk`|
 |:white_check_mark:|`kg.sk`|
 |:white_check_mark:|`kh.sk`|
 |:white_check_mark:|`ki.sk`|
-|:white_check_mark:|`kj.sk`|
-|:white_check_mark:|`kk.sk`|
 |:white_check_mark:|`kl.sk`|
 |:white_check_mark:|`km.sk`|
 |:white_check_mark:|`kn.sk`|
+|:white_check_mark:|`ko.sk`|
 |:white_check_mark:|`kp.sk`|
 |:white_check_mark:|`kr.sk`|
 |:white_check_mark:|`ku.sk`|
+|:white_check_mark:|`kv.sk`|
 |:white_check_mark:|`kw.sk`|
 |:white_check_mark:|`kx.sk`|
 |:white_check_mark:|`ky.sk`|
 |:white_check_mark:|`kz.sk`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>27 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`l0.sk`|
+|:white_check_mark:|`l1.sk`|
+|:white_check_mark:|`l2.sk`|
+|:white_check_mark:|`l7.sk`|
+|:white_check_mark:|`l8.sk`|
+|:white_check_mark:|`l9.sk`|
 |:white_check_mark:|`la.sk`|
 |:white_check_mark:|`lb.sk`|
 |:white_check_mark:|`lc.sk`|
 |:white_check_mark:|`ld.sk`|
+|:white_check_mark:|`lf.sk`|
 |:white_check_mark:|`lg.sk`|
 |:white_check_mark:|`lh.sk`|
 |:white_check_mark:|`li.sk`|
+|:white_check_mark:|`lj.sk`|
 |:white_check_mark:|`lk.sk`|
+|:white_check_mark:|`ll.sk`|
+|:white_check_mark:|`lm.sk`|
 |:white_check_mark:|`lq.sk`|
 |:white_check_mark:|`lr.sk`|
 |:white_check_mark:|`ls.sk`|
@@ -593,7 +341,6 @@
 |:white_check_mark:|`lw.sk`|
 |:white_check_mark:|`lx.sk`|
 |:white_check_mark:|`ly.sk`|
-|:white_check_mark:|`lz.sk`|
 </details>
 <details>
 <summary>29 unregistered domains starting with <bold><code>m</code></bold></summary>
@@ -602,16 +349,16 @@
 |--|--|
 |:white_check_mark:|`m0.sk`|
 |:white_check_mark:|`m1.sk`|
-|:white_check_mark:|`m7.sk`|
-|:white_check_mark:|`m8.sk`|
-|:white_check_mark:|`m9.sk`|
+|:white_check_mark:|`m2.sk`|
+|:white_check_mark:|`m3.sk`|
 |:white_check_mark:|`ma.sk`|
 |:white_check_mark:|`mb.sk`|
 |:white_check_mark:|`mc.sk`|
 |:white_check_mark:|`md.sk`|
+|:white_check_mark:|`me.sk`|
+|:white_check_mark:|`mf.sk`|
 |:white_check_mark:|`mg.sk`|
 |:white_check_mark:|`mh.sk`|
-|:white_check_mark:|`mi.sk`|
 |:white_check_mark:|`mj.sk`|
 |:white_check_mark:|`mk.sk`|
 |:white_check_mark:|`ml.sk`|
@@ -631,19 +378,14 @@
 |:white_check_mark:|`mz.sk`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`n3.sk`|
-|:white_check_mark:|`n4.sk`|
-|:white_check_mark:|`n5.sk`|
-|:white_check_mark:|`n6.sk`|
 |:white_check_mark:|`n7.sk`|
 |:white_check_mark:|`n8.sk`|
 |:white_check_mark:|`n9.sk`|
 |:white_check_mark:|`na.sk`|
-|:white_check_mark:|`nb.sk`|
 |:white_check_mark:|`nc.sk`|
 |:white_check_mark:|`nd.sk`|
 |:white_check_mark:|`ne.sk`|
@@ -654,96 +396,116 @@
 |:white_check_mark:|`nj.sk`|
 |:white_check_mark:|`nk.sk`|
 |:white_check_mark:|`nl.sk`|
+|:white_check_mark:|`nm.sk`|
+|:white_check_mark:|`nn.sk`|
 |:white_check_mark:|`no.sk`|
 |:white_check_mark:|`np.sk`|
+|:white_check_mark:|`nq.sk`|
 |:white_check_mark:|`nr.sk`|
+|:white_check_mark:|`nt.sk`|
 |:white_check_mark:|`nu.sk`|
+|:white_check_mark:|`nv.sk`|
+|:white_check_mark:|`nw.sk`|
+|:white_check_mark:|`nx.sk`|
 |:white_check_mark:|`nz.sk`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>18 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`o0.sk`|
+|:white_check_mark:|`o1.sk`|
+|:white_check_mark:|`o2.sk`|
 |:white_check_mark:|`o3.sk`|
+|:white_check_mark:|`o5.sk`|
+|:white_check_mark:|`o6.sk`|
+|:white_check_mark:|`o8.sk`|
 |:white_check_mark:|`oa.sk`|
-|:white_check_mark:|`oj.sk`|
-|:white_check_mark:|`ok.sk`|
+|:white_check_mark:|`ob.sk`|
+|:white_check_mark:|`oc.sk`|
+|:white_check_mark:|`od.sk`|
+|:white_check_mark:|`oe.sk`|
+|:white_check_mark:|`ol.sk`|
 |:white_check_mark:|`om.sk`|
-|:white_check_mark:|`on.sk`|
-|:white_check_mark:|`oo.sk`|
-|:white_check_mark:|`op.sk`|
-|:white_check_mark:|`or.sk`|
-|:white_check_mark:|`ot.sk`|
-|:white_check_mark:|`ou.sk`|
+|:white_check_mark:|`ow.sk`|
+|:white_check_mark:|`ox.sk`|
+|:white_check_mark:|`oy.sk`|
+|:white_check_mark:|`oz.sk`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`p2.sk`|
-|:white_check_mark:|`p9.sk`|
+|:white_check_mark:|`p6.sk`|
 |:white_check_mark:|`pa.sk`|
-|:white_check_mark:|`pc.sk`|
-|:white_check_mark:|`pd.sk`|
 |:white_check_mark:|`pe.sk`|
 |:white_check_mark:|`pf.sk`|
 |:white_check_mark:|`pg.sk`|
 |:white_check_mark:|`ph.sk`|
+|:white_check_mark:|`pi.sk`|
 |:white_check_mark:|`pk.sk`|
 |:white_check_mark:|`pl.sk`|
 |:white_check_mark:|`pm.sk`|
 |:white_check_mark:|`pn.sk`|
-|:white_check_mark:|`pp.sk`|
+|:white_check_mark:|`po.sk`|
 |:white_check_mark:|`pr.sk`|
 |:white_check_mark:|`ps.sk`|
 |:white_check_mark:|`pt.sk`|
 |:white_check_mark:|`pu.sk`|
 |:white_check_mark:|`pv.sk`|
 |:white_check_mark:|`pw.sk`|
-|:white_check_mark:|`px.sk`|
 |:white_check_mark:|`py.sk`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`q0.sk`|
 |:white_check_mark:|`q1.sk`|
 |:white_check_mark:|`q2.sk`|
 |:white_check_mark:|`q3.sk`|
 |:white_check_mark:|`q4.sk`|
 |:white_check_mark:|`q5.sk`|
+|:white_check_mark:|`q6.sk`|
+|:white_check_mark:|`q8.sk`|
 |:white_check_mark:|`q9.sk`|
 |:white_check_mark:|`qa.sk`|
-|:white_check_mark:|`qb.sk`|
-|:white_check_mark:|`qc.sk`|
-|:white_check_mark:|`qi.sk`|
-|:white_check_mark:|`qj.sk`|
+|:white_check_mark:|`qd.sk`|
+|:white_check_mark:|`qe.sk`|
+|:white_check_mark:|`qf.sk`|
+|:white_check_mark:|`qg.sk`|
 |:white_check_mark:|`qk.sk`|
-|:white_check_mark:|`qm.sk`|
+|:white_check_mark:|`ql.sk`|
 |:white_check_mark:|`qn.sk`|
-|:white_check_mark:|`qo.sk`|
-|:white_check_mark:|`qp.sk`|
-|:white_check_mark:|`qq.sk`|
-|:white_check_mark:|`qr.sk`|
+|:white_check_mark:|`qy.sk`|
+|:white_check_mark:|`qz.sk`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`r0.sk`|
+|:white_check_mark:|`r1.sk`|
+|:white_check_mark:|`r2.sk`|
 |:white_check_mark:|`r3.sk`|
 |:white_check_mark:|`r4.sk`|
+|:white_check_mark:|`r5.sk`|
+|:white_check_mark:|`r6.sk`|
+|:white_check_mark:|`r7.sk`|
 |:white_check_mark:|`r8.sk`|
+|:white_check_mark:|`r9.sk`|
 |:white_check_mark:|`ra.sk`|
-|:white_check_mark:|`rd.sk`|
 |:white_check_mark:|`re.sk`|
+|:white_check_mark:|`rh.sk`|
+|:white_check_mark:|`ri.sk`|
 |:white_check_mark:|`rj.sk`|
+|:white_check_mark:|`rk.sk`|
 |:white_check_mark:|`rl.sk`|
 |:white_check_mark:|`rm.sk`|
-|:white_check_mark:|`rn.sk`|
 |:white_check_mark:|`ro.sk`|
 |:white_check_mark:|`rp.sk`|
 |:white_check_mark:|`rq.sk`|
@@ -751,10 +513,14 @@
 |:white_check_mark:|`rs.sk`|
 |:white_check_mark:|`rt.sk`|
 |:white_check_mark:|`ru.sk`|
+|:white_check_mark:|`rv.sk`|
 |:white_check_mark:|`rw.sk`|
+|:white_check_mark:|`rx.sk`|
+|:white_check_mark:|`ry.sk`|
+|:white_check_mark:|`rz.sk`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -763,8 +529,10 @@
 |:white_check_mark:|`s2.sk`|
 |:white_check_mark:|`s3.sk`|
 |:white_check_mark:|`s4.sk`|
-|:white_check_mark:|`s5.sk`|
 |:white_check_mark:|`s6.sk`|
+|:white_check_mark:|`s7.sk`|
+|:white_check_mark:|`s8.sk`|
+|:white_check_mark:|`s9.sk`|
 |:white_check_mark:|`sa.sk`|
 |:white_check_mark:|`sb.sk`|
 |:white_check_mark:|`sc.sk`|
@@ -778,180 +546,91 @@
 |:white_check_mark:|`sm.sk`|
 |:white_check_mark:|`sn.sk`|
 |:white_check_mark:|`so.sk`|
-|:white_check_mark:|`sq.sk`|
 |:white_check_mark:|`sr.sk`|
+|:white_check_mark:|`st.sk`|
 |:white_check_mark:|`su.sk`|
 |:white_check_mark:|`sv.sk`|
+|:white_check_mark:|`sw.sk`|
+|:white_check_mark:|`sx.sk`|
 |:white_check_mark:|`sy.sk`|
 |:white_check_mark:|`sz.sk`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`t4.sk`|
+|:white_check_mark:|`t0.sk`|
+|:white_check_mark:|`t1.sk`|
+|:white_check_mark:|`t2.sk`|
+|:white_check_mark:|`t3.sk`|
 |:white_check_mark:|`t8.sk`|
 |:white_check_mark:|`t9.sk`|
+|:white_check_mark:|`ta.sk`|
+|:white_check_mark:|`tb.sk`|
 |:white_check_mark:|`tc.sk`|
 |:white_check_mark:|`td.sk`|
+|:white_check_mark:|`te.sk`|
 |:white_check_mark:|`tf.sk`|
 |:white_check_mark:|`tg.sk`|
 |:white_check_mark:|`th.sk`|
-|:white_check_mark:|`ti.sk`|
 |:white_check_mark:|`tj.sk`|
 |:white_check_mark:|`tk.sk`|
+|:white_check_mark:|`tl.sk`|
 |:white_check_mark:|`tm.sk`|
 |:white_check_mark:|`tn.sk`|
 |:white_check_mark:|`to.sk`|
 |:white_check_mark:|`tp.sk`|
+|:white_check_mark:|`tq.sk`|
 |:white_check_mark:|`tr.sk`|
+|:white_check_mark:|`ts.sk`|
 |:white_check_mark:|`tt.sk`|
 |:white_check_mark:|`tu.sk`|
 |:white_check_mark:|`tv.sk`|
 |:white_check_mark:|`tw.sk`|
 |:white_check_mark:|`tx.sk`|
+|:white_check_mark:|`ty.sk`|
 |:white_check_mark:|`tz.sk`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`u0.sk`|
 |:white_check_mark:|`u1.sk`|
-|:white_check_mark:|`u2.sk`|
-|:white_check_mark:|`u3.sk`|
-|:white_check_mark:|`u4.sk`|
-|:white_check_mark:|`u5.sk`|
-|:white_check_mark:|`u6.sk`|
-|:white_check_mark:|`u7.sk`|
-|:white_check_mark:|`u8.sk`|
-|:white_check_mark:|`u9.sk`|
 |:white_check_mark:|`ua.sk`|
 |:white_check_mark:|`ub.sk`|
 |:white_check_mark:|`uc.sk`|
 |:white_check_mark:|`ud.sk`|
 |:white_check_mark:|`ue.sk`|
+|:white_check_mark:|`uf.sk`|
 |:white_check_mark:|`ug.sk`|
 |:white_check_mark:|`uk.sk`|
 |:white_check_mark:|`um.sk`|
-|:white_check_mark:|`up.sk`|
+|:white_check_mark:|`uq.sk`|
+|:white_check_mark:|`ur.sk`|
 |:white_check_mark:|`us.sk`|
+|:white_check_mark:|`ut.sk`|
+|:white_check_mark:|`uu.sk`|
+|:white_check_mark:|`uv.sk`|
 |:white_check_mark:|`uw.sk`|
+|:white_check_mark:|`ux.sk`|
 |:white_check_mark:|`uy.sk`|
 |:white_check_mark:|`uz.sk`|
 </details>
 <details>
-<summary>21 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>9 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`v0.sk`|
-|:white_check_mark:|`v1.sk`|
-|:white_check_mark:|`v2.sk`|
-|:white_check_mark:|`v3.sk`|
-|:white_check_mark:|`v4.sk`|
-|:white_check_mark:|`v5.sk`|
-|:white_check_mark:|`v6.sk`|
-|:white_check_mark:|`v7.sk`|
 |:white_check_mark:|`va.sk`|
+|:white_check_mark:|`vb.sk`|
 |:white_check_mark:|`vc.sk`|
 |:white_check_mark:|`ve.sk`|
+|:white_check_mark:|`vf.sk`|
 |:white_check_mark:|`vg.sk`|
 |:white_check_mark:|`vi.sk`|
 |:white_check_mark:|`vn.sk`|
-|:white_check_mark:|`vq.sk`|
-|:white_check_mark:|`vr.sk`|
-|:white_check_mark:|`vs.sk`|
-|:white_check_mark:|`vt.sk`|
-|:white_check_mark:|`vu.sk`|
-|:white_check_mark:|`vy.sk`|
-|:white_check_mark:|`vz.sk`|
-</details>
-<details>
-<summary>11 unregistered domains starting with <bold><code>w</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`w0.sk`|
-|:white_check_mark:|`w1.sk`|
-|:white_check_mark:|`wf.sk`|
-|:white_check_mark:|`wh.sk`|
-|:white_check_mark:|`wi.sk`|
-|:white_check_mark:|`wk.sk`|
-|:white_check_mark:|`wl.sk`|
-|:white_check_mark:|`wo.sk`|
-|:white_check_mark:|`wp.sk`|
-|:white_check_mark:|`wq.sk`|
-|:white_check_mark:|`ws.sk`|
-</details>
-<details>
-<summary>20 unregistered domains starting with <bold><code>x</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`x0.sk`|
-|:white_check_mark:|`x1.sk`|
-|:white_check_mark:|`x2.sk`|
-|:white_check_mark:|`x3.sk`|
-|:white_check_mark:|`x4.sk`|
-|:white_check_mark:|`x5.sk`|
-|:white_check_mark:|`xb.sk`|
-|:white_check_mark:|`xc.sk`|
-|:white_check_mark:|`xd.sk`|
-|:white_check_mark:|`xe.sk`|
-|:white_check_mark:|`xf.sk`|
-|:white_check_mark:|`xg.sk`|
-|:white_check_mark:|`xh.sk`|
-|:white_check_mark:|`xi.sk`|
-|:white_check_mark:|`xl.sk`|
-|:white_check_mark:|`xm.sk`|
-|:white_check_mark:|`xn.sk`|
-|:white_check_mark:|`xo.sk`|
-|:white_check_mark:|`xp.sk`|
-|:white_check_mark:|`xq.sk`|
-</details>
-<details>
-<summary>15 unregistered domains starting with <bold><code>y</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`y6.sk`|
-|:white_check_mark:|`y8.sk`|
-|:white_check_mark:|`y9.sk`|
-|:white_check_mark:|`ya.sk`|
-|:white_check_mark:|`yb.sk`|
-|:white_check_mark:|`yc.sk`|
-|:white_check_mark:|`yd.sk`|
-|:white_check_mark:|`ye.sk`|
-|:white_check_mark:|`yk.sk`|
-|:white_check_mark:|`yl.sk`|
-|:white_check_mark:|`ym.sk`|
-|:white_check_mark:|`yt.sk`|
-|:white_check_mark:|`yu.sk`|
-|:white_check_mark:|`yv.sk`|
-|:white_check_mark:|`yw.sk`|
-</details>
-<details>
-<summary>16 unregistered domains starting with <bold><code>z</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`z0.sk`|
-|:white_check_mark:|`z1.sk`|
-|:white_check_mark:|`z2.sk`|
-|:white_check_mark:|`z3.sk`|
-|:white_check_mark:|`z4.sk`|
-|:white_check_mark:|`z5.sk`|
-|:white_check_mark:|`za.sk`|
-|:white_check_mark:|`zb.sk`|
-|:white_check_mark:|`zc.sk`|
-|:white_check_mark:|`zd.sk`|
-|:white_check_mark:|`ze.sk`|
-|:white_check_mark:|`zf.sk`|
-|:white_check_mark:|`zm.sk`|
-|:white_check_mark:|`zp.sk`|
-|:white_check_mark:|`zw.sk`|
-|:white_check_mark:|`zz.sk`|
+|:white_check_mark:|`vo.sk`|
 </details>

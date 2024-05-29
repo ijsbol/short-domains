@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.it`
 
-## Data last updated: 05/27/2024, 11:14:04
+## Data last updated: 05/29/2024, 12:10:35
 
 |Stat|Amount|
 |--|--|
-|Registered domains|55|
-|Unregistered domains|1241|
+|Registered domains|110|
+|Unregistered domains|1186|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|4.24%|
+|Registration rate|8.49%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -464,20 +464,10 @@
 |:white_check_mark:|`bz.it`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`c0.it`|
-|:white_check_mark:|`c1.it`|
-|:white_check_mark:|`c2.it`|
-|:white_check_mark:|`c3.it`|
-|:white_check_mark:|`c4.it`|
-|:white_check_mark:|`c5.it`|
-|:white_check_mark:|`c6.it`|
-|:white_check_mark:|`c7.it`|
-|:white_check_mark:|`c8.it`|
-|:white_check_mark:|`c9.it`|
 |:white_check_mark:|`ca.it`|
 |:white_check_mark:|`cb.it`|
 |:white_check_mark:|`cc.it`|
@@ -493,59 +483,14 @@
 |:white_check_mark:|`cm.it`|
 |:white_check_mark:|`cn.it`|
 |:white_check_mark:|`co.it`|
-|:white_check_mark:|`cp.it`|
-|:white_check_mark:|`cq.it`|
-|:white_check_mark:|`cr.it`|
-|:white_check_mark:|`cs.it`|
-|:white_check_mark:|`ct.it`|
-|:white_check_mark:|`cu.it`|
-|:white_check_mark:|`cv.it`|
-|:white_check_mark:|`cw.it`|
-|:white_check_mark:|`cx.it`|
-|:white_check_mark:|`cy.it`|
-|:white_check_mark:|`cz.it`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`d0.it`|
-|:white_check_mark:|`d1.it`|
-|:white_check_mark:|`d2.it`|
-|:white_check_mark:|`d3.it`|
-|:white_check_mark:|`d4.it`|
-|:white_check_mark:|`d5.it`|
-|:white_check_mark:|`d6.it`|
-|:white_check_mark:|`d7.it`|
 |:white_check_mark:|`d8.it`|
 |:white_check_mark:|`d9.it`|
-|:white_check_mark:|`da.it`|
-|:white_check_mark:|`db.it`|
-|:white_check_mark:|`dc.it`|
-|:white_check_mark:|`dd.it`|
-|:white_check_mark:|`de.it`|
-|:white_check_mark:|`df.it`|
-|:white_check_mark:|`dg.it`|
-|:white_check_mark:|`dh.it`|
-|:white_check_mark:|`di.it`|
-|:white_check_mark:|`dj.it`|
-|:white_check_mark:|`dk.it`|
-|:white_check_mark:|`dl.it`|
-|:white_check_mark:|`dm.it`|
-|:white_check_mark:|`dn.it`|
-|:white_check_mark:|`do.it`|
-|:white_check_mark:|`dp.it`|
-|:white_check_mark:|`dq.it`|
-|:white_check_mark:|`dr.it`|
-|:white_check_mark:|`ds.it`|
-|:white_check_mark:|`dt.it`|
-|:white_check_mark:|`du.it`|
-|:white_check_mark:|`dv.it`|
-|:white_check_mark:|`dw.it`|
-|:white_check_mark:|`dx.it`|
-|:white_check_mark:|`dy.it`|
-|:white_check_mark:|`dz.it`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>e</code></bold></summary>

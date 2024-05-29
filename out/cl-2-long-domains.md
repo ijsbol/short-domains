@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.cl`
 
-## Data last updated: 05/27/2024, 11:05:57
+## Data last updated: 05/29/2024, 11:55:05
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1131|
-|Unregistered domains|165|
+|Registered domains|1142|
+|Unregistered domains|154|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|87.27%|
+|Registration rate|88.12%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -44,14 +44,11 @@
 |:white_check_mark:|`0y.cl`|
 </details>
 <details>
-<summary>5 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`1f.cl`|
-|:white_check_mark:|`1g.cl`|
-|:white_check_mark:|`1h.cl`|
-|:white_check_mark:|`1i.cl`|
 |:white_check_mark:|`1j.cl`|
 </details>
 <details>
@@ -218,21 +215,21 @@
 |:white_check_mark:|`d9.cl`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`e0.cl`|
 |:white_check_mark:|`e9.cl`|
-|:white_check_mark:|`ef.cl`|
 </details>
 <details>
-<summary>2 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>3 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`f0.cl`|
-|:white_check_mark:|`f6.cl`|
+|:white_check_mark:|`fa.cl`|
+|:white_check_mark:|`fb.cl`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>g</code></bold></summary>
@@ -242,15 +239,11 @@
 |:white_check_mark:|`g5.cl`|
 </details>
 <details>
-<summary>5 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`h0.cl`|
-|:white_check_mark:|`h1.cl`|
-|:white_check_mark:|`h2.cl`|
 |:white_check_mark:|`h7.cl`|
-|:white_check_mark:|`hz.cl`|
 </details>
 <details>
 <summary>5 unregistered domains starting with <bold><code>j</code></bold></summary>
@@ -264,16 +257,12 @@
 |:white_check_mark:|`j8.cl`|
 </details>
 <details>
-<summary>6 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`k0.cl`|
 |:white_check_mark:|`k6.cl`|
-|:white_check_mark:|`kb.cl`|
-|:white_check_mark:|`kc.cl`|
-|:white_check_mark:|`kd.cl`|
-|:white_check_mark:|`ke.cl`|
 </details>
 <details>
 <summary>2 unregistered domains starting with <bold><code>l</code></bold></summary>

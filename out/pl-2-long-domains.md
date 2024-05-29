@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.pl`
 
-## Data last updated: 05/27/2024, 11:02:40
+## Data last updated: 05/29/2024, 11:38:53
 
 |Stat|Amount|
 |--|--|
-|Registered domains|93|
-|Unregistered domains|1203|
+|Registered domains|77|
+|Unregistered domains|954|
 |Premium domains|7|
 |Application only domains|0|
-|Registration rate|7.18%|
+|Registration rate|7.47%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|1031|
 |Lookup success rate|100%|
 
 
@@ -105,20 +105,10 @@
 |:white_check_mark:|`1z.pl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`20.pl`|
-|:white_check_mark:|`21.pl`|
-|:white_check_mark:|`22.pl`|
-|:white_check_mark:|`23.pl`|
-|:white_check_mark:|`24.pl`|
-|:white_check_mark:|`25.pl`|
-|:white_check_mark:|`26.pl`|
-|:white_check_mark:|`27.pl`|
-|:white_check_mark:|`28.pl`|
-|:white_check_mark:|`29.pl`|
 |:white_check_mark:|`2a.pl`|
 |:white_check_mark:|`2b.pl`|
 |:white_check_mark:|`2c.pl`|
@@ -142,303 +132,6 @@
 |:white_check_mark:|`2u.pl`|
 |:white_check_mark:|`2v.pl`|
 |:white_check_mark:|`2w.pl`|
-|:white_check_mark:|`2x.pl`|
-|:white_check_mark:|`2y.pl`|
-|:white_check_mark:|`2z.pl`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>3</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`30.pl`|
-|:white_check_mark:|`31.pl`|
-|:white_check_mark:|`32.pl`|
-|:white_check_mark:|`33.pl`|
-|:white_check_mark:|`34.pl`|
-|:white_check_mark:|`35.pl`|
-|:white_check_mark:|`36.pl`|
-|:white_check_mark:|`37.pl`|
-|:white_check_mark:|`38.pl`|
-|:white_check_mark:|`39.pl`|
-|:white_check_mark:|`3a.pl`|
-|:white_check_mark:|`3b.pl`|
-|:white_check_mark:|`3c.pl`|
-|:white_check_mark:|`3d.pl`|
-|:white_check_mark:|`3e.pl`|
-|:white_check_mark:|`3f.pl`|
-|:white_check_mark:|`3g.pl`|
-|:white_check_mark:|`3h.pl`|
-|:white_check_mark:|`3i.pl`|
-|:white_check_mark:|`3j.pl`|
-|:white_check_mark:|`3k.pl`|
-|:white_check_mark:|`3l.pl`|
-|:white_check_mark:|`3m.pl`|
-|:white_check_mark:|`3n.pl`|
-|:white_check_mark:|`3o.pl`|
-|:white_check_mark:|`3p.pl`|
-|:white_check_mark:|`3q.pl`|
-|:white_check_mark:|`3r.pl`|
-|:white_check_mark:|`3s.pl`|
-|:white_check_mark:|`3t.pl`|
-|:white_check_mark:|`3u.pl`|
-|:white_check_mark:|`3v.pl`|
-|:white_check_mark:|`3w.pl`|
-|:white_check_mark:|`3x.pl`|
-|:white_check_mark:|`3y.pl`|
-|:white_check_mark:|`3z.pl`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>4</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`40.pl`|
-|:white_check_mark:|`41.pl`|
-|:white_check_mark:|`42.pl`|
-|:white_check_mark:|`43.pl`|
-|:white_check_mark:|`44.pl`|
-|:white_check_mark:|`45.pl`|
-|:white_check_mark:|`46.pl`|
-|:white_check_mark:|`47.pl`|
-|:white_check_mark:|`48.pl`|
-|:white_check_mark:|`49.pl`|
-|:white_check_mark:|`4a.pl`|
-|:white_check_mark:|`4b.pl`|
-|:white_check_mark:|`4c.pl`|
-|:white_check_mark:|`4d.pl`|
-|:white_check_mark:|`4e.pl`|
-|:white_check_mark:|`4f.pl`|
-|:white_check_mark:|`4g.pl`|
-|:white_check_mark:|`4h.pl`|
-|:white_check_mark:|`4i.pl`|
-|:white_check_mark:|`4j.pl`|
-|:white_check_mark:|`4k.pl`|
-|:white_check_mark:|`4l.pl`|
-|:white_check_mark:|`4m.pl`|
-|:white_check_mark:|`4n.pl`|
-|:white_check_mark:|`4o.pl`|
-|:white_check_mark:|`4p.pl`|
-|:white_check_mark:|`4q.pl`|
-|:white_check_mark:|`4r.pl`|
-|:white_check_mark:|`4s.pl`|
-|:white_check_mark:|`4t.pl`|
-|:white_check_mark:|`4u.pl`|
-|:white_check_mark:|`4v.pl`|
-|:white_check_mark:|`4w.pl`|
-|:white_check_mark:|`4x.pl`|
-|:white_check_mark:|`4y.pl`|
-|:white_check_mark:|`4z.pl`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>5</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`50.pl`|
-|:white_check_mark:|`51.pl`|
-|:white_check_mark:|`52.pl`|
-|:white_check_mark:|`53.pl`|
-|:white_check_mark:|`54.pl`|
-|:white_check_mark:|`55.pl`|
-|:white_check_mark:|`56.pl`|
-|:white_check_mark:|`57.pl`|
-|:white_check_mark:|`58.pl`|
-|:white_check_mark:|`59.pl`|
-|:white_check_mark:|`5a.pl`|
-|:white_check_mark:|`5b.pl`|
-|:white_check_mark:|`5c.pl`|
-|:white_check_mark:|`5d.pl`|
-|:white_check_mark:|`5e.pl`|
-|:white_check_mark:|`5f.pl`|
-|:white_check_mark:|`5g.pl`|
-|:white_check_mark:|`5h.pl`|
-|:white_check_mark:|`5i.pl`|
-|:white_check_mark:|`5j.pl`|
-|:white_check_mark:|`5k.pl`|
-|:white_check_mark:|`5l.pl`|
-|:white_check_mark:|`5m.pl`|
-|:white_check_mark:|`5n.pl`|
-|:white_check_mark:|`5o.pl`|
-|:white_check_mark:|`5p.pl`|
-|:white_check_mark:|`5q.pl`|
-|:white_check_mark:|`5r.pl`|
-|:white_check_mark:|`5s.pl`|
-|:white_check_mark:|`5t.pl`|
-|:white_check_mark:|`5u.pl`|
-|:white_check_mark:|`5v.pl`|
-|:white_check_mark:|`5w.pl`|
-|:white_check_mark:|`5x.pl`|
-|:white_check_mark:|`5y.pl`|
-|:white_check_mark:|`5z.pl`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>6</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`60.pl`|
-|:white_check_mark:|`61.pl`|
-|:white_check_mark:|`62.pl`|
-|:white_check_mark:|`63.pl`|
-|:white_check_mark:|`64.pl`|
-|:white_check_mark:|`65.pl`|
-|:white_check_mark:|`66.pl`|
-|:white_check_mark:|`67.pl`|
-|:white_check_mark:|`68.pl`|
-|:white_check_mark:|`69.pl`|
-|:white_check_mark:|`6a.pl`|
-|:white_check_mark:|`6b.pl`|
-|:white_check_mark:|`6c.pl`|
-|:white_check_mark:|`6d.pl`|
-|:white_check_mark:|`6e.pl`|
-|:white_check_mark:|`6f.pl`|
-|:white_check_mark:|`6g.pl`|
-|:white_check_mark:|`6h.pl`|
-|:white_check_mark:|`6i.pl`|
-|:white_check_mark:|`6j.pl`|
-|:white_check_mark:|`6k.pl`|
-|:white_check_mark:|`6l.pl`|
-|:white_check_mark:|`6m.pl`|
-|:white_check_mark:|`6n.pl`|
-|:white_check_mark:|`6o.pl`|
-|:white_check_mark:|`6p.pl`|
-|:white_check_mark:|`6q.pl`|
-|:white_check_mark:|`6r.pl`|
-|:white_check_mark:|`6s.pl`|
-|:white_check_mark:|`6t.pl`|
-|:white_check_mark:|`6u.pl`|
-|:white_check_mark:|`6v.pl`|
-|:white_check_mark:|`6w.pl`|
-|:white_check_mark:|`6x.pl`|
-|:white_check_mark:|`6y.pl`|
-|:white_check_mark:|`6z.pl`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`70.pl`|
-|:white_check_mark:|`71.pl`|
-|:white_check_mark:|`72.pl`|
-|:white_check_mark:|`73.pl`|
-|:white_check_mark:|`74.pl`|
-|:white_check_mark:|`75.pl`|
-|:white_check_mark:|`76.pl`|
-|:white_check_mark:|`77.pl`|
-|:white_check_mark:|`78.pl`|
-|:white_check_mark:|`79.pl`|
-|:white_check_mark:|`7a.pl`|
-|:white_check_mark:|`7b.pl`|
-|:white_check_mark:|`7c.pl`|
-|:white_check_mark:|`7d.pl`|
-|:white_check_mark:|`7e.pl`|
-|:white_check_mark:|`7f.pl`|
-|:white_check_mark:|`7g.pl`|
-|:white_check_mark:|`7h.pl`|
-|:white_check_mark:|`7i.pl`|
-|:white_check_mark:|`7j.pl`|
-|:white_check_mark:|`7k.pl`|
-|:white_check_mark:|`7l.pl`|
-|:white_check_mark:|`7m.pl`|
-|:white_check_mark:|`7n.pl`|
-|:white_check_mark:|`7o.pl`|
-|:white_check_mark:|`7p.pl`|
-|:white_check_mark:|`7q.pl`|
-|:white_check_mark:|`7r.pl`|
-|:white_check_mark:|`7s.pl`|
-|:white_check_mark:|`7t.pl`|
-|:white_check_mark:|`7u.pl`|
-|:white_check_mark:|`7v.pl`|
-|:white_check_mark:|`7w.pl`|
-|:white_check_mark:|`7x.pl`|
-|:white_check_mark:|`7y.pl`|
-|:white_check_mark:|`7z.pl`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`80.pl`|
-|:white_check_mark:|`81.pl`|
-|:white_check_mark:|`82.pl`|
-|:white_check_mark:|`83.pl`|
-|:white_check_mark:|`84.pl`|
-|:white_check_mark:|`85.pl`|
-|:white_check_mark:|`86.pl`|
-|:white_check_mark:|`87.pl`|
-|:white_check_mark:|`88.pl`|
-|:white_check_mark:|`89.pl`|
-|:white_check_mark:|`8a.pl`|
-|:white_check_mark:|`8b.pl`|
-|:white_check_mark:|`8c.pl`|
-|:white_check_mark:|`8d.pl`|
-|:white_check_mark:|`8e.pl`|
-|:white_check_mark:|`8f.pl`|
-|:white_check_mark:|`8g.pl`|
-|:white_check_mark:|`8h.pl`|
-|:white_check_mark:|`8i.pl`|
-|:white_check_mark:|`8j.pl`|
-|:white_check_mark:|`8k.pl`|
-|:white_check_mark:|`8l.pl`|
-|:white_check_mark:|`8m.pl`|
-|:white_check_mark:|`8n.pl`|
-|:white_check_mark:|`8o.pl`|
-|:white_check_mark:|`8p.pl`|
-|:white_check_mark:|`8q.pl`|
-|:white_check_mark:|`8r.pl`|
-|:white_check_mark:|`8s.pl`|
-|:white_check_mark:|`8t.pl`|
-|:white_check_mark:|`8u.pl`|
-|:white_check_mark:|`8v.pl`|
-|:white_check_mark:|`8w.pl`|
-|:white_check_mark:|`8x.pl`|
-|:white_check_mark:|`8y.pl`|
-|:white_check_mark:|`8z.pl`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`90.pl`|
-|:white_check_mark:|`91.pl`|
-|:white_check_mark:|`92.pl`|
-|:white_check_mark:|`93.pl`|
-|:white_check_mark:|`94.pl`|
-|:white_check_mark:|`95.pl`|
-|:white_check_mark:|`96.pl`|
-|:white_check_mark:|`97.pl`|
-|:white_check_mark:|`98.pl`|
-|:white_check_mark:|`99.pl`|
-|:white_check_mark:|`9a.pl`|
-|:white_check_mark:|`9b.pl`|
-|:white_check_mark:|`9c.pl`|
-|:white_check_mark:|`9d.pl`|
-|:white_check_mark:|`9e.pl`|
-|:white_check_mark:|`9f.pl`|
-|:white_check_mark:|`9g.pl`|
-|:white_check_mark:|`9h.pl`|
-|:white_check_mark:|`9i.pl`|
-|:white_check_mark:|`9j.pl`|
-|:white_check_mark:|`9k.pl`|
-|:white_check_mark:|`9l.pl`|
-|:white_check_mark:|`9m.pl`|
-|:white_check_mark:|`9n.pl`|
-|:white_check_mark:|`9o.pl`|
-|:white_check_mark:|`9p.pl`|
-|:white_check_mark:|`9q.pl`|
-|:white_check_mark:|`9r.pl`|
-|:white_check_mark:|`9s.pl`|
-|:white_check_mark:|`9t.pl`|
-|:white_check_mark:|`9u.pl`|
-|:white_check_mark:|`9v.pl`|
-|:white_check_mark:|`9w.pl`|
-|:white_check_mark:|`9x.pl`|
-|:white_check_mark:|`9y.pl`|
-|:white_check_mark:|`9z.pl`|
 </details>
 <details>
 <summary>2 unregistered domains starting with <bold><code>a</code></bold></summary>
@@ -458,10 +151,12 @@
 |:gem:|`bw.pl`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`c0.pl`|
+|:white_check_mark:|`c1.pl`|
 |:white_check_mark:|`c2.pl`|
 |:white_check_mark:|`c3.pl`|
 |:white_check_mark:|`c4.pl`|
@@ -472,6 +167,20 @@
 |:white_check_mark:|`c9.pl`|
 |:gem:|`cj.pl`|
 |:gem:|`cl.pl`|
+|:white_check_mark:|`cm.pl`|
+|:white_check_mark:|`cn.pl`|
+|:white_check_mark:|`co.pl`|
+|:white_check_mark:|`cp.pl`|
+|:white_check_mark:|`cq.pl`|
+|:white_check_mark:|`cr.pl`|
+|:white_check_mark:|`cs.pl`|
+|:white_check_mark:|`ct.pl`|
+|:white_check_mark:|`cu.pl`|
+|:white_check_mark:|`cv.pl`|
+|:white_check_mark:|`cw.pl`|
+|:white_check_mark:|`cx.pl`|
+|:white_check_mark:|`cy.pl`|
+|:white_check_mark:|`cz.pl`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>

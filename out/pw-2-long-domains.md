@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.pw`
 
-## Data last updated: 05/27/2024, 11:03:43
+## Data last updated: 05/29/2024, 12:02:10
 
 |Stat|Amount|
 |--|--|
-|Registered domains|108|
-|Unregistered domains|1188|
+|Registered domains|392|
+|Unregistered domains|904|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|8.33%|
+|Registration rate|30.25%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,364 +21,104 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>33 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`00.pw`|
-|:white_check_mark:|`01.pw`|
-|:white_check_mark:|`02.pw`|
-|:white_check_mark:|`03.pw`|
-|:white_check_mark:|`04.pw`|
-|:white_check_mark:|`06.pw`|
-|:white_check_mark:|`07.pw`|
-|:white_check_mark:|`08.pw`|
-|:white_check_mark:|`09.pw`|
-|:white_check_mark:|`0a.pw`|
-|:white_check_mark:|`0b.pw`|
-|:white_check_mark:|`0c.pw`|
-|:white_check_mark:|`0d.pw`|
-|:white_check_mark:|`0e.pw`|
-|:white_check_mark:|`0f.pw`|
-|:white_check_mark:|`0g.pw`|
-|:white_check_mark:|`0h.pw`|
-|:white_check_mark:|`0i.pw`|
-|:white_check_mark:|`0j.pw`|
-|:white_check_mark:|`0k.pw`|
-|:white_check_mark:|`0l.pw`|
-|:white_check_mark:|`0m.pw`|
-|:white_check_mark:|`0n.pw`|
-|:white_check_mark:|`0o.pw`|
-|:white_check_mark:|`0p.pw`|
-|:white_check_mark:|`0q.pw`|
-|:white_check_mark:|`0r.pw`|
-|:white_check_mark:|`0s.pw`|
-|:white_check_mark:|`0t.pw`|
-|:white_check_mark:|`0u.pw`|
-|:white_check_mark:|`0v.pw`|
-|:white_check_mark:|`0w.pw`|
-|:white_check_mark:|`0x.pw`|
-</details>
-<details>
-<summary>33 unregistered domains starting with <bold><code>1</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`10.pw`|
-|:white_check_mark:|`11.pw`|
-|:white_check_mark:|`12.pw`|
-|:white_check_mark:|`13.pw`|
 |:white_check_mark:|`14.pw`|
-|:white_check_mark:|`15.pw`|
-|:white_check_mark:|`16.pw`|
-|:white_check_mark:|`17.pw`|
-|:white_check_mark:|`18.pw`|
-|:white_check_mark:|`1c.pw`|
-|:white_check_mark:|`1d.pw`|
-|:white_check_mark:|`1e.pw`|
-|:white_check_mark:|`1f.pw`|
-|:white_check_mark:|`1g.pw`|
-|:white_check_mark:|`1h.pw`|
-|:white_check_mark:|`1i.pw`|
-|:white_check_mark:|`1j.pw`|
-|:white_check_mark:|`1k.pw`|
-|:white_check_mark:|`1l.pw`|
-|:white_check_mark:|`1m.pw`|
-|:white_check_mark:|`1n.pw`|
-|:white_check_mark:|`1o.pw`|
-|:white_check_mark:|`1p.pw`|
-|:white_check_mark:|`1q.pw`|
-|:white_check_mark:|`1r.pw`|
-|:white_check_mark:|`1s.pw`|
-|:white_check_mark:|`1t.pw`|
-|:white_check_mark:|`1u.pw`|
-|:white_check_mark:|`1v.pw`|
-|:white_check_mark:|`1w.pw`|
-|:white_check_mark:|`1x.pw`|
-|:white_check_mark:|`1y.pw`|
-|:white_check_mark:|`1z.pw`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`20.pw`|
-|:white_check_mark:|`21.pw`|
-|:white_check_mark:|`22.pw`|
 |:white_check_mark:|`23.pw`|
 |:white_check_mark:|`24.pw`|
 |:white_check_mark:|`25.pw`|
 |:white_check_mark:|`26.pw`|
 |:white_check_mark:|`27.pw`|
-|:white_check_mark:|`29.pw`|
-|:white_check_mark:|`2a.pw`|
-|:white_check_mark:|`2b.pw`|
-|:white_check_mark:|`2c.pw`|
-|:white_check_mark:|`2d.pw`|
-|:white_check_mark:|`2e.pw`|
-|:white_check_mark:|`2f.pw`|
-|:white_check_mark:|`2g.pw`|
-|:white_check_mark:|`2h.pw`|
-|:white_check_mark:|`2i.pw`|
-|:white_check_mark:|`2j.pw`|
-|:white_check_mark:|`2k.pw`|
-|:white_check_mark:|`2m.pw`|
-|:white_check_mark:|`2n.pw`|
-|:white_check_mark:|`2o.pw`|
-|:white_check_mark:|`2p.pw`|
-|:white_check_mark:|`2q.pw`|
-|:white_check_mark:|`2r.pw`|
-|:white_check_mark:|`2s.pw`|
-|:white_check_mark:|`2t.pw`|
-|:white_check_mark:|`2u.pw`|
-|:white_check_mark:|`2v.pw`|
-|:white_check_mark:|`2w.pw`|
-|:white_check_mark:|`2x.pw`|
-|:white_check_mark:|`2y.pw`|
-|:white_check_mark:|`2z.pw`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`30.pw`|
 |:white_check_mark:|`31.pw`|
 |:white_check_mark:|`32.pw`|
-|:white_check_mark:|`33.pw`|
 |:white_check_mark:|`34.pw`|
 |:white_check_mark:|`35.pw`|
 |:white_check_mark:|`36.pw`|
 |:white_check_mark:|`37.pw`|
 |:white_check_mark:|`38.pw`|
-|:white_check_mark:|`39.pw`|
-|:white_check_mark:|`3a.pw`|
-|:white_check_mark:|`3b.pw`|
-|:white_check_mark:|`3c.pw`|
 |:white_check_mark:|`3d.pw`|
-|:white_check_mark:|`3e.pw`|
-|:white_check_mark:|`3f.pw`|
 |:white_check_mark:|`3g.pw`|
-|:white_check_mark:|`3i.pw`|
-|:white_check_mark:|`3j.pw`|
-|:white_check_mark:|`3k.pw`|
-|:white_check_mark:|`3l.pw`|
-|:white_check_mark:|`3m.pw`|
-|:white_check_mark:|`3n.pw`|
-|:white_check_mark:|`3o.pw`|
-|:white_check_mark:|`3p.pw`|
-|:white_check_mark:|`3q.pw`|
-|:white_check_mark:|`3r.pw`|
-|:white_check_mark:|`3s.pw`|
-|:white_check_mark:|`3t.pw`|
-|:white_check_mark:|`3u.pw`|
-|:white_check_mark:|`3v.pw`|
-|:white_check_mark:|`3w.pw`|
-|:white_check_mark:|`3x.pw`|
-|:white_check_mark:|`3y.pw`|
-|:white_check_mark:|`3z.pw`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>4</code></bold></summary>
+<summary>9 unregistered domains starting with <bold><code>4</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`40.pw`|
 |:white_check_mark:|`41.pw`|
-|:white_check_mark:|`42.pw`|
 |:white_check_mark:|`43.pw`|
-|:white_check_mark:|`44.pw`|
 |:white_check_mark:|`45.pw`|
 |:white_check_mark:|`46.pw`|
 |:white_check_mark:|`47.pw`|
 |:white_check_mark:|`48.pw`|
 |:white_check_mark:|`49.pw`|
-|:white_check_mark:|`4a.pw`|
-|:white_check_mark:|`4b.pw`|
-|:white_check_mark:|`4c.pw`|
 |:white_check_mark:|`4d.pw`|
-|:white_check_mark:|`4e.pw`|
-|:white_check_mark:|`4f.pw`|
 |:white_check_mark:|`4g.pw`|
-|:white_check_mark:|`4h.pw`|
-|:white_check_mark:|`4i.pw`|
-|:white_check_mark:|`4j.pw`|
-|:white_check_mark:|`4k.pw`|
-|:white_check_mark:|`4l.pw`|
-|:white_check_mark:|`4m.pw`|
-|:white_check_mark:|`4n.pw`|
-|:white_check_mark:|`4o.pw`|
-|:white_check_mark:|`4p.pw`|
-|:white_check_mark:|`4q.pw`|
-|:white_check_mark:|`4r.pw`|
-|:white_check_mark:|`4s.pw`|
-|:white_check_mark:|`4t.pw`|
-|:white_check_mark:|`4u.pw`|
-|:white_check_mark:|`4v.pw`|
-|:white_check_mark:|`4w.pw`|
-|:white_check_mark:|`4y.pw`|
-|:white_check_mark:|`4z.pw`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`50.pw`|
-|:white_check_mark:|`51.pw`|
-|:white_check_mark:|`52.pw`|
 |:white_check_mark:|`53.pw`|
 |:white_check_mark:|`54.pw`|
-|:white_check_mark:|`55.pw`|
 |:white_check_mark:|`57.pw`|
-|:white_check_mark:|`58.pw`|
-|:white_check_mark:|`5b.pw`|
-|:white_check_mark:|`5c.pw`|
 |:white_check_mark:|`5d.pw`|
-|:white_check_mark:|`5e.pw`|
-|:white_check_mark:|`5f.pw`|
 |:white_check_mark:|`5g.pw`|
-|:white_check_mark:|`5h.pw`|
-|:white_check_mark:|`5j.pw`|
-|:white_check_mark:|`5k.pw`|
-|:white_check_mark:|`5l.pw`|
-|:white_check_mark:|`5n.pw`|
-|:white_check_mark:|`5o.pw`|
-|:white_check_mark:|`5q.pw`|
-|:white_check_mark:|`5r.pw`|
-|:white_check_mark:|`5s.pw`|
-|:white_check_mark:|`5t.pw`|
-|:white_check_mark:|`5u.pw`|
-|:white_check_mark:|`5w.pw`|
-|:white_check_mark:|`5y.pw`|
-|:white_check_mark:|`5z.pw`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`60.pw`|
 |:white_check_mark:|`62.pw`|
 |:white_check_mark:|`63.pw`|
 |:white_check_mark:|`64.pw`|
 |:white_check_mark:|`65.pw`|
-|:white_check_mark:|`66.pw`|
-|:white_check_mark:|`67.pw`|
-|:white_check_mark:|`68.pw`|
-|:white_check_mark:|`69.pw`|
-|:white_check_mark:|`6a.pw`|
-|:white_check_mark:|`6b.pw`|
-|:white_check_mark:|`6c.pw`|
-|:white_check_mark:|`6d.pw`|
-|:white_check_mark:|`6f.pw`|
 |:white_check_mark:|`6g.pw`|
-|:white_check_mark:|`6i.pw`|
-|:white_check_mark:|`6k.pw`|
-|:white_check_mark:|`6l.pw`|
-|:white_check_mark:|`6m.pw`|
-|:white_check_mark:|`6n.pw`|
-|:white_check_mark:|`6p.pw`|
-|:white_check_mark:|`6q.pw`|
-|:white_check_mark:|`6r.pw`|
-|:white_check_mark:|`6s.pw`|
-|:white_check_mark:|`6t.pw`|
-|:white_check_mark:|`6u.pw`|
-|:white_check_mark:|`6v.pw`|
-|:white_check_mark:|`6w.pw`|
-|:white_check_mark:|`6x.pw`|
-|:white_check_mark:|`6y.pw`|
-|:white_check_mark:|`6z.pw`|
 </details>
 <details>
-<summary>29 unregistered domains starting with <bold><code>7</code></bold></summary>
+<summary>7 unregistered domains starting with <bold><code>7</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`70.pw`|
 |:white_check_mark:|`71.pw`|
 |:white_check_mark:|`72.pw`|
 |:white_check_mark:|`73.pw`|
 |:white_check_mark:|`74.pw`|
 |:white_check_mark:|`75.pw`|
 |:white_check_mark:|`76.pw`|
-|:white_check_mark:|`77.pw`|
-|:white_check_mark:|`79.pw`|
-|:white_check_mark:|`7a.pw`|
-|:white_check_mark:|`7b.pw`|
-|:white_check_mark:|`7d.pw`|
-|:white_check_mark:|`7e.pw`|
 |:white_check_mark:|`7g.pw`|
-|:white_check_mark:|`7h.pw`|
-|:white_check_mark:|`7j.pw`|
-|:white_check_mark:|`7k.pw`|
-|:white_check_mark:|`7l.pw`|
-|:white_check_mark:|`7m.pw`|
-|:white_check_mark:|`7n.pw`|
-|:white_check_mark:|`7o.pw`|
-|:white_check_mark:|`7p.pw`|
-|:white_check_mark:|`7q.pw`|
-|:white_check_mark:|`7r.pw`|
-|:white_check_mark:|`7s.pw`|
-|:white_check_mark:|`7t.pw`|
-|:white_check_mark:|`7u.pw`|
-|:white_check_mark:|`7v.pw`|
-|:white_check_mark:|`7x.pw`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`80.pw`|
-|:white_check_mark:|`81.pw`|
-|:white_check_mark:|`83.pw`|
 |:white_check_mark:|`84.pw`|
-|:white_check_mark:|`85.pw`|
-|:white_check_mark:|`86.pw`|
-|:white_check_mark:|`87.pw`|
-|:white_check_mark:|`88.pw`|
-|:white_check_mark:|`8a.pw`|
-|:white_check_mark:|`8b.pw`|
-|:white_check_mark:|`8c.pw`|
-|:white_check_mark:|`8d.pw`|
-|:white_check_mark:|`8e.pw`|
-|:white_check_mark:|`8f.pw`|
 |:white_check_mark:|`8g.pw`|
-|:white_check_mark:|`8h.pw`|
-|:white_check_mark:|`8i.pw`|
-|:white_check_mark:|`8l.pw`|
-|:white_check_mark:|`8m.pw`|
-|:white_check_mark:|`8p.pw`|
-|:white_check_mark:|`8q.pw`|
-|:white_check_mark:|`8r.pw`|
-|:white_check_mark:|`8x.pw`|
-|:white_check_mark:|`8y.pw`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>9</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>9</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`91.pw`|
-|:white_check_mark:|`92.pw`|
-|:white_check_mark:|`93.pw`|
 |:white_check_mark:|`94.pw`|
-|:white_check_mark:|`95.pw`|
-|:white_check_mark:|`97.pw`|
-|:white_check_mark:|`9b.pw`|
-|:white_check_mark:|`9d.pw`|
-|:white_check_mark:|`9f.pw`|
 |:white_check_mark:|`9g.pw`|
-|:white_check_mark:|`9h.pw`|
-|:white_check_mark:|`9i.pw`|
-|:white_check_mark:|`9j.pw`|
-|:white_check_mark:|`9k.pw`|
-|:white_check_mark:|`9m.pw`|
-|:white_check_mark:|`9o.pw`|
-|:white_check_mark:|`9q.pw`|
-|:white_check_mark:|`9z.pw`|
 </details>
 <details>
 <summary>35 unregistered domains starting with <bold><code>a</code></bold></summary>
@@ -544,20 +284,10 @@
 |:white_check_mark:|`ez.pw`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>25 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`f0.pw`|
-|:white_check_mark:|`f1.pw`|
-|:white_check_mark:|`f2.pw`|
-|:white_check_mark:|`f3.pw`|
-|:white_check_mark:|`f4.pw`|
-|:white_check_mark:|`f5.pw`|
-|:white_check_mark:|`f6.pw`|
-|:white_check_mark:|`f7.pw`|
-|:white_check_mark:|`f8.pw`|
-|:white_check_mark:|`f9.pw`|
 |:white_check_mark:|`fa.pw`|
 |:white_check_mark:|`fc.pw`|
 |:white_check_mark:|`fd.pw`|
@@ -585,12 +315,11 @@
 |:white_check_mark:|`fz.pw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`g0.pw`|
-|:white_check_mark:|`g1.pw`|
 |:white_check_mark:|`g2.pw`|
 |:white_check_mark:|`g3.pw`|
 |:white_check_mark:|`g4.pw`|
@@ -921,7 +650,7 @@
 |:white_check_mark:|`nz.pw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -951,7 +680,6 @@
 |:white_check_mark:|`on.pw`|
 |:white_check_mark:|`oo.pw`|
 |:white_check_mark:|`op.pw`|
-|:white_check_mark:|`oq.pw`|
 |:white_check_mark:|`or.pw`|
 |:white_check_mark:|`os.pw`|
 |:white_check_mark:|`ot.pw`|
@@ -1131,7 +859,7 @@
 |:white_check_mark:|`sz.pw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1141,7 +869,6 @@
 |:white_check_mark:|`t3.pw`|
 |:white_check_mark:|`t4.pw`|
 |:white_check_mark:|`t5.pw`|
-|:white_check_mark:|`t6.pw`|
 |:white_check_mark:|`t7.pw`|
 |:white_check_mark:|`t8.pw`|
 |:white_check_mark:|`t9.pw`|
@@ -1341,11 +1068,10 @@
 |:white_check_mark:|`xz.pw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`y0.pw`|
 |:white_check_mark:|`y1.pw`|
 |:white_check_mark:|`y2.pw`|
 |:white_check_mark:|`y3.pw`|
@@ -1383,20 +1109,11 @@
 |:white_check_mark:|`yz.pw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>z</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>z</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`z0.pw`|
-|:white_check_mark:|`z1.pw`|
-|:white_check_mark:|`z2.pw`|
-|:white_check_mark:|`z3.pw`|
 |:white_check_mark:|`z4.pw`|
-|:white_check_mark:|`z5.pw`|
-|:white_check_mark:|`z6.pw`|
-|:white_check_mark:|`z7.pw`|
-|:white_check_mark:|`z8.pw`|
-|:white_check_mark:|`z9.pw`|
 |:white_check_mark:|`za.pw`|
 |:white_check_mark:|`zb.pw`|
 |:white_check_mark:|`zc.pw`|
@@ -1413,14 +1130,7 @@
 |:white_check_mark:|`zn.pw`|
 |:white_check_mark:|`zo.pw`|
 |:white_check_mark:|`zp.pw`|
-|:white_check_mark:|`zq.pw`|
-|:white_check_mark:|`zr.pw`|
 |:white_check_mark:|`zs.pw`|
 |:white_check_mark:|`zt.pw`|
-|:white_check_mark:|`zu.pw`|
-|:white_check_mark:|`zv.pw`|
 |:white_check_mark:|`zw.pw`|
-|:white_check_mark:|`zx.pw`|
-|:white_check_mark:|`zy.pw`|
-|:white_check_mark:|`zz.pw`|
 </details>

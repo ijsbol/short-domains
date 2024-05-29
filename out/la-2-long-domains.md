@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.la`
 
-## Data last updated: 05/27/2024, 11:24:06
+## Data last updated: 05/29/2024, 12:13:27
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1266|
-|Unregistered domains|30|
+|Registered domains|1265|
+|Unregistered domains|31|
 |Premium domains|26|
 |Application only domains|0|
-|Registration rate|97.69%|
+|Registration rate|97.61%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -85,6 +85,13 @@
 |Type|Domain|
 |--|--|
 |:gem:|`ia.la`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>j</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`jn.la`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>k</code></bold></summary>

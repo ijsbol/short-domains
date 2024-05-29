@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.dk`
 
-## Data last updated: 05/27/2024, 11:36:59
+## Data last updated: 05/29/2024, 12:24:01
 
 |Stat|Amount|
 |--|--|

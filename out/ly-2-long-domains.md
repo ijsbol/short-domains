@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.ly`
 
-## Data last updated: 05/27/2024, 11:03:26
+## Data last updated: 05/29/2024, 11:53:13
 
 |Stat|Amount|
 |--|--|
-|Registered domains|83|
-|Unregistered domains|1213|
+|Registered domains|196|
+|Unregistered domains|1100|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|6.4%|
+|Registration rate|15.12%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -20,90 +20,6 @@
 |Application only|:writing_hand:|
 |Premium domain|:gem:|
 
-<details>
-<summary>36 unregistered domains starting with <bold><code>0</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`00.ly`|
-|:white_check_mark:|`01.ly`|
-|:white_check_mark:|`02.ly`|
-|:white_check_mark:|`03.ly`|
-|:white_check_mark:|`04.ly`|
-|:white_check_mark:|`05.ly`|
-|:white_check_mark:|`06.ly`|
-|:white_check_mark:|`07.ly`|
-|:white_check_mark:|`08.ly`|
-|:white_check_mark:|`09.ly`|
-|:white_check_mark:|`0a.ly`|
-|:white_check_mark:|`0b.ly`|
-|:white_check_mark:|`0c.ly`|
-|:white_check_mark:|`0d.ly`|
-|:white_check_mark:|`0e.ly`|
-|:white_check_mark:|`0f.ly`|
-|:white_check_mark:|`0g.ly`|
-|:white_check_mark:|`0h.ly`|
-|:white_check_mark:|`0i.ly`|
-|:white_check_mark:|`0j.ly`|
-|:white_check_mark:|`0k.ly`|
-|:white_check_mark:|`0l.ly`|
-|:white_check_mark:|`0m.ly`|
-|:white_check_mark:|`0n.ly`|
-|:white_check_mark:|`0o.ly`|
-|:white_check_mark:|`0p.ly`|
-|:white_check_mark:|`0q.ly`|
-|:white_check_mark:|`0r.ly`|
-|:white_check_mark:|`0s.ly`|
-|:white_check_mark:|`0t.ly`|
-|:white_check_mark:|`0u.ly`|
-|:white_check_mark:|`0v.ly`|
-|:white_check_mark:|`0w.ly`|
-|:white_check_mark:|`0x.ly`|
-|:white_check_mark:|`0y.ly`|
-|:white_check_mark:|`0z.ly`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>1</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`10.ly`|
-|:white_check_mark:|`11.ly`|
-|:white_check_mark:|`12.ly`|
-|:white_check_mark:|`13.ly`|
-|:white_check_mark:|`14.ly`|
-|:white_check_mark:|`15.ly`|
-|:white_check_mark:|`16.ly`|
-|:white_check_mark:|`17.ly`|
-|:white_check_mark:|`18.ly`|
-|:white_check_mark:|`19.ly`|
-|:white_check_mark:|`1a.ly`|
-|:white_check_mark:|`1b.ly`|
-|:white_check_mark:|`1c.ly`|
-|:white_check_mark:|`1d.ly`|
-|:white_check_mark:|`1e.ly`|
-|:white_check_mark:|`1f.ly`|
-|:white_check_mark:|`1g.ly`|
-|:white_check_mark:|`1h.ly`|
-|:white_check_mark:|`1i.ly`|
-|:white_check_mark:|`1j.ly`|
-|:white_check_mark:|`1k.ly`|
-|:white_check_mark:|`1l.ly`|
-|:white_check_mark:|`1m.ly`|
-|:white_check_mark:|`1n.ly`|
-|:white_check_mark:|`1o.ly`|
-|:white_check_mark:|`1p.ly`|
-|:white_check_mark:|`1q.ly`|
-|:white_check_mark:|`1r.ly`|
-|:white_check_mark:|`1s.ly`|
-|:white_check_mark:|`1t.ly`|
-|:white_check_mark:|`1u.ly`|
-|:white_check_mark:|`1v.ly`|
-|:white_check_mark:|`1w.ly`|
-|:white_check_mark:|`1x.ly`|
-|:white_check_mark:|`1y.ly`|
-|:white_check_mark:|`1z.ly`|
-</details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>2</code></bold></summary>
 
@@ -1354,7 +1270,7 @@
 |:white_check_mark:|`xz.ly`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1363,11 +1279,6 @@
 |:white_check_mark:|`y2.ly`|
 |:white_check_mark:|`y3.ly`|
 |:white_check_mark:|`y4.ly`|
-|:white_check_mark:|`y5.ly`|
-|:white_check_mark:|`y6.ly`|
-|:white_check_mark:|`y7.ly`|
-|:white_check_mark:|`y8.ly`|
-|:white_check_mark:|`y9.ly`|
 |:white_check_mark:|`ya.ly`|
 |:white_check_mark:|`yb.ly`|
 |:white_check_mark:|`yc.ly`|
@@ -1394,46 +1305,4 @@
 |:white_check_mark:|`yx.ly`|
 |:white_check_mark:|`yy.ly`|
 |:white_check_mark:|`yz.ly`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>z</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`z0.ly`|
-|:white_check_mark:|`z1.ly`|
-|:white_check_mark:|`z2.ly`|
-|:white_check_mark:|`z3.ly`|
-|:white_check_mark:|`z4.ly`|
-|:white_check_mark:|`z5.ly`|
-|:white_check_mark:|`z6.ly`|
-|:white_check_mark:|`z7.ly`|
-|:white_check_mark:|`z8.ly`|
-|:white_check_mark:|`z9.ly`|
-|:white_check_mark:|`za.ly`|
-|:white_check_mark:|`zb.ly`|
-|:white_check_mark:|`zc.ly`|
-|:white_check_mark:|`zd.ly`|
-|:white_check_mark:|`ze.ly`|
-|:white_check_mark:|`zf.ly`|
-|:white_check_mark:|`zg.ly`|
-|:white_check_mark:|`zh.ly`|
-|:white_check_mark:|`zi.ly`|
-|:white_check_mark:|`zj.ly`|
-|:white_check_mark:|`zk.ly`|
-|:white_check_mark:|`zl.ly`|
-|:white_check_mark:|`zm.ly`|
-|:white_check_mark:|`zn.ly`|
-|:white_check_mark:|`zo.ly`|
-|:white_check_mark:|`zp.ly`|
-|:white_check_mark:|`zq.ly`|
-|:white_check_mark:|`zr.ly`|
-|:white_check_mark:|`zs.ly`|
-|:white_check_mark:|`zt.ly`|
-|:white_check_mark:|`zu.ly`|
-|:white_check_mark:|`zv.ly`|
-|:white_check_mark:|`zw.ly`|
-|:white_check_mark:|`zx.ly`|
-|:white_check_mark:|`zy.ly`|
-|:white_check_mark:|`zz.ly`|
 </details>

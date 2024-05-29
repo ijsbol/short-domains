@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bj`
 
-## Data last updated: 05/27/2024, 11:05:50
+## Data last updated: 05/29/2024, 11:55:35
 
 |Stat|Amount|
 |--|--|
-|Registered domains|100|
-|Unregistered domains|1196|
+|Registered domains|200|
+|Unregistered domains|1096|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|7.72%|
+|Registration rate|15.43%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -1211,20 +1211,10 @@
 |:white_check_mark:|`uz.bj`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>9 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`v0.bj`|
-|:white_check_mark:|`v1.bj`|
-|:white_check_mark:|`v2.bj`|
-|:white_check_mark:|`v3.bj`|
-|:white_check_mark:|`v4.bj`|
-|:white_check_mark:|`v5.bj`|
-|:white_check_mark:|`v6.bj`|
-|:white_check_mark:|`v7.bj`|
-|:white_check_mark:|`v8.bj`|
-|:white_check_mark:|`v9.bj`|
 |:white_check_mark:|`va.bj`|
 |:white_check_mark:|`vb.bj`|
 |:white_check_mark:|`vc.bj`|
@@ -1234,110 +1224,9 @@
 |:white_check_mark:|`vg.bj`|
 |:white_check_mark:|`vh.bj`|
 |:white_check_mark:|`vi.bj`|
-|:white_check_mark:|`vj.bj`|
-|:white_check_mark:|`vk.bj`|
-|:white_check_mark:|`vl.bj`|
-|:white_check_mark:|`vm.bj`|
-|:white_check_mark:|`vn.bj`|
-|:white_check_mark:|`vo.bj`|
-|:white_check_mark:|`vp.bj`|
-|:white_check_mark:|`vq.bj`|
-|:white_check_mark:|`vr.bj`|
-|:white_check_mark:|`vs.bj`|
-|:white_check_mark:|`vt.bj`|
-|:white_check_mark:|`vu.bj`|
-|:white_check_mark:|`vv.bj`|
-|:white_check_mark:|`vw.bj`|
-|:white_check_mark:|`vx.bj`|
-|:white_check_mark:|`vy.bj`|
-|:white_check_mark:|`vz.bj`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>w</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`w0.bj`|
-|:white_check_mark:|`w1.bj`|
-|:white_check_mark:|`w2.bj`|
-|:white_check_mark:|`w3.bj`|
-|:white_check_mark:|`w4.bj`|
-|:white_check_mark:|`w5.bj`|
-|:white_check_mark:|`w6.bj`|
-|:white_check_mark:|`w7.bj`|
-|:white_check_mark:|`w8.bj`|
-|:white_check_mark:|`w9.bj`|
-|:white_check_mark:|`wa.bj`|
-|:white_check_mark:|`wb.bj`|
-|:white_check_mark:|`wc.bj`|
-|:white_check_mark:|`wd.bj`|
-|:white_check_mark:|`we.bj`|
-|:white_check_mark:|`wf.bj`|
-|:white_check_mark:|`wg.bj`|
-|:white_check_mark:|`wh.bj`|
-|:white_check_mark:|`wi.bj`|
-|:white_check_mark:|`wj.bj`|
-|:white_check_mark:|`wk.bj`|
-|:white_check_mark:|`wl.bj`|
-|:white_check_mark:|`wm.bj`|
-|:white_check_mark:|`wn.bj`|
-|:white_check_mark:|`wo.bj`|
-|:white_check_mark:|`wp.bj`|
-|:white_check_mark:|`wq.bj`|
-|:white_check_mark:|`wr.bj`|
-|:white_check_mark:|`ws.bj`|
-|:white_check_mark:|`wt.bj`|
-|:white_check_mark:|`wu.bj`|
-|:white_check_mark:|`wv.bj`|
-|:white_check_mark:|`ww.bj`|
-|:white_check_mark:|`wx.bj`|
-|:white_check_mark:|`wy.bj`|
-|:white_check_mark:|`wz.bj`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>x</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`x0.bj`|
-|:white_check_mark:|`x1.bj`|
-|:white_check_mark:|`x2.bj`|
-|:white_check_mark:|`x3.bj`|
-|:white_check_mark:|`x4.bj`|
-|:white_check_mark:|`x5.bj`|
-|:white_check_mark:|`x6.bj`|
-|:white_check_mark:|`x7.bj`|
-|:white_check_mark:|`x8.bj`|
-|:white_check_mark:|`x9.bj`|
-|:white_check_mark:|`xa.bj`|
-|:white_check_mark:|`xb.bj`|
-|:white_check_mark:|`xc.bj`|
-|:white_check_mark:|`xd.bj`|
-|:white_check_mark:|`xe.bj`|
-|:white_check_mark:|`xf.bj`|
-|:white_check_mark:|`xg.bj`|
-|:white_check_mark:|`xh.bj`|
-|:white_check_mark:|`xi.bj`|
-|:white_check_mark:|`xj.bj`|
-|:white_check_mark:|`xk.bj`|
-|:white_check_mark:|`xl.bj`|
-|:white_check_mark:|`xm.bj`|
-|:white_check_mark:|`xn.bj`|
-|:white_check_mark:|`xo.bj`|
-|:white_check_mark:|`xp.bj`|
-|:white_check_mark:|`xq.bj`|
-|:white_check_mark:|`xr.bj`|
-|:white_check_mark:|`xs.bj`|
-|:white_check_mark:|`xt.bj`|
-|:white_check_mark:|`xu.bj`|
-|:white_check_mark:|`xv.bj`|
-|:white_check_mark:|`xw.bj`|
-|:white_check_mark:|`xx.bj`|
-|:white_check_mark:|`xy.bj`|
-|:white_check_mark:|`xz.bj`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1351,7 +1240,6 @@
 |:white_check_mark:|`y7.bj`|
 |:white_check_mark:|`y8.bj`|
 |:white_check_mark:|`y9.bj`|
-|:white_check_mark:|`ya.bj`|
 |:white_check_mark:|`yb.bj`|
 |:white_check_mark:|`yc.bj`|
 |:white_check_mark:|`yd.bj`|

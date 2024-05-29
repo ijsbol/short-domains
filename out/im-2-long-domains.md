@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.im`
 
-## Data last updated: 05/27/2024, 11:04:10
+## Data last updated: 05/29/2024, 11:38:55
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1294|
+|Registered domains|1019|
 |Unregistered domains|2|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|99.85%|
+|Registration rate|99.8%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|1021|
 |Lookup success rate|100%|
 
 
@@ -21,16 +21,16 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>1 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`fu.im`|
+|:white_check_mark:|`g5.im`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`le.im`|
+|:white_check_mark:|`p9.im`|
 </details>

@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.fj`
 
-## Data last updated: 05/27/2024, 11:32:52
+## Data last updated: 05/29/2024, 12:11:36
 
 |Stat|Amount|
 |--|--|
-|Registered domains|10|
-|Unregistered domains|1286|
+|Registered domains|20|
+|Unregistered domains|1276|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.77%|
+|Registration rate|1.54%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -851,20 +851,10 @@
 |:white_check_mark:|`jz.fj`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`k0.fj`|
-|:white_check_mark:|`k1.fj`|
-|:white_check_mark:|`k2.fj`|
-|:white_check_mark:|`k3.fj`|
-|:white_check_mark:|`k4.fj`|
-|:white_check_mark:|`k5.fj`|
-|:white_check_mark:|`k6.fj`|
-|:white_check_mark:|`k7.fj`|
-|:white_check_mark:|`k8.fj`|
-|:white_check_mark:|`k9.fj`|
 |:white_check_mark:|`ka.fj`|
 |:white_check_mark:|`kb.fj`|
 |:white_check_mark:|`kc.fj`|

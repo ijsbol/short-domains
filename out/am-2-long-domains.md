@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.am`
 
-## Data last updated: 05/27/2024, 11:03:15
+## Data last updated: 05/29/2024, 11:53:02
 
 |Stat|Amount|
 |--|--|
-|Registered domains|62|
-|Unregistered domains|1234|
+|Registered domains|113|
+|Unregistered domains|1183|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|4.78%|
+|Registration rate|8.72%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,20 +21,10 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>36 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`00.am`|
-|:white_check_mark:|`01.am`|
-|:white_check_mark:|`02.am`|
-|:white_check_mark:|`03.am`|
-|:white_check_mark:|`04.am`|
-|:white_check_mark:|`05.am`|
-|:white_check_mark:|`06.am`|
-|:white_check_mark:|`07.am`|
-|:white_check_mark:|`08.am`|
-|:white_check_mark:|`09.am`|
 |:white_check_mark:|`0a.am`|
 |:white_check_mark:|`0b.am`|
 |:white_check_mark:|`0c.am`|
@@ -45,67 +35,27 @@
 |:white_check_mark:|`0h.am`|
 |:white_check_mark:|`0i.am`|
 |:white_check_mark:|`0j.am`|
-|:white_check_mark:|`0k.am`|
 |:white_check_mark:|`0l.am`|
 |:white_check_mark:|`0m.am`|
 |:white_check_mark:|`0n.am`|
-|:white_check_mark:|`0o.am`|
 |:white_check_mark:|`0p.am`|
 |:white_check_mark:|`0q.am`|
-|:white_check_mark:|`0r.am`|
 |:white_check_mark:|`0s.am`|
-|:white_check_mark:|`0t.am`|
 |:white_check_mark:|`0u.am`|
 |:white_check_mark:|`0v.am`|
 |:white_check_mark:|`0w.am`|
-|:white_check_mark:|`0x.am`|
 |:white_check_mark:|`0y.am`|
 |:white_check_mark:|`0z.am`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`10.am`|
-|:white_check_mark:|`11.am`|
-|:white_check_mark:|`12.am`|
-|:white_check_mark:|`13.am`|
-|:white_check_mark:|`14.am`|
-|:white_check_mark:|`15.am`|
-|:white_check_mark:|`16.am`|
-|:white_check_mark:|`17.am`|
-|:white_check_mark:|`18.am`|
-|:white_check_mark:|`19.am`|
 |:white_check_mark:|`1a.am`|
-|:white_check_mark:|`1b.am`|
-|:white_check_mark:|`1c.am`|
-|:white_check_mark:|`1d.am`|
-|:white_check_mark:|`1e.am`|
-|:white_check_mark:|`1f.am`|
-|:white_check_mark:|`1g.am`|
-|:white_check_mark:|`1h.am`|
-|:white_check_mark:|`1i.am`|
-|:white_check_mark:|`1j.am`|
-|:white_check_mark:|`1k.am`|
-|:white_check_mark:|`1l.am`|
-|:white_check_mark:|`1m.am`|
-|:white_check_mark:|`1n.am`|
-|:white_check_mark:|`1o.am`|
-|:white_check_mark:|`1p.am`|
-|:white_check_mark:|`1q.am`|
-|:white_check_mark:|`1r.am`|
-|:white_check_mark:|`1s.am`|
-|:white_check_mark:|`1t.am`|
-|:white_check_mark:|`1u.am`|
-|:white_check_mark:|`1v.am`|
-|:white_check_mark:|`1w.am`|
-|:white_check_mark:|`1x.am`|
-|:white_check_mark:|`1y.am`|
-|:white_check_mark:|`1z.am`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -119,7 +69,6 @@
 |:white_check_mark:|`27.am`|
 |:white_check_mark:|`28.am`|
 |:white_check_mark:|`29.am`|
-|:white_check_mark:|`2a.am`|
 |:white_check_mark:|`2b.am`|
 |:white_check_mark:|`2c.am`|
 |:white_check_mark:|`2d.am`|

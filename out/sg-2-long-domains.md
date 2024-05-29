@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.sg`
 
-## Data last updated: 05/27/2024, 11:08:40
+## Data last updated: 05/29/2024, 11:57:15
 
 |Stat|Amount|
 |--|--|

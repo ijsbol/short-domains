@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.aw`
 
-## Data last updated: 05/27/2024, 11:14:34
+## Data last updated: 05/29/2024, 12:03:41
 
 |Stat|Amount|
 |--|--|
-|Registered domains|7|
-|Unregistered domains|1289|
+|Registered domains|5|
+|Unregistered domains|1291|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.54%|
+|Registration rate|0.39%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,7 +441,7 @@
 |:white_check_mark:|`9z.aw`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -459,6 +459,7 @@
 |:white_check_mark:|`ab.aw`|
 |:white_check_mark:|`ac.aw`|
 |:white_check_mark:|`ad.aw`|
+|:white_check_mark:|`ae.aw`|
 |:white_check_mark:|`af.aw`|
 |:white_check_mark:|`ag.aw`|
 |:white_check_mark:|`ah.aw`|
@@ -564,7 +565,7 @@
 |:white_check_mark:|`cz.aw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -595,7 +596,6 @@
 |:white_check_mark:|`do.aw`|
 |:white_check_mark:|`dp.aw`|
 |:white_check_mark:|`dq.aw`|
-|:white_check_mark:|`dr.aw`|
 |:white_check_mark:|`ds.aw`|
 |:white_check_mark:|`dt.aw`|
 |:white_check_mark:|`du.aw`|
@@ -606,7 +606,7 @@
 |:white_check_mark:|`dz.aw`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -620,6 +620,7 @@
 |:white_check_mark:|`e7.aw`|
 |:white_check_mark:|`e8.aw`|
 |:white_check_mark:|`e9.aw`|
+|:white_check_mark:|`ea.aw`|
 |:white_check_mark:|`eb.aw`|
 |:white_check_mark:|`ec.aw`|
 |:white_check_mark:|`ed.aw`|
@@ -647,7 +648,7 @@
 |:white_check_mark:|`ez.aw`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -672,6 +673,7 @@
 |:white_check_mark:|`fi.aw`|
 |:white_check_mark:|`fj.aw`|
 |:white_check_mark:|`fk.aw`|
+|:white_check_mark:|`fl.aw`|
 |:white_check_mark:|`fm.aw`|
 |:white_check_mark:|`fn.aw`|
 |:white_check_mark:|`fo.aw`|
@@ -982,7 +984,7 @@
 |:white_check_mark:|`mz.aw`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1007,6 +1009,7 @@
 |:white_check_mark:|`ni.aw`|
 |:white_check_mark:|`nj.aw`|
 |:white_check_mark:|`nk.aw`|
+|:white_check_mark:|`nl.aw`|
 |:white_check_mark:|`nm.aw`|
 |:white_check_mark:|`nn.aw`|
 |:white_check_mark:|`no.aw`|
@@ -1212,13 +1215,13 @@
 |:white_check_mark:|`se.aw`|
 |:white_check_mark:|`sf.aw`|
 |:white_check_mark:|`sg.aw`|
-|:white_check_mark:|`sh.aw`|
 |:white_check_mark:|`si.aw`|
 |:white_check_mark:|`sj.aw`|
 |:white_check_mark:|`sk.aw`|
 |:white_check_mark:|`sl.aw`|
 |:white_check_mark:|`sm.aw`|
 |:white_check_mark:|`sn.aw`|
+|:white_check_mark:|`so.aw`|
 |:white_check_mark:|`sp.aw`|
 |:white_check_mark:|`sq.aw`|
 |:white_check_mark:|`sr.aw`|
@@ -1232,7 +1235,7 @@
 |:white_check_mark:|`sz.aw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1254,7 +1257,6 @@
 |:white_check_mark:|`tf.aw`|
 |:white_check_mark:|`tg.aw`|
 |:white_check_mark:|`th.aw`|
-|:white_check_mark:|`ti.aw`|
 |:white_check_mark:|`tj.aw`|
 |:white_check_mark:|`tk.aw`|
 |:white_check_mark:|`tl.aw`|

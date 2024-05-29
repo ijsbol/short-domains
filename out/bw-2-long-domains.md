@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bw`
 
-## Data last updated: 05/27/2024, 11:01:44
+## Data last updated: 05/29/2024, 11:50:35
 
 |Stat|Amount|
 |--|--|
-|Registered domains|60|
-|Unregistered domains|1236|
+|Registered domains|97|
+|Unregistered domains|1199|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|4.63%|
+|Registration rate|7.48%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -357,7 +357,7 @@
 |:white_check_mark:|`7z.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -370,7 +370,6 @@
 |:white_check_mark:|`86.bw`|
 |:white_check_mark:|`87.bw`|
 |:white_check_mark:|`88.bw`|
-|:white_check_mark:|`89.bw`|
 |:white_check_mark:|`8a.bw`|
 |:white_check_mark:|`8b.bw`|
 |:white_check_mark:|`8c.bw`|
@@ -397,48 +396,6 @@
 |:white_check_mark:|`8x.bw`|
 |:white_check_mark:|`8y.bw`|
 |:white_check_mark:|`8z.bw`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`90.bw`|
-|:white_check_mark:|`91.bw`|
-|:white_check_mark:|`92.bw`|
-|:white_check_mark:|`93.bw`|
-|:white_check_mark:|`94.bw`|
-|:white_check_mark:|`95.bw`|
-|:white_check_mark:|`96.bw`|
-|:white_check_mark:|`97.bw`|
-|:white_check_mark:|`98.bw`|
-|:white_check_mark:|`99.bw`|
-|:white_check_mark:|`9a.bw`|
-|:white_check_mark:|`9b.bw`|
-|:white_check_mark:|`9c.bw`|
-|:white_check_mark:|`9d.bw`|
-|:white_check_mark:|`9e.bw`|
-|:white_check_mark:|`9f.bw`|
-|:white_check_mark:|`9g.bw`|
-|:white_check_mark:|`9h.bw`|
-|:white_check_mark:|`9i.bw`|
-|:white_check_mark:|`9j.bw`|
-|:white_check_mark:|`9k.bw`|
-|:white_check_mark:|`9l.bw`|
-|:white_check_mark:|`9m.bw`|
-|:white_check_mark:|`9n.bw`|
-|:white_check_mark:|`9o.bw`|
-|:white_check_mark:|`9p.bw`|
-|:white_check_mark:|`9q.bw`|
-|:white_check_mark:|`9r.bw`|
-|:white_check_mark:|`9s.bw`|
-|:white_check_mark:|`9t.bw`|
-|:white_check_mark:|`9u.bw`|
-|:white_check_mark:|`9v.bw`|
-|:white_check_mark:|`9w.bw`|
-|:white_check_mark:|`9x.bw`|
-|:white_check_mark:|`9y.bw`|
-|:white_check_mark:|`9z.bw`|
 </details>
 <details>
 <summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>

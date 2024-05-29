@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.dz`
 
-## Data last updated: 05/27/2024, 11:34:56
+## Data last updated: 05/29/2024, 12:56:24
 
 |Stat|Amount|
 |--|--|
 |Registered domains|0|
-|Unregistered domains|241|
+|Unregistered domains|371|
 |Premium domains|0|
 |Application only domains|0|
 |Registration rate|0.0%|
 |Failed lookups|0|
-|Successful lookups|241|
+|Successful lookups|371|
 |Lookup success rate|100%|
 
 
@@ -273,10 +273,20 @@
 |:white_check_mark:|`fz.dz`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`g0.dz`|
+|:white_check_mark:|`g1.dz`|
+|:white_check_mark:|`g2.dz`|
+|:white_check_mark:|`g3.dz`|
+|:white_check_mark:|`g4.dz`|
+|:white_check_mark:|`g5.dz`|
+|:white_check_mark:|`g6.dz`|
+|:white_check_mark:|`g7.dz`|
+|:white_check_mark:|`g8.dz`|
+|:white_check_mark:|`g9.dz`|
 |:white_check_mark:|`ga.dz`|
 |:white_check_mark:|`gb.dz`|
 |:white_check_mark:|`gc.dz`|
@@ -302,4 +312,148 @@
 |:white_check_mark:|`gw.dz`|
 |:white_check_mark:|`gx.dz`|
 |:white_check_mark:|`gy.dz`|
+|:white_check_mark:|`gz.dz`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>h</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`h0.dz`|
+|:white_check_mark:|`h1.dz`|
+|:white_check_mark:|`h2.dz`|
+|:white_check_mark:|`h3.dz`|
+|:white_check_mark:|`h4.dz`|
+|:white_check_mark:|`h5.dz`|
+|:white_check_mark:|`h6.dz`|
+|:white_check_mark:|`h7.dz`|
+|:white_check_mark:|`h8.dz`|
+|:white_check_mark:|`h9.dz`|
+|:white_check_mark:|`ha.dz`|
+|:white_check_mark:|`hb.dz`|
+|:white_check_mark:|`hc.dz`|
+|:white_check_mark:|`hd.dz`|
+|:white_check_mark:|`he.dz`|
+|:white_check_mark:|`hf.dz`|
+|:white_check_mark:|`hg.dz`|
+|:white_check_mark:|`hh.dz`|
+|:white_check_mark:|`hi.dz`|
+|:white_check_mark:|`hj.dz`|
+|:white_check_mark:|`hk.dz`|
+|:white_check_mark:|`hl.dz`|
+|:white_check_mark:|`hm.dz`|
+|:white_check_mark:|`hn.dz`|
+|:white_check_mark:|`ho.dz`|
+|:white_check_mark:|`hp.dz`|
+|:white_check_mark:|`hq.dz`|
+|:white_check_mark:|`hr.dz`|
+|:white_check_mark:|`hs.dz`|
+|:white_check_mark:|`ht.dz`|
+|:white_check_mark:|`hu.dz`|
+|:white_check_mark:|`hv.dz`|
+|:white_check_mark:|`hw.dz`|
+|:white_check_mark:|`hx.dz`|
+|:white_check_mark:|`hy.dz`|
+|:white_check_mark:|`hz.dz`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`i0.dz`|
+|:white_check_mark:|`i1.dz`|
+|:white_check_mark:|`i2.dz`|
+|:white_check_mark:|`i3.dz`|
+|:white_check_mark:|`i4.dz`|
+|:white_check_mark:|`i5.dz`|
+|:white_check_mark:|`i6.dz`|
+|:white_check_mark:|`i7.dz`|
+|:white_check_mark:|`i8.dz`|
+|:white_check_mark:|`i9.dz`|
+|:white_check_mark:|`ia.dz`|
+|:white_check_mark:|`ib.dz`|
+|:white_check_mark:|`ic.dz`|
+|:white_check_mark:|`id.dz`|
+|:white_check_mark:|`ie.dz`|
+|:white_check_mark:|`if.dz`|
+|:white_check_mark:|`ig.dz`|
+|:white_check_mark:|`ih.dz`|
+|:white_check_mark:|`ii.dz`|
+|:white_check_mark:|`ij.dz`|
+|:white_check_mark:|`ik.dz`|
+|:white_check_mark:|`il.dz`|
+|:white_check_mark:|`im.dz`|
+|:white_check_mark:|`in.dz`|
+|:white_check_mark:|`io.dz`|
+|:white_check_mark:|`ip.dz`|
+|:white_check_mark:|`iq.dz`|
+|:white_check_mark:|`ir.dz`|
+|:white_check_mark:|`is.dz`|
+|:white_check_mark:|`it.dz`|
+|:white_check_mark:|`iu.dz`|
+|:white_check_mark:|`iv.dz`|
+|:white_check_mark:|`iw.dz`|
+|:white_check_mark:|`ix.dz`|
+|:white_check_mark:|`iy.dz`|
+|:white_check_mark:|`iz.dz`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>j</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`j0.dz`|
+|:white_check_mark:|`j1.dz`|
+|:white_check_mark:|`j2.dz`|
+|:white_check_mark:|`j3.dz`|
+|:white_check_mark:|`j4.dz`|
+|:white_check_mark:|`j5.dz`|
+|:white_check_mark:|`j6.dz`|
+|:white_check_mark:|`j7.dz`|
+|:white_check_mark:|`j8.dz`|
+|:white_check_mark:|`j9.dz`|
+|:white_check_mark:|`ja.dz`|
+|:white_check_mark:|`jb.dz`|
+|:white_check_mark:|`jc.dz`|
+|:white_check_mark:|`jd.dz`|
+|:white_check_mark:|`je.dz`|
+|:white_check_mark:|`jf.dz`|
+|:white_check_mark:|`jg.dz`|
+|:white_check_mark:|`jh.dz`|
+|:white_check_mark:|`ji.dz`|
+|:white_check_mark:|`jj.dz`|
+|:white_check_mark:|`jk.dz`|
+|:white_check_mark:|`jl.dz`|
+|:white_check_mark:|`jm.dz`|
+|:white_check_mark:|`jn.dz`|
+|:white_check_mark:|`jo.dz`|
+|:white_check_mark:|`jp.dz`|
+|:white_check_mark:|`jq.dz`|
+|:white_check_mark:|`jr.dz`|
+|:white_check_mark:|`js.dz`|
+|:white_check_mark:|`jt.dz`|
+|:white_check_mark:|`ju.dz`|
+|:white_check_mark:|`jv.dz`|
+|:white_check_mark:|`jw.dz`|
+|:white_check_mark:|`jx.dz`|
+|:white_check_mark:|`jy.dz`|
+|:white_check_mark:|`jz.dz`|
+</details>
+<details>
+<summary>11 unregistered domains starting with <bold><code>k</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`ka.dz`|
+|:white_check_mark:|`kb.dz`|
+|:white_check_mark:|`kc.dz`|
+|:white_check_mark:|`kd.dz`|
+|:white_check_mark:|`ke.dz`|
+|:white_check_mark:|`kf.dz`|
+|:white_check_mark:|`kg.dz`|
+|:white_check_mark:|`kh.dz`|
+|:white_check_mark:|`ki.dz`|
+|:white_check_mark:|`kj.dz`|
+|:white_check_mark:|`kk.dz`|
 </details>

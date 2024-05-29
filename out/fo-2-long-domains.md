@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.fo`
 
-## Data last updated: 05/27/2024, 11:01:50
+## Data last updated: 05/29/2024, 11:38:53
 
 |Stat|Amount|
 |--|--|
-|Registered domains|223|
-|Unregistered domains|1073|
+|Registered domains|188|
+|Unregistered domains|753|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|17.21%|
+|Registration rate|19.98%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|941|
 |Lookup success rate|100%|
 
 
@@ -21,419 +21,15 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>36 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`00.fo`|
-|:white_check_mark:|`01.fo`|
-|:white_check_mark:|`02.fo`|
-|:white_check_mark:|`03.fo`|
-|:white_check_mark:|`04.fo`|
-|:white_check_mark:|`05.fo`|
-|:white_check_mark:|`06.fo`|
-|:white_check_mark:|`07.fo`|
-|:white_check_mark:|`08.fo`|
-|:white_check_mark:|`09.fo`|
 |:white_check_mark:|`0a.fo`|
 |:white_check_mark:|`0b.fo`|
 |:white_check_mark:|`0c.fo`|
 |:white_check_mark:|`0d.fo`|
 |:white_check_mark:|`0e.fo`|
-|:white_check_mark:|`0f.fo`|
-|:white_check_mark:|`0g.fo`|
-|:white_check_mark:|`0h.fo`|
-|:white_check_mark:|`0i.fo`|
-|:white_check_mark:|`0j.fo`|
-|:white_check_mark:|`0k.fo`|
-|:white_check_mark:|`0l.fo`|
-|:white_check_mark:|`0m.fo`|
-|:white_check_mark:|`0n.fo`|
-|:white_check_mark:|`0o.fo`|
-|:white_check_mark:|`0p.fo`|
-|:white_check_mark:|`0q.fo`|
-|:white_check_mark:|`0r.fo`|
-|:white_check_mark:|`0s.fo`|
-|:white_check_mark:|`0t.fo`|
-|:white_check_mark:|`0u.fo`|
-|:white_check_mark:|`0v.fo`|
-|:white_check_mark:|`0w.fo`|
-|:white_check_mark:|`0x.fo`|
-|:white_check_mark:|`0y.fo`|
-|:white_check_mark:|`0z.fo`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>1</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`10.fo`|
-|:white_check_mark:|`11.fo`|
-|:white_check_mark:|`12.fo`|
-|:white_check_mark:|`13.fo`|
-|:white_check_mark:|`14.fo`|
-|:white_check_mark:|`15.fo`|
-|:white_check_mark:|`16.fo`|
-|:white_check_mark:|`17.fo`|
-|:white_check_mark:|`18.fo`|
-|:white_check_mark:|`19.fo`|
-|:white_check_mark:|`1a.fo`|
-|:white_check_mark:|`1b.fo`|
-|:white_check_mark:|`1c.fo`|
-|:white_check_mark:|`1d.fo`|
-|:white_check_mark:|`1e.fo`|
-|:white_check_mark:|`1f.fo`|
-|:white_check_mark:|`1g.fo`|
-|:white_check_mark:|`1h.fo`|
-|:white_check_mark:|`1i.fo`|
-|:white_check_mark:|`1j.fo`|
-|:white_check_mark:|`1k.fo`|
-|:white_check_mark:|`1l.fo`|
-|:white_check_mark:|`1m.fo`|
-|:white_check_mark:|`1n.fo`|
-|:white_check_mark:|`1o.fo`|
-|:white_check_mark:|`1p.fo`|
-|:white_check_mark:|`1q.fo`|
-|:white_check_mark:|`1r.fo`|
-|:white_check_mark:|`1s.fo`|
-|:white_check_mark:|`1t.fo`|
-|:white_check_mark:|`1u.fo`|
-|:white_check_mark:|`1v.fo`|
-|:white_check_mark:|`1w.fo`|
-|:white_check_mark:|`1x.fo`|
-|:white_check_mark:|`1y.fo`|
-|:white_check_mark:|`1z.fo`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>2</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`20.fo`|
-|:white_check_mark:|`21.fo`|
-|:white_check_mark:|`22.fo`|
-|:white_check_mark:|`23.fo`|
-|:white_check_mark:|`24.fo`|
-|:white_check_mark:|`25.fo`|
-|:white_check_mark:|`26.fo`|
-|:white_check_mark:|`27.fo`|
-|:white_check_mark:|`28.fo`|
-|:white_check_mark:|`29.fo`|
-|:white_check_mark:|`2a.fo`|
-|:white_check_mark:|`2b.fo`|
-|:white_check_mark:|`2c.fo`|
-|:white_check_mark:|`2d.fo`|
-|:white_check_mark:|`2e.fo`|
-|:white_check_mark:|`2f.fo`|
-|:white_check_mark:|`2g.fo`|
-|:white_check_mark:|`2h.fo`|
-|:white_check_mark:|`2i.fo`|
-|:white_check_mark:|`2j.fo`|
-|:white_check_mark:|`2k.fo`|
-|:white_check_mark:|`2l.fo`|
-|:white_check_mark:|`2m.fo`|
-|:white_check_mark:|`2n.fo`|
-|:white_check_mark:|`2o.fo`|
-|:white_check_mark:|`2p.fo`|
-|:white_check_mark:|`2q.fo`|
-|:white_check_mark:|`2r.fo`|
-|:white_check_mark:|`2s.fo`|
-|:white_check_mark:|`2t.fo`|
-|:white_check_mark:|`2u.fo`|
-|:white_check_mark:|`2v.fo`|
-|:white_check_mark:|`2w.fo`|
-|:white_check_mark:|`2x.fo`|
-|:white_check_mark:|`2y.fo`|
-|:white_check_mark:|`2z.fo`|
-</details>
-<details>
-<summary>33 unregistered domains starting with <bold><code>3</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`30.fo`|
-|:white_check_mark:|`31.fo`|
-|:white_check_mark:|`32.fo`|
-|:white_check_mark:|`33.fo`|
-|:white_check_mark:|`34.fo`|
-|:white_check_mark:|`35.fo`|
-|:white_check_mark:|`37.fo`|
-|:white_check_mark:|`39.fo`|
-|:white_check_mark:|`3a.fo`|
-|:white_check_mark:|`3b.fo`|
-|:white_check_mark:|`3c.fo`|
-|:white_check_mark:|`3e.fo`|
-|:white_check_mark:|`3f.fo`|
-|:white_check_mark:|`3g.fo`|
-|:white_check_mark:|`3h.fo`|
-|:white_check_mark:|`3i.fo`|
-|:white_check_mark:|`3j.fo`|
-|:white_check_mark:|`3k.fo`|
-|:white_check_mark:|`3l.fo`|
-|:white_check_mark:|`3m.fo`|
-|:white_check_mark:|`3n.fo`|
-|:white_check_mark:|`3o.fo`|
-|:white_check_mark:|`3p.fo`|
-|:white_check_mark:|`3q.fo`|
-|:white_check_mark:|`3r.fo`|
-|:white_check_mark:|`3s.fo`|
-|:white_check_mark:|`3t.fo`|
-|:white_check_mark:|`3u.fo`|
-|:white_check_mark:|`3v.fo`|
-|:white_check_mark:|`3w.fo`|
-|:white_check_mark:|`3x.fo`|
-|:white_check_mark:|`3y.fo`|
-|:white_check_mark:|`3z.fo`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>4</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`40.fo`|
-|:white_check_mark:|`41.fo`|
-|:white_check_mark:|`42.fo`|
-|:white_check_mark:|`43.fo`|
-|:white_check_mark:|`44.fo`|
-|:white_check_mark:|`45.fo`|
-|:white_check_mark:|`46.fo`|
-|:white_check_mark:|`47.fo`|
-|:white_check_mark:|`48.fo`|
-|:white_check_mark:|`49.fo`|
-|:white_check_mark:|`4a.fo`|
-|:white_check_mark:|`4b.fo`|
-|:white_check_mark:|`4c.fo`|
-|:white_check_mark:|`4d.fo`|
-|:white_check_mark:|`4e.fo`|
-|:white_check_mark:|`4f.fo`|
-|:white_check_mark:|`4g.fo`|
-|:white_check_mark:|`4h.fo`|
-|:white_check_mark:|`4i.fo`|
-|:white_check_mark:|`4j.fo`|
-|:white_check_mark:|`4k.fo`|
-|:white_check_mark:|`4l.fo`|
-|:white_check_mark:|`4m.fo`|
-|:white_check_mark:|`4n.fo`|
-|:white_check_mark:|`4o.fo`|
-|:white_check_mark:|`4p.fo`|
-|:white_check_mark:|`4q.fo`|
-|:white_check_mark:|`4r.fo`|
-|:white_check_mark:|`4s.fo`|
-|:white_check_mark:|`4t.fo`|
-|:white_check_mark:|`4u.fo`|
-|:white_check_mark:|`4v.fo`|
-|:white_check_mark:|`4w.fo`|
-|:white_check_mark:|`4x.fo`|
-|:white_check_mark:|`4y.fo`|
-|:white_check_mark:|`4z.fo`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>5</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`50.fo`|
-|:white_check_mark:|`51.fo`|
-|:white_check_mark:|`52.fo`|
-|:white_check_mark:|`53.fo`|
-|:white_check_mark:|`54.fo`|
-|:white_check_mark:|`55.fo`|
-|:white_check_mark:|`56.fo`|
-|:white_check_mark:|`57.fo`|
-|:white_check_mark:|`58.fo`|
-|:white_check_mark:|`59.fo`|
-|:white_check_mark:|`5a.fo`|
-|:white_check_mark:|`5b.fo`|
-|:white_check_mark:|`5c.fo`|
-|:white_check_mark:|`5d.fo`|
-|:white_check_mark:|`5e.fo`|
-|:white_check_mark:|`5f.fo`|
-|:white_check_mark:|`5g.fo`|
-|:white_check_mark:|`5h.fo`|
-|:white_check_mark:|`5i.fo`|
-|:white_check_mark:|`5j.fo`|
-|:white_check_mark:|`5k.fo`|
-|:white_check_mark:|`5l.fo`|
-|:white_check_mark:|`5m.fo`|
-|:white_check_mark:|`5n.fo`|
-|:white_check_mark:|`5o.fo`|
-|:white_check_mark:|`5p.fo`|
-|:white_check_mark:|`5q.fo`|
-|:white_check_mark:|`5r.fo`|
-|:white_check_mark:|`5s.fo`|
-|:white_check_mark:|`5t.fo`|
-|:white_check_mark:|`5u.fo`|
-|:white_check_mark:|`5v.fo`|
-|:white_check_mark:|`5w.fo`|
-|:white_check_mark:|`5x.fo`|
-|:white_check_mark:|`5y.fo`|
-|:white_check_mark:|`5z.fo`|
-</details>
-<details>
-<summary>35 unregistered domains starting with <bold><code>6</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`60.fo`|
-|:white_check_mark:|`61.fo`|
-|:white_check_mark:|`62.fo`|
-|:white_check_mark:|`63.fo`|
-|:white_check_mark:|`64.fo`|
-|:white_check_mark:|`65.fo`|
-|:white_check_mark:|`66.fo`|
-|:white_check_mark:|`67.fo`|
-|:white_check_mark:|`68.fo`|
-|:white_check_mark:|`6a.fo`|
-|:white_check_mark:|`6b.fo`|
-|:white_check_mark:|`6c.fo`|
-|:white_check_mark:|`6d.fo`|
-|:white_check_mark:|`6e.fo`|
-|:white_check_mark:|`6f.fo`|
-|:white_check_mark:|`6g.fo`|
-|:white_check_mark:|`6h.fo`|
-|:white_check_mark:|`6i.fo`|
-|:white_check_mark:|`6j.fo`|
-|:white_check_mark:|`6k.fo`|
-|:white_check_mark:|`6l.fo`|
-|:white_check_mark:|`6m.fo`|
-|:white_check_mark:|`6n.fo`|
-|:white_check_mark:|`6o.fo`|
-|:white_check_mark:|`6p.fo`|
-|:white_check_mark:|`6q.fo`|
-|:white_check_mark:|`6r.fo`|
-|:white_check_mark:|`6s.fo`|
-|:white_check_mark:|`6t.fo`|
-|:white_check_mark:|`6u.fo`|
-|:white_check_mark:|`6v.fo`|
-|:white_check_mark:|`6w.fo`|
-|:white_check_mark:|`6x.fo`|
-|:white_check_mark:|`6y.fo`|
-|:white_check_mark:|`6z.fo`|
-</details>
-<details>
-<summary>35 unregistered domains starting with <bold><code>7</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`70.fo`|
-|:white_check_mark:|`71.fo`|
-|:white_check_mark:|`72.fo`|
-|:white_check_mark:|`73.fo`|
-|:white_check_mark:|`74.fo`|
-|:white_check_mark:|`75.fo`|
-|:white_check_mark:|`76.fo`|
-|:white_check_mark:|`78.fo`|
-|:white_check_mark:|`79.fo`|
-|:white_check_mark:|`7a.fo`|
-|:white_check_mark:|`7b.fo`|
-|:white_check_mark:|`7c.fo`|
-|:white_check_mark:|`7d.fo`|
-|:white_check_mark:|`7e.fo`|
-|:white_check_mark:|`7f.fo`|
-|:white_check_mark:|`7g.fo`|
-|:white_check_mark:|`7h.fo`|
-|:white_check_mark:|`7i.fo`|
-|:white_check_mark:|`7j.fo`|
-|:white_check_mark:|`7k.fo`|
-|:white_check_mark:|`7l.fo`|
-|:white_check_mark:|`7m.fo`|
-|:white_check_mark:|`7n.fo`|
-|:white_check_mark:|`7o.fo`|
-|:white_check_mark:|`7p.fo`|
-|:white_check_mark:|`7q.fo`|
-|:white_check_mark:|`7r.fo`|
-|:white_check_mark:|`7s.fo`|
-|:white_check_mark:|`7t.fo`|
-|:white_check_mark:|`7u.fo`|
-|:white_check_mark:|`7v.fo`|
-|:white_check_mark:|`7w.fo`|
-|:white_check_mark:|`7x.fo`|
-|:white_check_mark:|`7y.fo`|
-|:white_check_mark:|`7z.fo`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`80.fo`|
-|:white_check_mark:|`81.fo`|
-|:white_check_mark:|`82.fo`|
-|:white_check_mark:|`83.fo`|
-|:white_check_mark:|`84.fo`|
-|:white_check_mark:|`85.fo`|
-|:white_check_mark:|`86.fo`|
-|:white_check_mark:|`87.fo`|
-|:white_check_mark:|`88.fo`|
-|:white_check_mark:|`89.fo`|
-|:white_check_mark:|`8a.fo`|
-|:white_check_mark:|`8b.fo`|
-|:white_check_mark:|`8c.fo`|
-|:white_check_mark:|`8d.fo`|
-|:white_check_mark:|`8e.fo`|
-|:white_check_mark:|`8f.fo`|
-|:white_check_mark:|`8g.fo`|
-|:white_check_mark:|`8h.fo`|
-|:white_check_mark:|`8i.fo`|
-|:white_check_mark:|`8j.fo`|
-|:white_check_mark:|`8k.fo`|
-|:white_check_mark:|`8l.fo`|
-|:white_check_mark:|`8m.fo`|
-|:white_check_mark:|`8n.fo`|
-|:white_check_mark:|`8o.fo`|
-|:white_check_mark:|`8p.fo`|
-|:white_check_mark:|`8q.fo`|
-|:white_check_mark:|`8r.fo`|
-|:white_check_mark:|`8s.fo`|
-|:white_check_mark:|`8t.fo`|
-|:white_check_mark:|`8u.fo`|
-|:white_check_mark:|`8v.fo`|
-|:white_check_mark:|`8w.fo`|
-|:white_check_mark:|`8x.fo`|
-|:white_check_mark:|`8y.fo`|
-|:white_check_mark:|`8z.fo`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`90.fo`|
-|:white_check_mark:|`91.fo`|
-|:white_check_mark:|`92.fo`|
-|:white_check_mark:|`93.fo`|
-|:white_check_mark:|`94.fo`|
-|:white_check_mark:|`95.fo`|
-|:white_check_mark:|`96.fo`|
-|:white_check_mark:|`97.fo`|
-|:white_check_mark:|`98.fo`|
-|:white_check_mark:|`99.fo`|
-|:white_check_mark:|`9a.fo`|
-|:white_check_mark:|`9b.fo`|
-|:white_check_mark:|`9c.fo`|
-|:white_check_mark:|`9d.fo`|
-|:white_check_mark:|`9e.fo`|
-|:white_check_mark:|`9f.fo`|
-|:white_check_mark:|`9g.fo`|
-|:white_check_mark:|`9h.fo`|
-|:white_check_mark:|`9i.fo`|
-|:white_check_mark:|`9j.fo`|
-|:white_check_mark:|`9k.fo`|
-|:white_check_mark:|`9l.fo`|
-|:white_check_mark:|`9m.fo`|
-|:white_check_mark:|`9n.fo`|
-|:white_check_mark:|`9o.fo`|
-|:white_check_mark:|`9p.fo`|
-|:white_check_mark:|`9q.fo`|
-|:white_check_mark:|`9r.fo`|
-|:white_check_mark:|`9s.fo`|
-|:white_check_mark:|`9t.fo`|
-|:white_check_mark:|`9u.fo`|
-|:white_check_mark:|`9v.fo`|
-|:white_check_mark:|`9w.fo`|
-|:white_check_mark:|`9x.fo`|
-|:white_check_mark:|`9y.fo`|
-|:white_check_mark:|`9z.fo`|
 </details>
 <details>
 <summary>10 unregistered domains starting with <bold><code>a</code></bold></summary>
@@ -529,10 +125,11 @@
 |:white_check_mark:|`f9.fo`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`g0.fo`|
 |:white_check_mark:|`g1.fo`|
 |:white_check_mark:|`g2.fo`|
 |:white_check_mark:|`g3.fo`|
@@ -542,10 +139,11 @@
 |:white_check_mark:|`g7.fo`|
 |:white_check_mark:|`g8.fo`|
 |:white_check_mark:|`g9.fo`|
+|:white_check_mark:|`gy.fo`|
 |:white_check_mark:|`gz.fo`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -559,11 +157,35 @@
 |:white_check_mark:|`h7.fo`|
 |:white_check_mark:|`h8.fo`|
 |:white_check_mark:|`h9.fo`|
+|:white_check_mark:|`ha.fo`|
+|:white_check_mark:|`hb.fo`|
+|:white_check_mark:|`hc.fo`|
+|:white_check_mark:|`hd.fo`|
+|:white_check_mark:|`he.fo`|
+|:white_check_mark:|`hf.fo`|
+|:white_check_mark:|`hg.fo`|
+|:white_check_mark:|`hh.fo`|
+|:white_check_mark:|`hi.fo`|
+|:white_check_mark:|`hj.fo`|
+|:white_check_mark:|`hk.fo`|
+|:white_check_mark:|`hl.fo`|
+|:white_check_mark:|`hm.fo`|
+|:white_check_mark:|`hn.fo`|
+|:white_check_mark:|`ho.fo`|
+|:white_check_mark:|`hp.fo`|
+|:white_check_mark:|`hq.fo`|
 |:white_check_mark:|`hr.fo`|
+|:white_check_mark:|`hs.fo`|
 |:white_check_mark:|`ht.fo`|
+|:white_check_mark:|`hu.fo`|
+|:white_check_mark:|`hv.fo`|
+|:white_check_mark:|`hw.fo`|
+|:white_check_mark:|`hx.fo`|
+|:white_check_mark:|`hy.fo`|
+|:white_check_mark:|`hz.fo`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -577,6 +199,15 @@
 |:white_check_mark:|`i7.fo`|
 |:white_check_mark:|`i8.fo`|
 |:white_check_mark:|`i9.fo`|
+|:white_check_mark:|`ia.fo`|
+|:white_check_mark:|`ib.fo`|
+|:white_check_mark:|`ic.fo`|
+|:white_check_mark:|`id.fo`|
+|:white_check_mark:|`ie.fo`|
+|:white_check_mark:|`if.fo`|
+|:white_check_mark:|`ig.fo`|
+|:white_check_mark:|`ih.fo`|
+|:white_check_mark:|`ii.fo`|
 |:white_check_mark:|`ij.fo`|
 |:white_check_mark:|`ik.fo`|
 |:white_check_mark:|`il.fo`|
@@ -680,7 +311,7 @@
 |:white_check_mark:|`kz.fo`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -700,7 +331,6 @@
 |:white_check_mark:|`ld.fo`|
 |:white_check_mark:|`le.fo`|
 |:white_check_mark:|`lf.fo`|
-|:white_check_mark:|`lg.fo`|
 |:white_check_mark:|`lh.fo`|
 |:white_check_mark:|`li.fo`|
 |:white_check_mark:|`lj.fo`|
@@ -764,7 +394,7 @@
 |:white_check_mark:|`mz.fo`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -799,7 +429,6 @@
 |:white_check_mark:|`ns.fo`|
 |:white_check_mark:|`nt.fo`|
 |:white_check_mark:|`nu.fo`|
-|:white_check_mark:|`nv.fo`|
 |:white_check_mark:|`nw.fo`|
 |:white_check_mark:|`nx.fo`|
 |:white_check_mark:|`ny.fo`|
@@ -848,7 +477,7 @@
 |:white_check_mark:|`oz.fo`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -886,7 +515,6 @@
 |:white_check_mark:|`pv.fo`|
 |:white_check_mark:|`pw.fo`|
 |:white_check_mark:|`px.fo`|
-|:white_check_mark:|`py.fo`|
 |:white_check_mark:|`pz.fo`|
 </details>
 <details>
@@ -1016,7 +644,7 @@
 |:white_check_mark:|`sz.fo`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1042,7 +670,6 @@
 |:white_check_mark:|`tj.fo`|
 |:white_check_mark:|`tk.fo`|
 |:white_check_mark:|`tl.fo`|
-|:white_check_mark:|`tm.fo`|
 |:white_check_mark:|`tn.fo`|
 |:white_check_mark:|`to.fo`|
 |:white_check_mark:|`tp.fo`|
@@ -1055,7 +682,6 @@
 |:white_check_mark:|`tw.fo`|
 |:white_check_mark:|`tx.fo`|
 |:white_check_mark:|`ty.fo`|
-|:white_check_mark:|`tz.fo`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>u</code></bold></summary>

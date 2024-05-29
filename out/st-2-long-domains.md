@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.st`
 
-## Data last updated: 05/27/2024, 11:05:12
+## Data last updated: 05/29/2024, 11:54:57
 
 |Stat|Amount|
 |--|--|
