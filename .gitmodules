@@ -1,0 +1,6 @@
+[submodule "available-short-domains-list"]
+	path = available-short-domains-list
+	url = https://github.com/Isabe1le/available-short-domains-list
+[submodule "what-tld"]
+	path = what-tld
+	url = https://github.com/Isabe1le/what-tld
