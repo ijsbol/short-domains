@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.br`
 
-## Data last updated: 05/29/2024, 11:38:54
+## Data last updated: 06/05/2024, 13:45:50
 
 |Stat|Amount|
 |--|--|
-|Registered domains|0|
-|Unregistered domains|621|
+|Registered domains|4|
+|Unregistered domains|377|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.0%|
+|Registration rate|1.05%|
 |Failed lookups|0|
-|Successful lookups|621|
+|Successful lookups|381|
 |Lookup success rate|100%|
 
 
@@ -63,7 +63,7 @@
 |:white_check_mark:|`az.br`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -90,7 +90,6 @@
 |:white_check_mark:|`bk.br`|
 |:white_check_mark:|`bl.br`|
 |:white_check_mark:|`bm.br`|
-|:white_check_mark:|`bn.br`|
 |:white_check_mark:|`bo.br`|
 |:white_check_mark:|`bp.br`|
 |:white_check_mark:|`bq.br`|
@@ -273,7 +272,7 @@
 |:white_check_mark:|`fz.br`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>35 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -308,7 +307,6 @@
 |:white_check_mark:|`gs.br`|
 |:white_check_mark:|`gt.br`|
 |:white_check_mark:|`gu.br`|
-|:white_check_mark:|`gv.br`|
 |:white_check_mark:|`gw.br`|
 |:white_check_mark:|`gx.br`|
 |:white_check_mark:|`gy.br`|
@@ -357,7 +355,7 @@
 |:white_check_mark:|`hz.br`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -383,7 +381,6 @@
 |:white_check_mark:|`ij.br`|
 |:white_check_mark:|`ik.br`|
 |:white_check_mark:|`il.br`|
-|:white_check_mark:|`im.br`|
 |:white_check_mark:|`in.br`|
 |:white_check_mark:|`io.br`|
 |:white_check_mark:|`ip.br`|
@@ -394,7 +391,6 @@
 |:white_check_mark:|`iu.br`|
 |:white_check_mark:|`iv.br`|
 |:white_check_mark:|`iw.br`|
-|:white_check_mark:|`ix.br`|
 |:white_check_mark:|`iy.br`|
 |:white_check_mark:|`iz.br`|
 </details>
@@ -441,20 +437,10 @@
 |:white_check_mark:|`jz.br`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`k0.br`|
-|:white_check_mark:|`k1.br`|
-|:white_check_mark:|`k2.br`|
-|:white_check_mark:|`k3.br`|
-|:white_check_mark:|`k4.br`|
-|:white_check_mark:|`k5.br`|
-|:white_check_mark:|`k6.br`|
-|:white_check_mark:|`k7.br`|
-|:white_check_mark:|`k8.br`|
-|:white_check_mark:|`k9.br`|
 |:white_check_mark:|`ka.br`|
 |:white_check_mark:|`kb.br`|
 |:white_check_mark:|`kc.br`|
@@ -476,276 +462,4 @@
 |:white_check_mark:|`ks.br`|
 |:white_check_mark:|`kt.br`|
 |:white_check_mark:|`ku.br`|
-|:white_check_mark:|`kv.br`|
-|:white_check_mark:|`kw.br`|
-|:white_check_mark:|`kx.br`|
-|:white_check_mark:|`ky.br`|
-|:white_check_mark:|`kz.br`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`l0.br`|
-|:white_check_mark:|`l1.br`|
-|:white_check_mark:|`l2.br`|
-|:white_check_mark:|`l3.br`|
-|:white_check_mark:|`l4.br`|
-|:white_check_mark:|`l5.br`|
-|:white_check_mark:|`l6.br`|
-|:white_check_mark:|`l7.br`|
-|:white_check_mark:|`l8.br`|
-|:white_check_mark:|`l9.br`|
-|:white_check_mark:|`la.br`|
-|:white_check_mark:|`lb.br`|
-|:white_check_mark:|`lc.br`|
-|:white_check_mark:|`ld.br`|
-|:white_check_mark:|`le.br`|
-|:white_check_mark:|`lf.br`|
-|:white_check_mark:|`lg.br`|
-|:white_check_mark:|`lh.br`|
-|:white_check_mark:|`li.br`|
-|:white_check_mark:|`lj.br`|
-|:white_check_mark:|`lk.br`|
-|:white_check_mark:|`ll.br`|
-|:white_check_mark:|`lm.br`|
-|:white_check_mark:|`ln.br`|
-|:white_check_mark:|`lo.br`|
-|:white_check_mark:|`lp.br`|
-|:white_check_mark:|`lq.br`|
-|:white_check_mark:|`lr.br`|
-|:white_check_mark:|`ls.br`|
-|:white_check_mark:|`lt.br`|
-|:white_check_mark:|`lu.br`|
-|:white_check_mark:|`lv.br`|
-|:white_check_mark:|`lw.br`|
-|:white_check_mark:|`lx.br`|
-|:white_check_mark:|`ly.br`|
-|:white_check_mark:|`lz.br`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>m</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`m0.br`|
-|:white_check_mark:|`m1.br`|
-|:white_check_mark:|`m2.br`|
-|:white_check_mark:|`m3.br`|
-|:white_check_mark:|`m4.br`|
-|:white_check_mark:|`m5.br`|
-|:white_check_mark:|`m6.br`|
-|:white_check_mark:|`m7.br`|
-|:white_check_mark:|`m8.br`|
-|:white_check_mark:|`m9.br`|
-|:white_check_mark:|`ma.br`|
-|:white_check_mark:|`mb.br`|
-|:white_check_mark:|`mc.br`|
-|:white_check_mark:|`md.br`|
-|:white_check_mark:|`me.br`|
-|:white_check_mark:|`mf.br`|
-|:white_check_mark:|`mg.br`|
-|:white_check_mark:|`mh.br`|
-|:white_check_mark:|`mi.br`|
-|:white_check_mark:|`mj.br`|
-|:white_check_mark:|`mk.br`|
-|:white_check_mark:|`ml.br`|
-|:white_check_mark:|`mm.br`|
-|:white_check_mark:|`mn.br`|
-|:white_check_mark:|`mo.br`|
-|:white_check_mark:|`mp.br`|
-|:white_check_mark:|`mq.br`|
-|:white_check_mark:|`mr.br`|
-|:white_check_mark:|`ms.br`|
-|:white_check_mark:|`mt.br`|
-|:white_check_mark:|`mu.br`|
-|:white_check_mark:|`mv.br`|
-|:white_check_mark:|`mw.br`|
-|:white_check_mark:|`mx.br`|
-|:white_check_mark:|`my.br`|
-|:white_check_mark:|`mz.br`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>n</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`n0.br`|
-|:white_check_mark:|`n1.br`|
-|:white_check_mark:|`n2.br`|
-|:white_check_mark:|`n3.br`|
-|:white_check_mark:|`n4.br`|
-|:white_check_mark:|`n5.br`|
-|:white_check_mark:|`n6.br`|
-|:white_check_mark:|`n7.br`|
-|:white_check_mark:|`n8.br`|
-|:white_check_mark:|`n9.br`|
-|:white_check_mark:|`na.br`|
-|:white_check_mark:|`nb.br`|
-|:white_check_mark:|`nc.br`|
-|:white_check_mark:|`nd.br`|
-|:white_check_mark:|`ne.br`|
-|:white_check_mark:|`nf.br`|
-|:white_check_mark:|`ng.br`|
-|:white_check_mark:|`nh.br`|
-|:white_check_mark:|`ni.br`|
-|:white_check_mark:|`nj.br`|
-|:white_check_mark:|`nk.br`|
-|:white_check_mark:|`nl.br`|
-|:white_check_mark:|`nm.br`|
-|:white_check_mark:|`nn.br`|
-|:white_check_mark:|`no.br`|
-|:white_check_mark:|`np.br`|
-|:white_check_mark:|`nq.br`|
-|:white_check_mark:|`nr.br`|
-|:white_check_mark:|`ns.br`|
-|:white_check_mark:|`nt.br`|
-|:white_check_mark:|`nu.br`|
-|:white_check_mark:|`nv.br`|
-|:white_check_mark:|`nw.br`|
-|:white_check_mark:|`nx.br`|
-|:white_check_mark:|`ny.br`|
-|:white_check_mark:|`nz.br`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>o</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`o0.br`|
-|:white_check_mark:|`o1.br`|
-|:white_check_mark:|`o2.br`|
-|:white_check_mark:|`o3.br`|
-|:white_check_mark:|`o4.br`|
-|:white_check_mark:|`o5.br`|
-|:white_check_mark:|`o6.br`|
-|:white_check_mark:|`o7.br`|
-|:white_check_mark:|`o8.br`|
-|:white_check_mark:|`o9.br`|
-|:white_check_mark:|`oa.br`|
-|:white_check_mark:|`ob.br`|
-|:white_check_mark:|`oc.br`|
-|:white_check_mark:|`od.br`|
-|:white_check_mark:|`oe.br`|
-|:white_check_mark:|`of.br`|
-|:white_check_mark:|`og.br`|
-|:white_check_mark:|`oh.br`|
-|:white_check_mark:|`oi.br`|
-|:white_check_mark:|`oj.br`|
-|:white_check_mark:|`ok.br`|
-|:white_check_mark:|`ol.br`|
-|:white_check_mark:|`om.br`|
-|:white_check_mark:|`on.br`|
-|:white_check_mark:|`oo.br`|
-|:white_check_mark:|`op.br`|
-|:white_check_mark:|`oq.br`|
-|:white_check_mark:|`or.br`|
-|:white_check_mark:|`os.br`|
-|:white_check_mark:|`ot.br`|
-|:white_check_mark:|`ou.br`|
-|:white_check_mark:|`ov.br`|
-|:white_check_mark:|`ow.br`|
-|:white_check_mark:|`ox.br`|
-|:white_check_mark:|`oy.br`|
-|:white_check_mark:|`oz.br`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>p</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`p0.br`|
-|:white_check_mark:|`p1.br`|
-|:white_check_mark:|`p2.br`|
-|:white_check_mark:|`p3.br`|
-|:white_check_mark:|`p4.br`|
-|:white_check_mark:|`p5.br`|
-|:white_check_mark:|`p6.br`|
-|:white_check_mark:|`p7.br`|
-|:white_check_mark:|`p8.br`|
-|:white_check_mark:|`p9.br`|
-|:white_check_mark:|`pa.br`|
-|:white_check_mark:|`pb.br`|
-|:white_check_mark:|`pc.br`|
-|:white_check_mark:|`pd.br`|
-|:white_check_mark:|`pe.br`|
-|:white_check_mark:|`pf.br`|
-|:white_check_mark:|`pg.br`|
-|:white_check_mark:|`ph.br`|
-|:white_check_mark:|`pi.br`|
-|:white_check_mark:|`pj.br`|
-|:white_check_mark:|`pk.br`|
-|:white_check_mark:|`pl.br`|
-|:white_check_mark:|`pm.br`|
-|:white_check_mark:|`pn.br`|
-|:white_check_mark:|`po.br`|
-|:white_check_mark:|`pp.br`|
-|:white_check_mark:|`pq.br`|
-|:white_check_mark:|`pr.br`|
-|:white_check_mark:|`ps.br`|
-|:white_check_mark:|`pt.br`|
-|:white_check_mark:|`pu.br`|
-|:white_check_mark:|`pv.br`|
-|:white_check_mark:|`pw.br`|
-|:white_check_mark:|`px.br`|
-|:white_check_mark:|`py.br`|
-|:white_check_mark:|`pz.br`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>q</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`q0.br`|
-|:white_check_mark:|`q1.br`|
-|:white_check_mark:|`q2.br`|
-|:white_check_mark:|`q3.br`|
-|:white_check_mark:|`q4.br`|
-|:white_check_mark:|`q5.br`|
-|:white_check_mark:|`q6.br`|
-|:white_check_mark:|`q7.br`|
-|:white_check_mark:|`q8.br`|
-|:white_check_mark:|`q9.br`|
-|:white_check_mark:|`qa.br`|
-|:white_check_mark:|`qb.br`|
-|:white_check_mark:|`qc.br`|
-|:white_check_mark:|`qd.br`|
-|:white_check_mark:|`qe.br`|
-|:white_check_mark:|`qf.br`|
-|:white_check_mark:|`qg.br`|
-|:white_check_mark:|`qh.br`|
-|:white_check_mark:|`qi.br`|
-|:white_check_mark:|`qj.br`|
-|:white_check_mark:|`qk.br`|
-|:white_check_mark:|`ql.br`|
-|:white_check_mark:|`qm.br`|
-|:white_check_mark:|`qn.br`|
-|:white_check_mark:|`qo.br`|
-|:white_check_mark:|`qp.br`|
-|:white_check_mark:|`qq.br`|
-|:white_check_mark:|`qr.br`|
-|:white_check_mark:|`qs.br`|
-|:white_check_mark:|`qt.br`|
-|:white_check_mark:|`qu.br`|
-|:white_check_mark:|`qv.br`|
-|:white_check_mark:|`qw.br`|
-|:white_check_mark:|`qx.br`|
-|:white_check_mark:|`qy.br`|
-|:white_check_mark:|`qz.br`|
-</details>
-<details>
-<summary>9 unregistered domains starting with <bold><code>r</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`ra.br`|
-|:white_check_mark:|`rb.br`|
-|:white_check_mark:|`rc.br`|
-|:white_check_mark:|`rd.br`|
-|:white_check_mark:|`re.br`|
-|:white_check_mark:|`rf.br`|
-|:white_check_mark:|`rg.br`|
-|:white_check_mark:|`rh.br`|
-|:white_check_mark:|`ri.br`|
 </details>

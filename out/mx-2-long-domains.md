@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.mx`
 
-## Data last updated: 05/29/2024, 11:38:07
+## Data last updated: 06/05/2024, 16:35:00
 
 |Stat|Amount|
 |--|--|
-|Registered domains|5|
-|Unregistered domains|1291|
+|Registered domains|4|
+|Unregistered domains|1292|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.39%|
+|Registration rate|0.31%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -1280,7 +1280,7 @@
 |:white_check_mark:|`tz.mx`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1308,6 +1308,7 @@
 |:white_check_mark:|`ul.mx`|
 |:white_check_mark:|`um.mx`|
 |:white_check_mark:|`uo.mx`|
+|:white_check_mark:|`up.mx`|
 |:white_check_mark:|`uq.mx`|
 |:white_check_mark:|`us.mx`|
 |:white_check_mark:|`ut.mx`|

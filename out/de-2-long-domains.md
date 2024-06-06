@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.de`
 
-## Data last updated: 05/29/2024, 11:34:04
+## Data last updated: 06/05/2024, 16:33:53
 
 |Stat|Amount|
 |--|--|
-|Registered domains|630|
-|Unregistered domains|666|
+|Registered domains|1158|
+|Unregistered domains|138|
 |Premium domains|1|
 |Application only domains|0|
-|Registration rate|48.61%|
+|Registration rate|89.35%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,860 +21,338 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>25 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>3 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`00.de`|
 |:white_check_mark:|`01.de`|
-|:white_check_mark:|`02.de`|
-|:white_check_mark:|`03.de`|
-|:white_check_mark:|`04.de`|
-|:white_check_mark:|`07.de`|
-|:white_check_mark:|`08.de`|
-|:white_check_mark:|`09.de`|
-|:white_check_mark:|`0a.de`|
 |:white_check_mark:|`0d.de`|
 |:white_check_mark:|`0e.de`|
-|:white_check_mark:|`0f.de`|
-|:white_check_mark:|`0g.de`|
-|:white_check_mark:|`0h.de`|
-|:white_check_mark:|`0k.de`|
-|:white_check_mark:|`0l.de`|
-|:white_check_mark:|`0m.de`|
-|:white_check_mark:|`0n.de`|
-|:white_check_mark:|`0o.de`|
-|:white_check_mark:|`0s.de`|
-|:white_check_mark:|`0t.de`|
-|:white_check_mark:|`0u.de`|
-|:white_check_mark:|`0v.de`|
-|:white_check_mark:|`0w.de`|
-|:white_check_mark:|`0z.de`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`12.de`|
-|:white_check_mark:|`13.de`|
-|:white_check_mark:|`14.de`|
-|:white_check_mark:|`15.de`|
-|:white_check_mark:|`16.de`|
-|:white_check_mark:|`17.de`|
-|:white_check_mark:|`1a.de`|
-|:white_check_mark:|`1b.de`|
-|:white_check_mark:|`1c.de`|
-|:white_check_mark:|`1e.de`|
-|:white_check_mark:|`1f.de`|
-|:white_check_mark:|`1g.de`|
-|:white_check_mark:|`1h.de`|
-|:white_check_mark:|`1i.de`|
-|:white_check_mark:|`1j.de`|
-|:white_check_mark:|`1k.de`|
-|:white_check_mark:|`1n.de`|
-|:white_check_mark:|`1o.de`|
 |:white_check_mark:|`1p.de`|
-|:white_check_mark:|`1q.de`|
-|:white_check_mark:|`1r.de`|
-|:white_check_mark:|`1s.de`|
-|:white_check_mark:|`1u.de`|
-|:white_check_mark:|`1v.de`|
-|:white_check_mark:|`1w.de`|
-|:white_check_mark:|`1x.de`|
-|:white_check_mark:|`1y.de`|
-|:white_check_mark:|`1z.de`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`20.de`|
-|:white_check_mark:|`21.de`|
-|:white_check_mark:|`25.de`|
-|:white_check_mark:|`26.de`|
-|:white_check_mark:|`27.de`|
-|:white_check_mark:|`2b.de`|
-|:white_check_mark:|`2c.de`|
-|:white_check_mark:|`2d.de`|
-|:white_check_mark:|`2e.de`|
-|:white_check_mark:|`2g.de`|
-|:white_check_mark:|`2h.de`|
-|:white_check_mark:|`2i.de`|
-|:white_check_mark:|`2j.de`|
-|:white_check_mark:|`2k.de`|
-|:white_check_mark:|`2l.de`|
-|:white_check_mark:|`2m.de`|
-|:white_check_mark:|`2n.de`|
-|:white_check_mark:|`2q.de`|
-|:white_check_mark:|`2r.de`|
-|:white_check_mark:|`2s.de`|
-|:white_check_mark:|`2t.de`|
-|:white_check_mark:|`2u.de`|
-|:white_check_mark:|`2x.de`|
-|:white_check_mark:|`2y.de`|
-|:white_check_mark:|`2z.de`|
-</details>
-<details>
-<summary>25 unregistered domains starting with <bold><code>3</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`31.de`|
-|:white_check_mark:|`32.de`|
-|:white_check_mark:|`33.de`|
-|:white_check_mark:|`34.de`|
-|:white_check_mark:|`35.de`|
-|:white_check_mark:|`36.de`|
-|:white_check_mark:|`39.de`|
-|:white_check_mark:|`3a.de`|
-|:white_check_mark:|`3b.de`|
-|:white_check_mark:|`3c.de`|
-|:white_check_mark:|`3d.de`|
-|:white_check_mark:|`3e.de`|
-|:white_check_mark:|`3h.de`|
-|:white_check_mark:|`3i.de`|
-|:white_check_mark:|`3j.de`|
-|:white_check_mark:|`3k.de`|
-|:white_check_mark:|`3o.de`|
-|:white_check_mark:|`3p.de`|
-|:white_check_mark:|`3q.de`|
-|:white_check_mark:|`3r.de`|
-|:white_check_mark:|`3s.de`|
 |:white_check_mark:|`3v.de`|
-|:white_check_mark:|`3w.de`|
-|:white_check_mark:|`3x.de`|
-|:white_check_mark:|`3y.de`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>4</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>4</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`40.de`|
-|:white_check_mark:|`43.de`|
-|:white_check_mark:|`44.de`|
-|:white_check_mark:|`45.de`|
-|:white_check_mark:|`46.de`|
-|:white_check_mark:|`47.de`|
-|:white_check_mark:|`4a.de`|
-|:white_check_mark:|`4b.de`|
-|:white_check_mark:|`4c.de`|
-|:white_check_mark:|`4d.de`|
-|:white_check_mark:|`4g.de`|
-|:white_check_mark:|`4h.de`|
-|:white_check_mark:|`4i.de`|
-|:white_check_mark:|`4j.de`|
-|:white_check_mark:|`4k.de`|
-|:white_check_mark:|`4l.de`|
-|:white_check_mark:|`4o.de`|
+|:white_check_mark:|`4e.de`|
 |:white_check_mark:|`4p.de`|
-|:white_check_mark:|`4q.de`|
-|:white_check_mark:|`4r.de`|
-|:white_check_mark:|`4s.de`|
-|:white_check_mark:|`4v.de`|
-|:white_check_mark:|`4w.de`|
-|:white_check_mark:|`4x.de`|
-|:white_check_mark:|`4y.de`|
-|:white_check_mark:|`4z.de`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>3 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`50.de`|
-|:white_check_mark:|`51.de`|
-|:white_check_mark:|`54.de`|
-|:white_check_mark:|`55.de`|
-|:white_check_mark:|`56.de`|
-|:white_check_mark:|`57.de`|
-|:white_check_mark:|`58.de`|
-|:white_check_mark:|`5a.de`|
-|:white_check_mark:|`5b.de`|
-|:white_check_mark:|`5c.de`|
-|:white_check_mark:|`5f.de`|
+|:white_check_mark:|`5d.de`|
 |:white_check_mark:|`5g.de`|
-|:white_check_mark:|`5h.de`|
-|:white_check_mark:|`5i.de`|
 |:white_check_mark:|`5j.de`|
-|:white_check_mark:|`5m.de`|
-|:white_check_mark:|`5n.de`|
-|:white_check_mark:|`5o.de`|
-|:white_check_mark:|`5p.de`|
-|:white_check_mark:|`5q.de`|
-|:white_check_mark:|`5u.de`|
-|:white_check_mark:|`5v.de`|
-|:white_check_mark:|`5y.de`|
-|:white_check_mark:|`5z.de`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`62.de`|
-|:white_check_mark:|`63.de`|
-|:white_check_mark:|`64.de`|
-|:white_check_mark:|`68.de`|
-|:white_check_mark:|`69.de`|
-|:white_check_mark:|`6c.de`|
-|:white_check_mark:|`6d.de`|
-|:white_check_mark:|`6e.de`|
-|:white_check_mark:|`6f.de`|
-|:white_check_mark:|`6g.de`|
-|:white_check_mark:|`6j.de`|
-|:white_check_mark:|`6k.de`|
-|:white_check_mark:|`6l.de`|
-|:white_check_mark:|`6m.de`|
-|:white_check_mark:|`6r.de`|
-|:white_check_mark:|`6s.de`|
-|:white_check_mark:|`6x.de`|
+|:white_check_mark:|`61.de`|
+|:white_check_mark:|`6o.de`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>7</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`73.de`|
-|:white_check_mark:|`74.de`|
-|:white_check_mark:|`7a.de`|
-|:white_check_mark:|`7f.de`|
-|:white_check_mark:|`7j.de`|
-|:white_check_mark:|`7k.de`|
-|:white_check_mark:|`7l.de`|
-|:white_check_mark:|`7m.de`|
-|:white_check_mark:|`7r.de`|
-|:white_check_mark:|`7s.de`|
-|:white_check_mark:|`7x.de`|
-|:white_check_mark:|`7y.de`|
-</details>
-<details>
-<summary>18 unregistered domains starting with <bold><code>8</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`83.de`|
-|:white_check_mark:|`84.de`|
-|:white_check_mark:|`85.de`|
-|:white_check_mark:|`88.de`|
-|:white_check_mark:|`89.de`|
+|:white_check_mark:|`86.de`|
 |:white_check_mark:|`8c.de`|
-|:white_check_mark:|`8d.de`|
-|:white_check_mark:|`8e.de`|
-|:white_check_mark:|`8f.de`|
-|:white_check_mark:|`8g.de`|
-|:white_check_mark:|`8l.de`|
-|:white_check_mark:|`8m.de`|
-|:white_check_mark:|`8q.de`|
-|:white_check_mark:|`8r.de`|
-|:white_check_mark:|`8s.de`|
-|:white_check_mark:|`8w.de`|
-|:white_check_mark:|`8x.de`|
-|:white_check_mark:|`8y.de`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>9</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>9</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`94.de`|
-|:white_check_mark:|`95.de`|
-|:white_check_mark:|`96.de`|
-|:white_check_mark:|`97.de`|
-|:white_check_mark:|`98.de`|
-|:white_check_mark:|`99.de`|
-|:white_check_mark:|`9a.de`|
-|:white_check_mark:|`9c.de`|
-|:white_check_mark:|`9d.de`|
-|:white_check_mark:|`9e.de`|
-|:white_check_mark:|`9f.de`|
-|:white_check_mark:|`9g.de`|
-|:white_check_mark:|`9h.de`|
-|:white_check_mark:|`9i.de`|
-|:white_check_mark:|`9l.de`|
-|:white_check_mark:|`9m.de`|
-|:white_check_mark:|`9n.de`|
-|:white_check_mark:|`9o.de`|
-|:white_check_mark:|`9p.de`|
-|:white_check_mark:|`9s.de`|
-|:white_check_mark:|`9t.de`|
-|:white_check_mark:|`9u.de`|
 |:white_check_mark:|`9v.de`|
-|:white_check_mark:|`9w.de`|
-|:white_check_mark:|`9x.de`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`e1.de`|
+|:white_check_mark:|`a4.de`|
+|:white_check_mark:|`ai.de`|
+|:white_check_mark:|`aj.de`|
+|:white_check_mark:|`ak.de`|
+|:white_check_mark:|`al.de`|
+|:white_check_mark:|`am.de`|
+|:white_check_mark:|`an.de`|
+|:white_check_mark:|`aq.de`|
+|:white_check_mark:|`as.de`|
+|:white_check_mark:|`at.de`|
+|:white_check_mark:|`ax.de`|
+|:white_check_mark:|`ay.de`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`f0.de`|
-|:white_check_mark:|`f1.de`|
-|:white_check_mark:|`f4.de`|
-|:white_check_mark:|`f5.de`|
-|:white_check_mark:|`f6.de`|
-|:white_check_mark:|`f7.de`|
-|:white_check_mark:|`fc.de`|
-|:white_check_mark:|`fd.de`|
-|:white_check_mark:|`fe.de`|
-|:white_check_mark:|`fk.de`|
-|:white_check_mark:|`fl.de`|
+|:white_check_mark:|`b0.de`|
+|:white_check_mark:|`b4.de`|
+|:white_check_mark:|`b5.de`|
+|:white_check_mark:|`b7.de`|
+|:white_check_mark:|`ba.de`|
+|:white_check_mark:|`bb.de`|
+|:white_check_mark:|`bd.de`|
+|:white_check_mark:|`be.de`|
+|:white_check_mark:|`bf.de`|
+|:white_check_mark:|`bh.de`|
+|:white_check_mark:|`bp.de`|
+|:white_check_mark:|`bt.de`|
+|:white_check_mark:|`bv.de`|
+|:white_check_mark:|`bw.de`|
+|:white_check_mark:|`by.de`|
+|:white_check_mark:|`bz.de`|
+</details>
+<details>
+<summary>11 unregistered domains starting with <bold><code>c</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`c0.de`|
+|:white_check_mark:|`cg.de`|
+|:white_check_mark:|`ch.de`|
+|:white_check_mark:|`ci.de`|
+|:white_check_mark:|`ck.de`|
+|:white_check_mark:|`cl.de`|
+|:white_check_mark:|`ct.de`|
+|:white_check_mark:|`cu.de`|
+|:white_check_mark:|`cv.de`|
+|:white_check_mark:|`cw.de`|
+|:white_check_mark:|`cy.de`|
+</details>
+<details>
+<summary>10 unregistered domains starting with <bold><code>d</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`d6.de`|
+|:white_check_mark:|`db.de`|
+|:white_check_mark:|`dc.de`|
+|:white_check_mark:|`dd.de`|
+|:white_check_mark:|`dk.de`|
+|:white_check_mark:|`dp.de`|
+|:white_check_mark:|`ds.de`|
+|:white_check_mark:|`dt.de`|
+|:white_check_mark:|`du.de`|
+|:white_check_mark:|`dy.de`|
+</details>
+<details>
+<summary>5 unregistered domains starting with <bold><code>e</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`e4.de`|
+|:white_check_mark:|`e5.de`|
+|:white_check_mark:|`eh.de`|
+|:white_check_mark:|`es.de`|
+|:white_check_mark:|`ev.de`|
+</details>
+<details>
+<summary>4 unregistered domains starting with <bold><code>f</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`f9.de`|
+|:white_check_mark:|`fg.de`|
+|:white_check_mark:|`fh.de`|
 |:white_check_mark:|`fo.de`|
-|:white_check_mark:|`fr.de`|
-|:white_check_mark:|`fs.de`|
-|:white_check_mark:|`fx.de`|
-|:white_check_mark:|`fy.de`|
-|:white_check_mark:|`fz.de`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`g0.de`|
-|:white_check_mark:|`g1.de`|
-|:white_check_mark:|`g2.de`|
-|:white_check_mark:|`g4.de`|
 |:white_check_mark:|`g5.de`|
 |:white_check_mark:|`g6.de`|
 |:white_check_mark:|`g7.de`|
 |:white_check_mark:|`g8.de`|
-|:white_check_mark:|`ga.de`|
-|:white_check_mark:|`gb.de`|
-|:white_check_mark:|`gc.de`|
-|:white_check_mark:|`gd.de`|
-|:white_check_mark:|`gg.de`|
-|:white_check_mark:|`gh.de`|
-|:white_check_mark:|`gi.de`|
-|:white_check_mark:|`gm.de`|
-|:white_check_mark:|`gn.de`|
+|:white_check_mark:|`gl.de`|
 |:white_check_mark:|`go.de`|
-|:white_check_mark:|`gr.de`|
-|:white_check_mark:|`gs.de`|
-|:white_check_mark:|`gt.de`|
-|:white_check_mark:|`gu.de`|
-|:white_check_mark:|`gv.de`|
 |:white_check_mark:|`gy.de`|
 |:white_check_mark:|`gz.de`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`h0.de`|
-|:white_check_mark:|`h1.de`|
-|:white_check_mark:|`h2.de`|
-|:white_check_mark:|`h3.de`|
-|:white_check_mark:|`h6.de`|
-|:white_check_mark:|`h7.de`|
-|:white_check_mark:|`h8.de`|
-|:white_check_mark:|`hb.de`|
-|:white_check_mark:|`hc.de`|
-|:white_check_mark:|`hd.de`|
-|:white_check_mark:|`he.de`|
-|:white_check_mark:|`hg.de`|
-|:white_check_mark:|`hh.de`|
-|:white_check_mark:|`hi.de`|
-|:white_check_mark:|`hj.de`|
-|:white_check_mark:|`hk.de`|
 |:white_check_mark:|`hl.de`|
-|:white_check_mark:|`ho.de`|
-|:white_check_mark:|`hp.de`|
-|:white_check_mark:|`hq.de`|
-|:white_check_mark:|`hu.de`|
-|:white_check_mark:|`hv.de`|
-|:white_check_mark:|`hw.de`|
-|:white_check_mark:|`hy.de`|
-|:white_check_mark:|`hz.de`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`i1.de`|
-|:white_check_mark:|`i2.de`|
-|:white_check_mark:|`i5.de`|
-|:white_check_mark:|`i6.de`|
-|:white_check_mark:|`i7.de`|
-|:white_check_mark:|`i8.de`|
-|:white_check_mark:|`ib.de`|
-|:white_check_mark:|`ic.de`|
-|:white_check_mark:|`id.de`|
-|:white_check_mark:|`ih.de`|
-|:white_check_mark:|`ii.de`|
-|:white_check_mark:|`ij.de`|
-|:white_check_mark:|`im.de`|
-|:white_check_mark:|`in.de`|
-|:white_check_mark:|`io.de`|
-|:white_check_mark:|`ip.de`|
-|:white_check_mark:|`is.de`|
-|:white_check_mark:|`it.de`|
-|:white_check_mark:|`iu.de`|
-|:white_check_mark:|`iv.de`|
-|:white_check_mark:|`iw.de`|
-|:white_check_mark:|`ix.de`|
+|:white_check_mark:|`ia.de`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`j0.de`|
-|:white_check_mark:|`j1.de`|
-|:white_check_mark:|`j2.de`|
-|:white_check_mark:|`j3.de`|
-|:white_check_mark:|`j4.de`|
-|:white_check_mark:|`j7.de`|
-|:white_check_mark:|`j8.de`|
 |:white_check_mark:|`j9.de`|
+|:white_check_mark:|`ja.de`|
 |:white_check_mark:|`jb.de`|
-|:white_check_mark:|`jc.de`|
-|:white_check_mark:|`jd.de`|
-|:white_check_mark:|`jg.de`|
-|:white_check_mark:|`jh.de`|
-|:white_check_mark:|`ji.de`|
-|:white_check_mark:|`jj.de`|
-|:white_check_mark:|`jk.de`|
-|:white_check_mark:|`jn.de`|
-|:white_check_mark:|`jo.de`|
-|:white_check_mark:|`jp.de`|
-|:white_check_mark:|`jq.de`|
-|:white_check_mark:|`jt.de`|
-|:white_check_mark:|`ju.de`|
-|:white_check_mark:|`jv.de`|
-|:white_check_mark:|`jw.de`|
-|:white_check_mark:|`jx.de`|
+|:white_check_mark:|`je.de`|
+|:white_check_mark:|`jy.de`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`k2.de`|
-|:white_check_mark:|`k3.de`|
-|:white_check_mark:|`k4.de`|
-|:white_check_mark:|`k5.de`|
-|:white_check_mark:|`k8.de`|
-|:white_check_mark:|`k9.de`|
-|:white_check_mark:|`ka.de`|
-|:white_check_mark:|`kb.de`|
-|:white_check_mark:|`kc.de`|
-|:white_check_mark:|`kf.de`|
-|:white_check_mark:|`kg.de`|
+|:white_check_mark:|`kd.de`|
 |:white_check_mark:|`kh.de`|
-|:white_check_mark:|`ki.de`|
-|:white_check_mark:|`kl.de`|
-|:white_check_mark:|`km.de`|
-|:white_check_mark:|`kn.de`|
-|:white_check_mark:|`kq.de`|
-|:white_check_mark:|`kr.de`|
-|:white_check_mark:|`ks.de`|
-|:white_check_mark:|`kt.de`|
-|:white_check_mark:|`kx.de`|
-|:white_check_mark:|`ky.de`|
-|:white_check_mark:|`kz.de`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`l3.de`|
-|:white_check_mark:|`l4.de`|
-|:white_check_mark:|`l5.de`|
-|:white_check_mark:|`l6.de`|
-|:white_check_mark:|`la.de`|
-|:white_check_mark:|`lb.de`|
+|:white_check_mark:|`l0.de`|
+|:white_check_mark:|`l8.de`|
+|:white_check_mark:|`l9.de`|
 |:white_check_mark:|`lc.de`|
-|:white_check_mark:|`lg.de`|
-|:white_check_mark:|`lh.de`|
-|:white_check_mark:|`lk.de`|
-|:white_check_mark:|`ll.de`|
-|:white_check_mark:|`lm.de`|
-|:white_check_mark:|`ln.de`|
+|:white_check_mark:|`ld.de`|
 |:gem:|`lp.de`|
+|:white_check_mark:|`lu.de`|
+|:white_check_mark:|`lw.de`|
 </details>
 <details>
-<summary>9 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>6 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`m0.de`|
-|:white_check_mark:|`m4.de`|
-|:white_check_mark:|`m5.de`|
-|:white_check_mark:|`me.de`|
+|:white_check_mark:|`m1.de`|
+|:white_check_mark:|`m6.de`|
+|:white_check_mark:|`ma.de`|
+|:white_check_mark:|`mc.de`|
 |:white_check_mark:|`mf.de`|
-|:white_check_mark:|`mk.de`|
-|:white_check_mark:|`mp.de`|
 |:white_check_mark:|`mu.de`|
-|:white_check_mark:|`mz.de`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`n0.de`|
-|:white_check_mark:|`n1.de`|
-|:white_check_mark:|`n2.de`|
-|:white_check_mark:|`n5.de`|
-|:white_check_mark:|`na.de`|
-|:white_check_mark:|`nb.de`|
 |:white_check_mark:|`nf.de`|
-|:white_check_mark:|`ng.de`|
-|:white_check_mark:|`nk.de`|
-|:white_check_mark:|`nl.de`|
-|:white_check_mark:|`nm.de`|
-|:white_check_mark:|`nt.de`|
-|:white_check_mark:|`nu.de`|
-|:white_check_mark:|`nv.de`|
+|:white_check_mark:|`nn.de`|
+|:white_check_mark:|`np.de`|
 |:white_check_mark:|`nw.de`|
-|:white_check_mark:|`nx.de`|
-|:white_check_mark:|`nz.de`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`o0.de`|
-|:white_check_mark:|`o3.de`|
-|:white_check_mark:|`o4.de`|
-|:white_check_mark:|`o5.de`|
-|:white_check_mark:|`o6.de`|
-|:white_check_mark:|`o7.de`|
-|:white_check_mark:|`o8.de`|
-|:white_check_mark:|`o9.de`|
+|:white_check_mark:|`oc.de`|
 |:white_check_mark:|`od.de`|
-|:white_check_mark:|`of.de`|
-|:white_check_mark:|`og.de`|
-|:white_check_mark:|`oh.de`|
-|:white_check_mark:|`oi.de`|
-|:white_check_mark:|`oj.de`|
-|:white_check_mark:|`on.de`|
-|:white_check_mark:|`oo.de`|
-|:white_check_mark:|`op.de`|
+|:white_check_mark:|`om.de`|
 |:white_check_mark:|`os.de`|
-|:white_check_mark:|`ot.de`|
-|:white_check_mark:|`ou.de`|
-|:white_check_mark:|`ox.de`|
-|:white_check_mark:|`oy.de`|
-|:white_check_mark:|`oz.de`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`p0.de`|
-|:white_check_mark:|`p1.de`|
 |:white_check_mark:|`p2.de`|
-|:white_check_mark:|`p5.de`|
-|:white_check_mark:|`p6.de`|
-|:white_check_mark:|`p7.de`|
-|:white_check_mark:|`pa.de`|
-|:white_check_mark:|`pb.de`|
-|:white_check_mark:|`pc.de`|
-|:white_check_mark:|`pd.de`|
-|:white_check_mark:|`pe.de`|
 |:white_check_mark:|`pg.de`|
-|:white_check_mark:|`ph.de`|
 |:white_check_mark:|`pi.de`|
-|:white_check_mark:|`pj.de`|
-|:white_check_mark:|`pk.de`|
-|:white_check_mark:|`po.de`|
-|:white_check_mark:|`pp.de`|
-|:white_check_mark:|`pq.de`|
-|:white_check_mark:|`pr.de`|
-|:white_check_mark:|`pu.de`|
-|:white_check_mark:|`pv.de`|
-|:white_check_mark:|`pw.de`|
-|:white_check_mark:|`pz.de`|
+|:white_check_mark:|`px.de`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`q0.de`|
-|:white_check_mark:|`q1.de`|
-|:white_check_mark:|`q4.de`|
-|:white_check_mark:|`q5.de`|
-|:white_check_mark:|`q6.de`|
-|:white_check_mark:|`q7.de`|
-|:white_check_mark:|`q8.de`|
 |:white_check_mark:|`qb.de`|
-|:white_check_mark:|`qc.de`|
-|:white_check_mark:|`qd.de`|
-|:white_check_mark:|`qg.de`|
-|:white_check_mark:|`qk.de`|
-|:white_check_mark:|`ql.de`|
-|:white_check_mark:|`qm.de`|
-|:white_check_mark:|`qn.de`|
-|:white_check_mark:|`qq.de`|
-|:white_check_mark:|`qr.de`|
-|:white_check_mark:|`qs.de`|
-|:white_check_mark:|`qt.de`|
-|:white_check_mark:|`qu.de`|
-|:white_check_mark:|`qv.de`|
-|:white_check_mark:|`qx.de`|
-|:white_check_mark:|`qy.de`|
-|:white_check_mark:|`qz.de`|
+|:white_check_mark:|`qi.de`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`r3.de`|
-|:white_check_mark:|`r4.de`|
 |:white_check_mark:|`r7.de`|
-|:white_check_mark:|`r8.de`|
-|:white_check_mark:|`r9.de`|
 |:white_check_mark:|`rc.de`|
-|:white_check_mark:|`rd.de`|
-|:white_check_mark:|`re.de`|
-|:white_check_mark:|`rg.de`|
-|:white_check_mark:|`rh.de`|
-|:white_check_mark:|`ri.de`|
-|:white_check_mark:|`rj.de`|
-|:white_check_mark:|`rk.de`|
-|:white_check_mark:|`rl.de`|
+|:white_check_mark:|`rm.de`|
 |:white_check_mark:|`ro.de`|
-|:white_check_mark:|`rp.de`|
-|:white_check_mark:|`rq.de`|
-|:white_check_mark:|`rr.de`|
-|:white_check_mark:|`ru.de`|
-|:white_check_mark:|`rv.de`|
-|:white_check_mark:|`rw.de`|
-|:white_check_mark:|`rx.de`|
-|:white_check_mark:|`ry.de`|
-|:white_check_mark:|`rz.de`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`s0.de`|
-|:white_check_mark:|`s3.de`|
-|:white_check_mark:|`s4.de`|
-|:white_check_mark:|`s5.de`|
-|:white_check_mark:|`s8.de`|
-|:white_check_mark:|`s9.de`|
-|:white_check_mark:|`sa.de`|
-|:white_check_mark:|`sb.de`|
-|:white_check_mark:|`se.de`|
-|:white_check_mark:|`sf.de`|
-|:white_check_mark:|`sg.de`|
-|:white_check_mark:|`sh.de`|
-|:white_check_mark:|`sl.de`|
-|:white_check_mark:|`sm.de`|
-|:white_check_mark:|`sn.de`|
-|:white_check_mark:|`sq.de`|
+|:white_check_mark:|`s1.de`|
 |:white_check_mark:|`sr.de`|
-|:white_check_mark:|`ss.de`|
-|:white_check_mark:|`sv.de`|
-|:white_check_mark:|`sw.de`|
-|:white_check_mark:|`sx.de`|
-|:white_check_mark:|`sy.de`|
-|:white_check_mark:|`sz.de`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`t0.de`|
-|:white_check_mark:|`t1.de`|
-|:white_check_mark:|`t2.de`|
-|:white_check_mark:|`t5.de`|
-|:white_check_mark:|`t6.de`|
-|:white_check_mark:|`t7.de`|
-|:white_check_mark:|`t8.de`|
-|:white_check_mark:|`ta.de`|
-|:white_check_mark:|`tb.de`|
-|:white_check_mark:|`tc.de`|
-|:white_check_mark:|`td.de`|
-|:white_check_mark:|`tg.de`|
-|:white_check_mark:|`th.de`|
-|:white_check_mark:|`ti.de`|
-|:white_check_mark:|`tl.de`|
-|:white_check_mark:|`tm.de`|
-|:white_check_mark:|`tn.de`|
-|:white_check_mark:|`to.de`|
-|:white_check_mark:|`tp.de`|
-|:white_check_mark:|`ts.de`|
-|:white_check_mark:|`tt.de`|
+|:white_check_mark:|`t9.de`|
 |:white_check_mark:|`tu.de`|
 |:white_check_mark:|`tx.de`|
 |:white_check_mark:|`ty.de`|
-|:white_check_mark:|`tz.de`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`u3.de`|
-|:white_check_mark:|`u4.de`|
-|:white_check_mark:|`u5.de`|
-|:white_check_mark:|`u6.de`|
-|:white_check_mark:|`u9.de`|
-|:white_check_mark:|`ub.de`|
-|:white_check_mark:|`uc.de`|
-|:white_check_mark:|`ud.de`|
-|:white_check_mark:|`ue.de`|
-|:white_check_mark:|`uf.de`|
-|:white_check_mark:|`uj.de`|
-|:white_check_mark:|`uk.de`|
-|:white_check_mark:|`ul.de`|
-|:white_check_mark:|`uo.de`|
-|:white_check_mark:|`up.de`|
-|:white_check_mark:|`uq.de`|
-|:white_check_mark:|`ur.de`|
-|:white_check_mark:|`us.de`|
-|:white_check_mark:|`ut.de`|
-|:white_check_mark:|`uw.de`|
 |:white_check_mark:|`ux.de`|
-|:white_check_mark:|`uy.de`|
-|:white_check_mark:|`uz.de`|
 </details>
 <details>
-<summary>9 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`v2.de`|
-|:white_check_mark:|`v3.de`|
-|:white_check_mark:|`v8.de`|
-|:white_check_mark:|`va.de`|
-|:white_check_mark:|`vb.de`|
-|:white_check_mark:|`vc.de`|
-|:white_check_mark:|`vl.de`|
-|:white_check_mark:|`vt.de`|
-|:white_check_mark:|`vu.de`|
+|:white_check_mark:|`vg.de`|
+|:white_check_mark:|`vx.de`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`w0.de`|
-|:white_check_mark:|`w4.de`|
-|:white_check_mark:|`w5.de`|
-|:white_check_mark:|`w6.de`|
-|:white_check_mark:|`wd.de`|
-|:white_check_mark:|`wi.de`|
-|:white_check_mark:|`wn.de`|
-|:white_check_mark:|`wo.de`|
-|:white_check_mark:|`ws.de`|
-|:white_check_mark:|`wt.de`|
-|:white_check_mark:|`wu.de`|
-|:white_check_mark:|`wz.de`|
+|:white_check_mark:|`wv.de`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`x0.de`|
-|:white_check_mark:|`x1.de`|
-|:white_check_mark:|`x2.de`|
-|:white_check_mark:|`x3.de`|
-|:white_check_mark:|`x4.de`|
-|:white_check_mark:|`x7.de`|
-|:white_check_mark:|`x8.de`|
-|:white_check_mark:|`x9.de`|
 |:white_check_mark:|`xa.de`|
-|:white_check_mark:|`xb.de`|
-|:white_check_mark:|`xc.de`|
-|:white_check_mark:|`xd.de`|
-|:white_check_mark:|`xi.de`|
-|:white_check_mark:|`xl.de`|
-|:white_check_mark:|`xm.de`|
-|:white_check_mark:|`xn.de`|
-|:white_check_mark:|`xo.de`|
-|:white_check_mark:|`xq.de`|
-|:white_check_mark:|`xr.de`|
-|:white_check_mark:|`xs.de`|
-|:white_check_mark:|`xt.de`|
-|:white_check_mark:|`xu.de`|
-|:white_check_mark:|`xv.de`|
-|:white_check_mark:|`xw.de`|
-|:white_check_mark:|`xx.de`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`y0.de`|
-|:white_check_mark:|`y1.de`|
-|:white_check_mark:|`y4.de`|
-|:white_check_mark:|`y5.de`|
-|:white_check_mark:|`y6.de`|
-|:white_check_mark:|`y7.de`|
-|:white_check_mark:|`y8.de`|
-|:white_check_mark:|`y9.de`|
-|:white_check_mark:|`ya.de`|
-|:white_check_mark:|`yb.de`|
-|:white_check_mark:|`yc.de`|
-|:white_check_mark:|`yj.de`|
+|:white_check_mark:|`yf.de`|
 |:white_check_mark:|`yk.de`|
 |:white_check_mark:|`yl.de`|
-|:white_check_mark:|`ym.de`|
-|:white_check_mark:|`yn.de`|
-|:white_check_mark:|`yo.de`|
-|:white_check_mark:|`ys.de`|
-|:white_check_mark:|`yt.de`|
-|:white_check_mark:|`yu.de`|
-|:white_check_mark:|`yv.de`|
-|:white_check_mark:|`yy.de`|
-|:white_check_mark:|`yz.de`|
-</details>
-<details>
-<summary>28 unregistered domains starting with <bold><code>z</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`z0.de`|
-|:white_check_mark:|`z1.de`|
-|:white_check_mark:|`z2.de`|
-|:white_check_mark:|`z5.de`|
-|:white_check_mark:|`z6.de`|
-|:white_check_mark:|`z7.de`|
-|:white_check_mark:|`z8.de`|
-|:white_check_mark:|`z9.de`|
-|:white_check_mark:|`zc.de`|
-|:white_check_mark:|`zd.de`|
-|:white_check_mark:|`ze.de`|
-|:white_check_mark:|`zf.de`|
-|:white_check_mark:|`zg.de`|
-|:white_check_mark:|`zh.de`|
-|:white_check_mark:|`zi.de`|
-|:white_check_mark:|`zj.de`|
-|:white_check_mark:|`zk.de`|
-|:white_check_mark:|`zl.de`|
-|:white_check_mark:|`zm.de`|
-|:white_check_mark:|`zn.de`|
-|:white_check_mark:|`zo.de`|
-|:white_check_mark:|`zq.de`|
-|:white_check_mark:|`zr.de`|
-|:white_check_mark:|`zs.de`|
-|:white_check_mark:|`zt.de`|
-|:white_check_mark:|`zu.de`|
-|:white_check_mark:|`zv.de`|
-|:white_check_mark:|`zz.de`|
+|:white_check_mark:|`yx.de`|
 </details>

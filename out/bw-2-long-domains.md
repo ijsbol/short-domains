@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bw`
 
-## Data last updated: 05/29/2024, 11:50:35
+## Data last updated: 06/05/2024, 16:36:10
 
 |Stat|Amount|
 |--|--|
-|Registered domains|97|
-|Unregistered domains|1199|
+|Registered domains|180|
+|Unregistered domains|1116|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|7.48%|
+|Registration rate|13.89%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -357,7 +357,7 @@
 |:white_check_mark:|`7z.bw`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -370,6 +370,7 @@
 |:white_check_mark:|`86.bw`|
 |:white_check_mark:|`87.bw`|
 |:white_check_mark:|`88.bw`|
+|:white_check_mark:|`89.bw`|
 |:white_check_mark:|`8a.bw`|
 |:white_check_mark:|`8b.bw`|
 |:white_check_mark:|`8c.bw`|
@@ -398,25 +399,85 @@
 |:white_check_mark:|`8z.bw`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`b0.bw`|
-|:white_check_mark:|`b1.bw`|
-|:white_check_mark:|`b2.bw`|
-|:white_check_mark:|`b3.bw`|
-|:white_check_mark:|`b4.bw`|
-|:white_check_mark:|`b5.bw`|
-|:white_check_mark:|`b6.bw`|
-|:white_check_mark:|`b7.bw`|
-|:white_check_mark:|`b8.bw`|
-|:white_check_mark:|`b9.bw`|
-|:white_check_mark:|`by.bw`|
-|:white_check_mark:|`bz.bw`|
+|:white_check_mark:|`90.bw`|
+|:white_check_mark:|`91.bw`|
+|:white_check_mark:|`92.bw`|
+|:white_check_mark:|`93.bw`|
+|:white_check_mark:|`94.bw`|
+|:white_check_mark:|`95.bw`|
+|:white_check_mark:|`96.bw`|
+|:white_check_mark:|`97.bw`|
+|:white_check_mark:|`98.bw`|
+|:white_check_mark:|`99.bw`|
+|:white_check_mark:|`9a.bw`|
+|:white_check_mark:|`9b.bw`|
+|:white_check_mark:|`9c.bw`|
+|:white_check_mark:|`9d.bw`|
+|:white_check_mark:|`9e.bw`|
+|:white_check_mark:|`9f.bw`|
+|:white_check_mark:|`9g.bw`|
+|:white_check_mark:|`9h.bw`|
+|:white_check_mark:|`9i.bw`|
+|:white_check_mark:|`9j.bw`|
+|:white_check_mark:|`9k.bw`|
+|:white_check_mark:|`9l.bw`|
+|:white_check_mark:|`9m.bw`|
+|:white_check_mark:|`9n.bw`|
+|:white_check_mark:|`9o.bw`|
+|:white_check_mark:|`9p.bw`|
+|:white_check_mark:|`9q.bw`|
+|:white_check_mark:|`9r.bw`|
+|:white_check_mark:|`9s.bw`|
+|:white_check_mark:|`9t.bw`|
+|:white_check_mark:|`9u.bw`|
+|:white_check_mark:|`9v.bw`|
+|:white_check_mark:|`9w.bw`|
+|:white_check_mark:|`9x.bw`|
+|:white_check_mark:|`9y.bw`|
+|:white_check_mark:|`9z.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>a</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`a3.bw`|
+|:white_check_mark:|`a4.bw`|
+|:white_check_mark:|`a6.bw`|
+|:white_check_mark:|`a8.bw`|
+|:white_check_mark:|`am.bw`|
+|:white_check_mark:|`at.bw`|
+|:white_check_mark:|`aw.bw`|
+|:white_check_mark:|`ax.bw`|
+</details>
+<details>
+<summary>16 unregistered domains starting with <bold><code>b</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`b4.bw`|
+|:white_check_mark:|`b6.bw`|
+|:white_check_mark:|`ba.bw`|
+|:white_check_mark:|`bb.bw`|
+|:white_check_mark:|`bc.bw`|
+|:white_check_mark:|`bd.bw`|
+|:white_check_mark:|`bj.bw`|
+|:white_check_mark:|`bk.bw`|
+|:white_check_mark:|`bl.bw`|
+|:white_check_mark:|`bm.bw`|
+|:white_check_mark:|`bq.bw`|
+|:white_check_mark:|`br.bw`|
+|:white_check_mark:|`bs.bw`|
+|:white_check_mark:|`bt.bw`|
+|:white_check_mark:|`bu.bw`|
+|:white_check_mark:|`bv.bw`|
+</details>
+<details>
+<summary>24 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -430,20 +491,8 @@
 |:white_check_mark:|`c7.bw`|
 |:white_check_mark:|`c8.bw`|
 |:white_check_mark:|`c9.bw`|
-|:white_check_mark:|`ca.bw`|
-|:white_check_mark:|`cb.bw`|
-|:white_check_mark:|`cc.bw`|
-|:white_check_mark:|`cd.bw`|
-|:white_check_mark:|`ce.bw`|
-|:white_check_mark:|`cf.bw`|
-|:white_check_mark:|`cg.bw`|
-|:white_check_mark:|`ch.bw`|
-|:white_check_mark:|`ci.bw`|
-|:white_check_mark:|`cj.bw`|
 |:white_check_mark:|`ck.bw`|
 |:white_check_mark:|`cl.bw`|
-|:white_check_mark:|`cm.bw`|
-|:white_check_mark:|`cn.bw`|
 |:white_check_mark:|`co.bw`|
 |:white_check_mark:|`cp.bw`|
 |:white_check_mark:|`cq.bw`|
@@ -584,20 +633,12 @@
 |:white_check_mark:|`fz.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`g0.bw`|
-|:white_check_mark:|`g1.bw`|
-|:white_check_mark:|`g2.bw`|
 |:white_check_mark:|`g3.bw`|
-|:white_check_mark:|`g4.bw`|
-|:white_check_mark:|`g5.bw`|
-|:white_check_mark:|`g6.bw`|
 |:white_check_mark:|`g7.bw`|
-|:white_check_mark:|`g8.bw`|
-|:white_check_mark:|`g9.bw`|
 |:white_check_mark:|`ga.bw`|
 |:white_check_mark:|`gb.bw`|
 |:white_check_mark:|`gc.bw`|
@@ -610,65 +651,25 @@
 |:white_check_mark:|`gj.bw`|
 |:white_check_mark:|`gk.bw`|
 |:white_check_mark:|`gl.bw`|
-|:white_check_mark:|`gm.bw`|
 |:white_check_mark:|`gn.bw`|
 |:white_check_mark:|`go.bw`|
 |:white_check_mark:|`gp.bw`|
-|:white_check_mark:|`gq.bw`|
-|:white_check_mark:|`gr.bw`|
-|:white_check_mark:|`gs.bw`|
-|:white_check_mark:|`gt.bw`|
-|:white_check_mark:|`gu.bw`|
 |:white_check_mark:|`gv.bw`|
 |:white_check_mark:|`gw.bw`|
-|:white_check_mark:|`gx.bw`|
-|:white_check_mark:|`gy.bw`|
-|:white_check_mark:|`gz.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`h0.bw`|
-|:white_check_mark:|`h1.bw`|
 |:white_check_mark:|`h2.bw`|
-|:white_check_mark:|`h3.bw`|
-|:white_check_mark:|`h4.bw`|
-|:white_check_mark:|`h5.bw`|
-|:white_check_mark:|`h6.bw`|
-|:white_check_mark:|`h7.bw`|
-|:white_check_mark:|`h8.bw`|
-|:white_check_mark:|`h9.bw`|
-|:white_check_mark:|`ha.bw`|
 |:white_check_mark:|`hb.bw`|
-|:white_check_mark:|`hc.bw`|
 |:white_check_mark:|`hd.bw`|
-|:white_check_mark:|`he.bw`|
-|:white_check_mark:|`hf.bw`|
-|:white_check_mark:|`hg.bw`|
-|:white_check_mark:|`hh.bw`|
-|:white_check_mark:|`hi.bw`|
-|:white_check_mark:|`hj.bw`|
 |:white_check_mark:|`hk.bw`|
-|:white_check_mark:|`hl.bw`|
-|:white_check_mark:|`hm.bw`|
 |:white_check_mark:|`hn.bw`|
-|:white_check_mark:|`ho.bw`|
-|:white_check_mark:|`hp.bw`|
-|:white_check_mark:|`hq.bw`|
-|:white_check_mark:|`hr.bw`|
-|:white_check_mark:|`hs.bw`|
-|:white_check_mark:|`ht.bw`|
-|:white_check_mark:|`hu.bw`|
-|:white_check_mark:|`hv.bw`|
-|:white_check_mark:|`hw.bw`|
-|:white_check_mark:|`hx.bw`|
-|:white_check_mark:|`hy.bw`|
-|:white_check_mark:|`hz.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -682,19 +683,7 @@
 |:white_check_mark:|`i7.bw`|
 |:white_check_mark:|`i8.bw`|
 |:white_check_mark:|`i9.bw`|
-|:white_check_mark:|`ia.bw`|
-|:white_check_mark:|`ib.bw`|
-|:white_check_mark:|`ic.bw`|
 |:white_check_mark:|`id.bw`|
-|:white_check_mark:|`ie.bw`|
-|:white_check_mark:|`if.bw`|
-|:white_check_mark:|`ig.bw`|
-|:white_check_mark:|`ih.bw`|
-|:white_check_mark:|`ii.bw`|
-|:white_check_mark:|`ij.bw`|
-|:white_check_mark:|`ik.bw`|
-|:white_check_mark:|`il.bw`|
-|:white_check_mark:|`im.bw`|
 |:white_check_mark:|`in.bw`|
 |:white_check_mark:|`io.bw`|
 |:white_check_mark:|`ip.bw`|
@@ -1214,20 +1203,11 @@
 |:white_check_mark:|`uz.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>27 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`v0.bw`|
-|:white_check_mark:|`v1.bw`|
-|:white_check_mark:|`v2.bw`|
-|:white_check_mark:|`v3.bw`|
-|:white_check_mark:|`v4.bw`|
-|:white_check_mark:|`v5.bw`|
-|:white_check_mark:|`v6.bw`|
-|:white_check_mark:|`v7.bw`|
-|:white_check_mark:|`v8.bw`|
-|:white_check_mark:|`v9.bw`|
 |:white_check_mark:|`va.bw`|
 |:white_check_mark:|`vb.bw`|
 |:white_check_mark:|`vc.bw`|
@@ -1256,49 +1236,14 @@
 |:white_check_mark:|`vz.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`w0.bw`|
-|:white_check_mark:|`w1.bw`|
-|:white_check_mark:|`w2.bw`|
-|:white_check_mark:|`w3.bw`|
-|:white_check_mark:|`w4.bw`|
-|:white_check_mark:|`w5.bw`|
-|:white_check_mark:|`w6.bw`|
-|:white_check_mark:|`w7.bw`|
-|:white_check_mark:|`w8.bw`|
-|:white_check_mark:|`w9.bw`|
-|:white_check_mark:|`wa.bw`|
-|:white_check_mark:|`wb.bw`|
-|:white_check_mark:|`wc.bw`|
-|:white_check_mark:|`wd.bw`|
-|:white_check_mark:|`we.bw`|
 |:white_check_mark:|`wf.bw`|
-|:white_check_mark:|`wg.bw`|
-|:white_check_mark:|`wh.bw`|
-|:white_check_mark:|`wi.bw`|
-|:white_check_mark:|`wj.bw`|
-|:white_check_mark:|`wk.bw`|
-|:white_check_mark:|`wl.bw`|
-|:white_check_mark:|`wm.bw`|
-|:white_check_mark:|`wn.bw`|
-|:white_check_mark:|`wo.bw`|
-|:white_check_mark:|`wp.bw`|
-|:white_check_mark:|`wq.bw`|
-|:white_check_mark:|`wr.bw`|
-|:white_check_mark:|`ws.bw`|
-|:white_check_mark:|`wt.bw`|
-|:white_check_mark:|`wu.bw`|
-|:white_check_mark:|`wv.bw`|
-|:white_check_mark:|`ww.bw`|
-|:white_check_mark:|`wx.bw`|
-|:white_check_mark:|`wy.bw`|
-|:white_check_mark:|`wz.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1312,22 +1257,6 @@
 |:white_check_mark:|`x7.bw`|
 |:white_check_mark:|`x8.bw`|
 |:white_check_mark:|`x9.bw`|
-|:white_check_mark:|`xa.bw`|
-|:white_check_mark:|`xb.bw`|
-|:white_check_mark:|`xc.bw`|
-|:white_check_mark:|`xd.bw`|
-|:white_check_mark:|`xe.bw`|
-|:white_check_mark:|`xf.bw`|
-|:white_check_mark:|`xg.bw`|
-|:white_check_mark:|`xh.bw`|
-|:white_check_mark:|`xi.bw`|
-|:white_check_mark:|`xj.bw`|
-|:white_check_mark:|`xk.bw`|
-|:white_check_mark:|`xl.bw`|
-|:white_check_mark:|`xm.bw`|
-|:white_check_mark:|`xn.bw`|
-|:white_check_mark:|`xo.bw`|
-|:white_check_mark:|`xp.bw`|
 |:white_check_mark:|`xq.bw`|
 |:white_check_mark:|`xr.bw`|
 |:white_check_mark:|`xs.bw`|

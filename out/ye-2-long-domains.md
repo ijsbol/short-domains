@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.ye`
 
-## Data last updated: 05/29/2024, 12:03:24
+## Data last updated: 06/05/2024, 16:51:49
 
 |Stat|Amount|
 |--|--|
-|Registered domains|5|
-|Unregistered domains|1236|
+|Registered domains|1|
+|Unregistered domains|1295|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.4%|
+|Registration rate|0.08%|
 |Failed lookups|0|
-|Successful lookups|1241|
+|Successful lookups|1296|
 |Lookup success rate|100%|
 
 
@@ -357,10 +357,20 @@
 |:white_check_mark:|`7z.ye`|
 </details>
 <details>
-<summary>17 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`80.ye`|
+|:white_check_mark:|`81.ye`|
+|:white_check_mark:|`82.ye`|
+|:white_check_mark:|`83.ye`|
+|:white_check_mark:|`84.ye`|
+|:white_check_mark:|`85.ye`|
+|:white_check_mark:|`86.ye`|
+|:white_check_mark:|`87.ye`|
+|:white_check_mark:|`88.ye`|
+|:white_check_mark:|`89.ye`|
 |:white_check_mark:|`8a.ye`|
 |:white_check_mark:|`8b.ye`|
 |:white_check_mark:|`8c.ye`|
@@ -378,6 +388,57 @@
 |:white_check_mark:|`8o.ye`|
 |:white_check_mark:|`8p.ye`|
 |:white_check_mark:|`8q.ye`|
+|:white_check_mark:|`8r.ye`|
+|:white_check_mark:|`8s.ye`|
+|:white_check_mark:|`8t.ye`|
+|:white_check_mark:|`8u.ye`|
+|:white_check_mark:|`8v.ye`|
+|:white_check_mark:|`8w.ye`|
+|:white_check_mark:|`8x.ye`|
+|:white_check_mark:|`8y.ye`|
+|:white_check_mark:|`8z.ye`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`90.ye`|
+|:white_check_mark:|`91.ye`|
+|:white_check_mark:|`92.ye`|
+|:white_check_mark:|`93.ye`|
+|:white_check_mark:|`94.ye`|
+|:white_check_mark:|`95.ye`|
+|:white_check_mark:|`96.ye`|
+|:white_check_mark:|`97.ye`|
+|:white_check_mark:|`98.ye`|
+|:white_check_mark:|`99.ye`|
+|:white_check_mark:|`9a.ye`|
+|:white_check_mark:|`9b.ye`|
+|:white_check_mark:|`9c.ye`|
+|:white_check_mark:|`9d.ye`|
+|:white_check_mark:|`9e.ye`|
+|:white_check_mark:|`9f.ye`|
+|:white_check_mark:|`9g.ye`|
+|:white_check_mark:|`9h.ye`|
+|:white_check_mark:|`9i.ye`|
+|:white_check_mark:|`9j.ye`|
+|:white_check_mark:|`9k.ye`|
+|:white_check_mark:|`9l.ye`|
+|:white_check_mark:|`9m.ye`|
+|:white_check_mark:|`9n.ye`|
+|:white_check_mark:|`9o.ye`|
+|:white_check_mark:|`9p.ye`|
+|:white_check_mark:|`9q.ye`|
+|:white_check_mark:|`9r.ye`|
+|:white_check_mark:|`9s.ye`|
+|:white_check_mark:|`9t.ye`|
+|:white_check_mark:|`9u.ye`|
+|:white_check_mark:|`9v.ye`|
+|:white_check_mark:|`9w.ye`|
+|:white_check_mark:|`9x.ye`|
+|:white_check_mark:|`9y.ye`|
+|:white_check_mark:|`9z.ye`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>a</code></bold></summary>
@@ -883,7 +944,7 @@
 |:white_check_mark:|`lz.ye`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -901,6 +962,7 @@
 |:white_check_mark:|`mb.ye`|
 |:white_check_mark:|`mc.ye`|
 |:white_check_mark:|`md.ye`|
+|:white_check_mark:|`me.ye`|
 |:white_check_mark:|`mf.ye`|
 |:white_check_mark:|`mg.ye`|
 |:white_check_mark:|`mh.ye`|
@@ -1176,7 +1238,7 @@
 |:white_check_mark:|`sz.ye`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1211,6 +1273,7 @@
 |:white_check_mark:|`ts.ye`|
 |:white_check_mark:|`tt.ye`|
 |:white_check_mark:|`tu.ye`|
+|:white_check_mark:|`tv.ye`|
 |:white_check_mark:|`tw.ye`|
 |:white_check_mark:|`tx.ye`|
 |:white_check_mark:|`ty.ye`|
@@ -1385,7 +1448,7 @@
 |:white_check_mark:|`xz.ye`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1411,6 +1474,8 @@
 |:white_check_mark:|`yj.ye`|
 |:white_check_mark:|`yk.ye`|
 |:white_check_mark:|`yl.ye`|
+|:white_check_mark:|`ym.ye`|
+|:white_check_mark:|`yn.ye`|
 |:white_check_mark:|`yo.ye`|
 |:white_check_mark:|`yp.ye`|
 |:white_check_mark:|`yq.ye`|
