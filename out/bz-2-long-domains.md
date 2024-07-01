@@ -1,6 +1,6 @@
-# Available 2 character long domains for `.kg`
+# Available 2 character long domains for `.bz`
 
-## Data last updated: 06/05/2024, 12:56:20
+## Data last updated: 07/01/2024, 15:04:33
 
 |Stat|Amount|
 |--|--|
@@ -25,5 +25,5 @@
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`aa.kg`|
+|:white_check_mark:|`aa.bz`|
 </details>

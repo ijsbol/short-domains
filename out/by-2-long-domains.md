@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.by`
 
-## Data last updated: 06/05/2024, 16:34:04
+## Data last updated: 07/01/2024, 15:28:24
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1158|
-|Unregistered domains|138|
+|Registered domains|1238|
+|Unregistered domains|58|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|89.35%|
+|Registration rate|95.52%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,13 +21,11 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>3 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`08.by`|
-|:white_check_mark:|`0g.by`|
-|:white_check_mark:|`0n.by`|
+|:white_check_mark:|`0j.by`|
 </details>
 <details>
 <summary>2 unregistered domains starting with <bold><code>1</code></bold></summary>
@@ -38,245 +36,154 @@
 |:white_check_mark:|`1i.by`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>4</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`4v.by`|
+|:white_check_mark:|`2i.by`|
 </details>
 <details>
-<summary>4 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`52.by`|
-|:white_check_mark:|`5a.by`|
-|:white_check_mark:|`5m.by`|
-|:white_check_mark:|`5x.by`|
+|:white_check_mark:|`58.by`|
 </details>
 <details>
-<summary>2 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`69.by`|
-|:white_check_mark:|`6p.by`|
+|:white_check_mark:|`6u.by`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`8e.by`|
+|:white_check_mark:|`8a.by`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>9</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`9o.by`|
+|:white_check_mark:|`9p.by`|
 </details>
 <details>
-<summary>15 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`a0.by`|
+|:white_check_mark:|`a1.by`|
 |:white_check_mark:|`a2.by`|
-|:white_check_mark:|`af.by`|
-|:white_check_mark:|`ag.by`|
-|:white_check_mark:|`ah.by`|
-|:white_check_mark:|`ai.by`|
+|:white_check_mark:|`a3.by`|
+|:white_check_mark:|`a6.by`|
+|:white_check_mark:|`a7.by`|
+|:white_check_mark:|`a8.by`|
+|:white_check_mark:|`a9.by`|
 |:white_check_mark:|`aj.by`|
 |:white_check_mark:|`ak.by`|
-|:white_check_mark:|`al.by`|
-|:white_check_mark:|`am.by`|
-|:white_check_mark:|`an.by`|
-|:white_check_mark:|`at.by`|
-|:white_check_mark:|`av.by`|
-|:white_check_mark:|`ay.by`|
+|:white_check_mark:|`as.by`|
 |:white_check_mark:|`az.by`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`b1.by`|
-|:white_check_mark:|`b7.by`|
-|:white_check_mark:|`bc.by`|
-|:white_check_mark:|`bd.by`|
-|:white_check_mark:|`be.by`|
-|:white_check_mark:|`bf.by`|
-|:white_check_mark:|`bh.by`|
+|:white_check_mark:|`bb.by`|
+|:white_check_mark:|`bj.by`|
+|:white_check_mark:|`bk.by`|
+|:white_check_mark:|`bl.by`|
+|:white_check_mark:|`bm.by`|
 |:white_check_mark:|`bn.by`|
-|:white_check_mark:|`bw.by`|
-|:white_check_mark:|`by.by`|
+|:white_check_mark:|`bo.by`|
+|:white_check_mark:|`bp.by`|
+|:white_check_mark:|`bq.by`|
+|:white_check_mark:|`br.by`|
+|:white_check_mark:|`bs.by`|
+|:white_check_mark:|`bt.by`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`c0.by`|
-|:white_check_mark:|`c2.by`|
-|:white_check_mark:|`c3.by`|
-|:white_check_mark:|`c4.by`|
-|:white_check_mark:|`cf.by`|
-|:white_check_mark:|`cg.by`|
-|:white_check_mark:|`ch.by`|
-|:white_check_mark:|`cj.by`|
-|:white_check_mark:|`ck.by`|
 |:white_check_mark:|`cl.by`|
-|:white_check_mark:|`cn.by`|
+|:white_check_mark:|`cm.by`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`d0.by`|
 |:white_check_mark:|`d1.by`|
 |:white_check_mark:|`d3.by`|
-|:white_check_mark:|`d4.by`|
-|:white_check_mark:|`d5.by`|
-|:white_check_mark:|`d6.by`|
-|:white_check_mark:|`d7.by`|
-|:white_check_mark:|`dh.by`|
-|:white_check_mark:|`dx.by`|
-|:white_check_mark:|`dz.by`|
+|:white_check_mark:|`dy.by`|
 </details>
 <details>
-<summary>9 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`e4.by`|
-|:white_check_mark:|`e5.by`|
-|:white_check_mark:|`ea.by`|
-|:white_check_mark:|`ei.by`|
-|:white_check_mark:|`ek.by`|
-|:white_check_mark:|`eo.by`|
-|:white_check_mark:|`ep.by`|
-|:white_check_mark:|`et.by`|
-|:white_check_mark:|`eu.by`|
+|:white_check_mark:|`fr.by`|
 </details>
 <details>
-<summary>8 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`f5.by`|
-|:white_check_mark:|`fc.by`|
-|:white_check_mark:|`fd.by`|
-|:white_check_mark:|`fe.by`|
-|:white_check_mark:|`fg.by`|
-|:white_check_mark:|`fh.by`|
-|:white_check_mark:|`fu.by`|
-|:white_check_mark:|`fx.by`|
+|:white_check_mark:|`h6.by`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`g2.by`|
-|:white_check_mark:|`gb.by`|
-|:white_check_mark:|`gy.by`|
+|:white_check_mark:|`ix.by`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>h</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`h8.by`|
-|:white_check_mark:|`hf.by`|
-|:white_check_mark:|`hp.by`|
-</details>
-<details>
-<summary>4 unregistered domains starting with <bold><code>i</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`i6.by`|
-|:white_check_mark:|`ie.by`|
-|:white_check_mark:|`iv.by`|
-|:white_check_mark:|`iw.by`|
-</details>
-<details>
-<summary>3 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`j2.by`|
-|:white_check_mark:|`jg.by`|
-|:white_check_mark:|`ji.by`|
+|:white_check_mark:|`j4.by`|
 </details>
 <details>
-<summary>2 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`k1.by`|
-|:white_check_mark:|`kq.by`|
+|:white_check_mark:|`la.by`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>l</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`l8.by`|
-|:white_check_mark:|`li.by`|
-|:white_check_mark:|`lm.by`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>m</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`mu.by`|
-</details>
-<details>
-<summary>6 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`n1.by`|
-|:white_check_mark:|`nc.by`|
-|:white_check_mark:|`nd.by`|
-|:white_check_mark:|`nq.by`|
-|:white_check_mark:|`nw.by`|
-|:white_check_mark:|`nx.by`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>o</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`o6.by`|
-|:white_check_mark:|`od.by`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`ps.by`|
+|:white_check_mark:|`py.by`|
 </details>
 <details>
-<summary>6 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`q0.by`|
-|:white_check_mark:|`q2.by`|
-|:white_check_mark:|`qa.by`|
-|:white_check_mark:|`qb.by`|
-|:white_check_mark:|`qv.by`|
-|:white_check_mark:|`qw.by`|
+|:white_check_mark:|`q8.by`|
 </details>
 <details>
-<summary>4 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -284,75 +191,34 @@
 |:white_check_mark:|`r6.by`|
 |:white_check_mark:|`r7.by`|
 |:white_check_mark:|`rh.by`|
-</details>
-<details>
-<summary>4 unregistered domains starting with <bold><code>s</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`s5.by`|
-|:white_check_mark:|`s7.by`|
-|:white_check_mark:|`sh.by`|
-|:white_check_mark:|`sz.by`|
+|:white_check_mark:|`rq.by`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`to.by`|
+|:white_check_mark:|`tu.by`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`u0.by`|
-|:white_check_mark:|`u6.by`|
-|:white_check_mark:|`u7.by`|
 </details>
 <details>
-<summary>2 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`v0.by`|
-|:white_check_mark:|`vb.by`|
+|:white_check_mark:|`wp.by`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>w</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`w2.by`|
-|:white_check_mark:|`w9.by`|
-|:white_check_mark:|`wu.by`|
-</details>
-<details>
-<summary>4 unregistered domains starting with <bold><code>x</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`xl.by`|
-|:white_check_mark:|`xo.by`|
-|:white_check_mark:|`xu.by`|
-|:white_check_mark:|`xz.by`|
-</details>
-<details>
-<summary>4 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>2 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`ya.by`|
-|:white_check_mark:|`yg.by`|
 |:white_check_mark:|`yv.by`|
-|:white_check_mark:|`yx.by`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>z</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`z8.by`|
-|:white_check_mark:|`zj.by`|
 </details>

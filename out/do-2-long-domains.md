@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.do`
 
-## Data last updated: 06/05/2024, 16:35:37
+## Data last updated: 07/01/2024, 15:26:26
 
 |Stat|Amount|
 |--|--|
-|Registered domains|180|
-|Unregistered domains|1116|
+|Registered domains|85|
+|Unregistered domains|1211|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|13.89%|
+|Registration rate|6.56%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -445,35 +445,62 @@
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a3.do`|
-|:white_check_mark:|`a6.do`|
-|:white_check_mark:|`a7.do`|
-|:white_check_mark:|`a8.do`|
+|:white_check_mark:|`a1.do`|
+|:white_check_mark:|`a5.do`|
+|:white_check_mark:|`aa.do`|
+|:white_check_mark:|`ab.do`|
+|:white_check_mark:|`ac.do`|
 |:white_check_mark:|`ad.do`|
+|:white_check_mark:|`ae.do`|
 |:white_check_mark:|`af.do`|
-|:white_check_mark:|`ag.do`|
-|:white_check_mark:|`ah.do`|
-|:white_check_mark:|`ai.do`|
-|:white_check_mark:|`ak.do`|
-|:white_check_mark:|`al.do`|
-|:white_check_mark:|`an.do`|
-|:white_check_mark:|`au.do`|
+|:white_check_mark:|`aj.do`|
+|:white_check_mark:|`ap.do`|
+|:white_check_mark:|`aq.do`|
+|:white_check_mark:|`ar.do`|
+|:white_check_mark:|`as.do`|
 </details>
 <details>
-<summary>7 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`b0.do`|
+|:white_check_mark:|`b1.do`|
+|:white_check_mark:|`b2.do`|
+|:white_check_mark:|`b3.do`|
+|:white_check_mark:|`b4.do`|
+|:white_check_mark:|`b5.do`|
+|:white_check_mark:|`b6.do`|
+|:white_check_mark:|`b7.do`|
+|:white_check_mark:|`b8.do`|
 |:white_check_mark:|`b9.do`|
-|:white_check_mark:|`ba.do`|
-|:white_check_mark:|`bb.do`|
+|:white_check_mark:|`bc.do`|
+|:white_check_mark:|`bd.do`|
+|:white_check_mark:|`be.do`|
 |:white_check_mark:|`bf.do`|
 |:white_check_mark:|`bg.do`|
+|:white_check_mark:|`bh.do`|
+|:white_check_mark:|`bi.do`|
+|:white_check_mark:|`bj.do`|
+|:white_check_mark:|`bk.do`|
+|:white_check_mark:|`bl.do`|
+|:white_check_mark:|`bm.do`|
+|:white_check_mark:|`bn.do`|
+|:white_check_mark:|`bo.do`|
+|:white_check_mark:|`bp.do`|
+|:white_check_mark:|`bq.do`|
+|:white_check_mark:|`br.do`|
+|:white_check_mark:|`bs.do`|
+|:white_check_mark:|`bt.do`|
+|:white_check_mark:|`bu.do`|
+|:white_check_mark:|`bv.do`|
 |:white_check_mark:|`bw.do`|
+|:white_check_mark:|`bx.do`|
+|:white_check_mark:|`by.do`|
+|:white_check_mark:|`bz.do`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -487,12 +514,20 @@
 |:white_check_mark:|`c7.do`|
 |:white_check_mark:|`c8.do`|
 |:white_check_mark:|`c9.do`|
+|:white_check_mark:|`ca.do`|
+|:white_check_mark:|`cb.do`|
+|:white_check_mark:|`cc.do`|
 |:white_check_mark:|`cd.do`|
 |:white_check_mark:|`ce.do`|
 |:white_check_mark:|`cf.do`|
+|:white_check_mark:|`cg.do`|
+|:white_check_mark:|`ch.do`|
+|:white_check_mark:|`ci.do`|
+|:white_check_mark:|`cj.do`|
 |:white_check_mark:|`ck.do`|
 |:white_check_mark:|`cl.do`|
 |:white_check_mark:|`cm.do`|
+|:white_check_mark:|`cn.do`|
 |:white_check_mark:|`co.do`|
 |:white_check_mark:|`cp.do`|
 |:white_check_mark:|`cq.do`|
@@ -591,7 +626,7 @@
 |:white_check_mark:|`ez.do`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -603,6 +638,8 @@
 |:white_check_mark:|`f5.do`|
 |:white_check_mark:|`f6.do`|
 |:white_check_mark:|`f7.do`|
+|:white_check_mark:|`f8.do`|
+|:white_check_mark:|`f9.do`|
 |:white_check_mark:|`fa.do`|
 |:white_check_mark:|`fb.do`|
 |:white_check_mark:|`fc.do`|
@@ -631,30 +668,88 @@
 |:white_check_mark:|`fz.do`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`g0.do`|
+|:white_check_mark:|`g1.do`|
+|:white_check_mark:|`g2.do`|
+|:white_check_mark:|`g3.do`|
+|:white_check_mark:|`g4.do`|
+|:white_check_mark:|`g5.do`|
+|:white_check_mark:|`g6.do`|
+|:white_check_mark:|`g7.do`|
+|:white_check_mark:|`g8.do`|
 |:white_check_mark:|`g9.do`|
+|:white_check_mark:|`ga.do`|
+|:white_check_mark:|`gb.do`|
+|:white_check_mark:|`gc.do`|
+|:white_check_mark:|`gd.do`|
+|:white_check_mark:|`ge.do`|
+|:white_check_mark:|`gf.do`|
+|:white_check_mark:|`gg.do`|
+|:white_check_mark:|`gh.do`|
+|:white_check_mark:|`gi.do`|
+|:white_check_mark:|`gj.do`|
+|:white_check_mark:|`gk.do`|
+|:white_check_mark:|`gl.do`|
+|:white_check_mark:|`gm.do`|
+|:white_check_mark:|`gn.do`|
+|:white_check_mark:|`go.do`|
+|:white_check_mark:|`gp.do`|
+|:white_check_mark:|`gq.do`|
+|:white_check_mark:|`gr.do`|
+|:white_check_mark:|`gs.do`|
+|:white_check_mark:|`gt.do`|
+|:white_check_mark:|`gu.do`|
 |:white_check_mark:|`gv.do`|
 |:white_check_mark:|`gw.do`|
+|:white_check_mark:|`gx.do`|
+|:white_check_mark:|`gy.do`|
+|:white_check_mark:|`gz.do`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`h0.do`|
+|:white_check_mark:|`h1.do`|
+|:white_check_mark:|`h2.do`|
+|:white_check_mark:|`h3.do`|
 |:white_check_mark:|`h4.do`|
 |:white_check_mark:|`h5.do`|
 |:white_check_mark:|`h6.do`|
 |:white_check_mark:|`h7.do`|
 |:white_check_mark:|`h8.do`|
 |:white_check_mark:|`h9.do`|
+|:white_check_mark:|`ha.do`|
+|:white_check_mark:|`hb.do`|
 |:white_check_mark:|`hc.do`|
 |:white_check_mark:|`hd.do`|
+|:white_check_mark:|`he.do`|
+|:white_check_mark:|`hf.do`|
+|:white_check_mark:|`hg.do`|
+|:white_check_mark:|`hh.do`|
+|:white_check_mark:|`hi.do`|
+|:white_check_mark:|`hj.do`|
 |:white_check_mark:|`hk.do`|
+|:white_check_mark:|`hl.do`|
+|:white_check_mark:|`hm.do`|
+|:white_check_mark:|`hn.do`|
+|:white_check_mark:|`ho.do`|
+|:white_check_mark:|`hp.do`|
+|:white_check_mark:|`hq.do`|
+|:white_check_mark:|`hr.do`|
+|:white_check_mark:|`hs.do`|
 |:white_check_mark:|`ht.do`|
 |:white_check_mark:|`hu.do`|
+|:white_check_mark:|`hv.do`|
+|:white_check_mark:|`hw.do`|
+|:white_check_mark:|`hx.do`|
+|:white_check_mark:|`hy.do`|
+|:white_check_mark:|`hz.do`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>i</code></bold></summary>
@@ -699,20 +794,12 @@
 |:white_check_mark:|`iz.do`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`j0.do`|
 |:white_check_mark:|`j1.do`|
-|:white_check_mark:|`j2.do`|
-|:white_check_mark:|`j3.do`|
-|:white_check_mark:|`j4.do`|
-|:white_check_mark:|`j5.do`|
-|:white_check_mark:|`j6.do`|
-|:white_check_mark:|`j7.do`|
-|:white_check_mark:|`j8.do`|
-|:white_check_mark:|`j9.do`|
 |:white_check_mark:|`ja.do`|
 |:white_check_mark:|`jb.do`|
 |:white_check_mark:|`jc.do`|
@@ -741,49 +828,7 @@
 |:white_check_mark:|`jz.do`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`k0.do`|
-|:white_check_mark:|`k1.do`|
-|:white_check_mark:|`k2.do`|
-|:white_check_mark:|`k3.do`|
-|:white_check_mark:|`k4.do`|
-|:white_check_mark:|`k5.do`|
-|:white_check_mark:|`k6.do`|
-|:white_check_mark:|`k7.do`|
-|:white_check_mark:|`k8.do`|
-|:white_check_mark:|`k9.do`|
-|:white_check_mark:|`ka.do`|
-|:white_check_mark:|`kb.do`|
-|:white_check_mark:|`kc.do`|
-|:white_check_mark:|`kd.do`|
-|:white_check_mark:|`ke.do`|
-|:white_check_mark:|`kf.do`|
-|:white_check_mark:|`kg.do`|
-|:white_check_mark:|`kh.do`|
-|:white_check_mark:|`ki.do`|
-|:white_check_mark:|`kj.do`|
-|:white_check_mark:|`kk.do`|
-|:white_check_mark:|`kl.do`|
-|:white_check_mark:|`km.do`|
-|:white_check_mark:|`kn.do`|
-|:white_check_mark:|`ko.do`|
-|:white_check_mark:|`kp.do`|
-|:white_check_mark:|`kq.do`|
-|:white_check_mark:|`kr.do`|
-|:white_check_mark:|`ks.do`|
-|:white_check_mark:|`kt.do`|
-|:white_check_mark:|`ku.do`|
-|:white_check_mark:|`kv.do`|
-|:white_check_mark:|`kw.do`|
-|:white_check_mark:|`kx.do`|
-|:white_check_mark:|`ky.do`|
-|:white_check_mark:|`kz.do`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -797,22 +842,6 @@
 |:white_check_mark:|`l7.do`|
 |:white_check_mark:|`l8.do`|
 |:white_check_mark:|`l9.do`|
-|:white_check_mark:|`la.do`|
-|:white_check_mark:|`lb.do`|
-|:white_check_mark:|`lc.do`|
-|:white_check_mark:|`ld.do`|
-|:white_check_mark:|`le.do`|
-|:white_check_mark:|`lf.do`|
-|:white_check_mark:|`lg.do`|
-|:white_check_mark:|`lh.do`|
-|:white_check_mark:|`li.do`|
-|:white_check_mark:|`lj.do`|
-|:white_check_mark:|`lk.do`|
-|:white_check_mark:|`ll.do`|
-|:white_check_mark:|`lm.do`|
-|:white_check_mark:|`ln.do`|
-|:white_check_mark:|`lo.do`|
-|:white_check_mark:|`lp.do`|
 |:white_check_mark:|`lq.do`|
 |:white_check_mark:|`lr.do`|
 |:white_check_mark:|`ls.do`|
@@ -1245,10 +1274,20 @@
 |:white_check_mark:|`vz.do`|
 </details>
 <details>
-<summary>9 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`w0.do`|
+|:white_check_mark:|`w1.do`|
+|:white_check_mark:|`w2.do`|
+|:white_check_mark:|`w3.do`|
+|:white_check_mark:|`w4.do`|
+|:white_check_mark:|`w5.do`|
+|:white_check_mark:|`w6.do`|
+|:white_check_mark:|`w7.do`|
+|:white_check_mark:|`w8.do`|
+|:white_check_mark:|`w9.do`|
 |:white_check_mark:|`wa.do`|
 |:white_check_mark:|`wb.do`|
 |:white_check_mark:|`wc.do`|
@@ -1258,15 +1297,65 @@
 |:white_check_mark:|`wg.do`|
 |:white_check_mark:|`wh.do`|
 |:white_check_mark:|`wi.do`|
+|:white_check_mark:|`wj.do`|
+|:white_check_mark:|`wk.do`|
+|:white_check_mark:|`wl.do`|
+|:white_check_mark:|`wm.do`|
+|:white_check_mark:|`wn.do`|
+|:white_check_mark:|`wo.do`|
+|:white_check_mark:|`wp.do`|
+|:white_check_mark:|`wq.do`|
+|:white_check_mark:|`wr.do`|
+|:white_check_mark:|`ws.do`|
+|:white_check_mark:|`wt.do`|
+|:white_check_mark:|`wu.do`|
+|:white_check_mark:|`wv.do`|
+|:white_check_mark:|`ww.do`|
+|:white_check_mark:|`wx.do`|
+|:white_check_mark:|`wy.do`|
+|:white_check_mark:|`wz.do`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`x0.do`|
 |:white_check_mark:|`x1.do`|
+|:white_check_mark:|`x2.do`|
+|:white_check_mark:|`x3.do`|
+|:white_check_mark:|`x4.do`|
+|:white_check_mark:|`x5.do`|
+|:white_check_mark:|`x6.do`|
+|:white_check_mark:|`x7.do`|
 |:white_check_mark:|`x8.do`|
 |:white_check_mark:|`x9.do`|
+|:white_check_mark:|`xa.do`|
+|:white_check_mark:|`xb.do`|
+|:white_check_mark:|`xc.do`|
+|:white_check_mark:|`xd.do`|
+|:white_check_mark:|`xe.do`|
+|:white_check_mark:|`xf.do`|
+|:white_check_mark:|`xg.do`|
+|:white_check_mark:|`xh.do`|
+|:white_check_mark:|`xi.do`|
+|:white_check_mark:|`xj.do`|
+|:white_check_mark:|`xk.do`|
+|:white_check_mark:|`xl.do`|
+|:white_check_mark:|`xm.do`|
+|:white_check_mark:|`xn.do`|
+|:white_check_mark:|`xo.do`|
+|:white_check_mark:|`xp.do`|
+|:white_check_mark:|`xq.do`|
+|:white_check_mark:|`xr.do`|
+|:white_check_mark:|`xs.do`|
+|:white_check_mark:|`xt.do`|
+|:white_check_mark:|`xu.do`|
+|:white_check_mark:|`xv.do`|
+|:white_check_mark:|`xw.do`|
+|:white_check_mark:|`xx.do`|
+|:white_check_mark:|`xy.do`|
+|:white_check_mark:|`xz.do`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>

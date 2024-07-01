@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.cd`
 
-## Data last updated: 06/05/2024, 12:55:26
+## Data last updated: 07/01/2024, 15:07:05
 
 |Stat|Amount|
 |--|--|
 |Registered domains|0|
-|Unregistered domains|1|
+|Unregistered domains|11|
 |Premium domains|0|
 |Application only domains|0|
 |Registration rate|0.0%|
 |Failed lookups|0|
-|Successful lookups|1|
+|Successful lookups|11|
 |Lookup success rate|100%|
 
 
@@ -21,9 +21,19 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>1 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`aa.cd`|
+|:white_check_mark:|`ab.cd`|
+|:white_check_mark:|`ac.cd`|
+|:white_check_mark:|`ad.cd`|
+|:white_check_mark:|`ae.cd`|
+|:white_check_mark:|`af.cd`|
+|:white_check_mark:|`ag.cd`|
+|:white_check_mark:|`ah.cd`|
+|:white_check_mark:|`ai.cd`|
+|:white_check_mark:|`aj.cd`|
+|:white_check_mark:|`ak.cd`|
 </details>

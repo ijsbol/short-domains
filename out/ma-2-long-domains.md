@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.ma`
 
-## Data last updated: 05/29/2024, 11:53:30
+## Data last updated: 07/01/2024, 15:06:07
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1295|
-|Unregistered domains|1|
+|Registered domains|8|
+|Unregistered domains|3|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|99.92%|
+|Registration rate|72.73%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|11|
 |Lookup success rate|100%|
 
 
@@ -21,9 +21,11 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>1 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>3 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`yy.ma`|
+|:white_check_mark:|`ac.ma`|
+|:white_check_mark:|`ad.ma`|
+|:white_check_mark:|`ag.ma`|
 </details>

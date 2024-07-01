@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.hk`
 
-## Data last updated: 06/05/2024, 12:57:00
+## Data last updated: 07/01/2024, 15:04:33
 
 |Stat|Amount|
 |--|--|
-|Registered domains|3|
-|Unregistered domains|8|
+|Registered domains|0|
+|Unregistered domains|1|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|27.27%|
+|Registration rate|0.0%|
 |Failed lookups|0|
-|Successful lookups|11|
+|Successful lookups|1|
 |Lookup success rate|100%|
 
 
@@ -21,16 +21,9 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>8 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`ac.hk`|
-|:white_check_mark:|`ad.hk`|
-|:white_check_mark:|`ae.hk`|
-|:white_check_mark:|`af.hk`|
-|:white_check_mark:|`ag.hk`|
-|:white_check_mark:|`ah.hk`|
-|:white_check_mark:|`ai.hk`|
-|:white_check_mark:|`ak.hk`|
+|:white_check_mark:|`aa.hk`|
 </details>

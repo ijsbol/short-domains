@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.su`
 
-## Data last updated: 05/21/2024, 15:04:25
+## Data last updated: 07/01/2024, 15:04:33
 
 |Stat|Amount|
 |--|--|

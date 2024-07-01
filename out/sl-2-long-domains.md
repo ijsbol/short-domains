@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.sl`
 
-## Data last updated: 06/05/2024, 13:02:14
+## Data last updated: 07/01/2024, 15:07:02
 
 |Stat|Amount|
 |--|--|
 |Registered domains|0|
-|Unregistered domains|51|
+|Unregistered domains|31|
 |Premium domains|0|
 |Application only domains|0|
 |Registration rate|0.0%|
 |Failed lookups|0|
-|Successful lookups|51|
+|Successful lookups|31|
 |Lookup success rate|100%|
 
 
@@ -21,7 +21,7 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>36 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -30,11 +30,6 @@
 |:white_check_mark:|`a2.sl`|
 |:white_check_mark:|`a3.sl`|
 |:white_check_mark:|`a4.sl`|
-|:white_check_mark:|`a5.sl`|
-|:white_check_mark:|`a6.sl`|
-|:white_check_mark:|`a7.sl`|
-|:white_check_mark:|`a8.sl`|
-|:white_check_mark:|`a9.sl`|
 |:white_check_mark:|`aa.sl`|
 |:white_check_mark:|`ab.sl`|
 |:white_check_mark:|`ac.sl`|
@@ -61,25 +56,4 @@
 |:white_check_mark:|`ax.sl`|
 |:white_check_mark:|`ay.sl`|
 |:white_check_mark:|`az.sl`|
-</details>
-<details>
-<summary>15 unregistered domains starting with <bold><code>b</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`ba.sl`|
-|:white_check_mark:|`bb.sl`|
-|:white_check_mark:|`bc.sl`|
-|:white_check_mark:|`bd.sl`|
-|:white_check_mark:|`be.sl`|
-|:white_check_mark:|`bf.sl`|
-|:white_check_mark:|`bg.sl`|
-|:white_check_mark:|`bh.sl`|
-|:white_check_mark:|`bi.sl`|
-|:white_check_mark:|`bj.sl`|
-|:white_check_mark:|`bk.sl`|
-|:white_check_mark:|`bl.sl`|
-|:white_check_mark:|`bm.sl`|
-|:white_check_mark:|`bn.sl`|
-|:white_check_mark:|`bo.sl`|
 </details>

@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.az`
 
-## Data last updated: 06/05/2024, 13:00:31
+## Data last updated: 07/01/2024, 15:06:54
 
 |Stat|Amount|
 |--|--|
