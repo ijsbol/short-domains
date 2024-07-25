@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.cr`
 
-## Data last updated: 07/01/2024, 15:32:42
+## Data last updated: 07/24/2024, 16:28:33
 
 |Stat|Amount|
 |--|--|
-|Registered domains|232|
-|Unregistered domains|1064|
+|Registered domains|250|
+|Unregistered domains|1046|
 |Premium domains|1|
 |Application only domains|0|
-|Registration rate|17.9%|
+|Registration rate|19.29%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -431,7 +431,7 @@
 |:white_check_mark:|`9z.cr`|
 </details>
 <details>
-<summary>29 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -444,29 +444,20 @@
 |:white_check_mark:|`a7.cr`|
 |:white_check_mark:|`a8.cr`|
 |:white_check_mark:|`a9.cr`|
-|:white_check_mark:|`ab.cr`|
-|:white_check_mark:|`ac.cr`|
-|:white_check_mark:|`ad.cr`|
-|:white_check_mark:|`ae.cr`|
 |:white_check_mark:|`af.cr`|
-|:white_check_mark:|`ah.cr`|
-|:white_check_mark:|`ai.cr`|
 |:white_check_mark:|`aj.cr`|
 |:white_check_mark:|`ak.cr`|
-|:white_check_mark:|`al.cr`|
 |:white_check_mark:|`am.cr`|
 |:white_check_mark:|`ao.cr`|
 |:white_check_mark:|`ap.cr`|
 |:white_check_mark:|`aq.cr`|
-|:white_check_mark:|`as.cr`|
 |:white_check_mark:|`au.cr`|
-|:white_check_mark:|`av.cr`|
 |:white_check_mark:|`aw.cr`|
 |:white_check_mark:|`ay.cr`|
 |:white_check_mark:|`az.cr`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>17 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -479,14 +470,9 @@
 |:white_check_mark:|`b7.cr`|
 |:white_check_mark:|`b8.cr`|
 |:white_check_mark:|`b9.cr`|
-|:white_check_mark:|`be.cr`|
 |:white_check_mark:|`bf.cr`|
-|:white_check_mark:|`bg.cr`|
-|:white_check_mark:|`bh.cr`|
 |:white_check_mark:|`bi.cr`|
 |:white_check_mark:|`bj.cr`|
-|:white_check_mark:|`bk.cr`|
-|:white_check_mark:|`bl.cr`|
 |:white_check_mark:|`bo.cr`|
 |:white_check_mark:|`bq.cr`|
 |:white_check_mark:|`bs.cr`|
@@ -494,7 +480,7 @@
 |:white_check_mark:|`bz.cr`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -513,7 +499,6 @@
 |:white_check_mark:|`ci.cr`|
 |:white_check_mark:|`cj.cr`|
 |:white_check_mark:|`ck.cr`|
-|:white_check_mark:|`co.cr`|
 |:white_check_mark:|`cp.cr`|
 |:white_check_mark:|`cq.cr`|
 |:white_check_mark:|`cr.cr`|
@@ -694,11 +679,11 @@
 |:white_check_mark:|`ib.cr`|
 |:white_check_mark:|`id.cr`|
 |:white_check_mark:|`ie.cr`|
-|:white_check_mark:|`ig.cr`|
 |:white_check_mark:|`ii.cr`|
 |:white_check_mark:|`ij.cr`|
 |:white_check_mark:|`ik.cr`|
 |:white_check_mark:|`il.cr`|
+|:white_check_mark:|`ip.cr`|
 |:white_check_mark:|`iq.cr`|
 |:white_check_mark:|`iu.cr`|
 |:white_check_mark:|`iv.cr`|
@@ -708,7 +693,7 @@
 |:white_check_mark:|`iz.cr`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -734,7 +719,6 @@
 |:white_check_mark:|`jk.cr`|
 |:white_check_mark:|`jl.cr`|
 |:white_check_mark:|`jn.cr`|
-|:white_check_mark:|`jo.cr`|
 |:white_check_mark:|`jp.cr`|
 |:white_check_mark:|`jq.cr`|
 |:white_check_mark:|`js.cr`|
@@ -784,7 +768,7 @@
 |:white_check_mark:|`kz.cr`|
 </details>
 <details>
-<summary>25 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -811,7 +795,6 @@
 |:white_check_mark:|`lr.cr`|
 |:white_check_mark:|`lt.cr`|
 |:white_check_mark:|`lv.cr`|
-|:white_check_mark:|`ly.cr`|
 |:white_check_mark:|`lz.cr`|
 </details>
 <details>
@@ -915,7 +898,7 @@
 |:white_check_mark:|`oz.cr`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -939,7 +922,6 @@
 |:white_check_mark:|`pk.cr`|
 |:white_check_mark:|`pl.cr`|
 |:gem:|`pm.cr`|
-|:white_check_mark:|`pn.cr`|
 |:white_check_mark:|`po.cr`|
 |:white_check_mark:|`pu.cr`|
 |:white_check_mark:|`pv.cr`|
@@ -1081,7 +1063,7 @@
 |:white_check_mark:|`ty.cr`|
 </details>
 <details>
-<summary>29 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1098,7 +1080,6 @@
 |:white_check_mark:|`ua.cr`|
 |:white_check_mark:|`ub.cr`|
 |:white_check_mark:|`uc.cr`|
-|:white_check_mark:|`ud.cr`|
 |:white_check_mark:|`ue.cr`|
 |:white_check_mark:|`uf.cr`|
 |:white_check_mark:|`ug.cr`|
@@ -1151,7 +1132,7 @@
 |:white_check_mark:|`vz.cr`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>29 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1176,21 +1157,22 @@
 |:white_check_mark:|`wo.cr`|
 |:white_check_mark:|`wq.cr`|
 |:white_check_mark:|`wr.cr`|
+|:white_check_mark:|`ws.cr`|
 |:white_check_mark:|`wt.cr`|
 |:white_check_mark:|`wu.cr`|
 |:white_check_mark:|`wv.cr`|
+|:white_check_mark:|`ww.cr`|
 |:white_check_mark:|`wx.cr`|
 |:white_check_mark:|`wy.cr`|
 |:white_check_mark:|`wz.cr`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`x0.cr`|
 |:white_check_mark:|`x1.cr`|
-|:white_check_mark:|`x2.cr`|
 |:white_check_mark:|`x3.cr`|
 |:white_check_mark:|`x4.cr`|
 |:white_check_mark:|`x5.cr`|

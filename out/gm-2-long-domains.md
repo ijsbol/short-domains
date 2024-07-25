@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.gm`
 
-## Data last updated: 06/05/2024, 13:10:20
+## Data last updated: 07/24/2024, 16:12:47
 
 |Stat|Amount|
 |--|--|
 |Registered domains|0|
-|Unregistered domains|141|
+|Unregistered domains|181|
 |Premium domains|0|
 |Application only domains|0|
 |Registration rate|0.0%|
 |Failed lookups|0|
-|Successful lookups|141|
+|Successful lookups|181|
 |Lookup success rate|100%|
 
 
@@ -147,7 +147,7 @@
 |:white_check_mark:|`cz.gm`|
 </details>
 <details>
-<summary>33 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -158,6 +158,9 @@
 |:white_check_mark:|`d4.gm`|
 |:white_check_mark:|`d5.gm`|
 |:white_check_mark:|`d6.gm`|
+|:white_check_mark:|`d7.gm`|
+|:white_check_mark:|`d8.gm`|
+|:white_check_mark:|`d9.gm`|
 |:white_check_mark:|`da.gm`|
 |:white_check_mark:|`db.gm`|
 |:white_check_mark:|`dc.gm`|
@@ -184,4 +187,53 @@
 |:white_check_mark:|`dx.gm`|
 |:white_check_mark:|`dy.gm`|
 |:white_check_mark:|`dz.gm`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>e</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`e0.gm`|
+|:white_check_mark:|`e1.gm`|
+|:white_check_mark:|`e2.gm`|
+|:white_check_mark:|`e3.gm`|
+|:white_check_mark:|`e4.gm`|
+|:white_check_mark:|`e5.gm`|
+|:white_check_mark:|`e6.gm`|
+|:white_check_mark:|`e7.gm`|
+|:white_check_mark:|`e8.gm`|
+|:white_check_mark:|`e9.gm`|
+|:white_check_mark:|`ea.gm`|
+|:white_check_mark:|`eb.gm`|
+|:white_check_mark:|`ec.gm`|
+|:white_check_mark:|`ed.gm`|
+|:white_check_mark:|`ee.gm`|
+|:white_check_mark:|`ef.gm`|
+|:white_check_mark:|`eg.gm`|
+|:white_check_mark:|`eh.gm`|
+|:white_check_mark:|`ei.gm`|
+|:white_check_mark:|`ej.gm`|
+|:white_check_mark:|`ek.gm`|
+|:white_check_mark:|`el.gm`|
+|:white_check_mark:|`em.gm`|
+|:white_check_mark:|`en.gm`|
+|:white_check_mark:|`eo.gm`|
+|:white_check_mark:|`ep.gm`|
+|:white_check_mark:|`eq.gm`|
+|:white_check_mark:|`er.gm`|
+|:white_check_mark:|`es.gm`|
+|:white_check_mark:|`et.gm`|
+|:white_check_mark:|`eu.gm`|
+|:white_check_mark:|`ev.gm`|
+|:white_check_mark:|`ew.gm`|
+|:white_check_mark:|`ex.gm`|
+|:white_check_mark:|`ey.gm`|
+|:white_check_mark:|`ez.gm`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>f</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`fa.gm`|
 </details>

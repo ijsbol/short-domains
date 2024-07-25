@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.vu`
 
-## Data last updated: 05/29/2024, 11:58:03
+## Data last updated: 07/24/2024, 16:32:05
 
 |Stat|Amount|
 |--|--|

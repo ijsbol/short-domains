@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.kz`
 
-## Data last updated: 07/01/2024, 15:30:17
+## Data last updated: 07/24/2024, 16:24:31
 
 |Stat|Amount|
 |--|--|
-|Registered domains|216|
-|Unregistered domains|1080|
+|Registered domains|144|
+|Unregistered domains|1057|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|16.67%|
+|Registration rate|11.99%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|1201|
 |Lookup success rate|100%|
 
 
@@ -273,217 +273,77 @@
 |:white_check_mark:|`5z.kz`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>4 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`60.kz`|
-|:white_check_mark:|`61.kz`|
-|:white_check_mark:|`62.kz`|
-|:white_check_mark:|`63.kz`|
-|:white_check_mark:|`64.kz`|
-|:white_check_mark:|`65.kz`|
-|:white_check_mark:|`66.kz`|
-|:white_check_mark:|`67.kz`|
-|:white_check_mark:|`68.kz`|
-|:white_check_mark:|`69.kz`|
 |:white_check_mark:|`6a.kz`|
 |:white_check_mark:|`6b.kz`|
 |:white_check_mark:|`6c.kz`|
 |:white_check_mark:|`6d.kz`|
-|:white_check_mark:|`6e.kz`|
-|:white_check_mark:|`6f.kz`|
-|:white_check_mark:|`6g.kz`|
-|:white_check_mark:|`6h.kz`|
-|:white_check_mark:|`6i.kz`|
-|:white_check_mark:|`6j.kz`|
-|:white_check_mark:|`6k.kz`|
-|:white_check_mark:|`6l.kz`|
-|:white_check_mark:|`6m.kz`|
-|:white_check_mark:|`6n.kz`|
-|:white_check_mark:|`6o.kz`|
-|:white_check_mark:|`6p.kz`|
-|:white_check_mark:|`6q.kz`|
-|:white_check_mark:|`6r.kz`|
-|:white_check_mark:|`6s.kz`|
-|:white_check_mark:|`6t.kz`|
-|:white_check_mark:|`6u.kz`|
-|:white_check_mark:|`6v.kz`|
-|:white_check_mark:|`6w.kz`|
-|:white_check_mark:|`6x.kz`|
-|:white_check_mark:|`6y.kz`|
-|:white_check_mark:|`6z.kz`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`70.kz`|
-|:white_check_mark:|`71.kz`|
-|:white_check_mark:|`72.kz`|
-|:white_check_mark:|`73.kz`|
-|:white_check_mark:|`74.kz`|
-|:white_check_mark:|`75.kz`|
-|:white_check_mark:|`76.kz`|
-|:white_check_mark:|`77.kz`|
-|:white_check_mark:|`78.kz`|
-|:white_check_mark:|`79.kz`|
-|:white_check_mark:|`7a.kz`|
-|:white_check_mark:|`7b.kz`|
-|:white_check_mark:|`7c.kz`|
-|:white_check_mark:|`7d.kz`|
-|:white_check_mark:|`7e.kz`|
-|:white_check_mark:|`7f.kz`|
-|:white_check_mark:|`7g.kz`|
-|:white_check_mark:|`7h.kz`|
-|:white_check_mark:|`7i.kz`|
-|:white_check_mark:|`7j.kz`|
-|:white_check_mark:|`7k.kz`|
-|:white_check_mark:|`7l.kz`|
-|:white_check_mark:|`7m.kz`|
-|:white_check_mark:|`7n.kz`|
-|:white_check_mark:|`7o.kz`|
-|:white_check_mark:|`7p.kz`|
-|:white_check_mark:|`7q.kz`|
-|:white_check_mark:|`7r.kz`|
-|:white_check_mark:|`7s.kz`|
-|:white_check_mark:|`7t.kz`|
-|:white_check_mark:|`7u.kz`|
-|:white_check_mark:|`7v.kz`|
-|:white_check_mark:|`7w.kz`|
-|:white_check_mark:|`7x.kz`|
-|:white_check_mark:|`7y.kz`|
-|:white_check_mark:|`7z.kz`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`80.kz`|
-|:white_check_mark:|`81.kz`|
-|:white_check_mark:|`82.kz`|
-|:white_check_mark:|`83.kz`|
-|:white_check_mark:|`84.kz`|
-|:white_check_mark:|`85.kz`|
-|:white_check_mark:|`86.kz`|
-|:white_check_mark:|`87.kz`|
-|:white_check_mark:|`88.kz`|
-|:white_check_mark:|`89.kz`|
-|:white_check_mark:|`8a.kz`|
-|:white_check_mark:|`8b.kz`|
-|:white_check_mark:|`8c.kz`|
-|:white_check_mark:|`8d.kz`|
-|:white_check_mark:|`8e.kz`|
-|:white_check_mark:|`8f.kz`|
-|:white_check_mark:|`8g.kz`|
-|:white_check_mark:|`8h.kz`|
-|:white_check_mark:|`8i.kz`|
-|:white_check_mark:|`8j.kz`|
-|:white_check_mark:|`8k.kz`|
-|:white_check_mark:|`8l.kz`|
-|:white_check_mark:|`8m.kz`|
-|:white_check_mark:|`8n.kz`|
-|:white_check_mark:|`8o.kz`|
-|:white_check_mark:|`8p.kz`|
-|:white_check_mark:|`8q.kz`|
-|:white_check_mark:|`8r.kz`|
-|:white_check_mark:|`8s.kz`|
-|:white_check_mark:|`8t.kz`|
-|:white_check_mark:|`8u.kz`|
-|:white_check_mark:|`8v.kz`|
-|:white_check_mark:|`8w.kz`|
-|:white_check_mark:|`8x.kz`|
-|:white_check_mark:|`8y.kz`|
-|:white_check_mark:|`8z.kz`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`90.kz`|
-|:white_check_mark:|`91.kz`|
-|:white_check_mark:|`92.kz`|
-|:white_check_mark:|`93.kz`|
-|:white_check_mark:|`94.kz`|
-|:white_check_mark:|`95.kz`|
-|:white_check_mark:|`96.kz`|
-|:white_check_mark:|`97.kz`|
-|:white_check_mark:|`98.kz`|
-|:white_check_mark:|`99.kz`|
-|:white_check_mark:|`9a.kz`|
-|:white_check_mark:|`9b.kz`|
-|:white_check_mark:|`9c.kz`|
-|:white_check_mark:|`9d.kz`|
-|:white_check_mark:|`9e.kz`|
-|:white_check_mark:|`9f.kz`|
-|:white_check_mark:|`9g.kz`|
-|:white_check_mark:|`9h.kz`|
-|:white_check_mark:|`9i.kz`|
-|:white_check_mark:|`9j.kz`|
-|:white_check_mark:|`9k.kz`|
-|:white_check_mark:|`9l.kz`|
-|:white_check_mark:|`9m.kz`|
-|:white_check_mark:|`9n.kz`|
-|:white_check_mark:|`9o.kz`|
-|:white_check_mark:|`9p.kz`|
-|:white_check_mark:|`9q.kz`|
-|:white_check_mark:|`9r.kz`|
-|:white_check_mark:|`9s.kz`|
-|:white_check_mark:|`9t.kz`|
-|:white_check_mark:|`9u.kz`|
-|:white_check_mark:|`9v.kz`|
-|:white_check_mark:|`9w.kz`|
-|:white_check_mark:|`9x.kz`|
-|:white_check_mark:|`9y.kz`|
-|:white_check_mark:|`9z.kz`|
-</details>
-<details>
-<summary>18 unregistered domains starting with <bold><code>a</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`a2.kz`|
-|:white_check_mark:|`a3.kz`|
-|:white_check_mark:|`a7.kz`|
-|:white_check_mark:|`a8.kz`|
-|:white_check_mark:|`a9.kz`|
-|:white_check_mark:|`aa.kz`|
-|:white_check_mark:|`ab.kz`|
-|:white_check_mark:|`ac.kz`|
-|:white_check_mark:|`ad.kz`|
-|:white_check_mark:|`ae.kz`|
 |:white_check_mark:|`af.kz`|
-|:white_check_mark:|`ag.kz`|
-|:white_check_mark:|`ah.kz`|
-|:white_check_mark:|`an.kz`|
-|:white_check_mark:|`ao.kz`|
-|:white_check_mark:|`ap.kz`|
-|:white_check_mark:|`au.kz`|
-|:white_check_mark:|`av.kz`|
 </details>
 <details>
-<summary>6 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`ba.kz`|
-|:white_check_mark:|`bb.kz`|
-|:white_check_mark:|`bc.kz`|
-|:white_check_mark:|`bd.kz`|
-|:white_check_mark:|`be.kz`|
-|:white_check_mark:|`bf.kz`|
+|:white_check_mark:|`c2.kz`|
+|:white_check_mark:|`c3.kz`|
+|:white_check_mark:|`c4.kz`|
+|:white_check_mark:|`c5.kz`|
+|:white_check_mark:|`c6.kz`|
+|:white_check_mark:|`c7.kz`|
+|:white_check_mark:|`c8.kz`|
+|:white_check_mark:|`c9.kz`|
 </details>
 <details>
-<summary>3 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`d0.kz`|
+|:white_check_mark:|`d1.kz`|
+|:white_check_mark:|`d2.kz`|
+|:white_check_mark:|`d3.kz`|
+|:white_check_mark:|`d4.kz`|
+|:white_check_mark:|`d5.kz`|
+|:white_check_mark:|`d6.kz`|
+|:white_check_mark:|`d7.kz`|
+|:white_check_mark:|`d8.kz`|
 |:white_check_mark:|`d9.kz`|
+|:white_check_mark:|`da.kz`|
+|:white_check_mark:|`db.kz`|
 |:white_check_mark:|`dc.kz`|
+|:white_check_mark:|`dd.kz`|
+|:white_check_mark:|`de.kz`|
+|:white_check_mark:|`df.kz`|
+|:white_check_mark:|`dg.kz`|
+|:white_check_mark:|`dh.kz`|
+|:white_check_mark:|`di.kz`|
+|:white_check_mark:|`dj.kz`|
+|:white_check_mark:|`dk.kz`|
+|:white_check_mark:|`dl.kz`|
+|:white_check_mark:|`dm.kz`|
+|:white_check_mark:|`dn.kz`|
+|:white_check_mark:|`do.kz`|
+|:white_check_mark:|`dp.kz`|
+|:white_check_mark:|`dq.kz`|
+|:white_check_mark:|`dr.kz`|
+|:white_check_mark:|`ds.kz`|
+|:white_check_mark:|`dt.kz`|
+|:white_check_mark:|`du.kz`|
+|:white_check_mark:|`dv.kz`|
 |:white_check_mark:|`dw.kz`|
+|:white_check_mark:|`dx.kz`|
+|:white_check_mark:|`dy.kz`|
+|:white_check_mark:|`dz.kz`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>e</code></bold></summary>
@@ -1074,12 +934,20 @@
 |:white_check_mark:|`rz.kz`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`s0.kz`|
 |:white_check_mark:|`s1.kz`|
+|:white_check_mark:|`s2.kz`|
+|:white_check_mark:|`s3.kz`|
+|:white_check_mark:|`s4.kz`|
+|:white_check_mark:|`s5.kz`|
+|:white_check_mark:|`s6.kz`|
+|:white_check_mark:|`s7.kz`|
+|:white_check_mark:|`s8.kz`|
+|:white_check_mark:|`s9.kz`|
 |:white_check_mark:|`sa.kz`|
 |:white_check_mark:|`sb.kz`|
 |:white_check_mark:|`sc.kz`|
@@ -1108,22 +976,91 @@
 |:white_check_mark:|`sz.kz`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`t0.kz`|
+|:white_check_mark:|`t1.kz`|
+|:white_check_mark:|`t2.kz`|
+|:white_check_mark:|`t3.kz`|
+|:white_check_mark:|`t4.kz`|
+|:white_check_mark:|`t5.kz`|
+|:white_check_mark:|`t6.kz`|
 |:white_check_mark:|`t7.kz`|
+|:white_check_mark:|`t8.kz`|
+|:white_check_mark:|`t9.kz`|
+|:white_check_mark:|`ta.kz`|
+|:white_check_mark:|`tb.kz`|
+|:white_check_mark:|`tc.kz`|
+|:white_check_mark:|`td.kz`|
+|:white_check_mark:|`te.kz`|
+|:white_check_mark:|`tf.kz`|
+|:white_check_mark:|`tg.kz`|
+|:white_check_mark:|`th.kz`|
+|:white_check_mark:|`ti.kz`|
+|:white_check_mark:|`tj.kz`|
+|:white_check_mark:|`tk.kz`|
+|:white_check_mark:|`tl.kz`|
+|:white_check_mark:|`tm.kz`|
+|:white_check_mark:|`tn.kz`|
+|:white_check_mark:|`to.kz`|
+|:white_check_mark:|`tp.kz`|
+|:white_check_mark:|`tq.kz`|
+|:white_check_mark:|`tr.kz`|
+|:white_check_mark:|`ts.kz`|
+|:white_check_mark:|`tt.kz`|
+|:white_check_mark:|`tu.kz`|
+|:white_check_mark:|`tv.kz`|
+|:white_check_mark:|`tw.kz`|
+|:white_check_mark:|`tx.kz`|
+|:white_check_mark:|`ty.kz`|
+|:white_check_mark:|`tz.kz`|
 </details>
 <details>
-<summary>2 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`u0.kz`|
+|:white_check_mark:|`u1.kz`|
+|:white_check_mark:|`u2.kz`|
+|:white_check_mark:|`u3.kz`|
+|:white_check_mark:|`u4.kz`|
+|:white_check_mark:|`u5.kz`|
+|:white_check_mark:|`u6.kz`|
+|:white_check_mark:|`u7.kz`|
+|:white_check_mark:|`u8.kz`|
+|:white_check_mark:|`u9.kz`|
+|:white_check_mark:|`ua.kz`|
+|:white_check_mark:|`ub.kz`|
+|:white_check_mark:|`uc.kz`|
+|:white_check_mark:|`ud.kz`|
+|:white_check_mark:|`ue.kz`|
+|:white_check_mark:|`uf.kz`|
+|:white_check_mark:|`ug.kz`|
+|:white_check_mark:|`uh.kz`|
 |:white_check_mark:|`ui.kz`|
+|:white_check_mark:|`uj.kz`|
+|:white_check_mark:|`uk.kz`|
+|:white_check_mark:|`ul.kz`|
+|:white_check_mark:|`um.kz`|
+|:white_check_mark:|`un.kz`|
+|:white_check_mark:|`uo.kz`|
+|:white_check_mark:|`up.kz`|
+|:white_check_mark:|`uq.kz`|
+|:white_check_mark:|`ur.kz`|
+|:white_check_mark:|`us.kz`|
+|:white_check_mark:|`ut.kz`|
+|:white_check_mark:|`uu.kz`|
+|:white_check_mark:|`uv.kz`|
+|:white_check_mark:|`uw.kz`|
 |:white_check_mark:|`ux.kz`|
+|:white_check_mark:|`uy.kz`|
+|:white_check_mark:|`uz.kz`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1137,6 +1074,28 @@
 |:white_check_mark:|`v7.kz`|
 |:white_check_mark:|`v8.kz`|
 |:white_check_mark:|`v9.kz`|
+|:white_check_mark:|`va.kz`|
+|:white_check_mark:|`vb.kz`|
+|:white_check_mark:|`vc.kz`|
+|:white_check_mark:|`vd.kz`|
+|:white_check_mark:|`ve.kz`|
+|:white_check_mark:|`vf.kz`|
+|:white_check_mark:|`vg.kz`|
+|:white_check_mark:|`vh.kz`|
+|:white_check_mark:|`vi.kz`|
+|:white_check_mark:|`vj.kz`|
+|:white_check_mark:|`vk.kz`|
+|:white_check_mark:|`vl.kz`|
+|:white_check_mark:|`vm.kz`|
+|:white_check_mark:|`vn.kz`|
+|:white_check_mark:|`vo.kz`|
+|:white_check_mark:|`vp.kz`|
+|:white_check_mark:|`vq.kz`|
+|:white_check_mark:|`vr.kz`|
+|:white_check_mark:|`vs.kz`|
+|:white_check_mark:|`vt.kz`|
+|:white_check_mark:|`vu.kz`|
+|:white_check_mark:|`vv.kz`|
 |:white_check_mark:|`vw.kz`|
 |:white_check_mark:|`vx.kz`|
 |:white_check_mark:|`vy.kz`|

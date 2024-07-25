@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.do`
 
-## Data last updated: 07/01/2024, 15:26:26
+## Data last updated: 07/24/2024, 16:24:29
 
 |Stat|Amount|
 |--|--|
-|Registered domains|85|
-|Unregistered domains|1211|
+|Registered domains|60|
+|Unregistered domains|1236|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|6.56%|
+|Registration rate|4.63%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,26 +441,7 @@
 |:white_check_mark:|`9z.do`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>a</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`a1.do`|
-|:white_check_mark:|`a5.do`|
-|:white_check_mark:|`aa.do`|
-|:white_check_mark:|`ab.do`|
-|:white_check_mark:|`ac.do`|
-|:white_check_mark:|`ad.do`|
-|:white_check_mark:|`ae.do`|
-|:white_check_mark:|`af.do`|
-|:white_check_mark:|`aj.do`|
-|:white_check_mark:|`ap.do`|
-|:white_check_mark:|`aq.do`|
-|:white_check_mark:|`ar.do`|
-|:white_check_mark:|`as.do`|
-</details>
-<details>
-<summary>34 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -474,28 +455,6 @@
 |:white_check_mark:|`b7.do`|
 |:white_check_mark:|`b8.do`|
 |:white_check_mark:|`b9.do`|
-|:white_check_mark:|`bc.do`|
-|:white_check_mark:|`bd.do`|
-|:white_check_mark:|`be.do`|
-|:white_check_mark:|`bf.do`|
-|:white_check_mark:|`bg.do`|
-|:white_check_mark:|`bh.do`|
-|:white_check_mark:|`bi.do`|
-|:white_check_mark:|`bj.do`|
-|:white_check_mark:|`bk.do`|
-|:white_check_mark:|`bl.do`|
-|:white_check_mark:|`bm.do`|
-|:white_check_mark:|`bn.do`|
-|:white_check_mark:|`bo.do`|
-|:white_check_mark:|`bp.do`|
-|:white_check_mark:|`bq.do`|
-|:white_check_mark:|`br.do`|
-|:white_check_mark:|`bs.do`|
-|:white_check_mark:|`bt.do`|
-|:white_check_mark:|`bu.do`|
-|:white_check_mark:|`bv.do`|
-|:white_check_mark:|`bw.do`|
-|:white_check_mark:|`bx.do`|
 |:white_check_mark:|`by.do`|
 |:white_check_mark:|`bz.do`|
 </details>
@@ -794,12 +753,20 @@
 |:white_check_mark:|`iz.do`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`j0.do`|
 |:white_check_mark:|`j1.do`|
+|:white_check_mark:|`j2.do`|
+|:white_check_mark:|`j3.do`|
+|:white_check_mark:|`j4.do`|
+|:white_check_mark:|`j5.do`|
+|:white_check_mark:|`j6.do`|
+|:white_check_mark:|`j7.do`|
+|:white_check_mark:|`j8.do`|
+|:white_check_mark:|`j9.do`|
 |:white_check_mark:|`ja.do`|
 |:white_check_mark:|`jb.do`|
 |:white_check_mark:|`jc.do`|
@@ -828,7 +795,49 @@
 |:white_check_mark:|`jz.do`|
 </details>
 <details>
-<summary>20 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`k0.do`|
+|:white_check_mark:|`k1.do`|
+|:white_check_mark:|`k2.do`|
+|:white_check_mark:|`k3.do`|
+|:white_check_mark:|`k4.do`|
+|:white_check_mark:|`k5.do`|
+|:white_check_mark:|`k6.do`|
+|:white_check_mark:|`k7.do`|
+|:white_check_mark:|`k8.do`|
+|:white_check_mark:|`k9.do`|
+|:white_check_mark:|`ka.do`|
+|:white_check_mark:|`kb.do`|
+|:white_check_mark:|`kc.do`|
+|:white_check_mark:|`kd.do`|
+|:white_check_mark:|`ke.do`|
+|:white_check_mark:|`kf.do`|
+|:white_check_mark:|`kg.do`|
+|:white_check_mark:|`kh.do`|
+|:white_check_mark:|`ki.do`|
+|:white_check_mark:|`kj.do`|
+|:white_check_mark:|`kk.do`|
+|:white_check_mark:|`kl.do`|
+|:white_check_mark:|`km.do`|
+|:white_check_mark:|`kn.do`|
+|:white_check_mark:|`ko.do`|
+|:white_check_mark:|`kp.do`|
+|:white_check_mark:|`kq.do`|
+|:white_check_mark:|`kr.do`|
+|:white_check_mark:|`ks.do`|
+|:white_check_mark:|`kt.do`|
+|:white_check_mark:|`ku.do`|
+|:white_check_mark:|`kv.do`|
+|:white_check_mark:|`kw.do`|
+|:white_check_mark:|`kx.do`|
+|:white_check_mark:|`ky.do`|
+|:white_check_mark:|`kz.do`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -842,6 +851,22 @@
 |:white_check_mark:|`l7.do`|
 |:white_check_mark:|`l8.do`|
 |:white_check_mark:|`l9.do`|
+|:white_check_mark:|`la.do`|
+|:white_check_mark:|`lb.do`|
+|:white_check_mark:|`lc.do`|
+|:white_check_mark:|`ld.do`|
+|:white_check_mark:|`le.do`|
+|:white_check_mark:|`lf.do`|
+|:white_check_mark:|`lg.do`|
+|:white_check_mark:|`lh.do`|
+|:white_check_mark:|`li.do`|
+|:white_check_mark:|`lj.do`|
+|:white_check_mark:|`lk.do`|
+|:white_check_mark:|`ll.do`|
+|:white_check_mark:|`lm.do`|
+|:white_check_mark:|`ln.do`|
+|:white_check_mark:|`lo.do`|
+|:white_check_mark:|`lp.do`|
 |:white_check_mark:|`lq.do`|
 |:white_check_mark:|`lr.do`|
 |:white_check_mark:|`ls.do`|

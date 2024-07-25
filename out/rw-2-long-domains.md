@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.rw`
 
-## Data last updated: 05/29/2024, 11:58:59
+## Data last updated: 07/24/2024, 16:33:49
 
 |Stat|Amount|
 |--|--|
-|Registered domains|40|
-|Unregistered domains|1256|
+|Registered domains|20|
+|Unregistered domains|1276|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|3.09%|
+|Registration rate|1.54%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -1093,10 +1093,20 @@
 |:white_check_mark:|`pz.rw`|
 </details>
 <details>
-<summary>21 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`q0.rw`|
+|:white_check_mark:|`q1.rw`|
+|:white_check_mark:|`q2.rw`|
+|:white_check_mark:|`q3.rw`|
+|:white_check_mark:|`q4.rw`|
+|:white_check_mark:|`q5.rw`|
+|:white_check_mark:|`q6.rw`|
+|:white_check_mark:|`q7.rw`|
+|:white_check_mark:|`q8.rw`|
+|:white_check_mark:|`q9.rw`|
 |:white_check_mark:|`qa.rw`|
 |:white_check_mark:|`qb.rw`|
 |:white_check_mark:|`qc.rw`|
@@ -1118,9 +1128,14 @@
 |:white_check_mark:|`qs.rw`|
 |:white_check_mark:|`qt.rw`|
 |:white_check_mark:|`qu.rw`|
+|:white_check_mark:|`qv.rw`|
+|:white_check_mark:|`qw.rw`|
+|:white_check_mark:|`qx.rw`|
+|:white_check_mark:|`qy.rw`|
+|:white_check_mark:|`qz.rw`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1134,6 +1149,11 @@
 |:white_check_mark:|`r7.rw`|
 |:white_check_mark:|`r8.rw`|
 |:white_check_mark:|`r9.rw`|
+|:white_check_mark:|`ra.rw`|
+|:white_check_mark:|`rb.rw`|
+|:white_check_mark:|`rc.rw`|
+|:white_check_mark:|`rd.rw`|
+|:white_check_mark:|`re.rw`|
 |:white_check_mark:|`rf.rw`|
 |:white_check_mark:|`rg.rw`|
 |:white_check_mark:|`rh.rw`|

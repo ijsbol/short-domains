@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.hn`
 
-## Data last updated: 07/01/2024, 15:34:58
+## Data last updated: 07/24/2024, 16:32:26
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1259|
-|Unregistered domains|37|
+|Registered domains|1286|
+|Unregistered domains|10|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|97.15%|
+|Registration rate|99.23%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,105 +21,24 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>13 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a2.hn`|
-|:white_check_mark:|`a8.hn`|
-|:white_check_mark:|`a9.hn`|
-|:white_check_mark:|`ab.hn`|
-|:white_check_mark:|`ac.hn`|
-|:white_check_mark:|`ad.hn`|
-|:white_check_mark:|`ae.hn`|
-|:white_check_mark:|`ah.hn`|
-|:white_check_mark:|`ai.hn`|
-|:white_check_mark:|`ak.hn`|
-|:white_check_mark:|`al.hn`|
-|:white_check_mark:|`ao.hn`|
-|:white_check_mark:|`ap.hn`|
+|:white_check_mark:|`da.hn`|
+|:white_check_mark:|`db.hn`|
+|:white_check_mark:|`dc.hn`|
+|:white_check_mark:|`dd.hn`|
+|:white_check_mark:|`dg.hn`|
 </details>
 <details>
-<summary>13 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>5 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`b5.hn`|
-|:white_check_mark:|`b7.hn`|
-|:white_check_mark:|`bd.hn`|
-|:white_check_mark:|`bj.hn`|
-|:white_check_mark:|`bk.hn`|
-|:white_check_mark:|`bl.hn`|
-|:white_check_mark:|`bm.hn`|
-|:white_check_mark:|`bn.hn`|
-|:white_check_mark:|`bo.hn`|
-|:white_check_mark:|`bp.hn`|
-|:white_check_mark:|`bq.hn`|
-|:white_check_mark:|`br.hn`|
-|:white_check_mark:|`bs.hn`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>k</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`k6.hn`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>l</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`lj.hn`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>m</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`m9.hn`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>n</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`n2.hn`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>p</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`p9.hn`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>q</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`qg.hn`|
-|:white_check_mark:|`qx.hn`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>r</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`rb.hn`|
-|:white_check_mark:|`rc.hn`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>s</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`sa.hn`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>t</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`tl.hn`|
+|:white_check_mark:|`o2.hn`|
+|:white_check_mark:|`o3.hn`|
+|:white_check_mark:|`o4.hn`|
+|:white_check_mark:|`o5.hn`|
+|:white_check_mark:|`o6.hn`|
 </details>

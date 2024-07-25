@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.mg`
 
-## Data last updated: 05/29/2024, 11:58:14
+## Data last updated: 07/24/2024, 16:33:25
 
 |Stat|Amount|
 |--|--|
-|Registered domains|20|
-|Unregistered domains|1276|
+|Registered domains|10|
+|Unregistered domains|1286|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|1.54%|
+|Registration rate|0.77%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -1145,10 +1145,17 @@
 |:white_check_mark:|`qz.mg`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`r0.mg`|
+|:white_check_mark:|`r1.mg`|
+|:white_check_mark:|`r2.mg`|
+|:white_check_mark:|`r3.mg`|
+|:white_check_mark:|`r4.mg`|
+|:white_check_mark:|`r5.mg`|
+|:white_check_mark:|`r6.mg`|
 |:white_check_mark:|`r7.mg`|
 |:white_check_mark:|`r8.mg`|
 |:white_check_mark:|`r9.mg`|
@@ -1175,6 +1182,9 @@
 |:white_check_mark:|`ru.mg`|
 |:white_check_mark:|`rv.mg`|
 |:white_check_mark:|`rw.mg`|
+|:white_check_mark:|`rx.mg`|
+|:white_check_mark:|`ry.mg`|
+|:white_check_mark:|`rz.mg`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>s</code></bold></summary>

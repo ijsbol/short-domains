@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.ws`
 
-## Data last updated: 05/29/2024, 12:41:34
+## Data last updated: 07/24/2024, 16:32:55
 
 |Stat|Amount|
 |--|--|
@@ -455,12 +455,12 @@
 |:white_check_mark:|`a7.ws`|
 |:white_check_mark:|`a8.ws`|
 |:white_check_mark:|`a9.ws`|
-|:white_check_mark:|`ac.ws`|
-|:white_check_mark:|`an.ws`|
-|:white_check_mark:|`at.ws`|
 |:white_check_mark:|`au.ws`|
 |:white_check_mark:|`av.ws`|
+|:white_check_mark:|`aw.ws`|
 |:white_check_mark:|`ax.ws`|
+|:white_check_mark:|`ay.ws`|
+|:white_check_mark:|`az.ws`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>b</code></bold></summary>

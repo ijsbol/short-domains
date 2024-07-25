@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.ng`
 
-## Data last updated: 07/01/2024, 15:30:24
+## Data last updated: 07/24/2024, 16:23:11
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1027|
-|Unregistered domains|269|
+|Registered domains|994|
+|Unregistered domains|302|
 |Premium domains|6|
 |Application only domains|0|
-|Registration rate|79.24%|
+|Registration rate|76.7%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,14 +21,63 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>1 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`1b.ng`|
+|:white_check_mark:|`12.ng`|
+|:white_check_mark:|`13.ng`|
+|:white_check_mark:|`14.ng`|
+|:white_check_mark:|`15.ng`|
+|:white_check_mark:|`16.ng`|
+|:white_check_mark:|`17.ng`|
+|:white_check_mark:|`18.ng`|
+|:white_check_mark:|`19.ng`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>2</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`20.ng`|
+|:white_check_mark:|`21.ng`|
+|:white_check_mark:|`22.ng`|
+|:white_check_mark:|`23.ng`|
+|:white_check_mark:|`24.ng`|
+|:white_check_mark:|`25.ng`|
+|:white_check_mark:|`26.ng`|
+|:white_check_mark:|`27.ng`|
+|:white_check_mark:|`28.ng`|
+|:white_check_mark:|`29.ng`|
+|:white_check_mark:|`2a.ng`|
+|:white_check_mark:|`2b.ng`|
+|:white_check_mark:|`2c.ng`|
+|:white_check_mark:|`2d.ng`|
+|:white_check_mark:|`2e.ng`|
+|:white_check_mark:|`2f.ng`|
+|:white_check_mark:|`2g.ng`|
+|:white_check_mark:|`2h.ng`|
+|:white_check_mark:|`2i.ng`|
+|:white_check_mark:|`2j.ng`|
+|:white_check_mark:|`2k.ng`|
+|:white_check_mark:|`2l.ng`|
+|:white_check_mark:|`2m.ng`|
+|:white_check_mark:|`2n.ng`|
+|:white_check_mark:|`2o.ng`|
+|:white_check_mark:|`2p.ng`|
+|:white_check_mark:|`2q.ng`|
+|:white_check_mark:|`2r.ng`|
+|:white_check_mark:|`2s.ng`|
+|:white_check_mark:|`2t.ng`|
+|:white_check_mark:|`2u.ng`|
+|:white_check_mark:|`2v.ng`|
+|:white_check_mark:|`2w.ng`|
+|:white_check_mark:|`2x.ng`|
+|:white_check_mark:|`2y.ng`|
+|:white_check_mark:|`2z.ng`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -42,6 +91,32 @@
 |:white_check_mark:|`37.ng`|
 |:white_check_mark:|`38.ng`|
 |:white_check_mark:|`39.ng`|
+|:white_check_mark:|`3a.ng`|
+|:white_check_mark:|`3b.ng`|
+|:white_check_mark:|`3c.ng`|
+|:white_check_mark:|`3d.ng`|
+|:white_check_mark:|`3e.ng`|
+|:white_check_mark:|`3f.ng`|
+|:white_check_mark:|`3g.ng`|
+|:white_check_mark:|`3h.ng`|
+|:white_check_mark:|`3i.ng`|
+|:white_check_mark:|`3j.ng`|
+|:white_check_mark:|`3k.ng`|
+|:white_check_mark:|`3l.ng`|
+|:white_check_mark:|`3m.ng`|
+|:white_check_mark:|`3n.ng`|
+|:white_check_mark:|`3o.ng`|
+|:white_check_mark:|`3p.ng`|
+|:white_check_mark:|`3q.ng`|
+|:white_check_mark:|`3r.ng`|
+|:white_check_mark:|`3s.ng`|
+|:white_check_mark:|`3t.ng`|
+|:white_check_mark:|`3u.ng`|
+|:white_check_mark:|`3v.ng`|
+|:white_check_mark:|`3w.ng`|
+|:white_check_mark:|`3x.ng`|
+|:white_check_mark:|`3y.ng`|
+|:white_check_mark:|`3z.ng`|
 </details>
 <details>
 <summary>36 unregistered domains starting with <bold><code>4</code></bold></summary>
@@ -296,40 +371,11 @@
 |:white_check_mark:|`9z.ng`|
 </details>
 <details>
-<summary>10 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`a0.ng`|
-|:white_check_mark:|`a1.ng`|
-|:white_check_mark:|`a8.ng`|
-|:white_check_mark:|`a9.ng`|
 |:gem:|`ac.ng`|
-|:white_check_mark:|`ad.ng`|
-|:white_check_mark:|`ae.ng`|
-|:white_check_mark:|`af.ng`|
-|:white_check_mark:|`ag.ng`|
-|:white_check_mark:|`ah.ng`|
-</details>
-<details>
-<summary>14 unregistered domains starting with <bold><code>b</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`ba.ng`|
-|:white_check_mark:|`bb.ng`|
-|:white_check_mark:|`bc.ng`|
-|:white_check_mark:|`be.ng`|
-|:white_check_mark:|`bk.ng`|
-|:white_check_mark:|`bl.ng`|
-|:white_check_mark:|`bm.ng`|
-|:white_check_mark:|`bn.ng`|
-|:white_check_mark:|`bo.ng`|
-|:white_check_mark:|`bp.ng`|
-|:white_check_mark:|`bq.ng`|
-|:white_check_mark:|`br.ng`|
-|:white_check_mark:|`bs.ng`|
-|:white_check_mark:|`bt.ng`|
 </details>
 <details>
 <summary>1 unregistered domains starting with <bold><code>c</code></bold></summary>
@@ -339,63 +385,11 @@
 |:gem:|`co.ng`|
 </details>
 <details>
-<summary>1 unregistered domains starting with <bold><code>d</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`dd.ng`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>e</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`e2.ng`|
-|:white_check_mark:|`ed.ng`|
-</details>
-<details>
 <summary>1 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:gem:|`fm.ng`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>h</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`hp.ng`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>i</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`iz.ng`|
-</details>
-<details>
-<summary>3 unregistered domains starting with <bold><code>m</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`m3.ng`|
-|:white_check_mark:|`m6.ng`|
-|:white_check_mark:|`mc.ng`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>n</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`nq.ng`|
-</details>
-<details>
-<summary>1 unregistered domains starting with <bold><code>o</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`o5.ng`|
 </details>
 <details>
 <summary>2 unregistered domains starting with <bold><code>p</code></bold></summary>
@@ -406,18 +400,9 @@
 |:gem:|`pi.ng`|
 </details>
 <details>
-<summary>2 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`t2.ng`|
 |:gem:|`tv.ng`|
-</details>
-<details>
-<summary>2 unregistered domains starting with <bold><code>v</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`v9.ng`|
-|:white_check_mark:|`vk.ng`|
 </details>

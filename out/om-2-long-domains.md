@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.om`
 
-## Data last updated: 05/29/2024, 11:38:52
+## Data last updated: 07/24/2024, 16:23:09
 
 |Stat|Amount|
 |--|--|
 |Registered domains|5|
-|Unregistered domains|666|
+|Unregistered domains|566|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|0.75%|
+|Registration rate|0.88%|
 |Failed lookups|0|
-|Successful lookups|671|
+|Successful lookups|571|
 |Lookup success rate|100%|
 
 
@@ -646,7 +646,7 @@
 |:white_check_mark:|`oz.om`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -655,11 +655,6 @@
 |:white_check_mark:|`p2.om`|
 |:white_check_mark:|`p3.om`|
 |:white_check_mark:|`p4.om`|
-|:white_check_mark:|`p5.om`|
-|:white_check_mark:|`p6.om`|
-|:white_check_mark:|`p7.om`|
-|:white_check_mark:|`p8.om`|
-|:white_check_mark:|`p9.om`|
 |:white_check_mark:|`pa.om`|
 |:white_check_mark:|`pb.om`|
 |:white_check_mark:|`pc.om`|
@@ -686,117 +681,4 @@
 |:white_check_mark:|`px.om`|
 |:white_check_mark:|`py.om`|
 |:white_check_mark:|`pz.om`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>q</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`q0.om`|
-|:white_check_mark:|`q1.om`|
-|:white_check_mark:|`q2.om`|
-|:white_check_mark:|`q3.om`|
-|:white_check_mark:|`q4.om`|
-|:white_check_mark:|`q5.om`|
-|:white_check_mark:|`q6.om`|
-|:white_check_mark:|`q7.om`|
-|:white_check_mark:|`q8.om`|
-|:white_check_mark:|`q9.om`|
-|:white_check_mark:|`qa.om`|
-|:white_check_mark:|`qb.om`|
-|:white_check_mark:|`qc.om`|
-|:white_check_mark:|`qd.om`|
-|:white_check_mark:|`qe.om`|
-|:white_check_mark:|`qf.om`|
-|:white_check_mark:|`qg.om`|
-|:white_check_mark:|`qh.om`|
-|:white_check_mark:|`qi.om`|
-|:white_check_mark:|`qj.om`|
-|:white_check_mark:|`qk.om`|
-|:white_check_mark:|`ql.om`|
-|:white_check_mark:|`qm.om`|
-|:white_check_mark:|`qn.om`|
-|:white_check_mark:|`qo.om`|
-|:white_check_mark:|`qp.om`|
-|:white_check_mark:|`qq.om`|
-|:white_check_mark:|`qr.om`|
-|:white_check_mark:|`qs.om`|
-|:white_check_mark:|`qt.om`|
-|:white_check_mark:|`qu.om`|
-|:white_check_mark:|`qv.om`|
-|:white_check_mark:|`qw.om`|
-|:white_check_mark:|`qx.om`|
-|:white_check_mark:|`qy.om`|
-|:white_check_mark:|`qz.om`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`r0.om`|
-|:white_check_mark:|`r1.om`|
-|:white_check_mark:|`r2.om`|
-|:white_check_mark:|`r3.om`|
-|:white_check_mark:|`r4.om`|
-|:white_check_mark:|`r5.om`|
-|:white_check_mark:|`r6.om`|
-|:white_check_mark:|`r7.om`|
-|:white_check_mark:|`r8.om`|
-|:white_check_mark:|`r9.om`|
-|:white_check_mark:|`ra.om`|
-|:white_check_mark:|`rb.om`|
-|:white_check_mark:|`rc.om`|
-|:white_check_mark:|`rd.om`|
-|:white_check_mark:|`re.om`|
-|:white_check_mark:|`rf.om`|
-|:white_check_mark:|`rg.om`|
-|:white_check_mark:|`rh.om`|
-|:white_check_mark:|`ri.om`|
-|:white_check_mark:|`rj.om`|
-|:white_check_mark:|`rk.om`|
-|:white_check_mark:|`rl.om`|
-|:white_check_mark:|`rm.om`|
-|:white_check_mark:|`rn.om`|
-|:white_check_mark:|`ro.om`|
-|:white_check_mark:|`rp.om`|
-|:white_check_mark:|`rq.om`|
-|:white_check_mark:|`rr.om`|
-|:white_check_mark:|`rs.om`|
-|:white_check_mark:|`rt.om`|
-|:white_check_mark:|`ru.om`|
-|:white_check_mark:|`rv.om`|
-|:white_check_mark:|`rw.om`|
-|:white_check_mark:|`rx.om`|
-|:white_check_mark:|`ry.om`|
-|:white_check_mark:|`rz.om`|
-</details>
-<details>
-<summary>23 unregistered domains starting with <bold><code>s</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`sa.om`|
-|:white_check_mark:|`sb.om`|
-|:white_check_mark:|`sc.om`|
-|:white_check_mark:|`sd.om`|
-|:white_check_mark:|`se.om`|
-|:white_check_mark:|`sf.om`|
-|:white_check_mark:|`sg.om`|
-|:white_check_mark:|`sh.om`|
-|:white_check_mark:|`si.om`|
-|:white_check_mark:|`sj.om`|
-|:white_check_mark:|`sk.om`|
-|:white_check_mark:|`sl.om`|
-|:white_check_mark:|`sm.om`|
-|:white_check_mark:|`sn.om`|
-|:white_check_mark:|`so.om`|
-|:white_check_mark:|`sp.om`|
-|:white_check_mark:|`sq.om`|
-|:white_check_mark:|`sr.om`|
-|:white_check_mark:|`ss.om`|
-|:white_check_mark:|`st.om`|
-|:white_check_mark:|`su.om`|
-|:white_check_mark:|`sv.om`|
-|:white_check_mark:|`sw.om`|
 </details>

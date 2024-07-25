@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.dm`
 
-## Data last updated: 05/29/2024, 11:51:10
+## Data last updated: 07/24/2024, 16:25:05
 
 |Stat|Amount|
 |--|--|
-|Registered domains|120|
-|Unregistered domains|1176|
+|Registered domains|76|
+|Unregistered domains|1220|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|9.26%|
+|Registration rate|5.86%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -273,10 +273,20 @@
 |:white_check_mark:|`5z.dm`|
 </details>
 <details>
-<summary>16 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`60.dm`|
+|:white_check_mark:|`61.dm`|
+|:white_check_mark:|`62.dm`|
+|:white_check_mark:|`63.dm`|
+|:white_check_mark:|`64.dm`|
+|:white_check_mark:|`65.dm`|
+|:white_check_mark:|`66.dm`|
+|:white_check_mark:|`67.dm`|
+|:white_check_mark:|`68.dm`|
+|:white_check_mark:|`69.dm`|
 |:white_check_mark:|`6a.dm`|
 |:white_check_mark:|`6b.dm`|
 |:white_check_mark:|`6c.dm`|
@@ -293,9 +303,61 @@
 |:white_check_mark:|`6n.dm`|
 |:white_check_mark:|`6o.dm`|
 |:white_check_mark:|`6p.dm`|
+|:white_check_mark:|`6q.dm`|
+|:white_check_mark:|`6r.dm`|
+|:white_check_mark:|`6s.dm`|
+|:white_check_mark:|`6t.dm`|
+|:white_check_mark:|`6u.dm`|
+|:white_check_mark:|`6v.dm`|
+|:white_check_mark:|`6w.dm`|
+|:white_check_mark:|`6x.dm`|
+|:white_check_mark:|`6y.dm`|
+|:white_check_mark:|`6z.dm`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`70.dm`|
+|:white_check_mark:|`71.dm`|
+|:white_check_mark:|`72.dm`|
+|:white_check_mark:|`73.dm`|
+|:white_check_mark:|`74.dm`|
+|:white_check_mark:|`75.dm`|
+|:white_check_mark:|`76.dm`|
+|:white_check_mark:|`77.dm`|
+|:white_check_mark:|`78.dm`|
+|:white_check_mark:|`79.dm`|
+|:white_check_mark:|`7a.dm`|
+|:white_check_mark:|`7b.dm`|
+|:white_check_mark:|`7c.dm`|
+|:white_check_mark:|`7d.dm`|
+|:white_check_mark:|`7e.dm`|
+|:white_check_mark:|`7f.dm`|
+|:white_check_mark:|`7g.dm`|
+|:white_check_mark:|`7h.dm`|
+|:white_check_mark:|`7i.dm`|
+|:white_check_mark:|`7j.dm`|
+|:white_check_mark:|`7k.dm`|
+|:white_check_mark:|`7l.dm`|
+|:white_check_mark:|`7m.dm`|
+|:white_check_mark:|`7n.dm`|
+|:white_check_mark:|`7o.dm`|
+|:white_check_mark:|`7p.dm`|
+|:white_check_mark:|`7q.dm`|
+|:white_check_mark:|`7r.dm`|
+|:white_check_mark:|`7s.dm`|
+|:white_check_mark:|`7t.dm`|
+|:white_check_mark:|`7u.dm`|
+|:white_check_mark:|`7v.dm`|
+|:white_check_mark:|`7w.dm`|
+|:white_check_mark:|`7x.dm`|
+|:white_check_mark:|`7y.dm`|
+|:white_check_mark:|`7z.dm`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -309,6 +371,10 @@
 |:white_check_mark:|`87.dm`|
 |:white_check_mark:|`88.dm`|
 |:white_check_mark:|`89.dm`|
+|:white_check_mark:|`8a.dm`|
+|:white_check_mark:|`8b.dm`|
+|:white_check_mark:|`8c.dm`|
+|:white_check_mark:|`8d.dm`|
 |:white_check_mark:|`8e.dm`|
 |:white_check_mark:|`8f.dm`|
 |:white_check_mark:|`8g.dm`|
@@ -519,7 +585,7 @@
 |:white_check_mark:|`ez.dm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -529,10 +595,6 @@
 |:white_check_mark:|`f3.dm`|
 |:white_check_mark:|`f4.dm`|
 |:white_check_mark:|`f5.dm`|
-|:white_check_mark:|`f6.dm`|
-|:white_check_mark:|`f7.dm`|
-|:white_check_mark:|`f8.dm`|
-|:white_check_mark:|`f9.dm`|
 |:white_check_mark:|`fa.dm`|
 |:white_check_mark:|`fb.dm`|
 |:white_check_mark:|`fc.dm`|
@@ -561,7 +623,7 @@
 |:white_check_mark:|`fz.dm`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>24 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -575,17 +637,6 @@
 |:white_check_mark:|`g7.dm`|
 |:white_check_mark:|`g8.dm`|
 |:white_check_mark:|`g9.dm`|
-|:white_check_mark:|`ga.dm`|
-|:white_check_mark:|`gb.dm`|
-|:white_check_mark:|`gc.dm`|
-|:white_check_mark:|`gd.dm`|
-|:white_check_mark:|`ge.dm`|
-|:white_check_mark:|`gf.dm`|
-|:white_check_mark:|`gg.dm`|
-|:white_check_mark:|`gh.dm`|
-|:white_check_mark:|`gi.dm`|
-|:white_check_mark:|`gj.dm`|
-|:white_check_mark:|`gk.dm`|
 |:white_check_mark:|`gl.dm`|
 |:white_check_mark:|`gm.dm`|
 |:white_check_mark:|`gn.dm`|
@@ -599,7 +650,6 @@
 |:white_check_mark:|`gv.dm`|
 |:white_check_mark:|`gw.dm`|
 |:white_check_mark:|`gx.dm`|
-|:white_check_mark:|`gy.dm`|
 |:white_check_mark:|`gz.dm`|
 </details>
 <details>

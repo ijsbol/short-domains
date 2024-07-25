@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.mu`
 
-## Data last updated: 05/29/2024, 12:03:50
+## Data last updated: 07/24/2024, 16:34:20
 
 |Stat|Amount|
 |--|--|
-|Registered domains|46|
-|Unregistered domains|1250|
+|Registered domains|21|
+|Unregistered domains|1230|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|3.55%|
+|Registration rate|1.68%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|1251|
 |Lookup success rate|100%|
 
 
@@ -357,20 +357,11 @@
 |:white_check_mark:|`7z.mu`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>27 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`80.mu`|
-|:white_check_mark:|`81.mu`|
-|:white_check_mark:|`82.mu`|
-|:white_check_mark:|`83.mu`|
-|:white_check_mark:|`84.mu`|
-|:white_check_mark:|`85.mu`|
-|:white_check_mark:|`86.mu`|
-|:white_check_mark:|`87.mu`|
-|:white_check_mark:|`88.mu`|
-|:white_check_mark:|`89.mu`|
 |:white_check_mark:|`8a.mu`|
 |:white_check_mark:|`8b.mu`|
 |:white_check_mark:|`8c.mu`|
@@ -397,48 +388,6 @@
 |:white_check_mark:|`8x.mu`|
 |:white_check_mark:|`8y.mu`|
 |:white_check_mark:|`8z.mu`|
-</details>
-<details>
-<summary>36 unregistered domains starting with <bold><code>9</code></bold></summary>
-
-|Type|Domain|
-|--|--|
-|:white_check_mark:|`90.mu`|
-|:white_check_mark:|`91.mu`|
-|:white_check_mark:|`92.mu`|
-|:white_check_mark:|`93.mu`|
-|:white_check_mark:|`94.mu`|
-|:white_check_mark:|`95.mu`|
-|:white_check_mark:|`96.mu`|
-|:white_check_mark:|`97.mu`|
-|:white_check_mark:|`98.mu`|
-|:white_check_mark:|`99.mu`|
-|:white_check_mark:|`9a.mu`|
-|:white_check_mark:|`9b.mu`|
-|:white_check_mark:|`9c.mu`|
-|:white_check_mark:|`9d.mu`|
-|:white_check_mark:|`9e.mu`|
-|:white_check_mark:|`9f.mu`|
-|:white_check_mark:|`9g.mu`|
-|:white_check_mark:|`9h.mu`|
-|:white_check_mark:|`9i.mu`|
-|:white_check_mark:|`9j.mu`|
-|:white_check_mark:|`9k.mu`|
-|:white_check_mark:|`9l.mu`|
-|:white_check_mark:|`9m.mu`|
-|:white_check_mark:|`9n.mu`|
-|:white_check_mark:|`9o.mu`|
-|:white_check_mark:|`9p.mu`|
-|:white_check_mark:|`9q.mu`|
-|:white_check_mark:|`9r.mu`|
-|:white_check_mark:|`9s.mu`|
-|:white_check_mark:|`9t.mu`|
-|:white_check_mark:|`9u.mu`|
-|:white_check_mark:|`9v.mu`|
-|:white_check_mark:|`9w.mu`|
-|:white_check_mark:|`9x.mu`|
-|:white_check_mark:|`9y.mu`|
-|:white_check_mark:|`9z.mu`|
 </details>
 <details>
 <summary>15 unregistered domains starting with <bold><code>a</code></bold></summary>
@@ -966,10 +915,20 @@
 |:white_check_mark:|`mz.mu`|
 </details>
 <details>
-<summary>21 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`n0.mu`|
+|:white_check_mark:|`n1.mu`|
+|:white_check_mark:|`n2.mu`|
+|:white_check_mark:|`n3.mu`|
+|:white_check_mark:|`n4.mu`|
+|:white_check_mark:|`n5.mu`|
+|:white_check_mark:|`n6.mu`|
+|:white_check_mark:|`n7.mu`|
+|:white_check_mark:|`n8.mu`|
+|:white_check_mark:|`n9.mu`|
 |:white_check_mark:|`na.mu`|
 |:white_check_mark:|`nb.mu`|
 |:white_check_mark:|`nc.mu`|
@@ -991,9 +950,14 @@
 |:white_check_mark:|`ns.mu`|
 |:white_check_mark:|`nt.mu`|
 |:white_check_mark:|`nu.mu`|
+|:white_check_mark:|`nv.mu`|
+|:white_check_mark:|`nw.mu`|
+|:white_check_mark:|`nx.mu`|
+|:white_check_mark:|`ny.mu`|
+|:white_check_mark:|`nz.mu`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1007,6 +971,16 @@
 |:white_check_mark:|`o7.mu`|
 |:white_check_mark:|`o8.mu`|
 |:white_check_mark:|`o9.mu`|
+|:white_check_mark:|`oa.mu`|
+|:white_check_mark:|`ob.mu`|
+|:white_check_mark:|`oc.mu`|
+|:white_check_mark:|`od.mu`|
+|:white_check_mark:|`oe.mu`|
+|:white_check_mark:|`of.mu`|
+|:white_check_mark:|`og.mu`|
+|:white_check_mark:|`oh.mu`|
+|:white_check_mark:|`oi.mu`|
+|:white_check_mark:|`oj.mu`|
 |:white_check_mark:|`ok.mu`|
 |:white_check_mark:|`ol.mu`|
 |:white_check_mark:|`om.mu`|

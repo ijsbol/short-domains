@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.fr`
 
-## Data last updated: 07/01/2024, 15:06:59
+## Data last updated: 07/24/2024, 18:09:14
 
 |Stat|Amount|
 |--|--|
-|Registered domains|9|
-|Unregistered domains|2|
-|Premium domains|0|
+|Registered domains|1280|
+|Unregistered domains|16|
+|Premium domains|1|
 |Application only domains|0|
-|Registration rate|81.82%|
+|Registration rate|98.77%|
 |Failed lookups|0|
-|Successful lookups|11|
+|Successful lookups|1296|
 |Lookup success rate|100%|
 
 
@@ -21,10 +21,96 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>2 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`af.fr`|
-|:white_check_mark:|`ak.fr`|
+|:gem:|`1e.fr`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>8</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`8c.fr`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>b</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`bl.fr`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>c</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`co.fr`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>f</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`fr.fr`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>g</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`gf.fr`|
+|:white_check_mark:|`gp.fr`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>m</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`mf.fr`|
+|:white_check_mark:|`mq.fr`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>n</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`nc.fr`|
+</details>
+<details>
+<summary>2 unregistered domains starting with <bold><code>p</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`pf.fr`|
+|:white_check_mark:|`pm.fr`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>r</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`re.fr`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>t</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`tf.fr`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>w</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`wf.fr`|
+</details>
+<details>
+<summary>1 unregistered domains starting with <bold><code>y</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`yt.fr`|
 </details>
