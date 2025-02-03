@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.nl`
 
-## Data last updated: 07/24/2024, 16:16:56
+## Data last updated: 02/03/2025, 20:08:51
 
 |Stat|Amount|
 |--|--|
-|Registered domains|308|
-|Unregistered domains|988|
+|Registered domains|497|
+|Unregistered domains|799|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|23.77%|
+|Registration rate|38.35%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -63,7 +63,7 @@
 |:white_check_mark:|`0z.nl`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -75,6 +75,8 @@
 |:white_check_mark:|`15.nl`|
 |:white_check_mark:|`16.nl`|
 |:white_check_mark:|`17.nl`|
+|:white_check_mark:|`18.nl`|
+|:white_check_mark:|`19.nl`|
 |:white_check_mark:|`1a.nl`|
 |:white_check_mark:|`1b.nl`|
 |:white_check_mark:|`1c.nl`|
@@ -103,153 +105,91 @@
 |:white_check_mark:|`1z.nl`|
 </details>
 <details>
-<summary>22 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`20.nl`|
-|:white_check_mark:|`23.nl`|
-|:white_check_mark:|`24.nl`|
 |:white_check_mark:|`25.nl`|
-|:white_check_mark:|`26.nl`|
-|:white_check_mark:|`29.nl`|
-|:white_check_mark:|`2a.nl`|
-|:white_check_mark:|`2b.nl`|
 |:white_check_mark:|`2e.nl`|
 |:white_check_mark:|`2f.nl`|
-|:white_check_mark:|`2g.nl`|
-|:white_check_mark:|`2h.nl`|
-|:white_check_mark:|`2i.nl`|
-|:white_check_mark:|`2l.nl`|
-|:white_check_mark:|`2m.nl`|
+|:white_check_mark:|`2j.nl`|
+|:white_check_mark:|`2o.nl`|
 |:white_check_mark:|`2p.nl`|
-|:white_check_mark:|`2q.nl`|
-|:white_check_mark:|`2r.nl`|
+|:white_check_mark:|`2t.nl`|
 |:white_check_mark:|`2u.nl`|
-|:white_check_mark:|`2v.nl`|
-|:white_check_mark:|`2w.nl`|
-|:white_check_mark:|`2z.nl`|
+|:white_check_mark:|`2x.nl`|
+|:white_check_mark:|`2y.nl`|
 </details>
 <details>
-<summary>21 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`30.nl`|
-|:white_check_mark:|`31.nl`|
 |:white_check_mark:|`32.nl`|
-|:white_check_mark:|`33.nl`|
-|:white_check_mark:|`34.nl`|
 |:white_check_mark:|`37.nl`|
-|:white_check_mark:|`38.nl`|
-|:white_check_mark:|`3c.nl`|
-|:white_check_mark:|`3d.nl`|
+|:white_check_mark:|`3a.nl`|
 |:white_check_mark:|`3e.nl`|
-|:white_check_mark:|`3h.nl`|
-|:white_check_mark:|`3i.nl`|
-|:white_check_mark:|`3j.nl`|
+|:white_check_mark:|`3f.nl`|
+|:white_check_mark:|`3g.nl`|
+|:white_check_mark:|`3k.nl`|
+|:white_check_mark:|`3l.nl`|
 |:white_check_mark:|`3m.nl`|
-|:white_check_mark:|`3n.nl`|
-|:white_check_mark:|`3q.nl`|
-|:white_check_mark:|`3t.nl`|
+|:white_check_mark:|`3r.nl`|
 |:white_check_mark:|`3u.nl`|
 |:white_check_mark:|`3v.nl`|
-|:white_check_mark:|`3w.nl`|
-|:white_check_mark:|`3x.nl`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>4</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>4</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`43.nl`|
+|:white_check_mark:|`41.nl`|
 |:white_check_mark:|`44.nl`|
-|:white_check_mark:|`47.nl`|
-|:white_check_mark:|`4g.nl`|
+|:white_check_mark:|`48.nl`|
+|:white_check_mark:|`4b.nl`|
+|:white_check_mark:|`4d.nl`|
 |:white_check_mark:|`4h.nl`|
-|:white_check_mark:|`4i.nl`|
-|:white_check_mark:|`4l.nl`|
-|:white_check_mark:|`4m.nl`|
 |:white_check_mark:|`4n.nl`|
-|:white_check_mark:|`4q.nl`|
-|:white_check_mark:|`4r.nl`|
-|:white_check_mark:|`4s.nl`|
-|:white_check_mark:|`4v.nl`|
+|:white_check_mark:|`4o.nl`|
+|:white_check_mark:|`4t.nl`|
 |:white_check_mark:|`4y.nl`|
 </details>
 <details>
-<summary>29 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>14 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`50.nl`|
 |:white_check_mark:|`51.nl`|
 |:white_check_mark:|`52.nl`|
-|:white_check_mark:|`53.nl`|
-|:white_check_mark:|`54.nl`|
-|:white_check_mark:|`55.nl`|
-|:white_check_mark:|`56.nl`|
 |:white_check_mark:|`57.nl`|
-|:white_check_mark:|`58.nl`|
-|:white_check_mark:|`59.nl`|
-|:white_check_mark:|`5a.nl`|
-|:white_check_mark:|`5b.nl`|
 |:white_check_mark:|`5c.nl`|
 |:white_check_mark:|`5d.nl`|
 |:white_check_mark:|`5e.nl`|
 |:white_check_mark:|`5f.nl`|
-|:white_check_mark:|`5g.nl`|
-|:white_check_mark:|`5j.nl`|
 |:white_check_mark:|`5k.nl`|
-|:white_check_mark:|`5n.nl`|
-|:white_check_mark:|`5o.nl`|
+|:white_check_mark:|`5l.nl`|
 |:white_check_mark:|`5p.nl`|
-|:white_check_mark:|`5s.nl`|
-|:white_check_mark:|`5t.nl`|
+|:white_check_mark:|`5u.nl`|
 |:white_check_mark:|`5v.nl`|
-|:white_check_mark:|`5w.nl`|
-|:white_check_mark:|`5x.nl`|
-|:white_check_mark:|`5y.nl`|
 |:white_check_mark:|`5z.nl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`60.nl`|
-|:white_check_mark:|`61.nl`|
-|:white_check_mark:|`62.nl`|
-|:white_check_mark:|`63.nl`|
 |:white_check_mark:|`64.nl`|
-|:white_check_mark:|`65.nl`|
-|:white_check_mark:|`66.nl`|
-|:white_check_mark:|`67.nl`|
-|:white_check_mark:|`68.nl`|
 |:white_check_mark:|`69.nl`|
-|:white_check_mark:|`6a.nl`|
 |:white_check_mark:|`6b.nl`|
-|:white_check_mark:|`6c.nl`|
-|:white_check_mark:|`6d.nl`|
-|:white_check_mark:|`6e.nl`|
-|:white_check_mark:|`6f.nl`|
-|:white_check_mark:|`6g.nl`|
 |:white_check_mark:|`6h.nl`|
 |:white_check_mark:|`6i.nl`|
-|:white_check_mark:|`6j.nl`|
-|:white_check_mark:|`6k.nl`|
 |:white_check_mark:|`6l.nl`|
-|:white_check_mark:|`6m.nl`|
 |:white_check_mark:|`6n.nl`|
-|:white_check_mark:|`6o.nl`|
-|:white_check_mark:|`6p.nl`|
-|:white_check_mark:|`6q.nl`|
-|:white_check_mark:|`6r.nl`|
 |:white_check_mark:|`6s.nl`|
 |:white_check_mark:|`6t.nl`|
-|:white_check_mark:|`6u.nl`|
-|:white_check_mark:|`6v.nl`|
-|:white_check_mark:|`6w.nl`|
 |:white_check_mark:|`6x.nl`|
 |:white_check_mark:|`6y.nl`|
 |:white_check_mark:|`6z.nl`|
@@ -381,164 +321,90 @@
 |:white_check_mark:|`9z.nl`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`a0.nl`|
-|:white_check_mark:|`a1.nl`|
-|:white_check_mark:|`a4.nl`|
-|:white_check_mark:|`a5.nl`|
+|:white_check_mark:|`a2.nl`|
 |:white_check_mark:|`a6.nl`|
 |:white_check_mark:|`a7.nl`|
-|:white_check_mark:|`a8.nl`|
-|:white_check_mark:|`a9.nl`|
-|:white_check_mark:|`ac.nl`|
-|:white_check_mark:|`ad.nl`|
 |:white_check_mark:|`ae.nl`|
-|:white_check_mark:|`ah.nl`|
-|:white_check_mark:|`ai.nl`|
-|:white_check_mark:|`aj.nl`|
-|:white_check_mark:|`ak.nl`|
-|:white_check_mark:|`an.nl`|
-|:white_check_mark:|`ao.nl`|
-|:white_check_mark:|`ar.nl`|
 |:white_check_mark:|`as.nl`|
-|:white_check_mark:|`at.nl`|
-|:white_check_mark:|`au.nl`|
-|:white_check_mark:|`ay.nl`|
-|:white_check_mark:|`az.nl`|
+|:white_check_mark:|`av.nl`|
+|:white_check_mark:|`ax.nl`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`b1.nl`|
-|:white_check_mark:|`b2.nl`|
-|:white_check_mark:|`b3.nl`|
-|:white_check_mark:|`b4.nl`|
-|:white_check_mark:|`b5.nl`|
 |:white_check_mark:|`b6.nl`|
-|:white_check_mark:|`b7.nl`|
-|:white_check_mark:|`b8.nl`|
-|:white_check_mark:|`ba.nl`|
-|:white_check_mark:|`bd.nl`|
-|:white_check_mark:|`be.nl`|
+|:white_check_mark:|`bc.nl`|
 |:white_check_mark:|`bf.nl`|
-|:white_check_mark:|`bg.nl`|
-|:white_check_mark:|`bh.nl`|
-|:white_check_mark:|`bi.nl`|
+|:white_check_mark:|`bl.nl`|
 |:white_check_mark:|`bo.nl`|
-|:white_check_mark:|`bp.nl`|
-|:white_check_mark:|`bq.nl`|
-|:white_check_mark:|`br.nl`|
-|:white_check_mark:|`bs.nl`|
-|:white_check_mark:|`bt.nl`|
+|:white_check_mark:|`bu.nl`|
 |:white_check_mark:|`bw.nl`|
-|:white_check_mark:|`bx.nl`|
-|:white_check_mark:|`by.nl`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>c</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`c0.nl`|
 |:white_check_mark:|`c1.nl`|
-|:white_check_mark:|`c2.nl`|
-|:white_check_mark:|`c5.nl`|
 |:white_check_mark:|`c6.nl`|
 |:white_check_mark:|`c7.nl`|
-|:white_check_mark:|`c8.nl`|
-|:white_check_mark:|`c9.nl`|
-|:white_check_mark:|`cb.nl`|
+|:white_check_mark:|`ca.nl`|
 |:white_check_mark:|`cc.nl`|
-|:white_check_mark:|`cd.nl`|
-|:white_check_mark:|`ce.nl`|
-|:white_check_mark:|`cf.nl`|
 |:white_check_mark:|`cg.nl`|
-|:white_check_mark:|`cj.nl`|
-|:white_check_mark:|`ck.nl`|
+|:white_check_mark:|`ch.nl`|
 |:white_check_mark:|`cl.nl`|
 |:white_check_mark:|`cm.nl`|
-|:white_check_mark:|`cn.nl`|
-|:white_check_mark:|`cq.nl`|
 |:white_check_mark:|`cr.nl`|
 |:white_check_mark:|`cs.nl`|
-|:white_check_mark:|`ct.nl`|
-|:white_check_mark:|`cu.nl`|
 |:white_check_mark:|`cx.nl`|
-|:white_check_mark:|`cy.nl`|
-|:white_check_mark:|`cz.nl`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`d0.nl`|
 |:white_check_mark:|`d1.nl`|
-|:white_check_mark:|`d2.nl`|
-|:white_check_mark:|`d3.nl`|
-|:white_check_mark:|`d4.nl`|
-|:white_check_mark:|`d5.nl`|
-|:white_check_mark:|`d6.nl`|
-|:white_check_mark:|`d9.nl`|
+|:white_check_mark:|`d7.nl`|
+|:white_check_mark:|`d8.nl`|
+|:white_check_mark:|`db.nl`|
 |:white_check_mark:|`dc.nl`|
-|:white_check_mark:|`dd.nl`|
-|:white_check_mark:|`de.nl`|
-|:white_check_mark:|`df.nl`|
-|:white_check_mark:|`dg.nl`|
 |:white_check_mark:|`dh.nl`|
-|:white_check_mark:|`di.nl`|
-|:white_check_mark:|`dl.nl`|
+|:white_check_mark:|`dk.nl`|
 |:white_check_mark:|`dm.nl`|
-|:white_check_mark:|`dn.nl`|
-|:white_check_mark:|`do.nl`|
-|:white_check_mark:|`dp.nl`|
+|:white_check_mark:|`dr.nl`|
 |:white_check_mark:|`ds.nl`|
-|:white_check_mark:|`dt.nl`|
-|:white_check_mark:|`du.nl`|
-|:white_check_mark:|`dv.nl`|
-|:white_check_mark:|`dw.nl`|
 |:white_check_mark:|`dx.nl`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`e0.nl`|
 |:white_check_mark:|`e1.nl`|
-|:white_check_mark:|`e4.nl`|
-|:white_check_mark:|`e5.nl`|
-|:white_check_mark:|`e6.nl`|
+|:white_check_mark:|`e3.nl`|
 |:white_check_mark:|`e7.nl`|
 |:white_check_mark:|`e8.nl`|
-|:white_check_mark:|`ea.nl`|
-|:white_check_mark:|`eb.nl`|
 |:white_check_mark:|`ec.nl`|
 |:white_check_mark:|`ed.nl`|
-|:white_check_mark:|`ee.nl`|
 |:white_check_mark:|`eh.nl`|
 |:white_check_mark:|`ei.nl`|
-|:white_check_mark:|`ej.nl`|
-|:white_check_mark:|`ek.nl`|
 |:white_check_mark:|`el.nl`|
 |:white_check_mark:|`em.nl`|
-|:white_check_mark:|`en.nl`|
-|:white_check_mark:|`eq.nl`|
-|:white_check_mark:|`er.nl`|
 |:white_check_mark:|`es.nl`|
 |:white_check_mark:|`et.nl`|
-|:white_check_mark:|`eu.nl`|
-|:white_check_mark:|`ev.nl`|
-|:white_check_mark:|`ew.nl`|
-|:white_check_mark:|`ez.nl`|
+|:white_check_mark:|`ex.nl`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -548,30 +414,29 @@
 |:white_check_mark:|`f3.nl`|
 |:white_check_mark:|`f4.nl`|
 |:white_check_mark:|`f5.nl`|
+|:white_check_mark:|`f6.nl`|
+|:white_check_mark:|`f7.nl`|
 |:white_check_mark:|`f8.nl`|
 |:white_check_mark:|`f9.nl`|
-|:white_check_mark:|`fb.nl`|
-|:white_check_mark:|`fc.nl`|
 |:white_check_mark:|`fd.nl`|
-|:white_check_mark:|`fg.nl`|
 |:white_check_mark:|`fh.nl`|
 |:white_check_mark:|`fi.nl`|
-|:white_check_mark:|`fj.nl`|
 |:white_check_mark:|`fk.nl`|
 |:white_check_mark:|`fl.nl`|
 |:white_check_mark:|`fm.nl`|
+|:white_check_mark:|`fo.nl`|
 |:white_check_mark:|`fp.nl`|
 |:white_check_mark:|`fq.nl`|
 |:white_check_mark:|`fr.nl`|
 |:white_check_mark:|`fs.nl`|
-|:white_check_mark:|`ft.nl`|
 |:white_check_mark:|`fu.nl`|
-|:white_check_mark:|`fv.nl`|
 |:white_check_mark:|`fw.nl`|
+|:white_check_mark:|`fx.nl`|
+|:white_check_mark:|`fy.nl`|
 |:white_check_mark:|`fz.nl`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -589,6 +454,8 @@
 |:white_check_mark:|`gb.nl`|
 |:white_check_mark:|`gc.nl`|
 |:white_check_mark:|`gd.nl`|
+|:white_check_mark:|`ge.nl`|
+|:white_check_mark:|`gf.nl`|
 |:white_check_mark:|`gg.nl`|
 |:white_check_mark:|`gh.nl`|
 |:white_check_mark:|`gi.nl`|
@@ -597,11 +464,15 @@
 |:white_check_mark:|`gl.nl`|
 |:white_check_mark:|`gm.nl`|
 |:white_check_mark:|`gn.nl`|
+|:white_check_mark:|`go.nl`|
+|:white_check_mark:|`gp.nl`|
 |:white_check_mark:|`gq.nl`|
 |:white_check_mark:|`gr.nl`|
 |:white_check_mark:|`gs.nl`|
 |:white_check_mark:|`gt.nl`|
 |:white_check_mark:|`gu.nl`|
+|:white_check_mark:|`gv.nl`|
+|:white_check_mark:|`gw.nl`|
 |:white_check_mark:|`gx.nl`|
 |:white_check_mark:|`gy.nl`|
 |:white_check_mark:|`gz.nl`|
@@ -691,20 +562,13 @@
 |:white_check_mark:|`iz.nl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>23 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`j0.nl`|
 |:white_check_mark:|`j1.nl`|
-|:white_check_mark:|`j2.nl`|
-|:white_check_mark:|`j3.nl`|
-|:white_check_mark:|`j4.nl`|
-|:white_check_mark:|`j5.nl`|
 |:white_check_mark:|`j6.nl`|
-|:white_check_mark:|`j7.nl`|
-|:white_check_mark:|`j8.nl`|
-|:white_check_mark:|`j9.nl`|
 |:white_check_mark:|`ja.nl`|
 |:white_check_mark:|`jb.nl`|
 |:white_check_mark:|`jc.nl`|
@@ -723,143 +587,87 @@
 |:white_check_mark:|`jp.nl`|
 |:white_check_mark:|`jq.nl`|
 |:white_check_mark:|`jr.nl`|
-|:white_check_mark:|`js.nl`|
-|:white_check_mark:|`jt.nl`|
 |:white_check_mark:|`ju.nl`|
-|:white_check_mark:|`jv.nl`|
 |:white_check_mark:|`jw.nl`|
-|:white_check_mark:|`jx.nl`|
-|:white_check_mark:|`jy.nl`|
-|:white_check_mark:|`jz.nl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`k0.nl`|
-|:white_check_mark:|`k1.nl`|
-|:white_check_mark:|`k2.nl`|
-|:white_check_mark:|`k3.nl`|
 |:white_check_mark:|`k4.nl`|
-|:white_check_mark:|`k5.nl`|
-|:white_check_mark:|`k6.nl`|
 |:white_check_mark:|`k7.nl`|
-|:white_check_mark:|`k8.nl`|
-|:white_check_mark:|`k9.nl`|
 |:white_check_mark:|`ka.nl`|
 |:white_check_mark:|`kb.nl`|
-|:white_check_mark:|`kc.nl`|
-|:white_check_mark:|`kd.nl`|
-|:white_check_mark:|`ke.nl`|
 |:white_check_mark:|`kf.nl`|
-|:white_check_mark:|`kg.nl`|
-|:white_check_mark:|`kh.nl`|
-|:white_check_mark:|`ki.nl`|
-|:white_check_mark:|`kj.nl`|
-|:white_check_mark:|`kk.nl`|
 |:white_check_mark:|`kl.nl`|
-|:white_check_mark:|`km.nl`|
-|:white_check_mark:|`kn.nl`|
 |:white_check_mark:|`ko.nl`|
 |:white_check_mark:|`kp.nl`|
-|:white_check_mark:|`kq.nl`|
-|:white_check_mark:|`kr.nl`|
-|:white_check_mark:|`ks.nl`|
-|:white_check_mark:|`kt.nl`|
-|:white_check_mark:|`ku.nl`|
 |:white_check_mark:|`kv.nl`|
 |:white_check_mark:|`kw.nl`|
-|:white_check_mark:|`kx.nl`|
-|:white_check_mark:|`ky.nl`|
-|:white_check_mark:|`kz.nl`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`l0.nl`|
-|:white_check_mark:|`l1.nl`|
 |:white_check_mark:|`l2.nl`|
-|:white_check_mark:|`l3.nl`|
 |:white_check_mark:|`l6.nl`|
-|:white_check_mark:|`la.nl`|
-|:white_check_mark:|`lb.nl`|
+|:white_check_mark:|`l7.nl`|
+|:white_check_mark:|`l8.nl`|
+|:white_check_mark:|`l9.nl`|
 |:white_check_mark:|`lc.nl`|
-|:white_check_mark:|`ld.nl`|
-|:white_check_mark:|`le.nl`|
-|:white_check_mark:|`lf.nl`|
 |:white_check_mark:|`lg.nl`|
-|:white_check_mark:|`lh.nl`|
-|:white_check_mark:|`li.nl`|
-|:white_check_mark:|`lj.nl`|
-|:white_check_mark:|`lk.nl`|
-|:white_check_mark:|`ll.nl`|
 |:white_check_mark:|`lm.nl`|
 |:white_check_mark:|`ln.nl`|
-|:white_check_mark:|`lo.nl`|
-|:white_check_mark:|`lp.nl`|
 |:white_check_mark:|`lq.nl`|
 |:white_check_mark:|`lr.nl`|
-|:white_check_mark:|`ls.nl`|
-|:white_check_mark:|`lt.nl`|
-|:white_check_mark:|`lu.nl`|
-|:white_check_mark:|`lv.nl`|
 |:white_check_mark:|`lw.nl`|
-|:white_check_mark:|`lx.nl`|
 |:white_check_mark:|`ly.nl`|
-|:white_check_mark:|`lz.nl`|
 </details>
 <details>
-<summary>7 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`m1.nl`|
-|:white_check_mark:|`m7.nl`|
-|:white_check_mark:|`ma.nl`|
-|:white_check_mark:|`mb.nl`|
+|:white_check_mark:|`m2.nl`|
+|:white_check_mark:|`m3.nl`|
+|:white_check_mark:|`m5.nl`|
+|:white_check_mark:|`m9.nl`|
+|:white_check_mark:|`md.nl`|
 |:white_check_mark:|`me.nl`|
 |:white_check_mark:|`mh.nl`|
-|:white_check_mark:|`mi.nl`|
+|:white_check_mark:|`mj.nl`|
+|:white_check_mark:|`mp.nl`|
+|:white_check_mark:|`ms.nl`|
+|:white_check_mark:|`mu.nl`|
+|:white_check_mark:|`mx.nl`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`n0.nl`|
-|:white_check_mark:|`n3.nl`|
-|:white_check_mark:|`n4.nl`|
+|:white_check_mark:|`n1.nl`|
+|:white_check_mark:|`n2.nl`|
 |:white_check_mark:|`n5.nl`|
-|:white_check_mark:|`n6.nl`|
-|:white_check_mark:|`n9.nl`|
-|:white_check_mark:|`nf.nl`|
-|:white_check_mark:|`ng.nl`|
-|:white_check_mark:|`nh.nl`|
-|:white_check_mark:|`ni.nl`|
-|:white_check_mark:|`nj.nl`|
+|:white_check_mark:|`n7.nl`|
+|:white_check_mark:|`ne.nl`|
 |:white_check_mark:|`nk.nl`|
 |:white_check_mark:|`nl.nl`|
 |:white_check_mark:|`no.nl`|
 |:white_check_mark:|`np.nl`|
 |:white_check_mark:|`nq.nl`|
 |:white_check_mark:|`nr.nl`|
-|:white_check_mark:|`ns.nl`|
-|:white_check_mark:|`nt.nl`|
-|:white_check_mark:|`nw.nl`|
-|:white_check_mark:|`nx.nl`|
-|:white_check_mark:|`ny.nl`|
-|:white_check_mark:|`nz.nl`|
+|:white_check_mark:|`nv.nl`|
 </details>
 <details>
-<summary>23 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>25 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`o0.nl`|
-|:white_check_mark:|`o1.nl`|
 |:white_check_mark:|`o2.nl`|
 |:white_check_mark:|`o3.nl`|
 |:white_check_mark:|`o4.nl`|
@@ -868,18 +676,21 @@
 |:white_check_mark:|`o7.nl`|
 |:white_check_mark:|`o8.nl`|
 |:white_check_mark:|`o9.nl`|
-|:white_check_mark:|`oc.nl`|
+|:white_check_mark:|`ob.nl`|
+|:white_check_mark:|`od.nl`|
 |:white_check_mark:|`of.nl`|
-|:white_check_mark:|`ok.nl`|
-|:white_check_mark:|`ol.nl`|
+|:white_check_mark:|`oh.nl`|
+|:white_check_mark:|`oj.nl`|
+|:white_check_mark:|`om.nl`|
+|:white_check_mark:|`on.nl`|
 |:white_check_mark:|`oo.nl`|
+|:white_check_mark:|`op.nl`|
 |:white_check_mark:|`or.nl`|
+|:white_check_mark:|`os.nl`|
 |:white_check_mark:|`ot.nl`|
 |:white_check_mark:|`ou.nl`|
 |:white_check_mark:|`ov.nl`|
 |:white_check_mark:|`ow.nl`|
-|:white_check_mark:|`ox.nl`|
-|:white_check_mark:|`oy.nl`|
 |:white_check_mark:|`oz.nl`|
 </details>
 <details>
@@ -925,58 +736,105 @@
 |:white_check_mark:|`pz.nl`|
 </details>
 <details>
-<summary>16 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`q0.nl`|
+|:white_check_mark:|`q1.nl`|
 |:white_check_mark:|`q2.nl`|
+|:white_check_mark:|`q3.nl`|
+|:white_check_mark:|`q4.nl`|
 |:white_check_mark:|`q5.nl`|
+|:white_check_mark:|`q6.nl`|
+|:white_check_mark:|`q7.nl`|
+|:white_check_mark:|`q8.nl`|
+|:white_check_mark:|`q9.nl`|
 |:white_check_mark:|`qa.nl`|
 |:white_check_mark:|`qb.nl`|
 |:white_check_mark:|`qc.nl`|
 |:white_check_mark:|`qd.nl`|
+|:white_check_mark:|`qe.nl`|
+|:white_check_mark:|`qf.nl`|
+|:white_check_mark:|`qg.nl`|
+|:white_check_mark:|`qh.nl`|
 |:white_check_mark:|`qi.nl`|
 |:white_check_mark:|`qj.nl`|
 |:white_check_mark:|`qk.nl`|
 |:white_check_mark:|`ql.nl`|
 |:white_check_mark:|`qm.nl`|
+|:white_check_mark:|`qn.nl`|
+|:white_check_mark:|`qo.nl`|
 |:white_check_mark:|`qp.nl`|
 |:white_check_mark:|`qq.nl`|
+|:white_check_mark:|`qr.nl`|
+|:white_check_mark:|`qs.nl`|
 |:white_check_mark:|`qt.nl`|
+|:white_check_mark:|`qu.nl`|
+|:white_check_mark:|`qv.nl`|
 |:white_check_mark:|`qw.nl`|
+|:white_check_mark:|`qx.nl`|
+|:white_check_mark:|`qy.nl`|
 |:white_check_mark:|`qz.nl`|
 </details>
 <details>
-<summary>14 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`r0.nl`|
+|:white_check_mark:|`r1.nl`|
 |:white_check_mark:|`r2.nl`|
+|:white_check_mark:|`r3.nl`|
+|:white_check_mark:|`r4.nl`|
+|:white_check_mark:|`r5.nl`|
+|:white_check_mark:|`r6.nl`|
 |:white_check_mark:|`r7.nl`|
+|:white_check_mark:|`r8.nl`|
+|:white_check_mark:|`r9.nl`|
+|:white_check_mark:|`ra.nl`|
+|:white_check_mark:|`rb.nl`|
+|:white_check_mark:|`rc.nl`|
+|:white_check_mark:|`rd.nl`|
+|:white_check_mark:|`re.nl`|
+|:white_check_mark:|`rf.nl`|
+|:white_check_mark:|`rg.nl`|
+|:white_check_mark:|`rh.nl`|
+|:white_check_mark:|`ri.nl`|
+|:white_check_mark:|`rj.nl`|
 |:white_check_mark:|`rk.nl`|
 |:white_check_mark:|`rl.nl`|
 |:white_check_mark:|`rm.nl`|
+|:white_check_mark:|`rn.nl`|
+|:white_check_mark:|`ro.nl`|
 |:white_check_mark:|`rp.nl`|
 |:white_check_mark:|`rq.nl`|
 |:white_check_mark:|`rr.nl`|
 |:white_check_mark:|`rs.nl`|
 |:white_check_mark:|`rt.nl`|
 |:white_check_mark:|`ru.nl`|
+|:white_check_mark:|`rv.nl`|
+|:white_check_mark:|`rw.nl`|
 |:white_check_mark:|`rx.nl`|
 |:white_check_mark:|`ry.nl`|
 |:white_check_mark:|`rz.nl`|
 </details>
 <details>
-<summary>18 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>29 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`s6.nl`|
-|:white_check_mark:|`s9.nl`|
+|:white_check_mark:|`s3.nl`|
+|:white_check_mark:|`s4.nl`|
+|:white_check_mark:|`s8.nl`|
+|:white_check_mark:|`sa.nl`|
+|:white_check_mark:|`sb.nl`|
 |:white_check_mark:|`sc.nl`|
 |:white_check_mark:|`sd.nl`|
 |:white_check_mark:|`se.nl`|
 |:white_check_mark:|`sf.nl`|
+|:white_check_mark:|`sg.nl`|
+|:white_check_mark:|`sh.nl`|
 |:white_check_mark:|`si.nl`|
 |:white_check_mark:|`sj.nl`|
 |:white_check_mark:|`sk.nl`|
@@ -984,170 +842,117 @@
 |:white_check_mark:|`sm.nl`|
 |:white_check_mark:|`sn.nl`|
 |:white_check_mark:|`so.nl`|
+|:white_check_mark:|`sp.nl`|
+|:white_check_mark:|`sq.nl`|
 |:white_check_mark:|`sr.nl`|
 |:white_check_mark:|`ss.nl`|
+|:white_check_mark:|`st.nl`|
+|:white_check_mark:|`su.nl`|
 |:white_check_mark:|`sv.nl`|
+|:white_check_mark:|`sw.nl`|
+|:white_check_mark:|`sx.nl`|
 |:white_check_mark:|`sy.nl`|
 |:white_check_mark:|`sz.nl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`t0.nl`|
-|:white_check_mark:|`t1.nl`|
 |:white_check_mark:|`t2.nl`|
 |:white_check_mark:|`t3.nl`|
-|:white_check_mark:|`t4.nl`|
-|:white_check_mark:|`t5.nl`|
-|:white_check_mark:|`t6.nl`|
-|:white_check_mark:|`t7.nl`|
-|:white_check_mark:|`t8.nl`|
 |:white_check_mark:|`t9.nl`|
-|:white_check_mark:|`ta.nl`|
 |:white_check_mark:|`tb.nl`|
 |:white_check_mark:|`tc.nl`|
-|:white_check_mark:|`td.nl`|
-|:white_check_mark:|`te.nl`|
-|:white_check_mark:|`tf.nl`|
-|:white_check_mark:|`tg.nl`|
-|:white_check_mark:|`th.nl`|
 |:white_check_mark:|`ti.nl`|
-|:white_check_mark:|`tj.nl`|
-|:white_check_mark:|`tk.nl`|
 |:white_check_mark:|`tl.nl`|
-|:white_check_mark:|`tm.nl`|
 |:white_check_mark:|`tn.nl`|
 |:white_check_mark:|`to.nl`|
-|:white_check_mark:|`tp.nl`|
-|:white_check_mark:|`tq.nl`|
 |:white_check_mark:|`tr.nl`|
 |:white_check_mark:|`ts.nl`|
 |:white_check_mark:|`tt.nl`|
-|:white_check_mark:|`tu.nl`|
-|:white_check_mark:|`tv.nl`|
-|:white_check_mark:|`tw.nl`|
-|:white_check_mark:|`tx.nl`|
 |:white_check_mark:|`ty.nl`|
-|:white_check_mark:|`tz.nl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`u0.nl`|
 |:white_check_mark:|`u1.nl`|
 |:white_check_mark:|`u2.nl`|
-|:white_check_mark:|`u3.nl`|
-|:white_check_mark:|`u4.nl`|
-|:white_check_mark:|`u5.nl`|
-|:white_check_mark:|`u6.nl`|
 |:white_check_mark:|`u7.nl`|
-|:white_check_mark:|`u8.nl`|
-|:white_check_mark:|`u9.nl`|
 |:white_check_mark:|`ua.nl`|
-|:white_check_mark:|`ub.nl`|
-|:white_check_mark:|`uc.nl`|
-|:white_check_mark:|`ud.nl`|
-|:white_check_mark:|`ue.nl`|
 |:white_check_mark:|`uf.nl`|
 |:white_check_mark:|`ug.nl`|
-|:white_check_mark:|`uh.nl`|
-|:white_check_mark:|`ui.nl`|
-|:white_check_mark:|`uj.nl`|
 |:white_check_mark:|`uk.nl`|
-|:white_check_mark:|`ul.nl`|
-|:white_check_mark:|`um.nl`|
-|:white_check_mark:|`un.nl`|
-|:white_check_mark:|`uo.nl`|
 |:white_check_mark:|`up.nl`|
-|:white_check_mark:|`uq.nl`|
 |:white_check_mark:|`ur.nl`|
-|:white_check_mark:|`us.nl`|
-|:white_check_mark:|`ut.nl`|
-|:white_check_mark:|`uu.nl`|
-|:white_check_mark:|`uv.nl`|
 |:white_check_mark:|`uw.nl`|
-|:white_check_mark:|`ux.nl`|
-|:white_check_mark:|`uy.nl`|
-|:white_check_mark:|`uz.nl`|
 </details>
 <details>
-<summary>24 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>12 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`v3.nl`|
 |:white_check_mark:|`v7.nl`|
-|:white_check_mark:|`va.nl`|
+|:white_check_mark:|`v9.nl`|
 |:white_check_mark:|`vb.nl`|
-|:white_check_mark:|`vc.nl`|
 |:white_check_mark:|`vd.nl`|
-|:white_check_mark:|`ve.nl`|
-|:white_check_mark:|`vf.nl`|
 |:white_check_mark:|`vg.nl`|
 |:white_check_mark:|`vh.nl`|
 |:white_check_mark:|`vi.nl`|
-|:white_check_mark:|`vj.nl`|
-|:white_check_mark:|`vk.nl`|
-|:white_check_mark:|`vl.nl`|
-|:white_check_mark:|`vm.nl`|
 |:white_check_mark:|`vn.nl`|
-|:white_check_mark:|`vo.nl`|
-|:white_check_mark:|`vp.nl`|
 |:white_check_mark:|`vq.nl`|
-|:white_check_mark:|`vr.nl`|
 |:white_check_mark:|`vs.nl`|
-|:white_check_mark:|`vt.nl`|
-|:white_check_mark:|`vu.nl`|
-|:white_check_mark:|`vv.nl`|
-|:white_check_mark:|`vw.nl`|
+|:white_check_mark:|`vy.nl`|
 </details>
 <details>
-<summary>19 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>14 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`w2.nl`|
-|:white_check_mark:|`w3.nl`|
+|:white_check_mark:|`w4.nl`|
+|:white_check_mark:|`w5.nl`|
 |:white_check_mark:|`w6.nl`|
-|:white_check_mark:|`w7.nl`|
-|:white_check_mark:|`w8.nl`|
-|:white_check_mark:|`wa.nl`|
-|:white_check_mark:|`wb.nl`|
+|:white_check_mark:|`w9.nl`|
+|:white_check_mark:|`wc.nl`|
+|:white_check_mark:|`wd.nl`|
 |:white_check_mark:|`we.nl`|
-|:white_check_mark:|`wf.nl`|
-|:white_check_mark:|`wi.nl`|
 |:white_check_mark:|`wj.nl`|
-|:white_check_mark:|`wm.nl`|
-|:white_check_mark:|`wn.nl`|
+|:white_check_mark:|`wk.nl`|
 |:white_check_mark:|`wo.nl`|
-|:white_check_mark:|`wr.nl`|
-|:white_check_mark:|`ws.nl`|
-|:white_check_mark:|`wt.nl`|
-|:white_check_mark:|`wu.nl`|
+|:white_check_mark:|`wp.nl`|
+|:white_check_mark:|`wq.nl`|
 |:white_check_mark:|`wv.nl`|
+|:white_check_mark:|`wz.nl`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>18 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
+|:white_check_mark:|`x0.nl`|
+|:white_check_mark:|`x1.nl`|
 |:white_check_mark:|`x2.nl`|
 |:white_check_mark:|`x3.nl`|
+|:white_check_mark:|`x4.nl`|
+|:white_check_mark:|`x5.nl`|
 |:white_check_mark:|`x6.nl`|
 |:white_check_mark:|`x7.nl`|
-|:white_check_mark:|`xb.nl`|
-|:white_check_mark:|`xc.nl`|
-|:white_check_mark:|`xf.nl`|
-|:white_check_mark:|`xk.nl`|
+|:white_check_mark:|`x8.nl`|
+|:white_check_mark:|`x9.nl`|
+|:white_check_mark:|`xa.nl`|
+|:white_check_mark:|`xg.nl`|
+|:white_check_mark:|`xh.nl`|
+|:white_check_mark:|`xl.nl`|
 |:white_check_mark:|`xr.nl`|
+|:white_check_mark:|`xs.nl`|
 |:white_check_mark:|`xw.nl`|
-|:white_check_mark:|`xz.nl`|
+|:white_check_mark:|`xy.nl`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>36 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1161,9 +966,15 @@
 |:white_check_mark:|`y7.nl`|
 |:white_check_mark:|`y8.nl`|
 |:white_check_mark:|`y9.nl`|
+|:white_check_mark:|`ya.nl`|
+|:white_check_mark:|`yb.nl`|
 |:white_check_mark:|`yc.nl`|
+|:white_check_mark:|`yd.nl`|
+|:white_check_mark:|`ye.nl`|
 |:white_check_mark:|`yf.nl`|
 |:white_check_mark:|`yg.nl`|
+|:white_check_mark:|`yh.nl`|
+|:white_check_mark:|`yi.nl`|
 |:white_check_mark:|`yj.nl`|
 |:white_check_mark:|`yk.nl`|
 |:white_check_mark:|`yl.nl`|

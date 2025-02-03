@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.bw`
 
-## Data last updated: 07/24/2024, 16:24:32
+## Data last updated: 02/03/2025, 20:18:28
 
 |Stat|Amount|
 |--|--|
-|Registered domains|60|
-|Unregistered domains|1236|
+|Registered domains|10|
+|Unregistered domains|1286|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|4.63%|
+|Registration rate|0.77%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -441,7 +441,39 @@
 |:white_check_mark:|`9z.bw`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>b</code></bold></summary>
+<summary>26 unregistered domains starting with <bold><code>a</code></bold></summary>
+
+|Type|Domain|
+|--|--|
+|:white_check_mark:|`a0.bw`|
+|:white_check_mark:|`a1.bw`|
+|:white_check_mark:|`a2.bw`|
+|:white_check_mark:|`a3.bw`|
+|:white_check_mark:|`a4.bw`|
+|:white_check_mark:|`a5.bw`|
+|:white_check_mark:|`a6.bw`|
+|:white_check_mark:|`a7.bw`|
+|:white_check_mark:|`a8.bw`|
+|:white_check_mark:|`a9.bw`|
+|:white_check_mark:|`ak.bw`|
+|:white_check_mark:|`al.bw`|
+|:white_check_mark:|`am.bw`|
+|:white_check_mark:|`an.bw`|
+|:white_check_mark:|`ao.bw`|
+|:white_check_mark:|`ap.bw`|
+|:white_check_mark:|`aq.bw`|
+|:white_check_mark:|`ar.bw`|
+|:white_check_mark:|`as.bw`|
+|:white_check_mark:|`at.bw`|
+|:white_check_mark:|`au.bw`|
+|:white_check_mark:|`av.bw`|
+|:white_check_mark:|`aw.bw`|
+|:white_check_mark:|`ax.bw`|
+|:white_check_mark:|`ay.bw`|
+|:white_check_mark:|`az.bw`|
+</details>
+<details>
+<summary>36 unregistered domains starting with <bold><code>b</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -455,6 +487,30 @@
 |:white_check_mark:|`b7.bw`|
 |:white_check_mark:|`b8.bw`|
 |:white_check_mark:|`b9.bw`|
+|:white_check_mark:|`ba.bw`|
+|:white_check_mark:|`bb.bw`|
+|:white_check_mark:|`bc.bw`|
+|:white_check_mark:|`bd.bw`|
+|:white_check_mark:|`be.bw`|
+|:white_check_mark:|`bf.bw`|
+|:white_check_mark:|`bg.bw`|
+|:white_check_mark:|`bh.bw`|
+|:white_check_mark:|`bi.bw`|
+|:white_check_mark:|`bj.bw`|
+|:white_check_mark:|`bk.bw`|
+|:white_check_mark:|`bl.bw`|
+|:white_check_mark:|`bm.bw`|
+|:white_check_mark:|`bn.bw`|
+|:white_check_mark:|`bo.bw`|
+|:white_check_mark:|`bp.bw`|
+|:white_check_mark:|`bq.bw`|
+|:white_check_mark:|`br.bw`|
+|:white_check_mark:|`bs.bw`|
+|:white_check_mark:|`bt.bw`|
+|:white_check_mark:|`bu.bw`|
+|:white_check_mark:|`bv.bw`|
+|:white_check_mark:|`bw.bw`|
+|:white_check_mark:|`bx.bw`|
 |:white_check_mark:|`by.bw`|
 |:white_check_mark:|`bz.bw`|
 </details>

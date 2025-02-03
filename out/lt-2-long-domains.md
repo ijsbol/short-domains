@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.lt`
 
-## Data last updated: 07/24/2024, 16:22:43
+## Data last updated: 02/03/2025, 20:15:36
 
 |Stat|Amount|
 |--|--|

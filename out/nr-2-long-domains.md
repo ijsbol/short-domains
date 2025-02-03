@@ -1,16 +1,16 @@
-# Available 2 character long domains for `.dk`
+# Available 2 character long domains for `.nr`
 
-## Data last updated: 02/03/2025, 20:48:25
+## Data last updated: 10/25/2024, 23:23:04
 
 |Stat|Amount|
 |--|--|
-|Registered domains|1295|
+|Registered domains|0|
 |Unregistered domains|1|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|99.92%|
+|Registration rate|0.0%|
 |Failed lookups|0|
-|Successful lookups|1296|
+|Successful lookups|1|
 |Lookup success rate|100%|
 
 
@@ -21,9 +21,9 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>1 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`6x.dk`|
+|:white_check_mark:|`aa.nr`|
 </details>

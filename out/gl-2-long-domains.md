@@ -1,14 +1,14 @@
 # Available 2 character long domains for `.gl`
 
-## Data last updated: 07/24/2024, 16:29:54
+## Data last updated: 02/03/2025, 20:27:16
 
 |Stat|Amount|
 |--|--|
-|Registered domains|191|
-|Unregistered domains|1105|
+|Registered domains|607|
+|Unregistered domains|689|
 |Premium domains|0|
 |Application only domains|0|
-|Registration rate|14.74%|
+|Registration rate|46.84%|
 |Failed lookups|0|
 |Successful lookups|1296|
 |Lookup success rate|100%|
@@ -21,12 +21,10 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>36 unregistered domains starting with <bold><code>0</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>0</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`00.gl`|
-|:white_check_mark:|`01.gl`|
 |:white_check_mark:|`02.gl`|
 |:white_check_mark:|`03.gl`|
 |:white_check_mark:|`04.gl`|
@@ -45,7 +43,6 @@
 |:white_check_mark:|`0h.gl`|
 |:white_check_mark:|`0i.gl`|
 |:white_check_mark:|`0j.gl`|
-|:white_check_mark:|`0k.gl`|
 |:white_check_mark:|`0l.gl`|
 |:white_check_mark:|`0m.gl`|
 |:white_check_mark:|`0n.gl`|
@@ -55,33 +52,26 @@
 |:white_check_mark:|`0r.gl`|
 |:white_check_mark:|`0s.gl`|
 |:white_check_mark:|`0t.gl`|
-|:white_check_mark:|`0u.gl`|
 |:white_check_mark:|`0v.gl`|
 |:white_check_mark:|`0w.gl`|
-|:white_check_mark:|`0x.gl`|
 |:white_check_mark:|`0y.gl`|
 |:white_check_mark:|`0z.gl`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>1</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>1</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`11.gl`|
 |:white_check_mark:|`12.gl`|
 |:white_check_mark:|`13.gl`|
 |:white_check_mark:|`14.gl`|
 |:white_check_mark:|`15.gl`|
 |:white_check_mark:|`17.gl`|
-|:white_check_mark:|`18.gl`|
-|:white_check_mark:|`19.gl`|
 |:white_check_mark:|`1a.gl`|
 |:white_check_mark:|`1b.gl`|
 |:white_check_mark:|`1c.gl`|
-|:white_check_mark:|`1d.gl`|
 |:white_check_mark:|`1e.gl`|
 |:white_check_mark:|`1f.gl`|
-|:white_check_mark:|`1g.gl`|
 |:white_check_mark:|`1h.gl`|
 |:white_check_mark:|`1i.gl`|
 |:white_check_mark:|`1j.gl`|
@@ -97,32 +87,26 @@
 |:white_check_mark:|`1t.gl`|
 |:white_check_mark:|`1u.gl`|
 |:white_check_mark:|`1v.gl`|
-|:white_check_mark:|`1w.gl`|
 |:white_check_mark:|`1x.gl`|
 |:white_check_mark:|`1y.gl`|
 |:white_check_mark:|`1z.gl`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>2</code></bold></summary>
+<summary>30 unregistered domains starting with <bold><code>2</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`20.gl`|
-|:white_check_mark:|`21.gl`|
-|:white_check_mark:|`23.gl`|
 |:white_check_mark:|`24.gl`|
 |:white_check_mark:|`25.gl`|
 |:white_check_mark:|`26.gl`|
 |:white_check_mark:|`27.gl`|
-|:white_check_mark:|`28.gl`|
 |:white_check_mark:|`29.gl`|
 |:white_check_mark:|`2a.gl`|
-|:white_check_mark:|`2b.gl`|
 |:white_check_mark:|`2c.gl`|
 |:white_check_mark:|`2d.gl`|
 |:white_check_mark:|`2e.gl`|
 |:white_check_mark:|`2f.gl`|
-|:white_check_mark:|`2g.gl`|
 |:white_check_mark:|`2h.gl`|
 |:white_check_mark:|`2i.gl`|
 |:white_check_mark:|`2j.gl`|
@@ -144,24 +128,19 @@
 |:white_check_mark:|`2z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>3</code></bold></summary>
+<summary>28 unregistered domains starting with <bold><code>3</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`30.gl`|
 |:white_check_mark:|`31.gl`|
 |:white_check_mark:|`32.gl`|
-|:white_check_mark:|`33.gl`|
 |:white_check_mark:|`34.gl`|
 |:white_check_mark:|`35.gl`|
 |:white_check_mark:|`36.gl`|
-|:white_check_mark:|`37.gl`|
-|:white_check_mark:|`38.gl`|
 |:white_check_mark:|`39.gl`|
 |:white_check_mark:|`3a.gl`|
 |:white_check_mark:|`3b.gl`|
-|:white_check_mark:|`3c.gl`|
-|:white_check_mark:|`3d.gl`|
 |:white_check_mark:|`3e.gl`|
 |:white_check_mark:|`3f.gl`|
 |:white_check_mark:|`3g.gl`|
@@ -170,10 +149,8 @@
 |:white_check_mark:|`3j.gl`|
 |:white_check_mark:|`3k.gl`|
 |:white_check_mark:|`3l.gl`|
-|:white_check_mark:|`3m.gl`|
 |:white_check_mark:|`3n.gl`|
 |:white_check_mark:|`3o.gl`|
-|:white_check_mark:|`3p.gl`|
 |:white_check_mark:|`3q.gl`|
 |:white_check_mark:|`3r.gl`|
 |:white_check_mark:|`3s.gl`|
@@ -181,26 +158,22 @@
 |:white_check_mark:|`3u.gl`|
 |:white_check_mark:|`3v.gl`|
 |:white_check_mark:|`3w.gl`|
-|:white_check_mark:|`3x.gl`|
 |:white_check_mark:|`3y.gl`|
 |:white_check_mark:|`3z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>4</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>4</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`40.gl`|
 |:white_check_mark:|`41.gl`|
-|:white_check_mark:|`42.gl`|
 |:white_check_mark:|`43.gl`|
-|:white_check_mark:|`44.gl`|
 |:white_check_mark:|`45.gl`|
 |:white_check_mark:|`46.gl`|
 |:white_check_mark:|`47.gl`|
 |:white_check_mark:|`48.gl`|
 |:white_check_mark:|`49.gl`|
-|:white_check_mark:|`4a.gl`|
 |:white_check_mark:|`4b.gl`|
 |:white_check_mark:|`4c.gl`|
 |:white_check_mark:|`4d.gl`|
@@ -210,7 +183,6 @@
 |:white_check_mark:|`4h.gl`|
 |:white_check_mark:|`4i.gl`|
 |:white_check_mark:|`4j.gl`|
-|:white_check_mark:|`4k.gl`|
 |:white_check_mark:|`4l.gl`|
 |:white_check_mark:|`4m.gl`|
 |:white_check_mark:|`4n.gl`|
@@ -228,21 +200,17 @@
 |:white_check_mark:|`4z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>5</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>5</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`50.gl`|
-|:white_check_mark:|`51.gl`|
-|:white_check_mark:|`52.gl`|
 |:white_check_mark:|`53.gl`|
 |:white_check_mark:|`54.gl`|
-|:white_check_mark:|`55.gl`|
 |:white_check_mark:|`56.gl`|
 |:white_check_mark:|`57.gl`|
 |:white_check_mark:|`58.gl`|
 |:white_check_mark:|`59.gl`|
-|:white_check_mark:|`5a.gl`|
 |:white_check_mark:|`5b.gl`|
 |:white_check_mark:|`5c.gl`|
 |:white_check_mark:|`5d.gl`|
@@ -270,18 +238,15 @@
 |:white_check_mark:|`5z.gl`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>6</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`60.gl`|
 |:white_check_mark:|`62.gl`|
 |:white_check_mark:|`63.gl`|
-|:white_check_mark:|`64.gl`|
 |:white_check_mark:|`65.gl`|
-|:white_check_mark:|`66.gl`|
 |:white_check_mark:|`67.gl`|
-|:white_check_mark:|`69.gl`|
 |:white_check_mark:|`6a.gl`|
 |:white_check_mark:|`6b.gl`|
 |:white_check_mark:|`6c.gl`|
@@ -310,26 +275,22 @@
 |:white_check_mark:|`6z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>7</code></bold></summary>
+<summary>32 unregistered domains starting with <bold><code>7</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`70.gl`|
 |:white_check_mark:|`71.gl`|
 |:white_check_mark:|`72.gl`|
-|:white_check_mark:|`73.gl`|
 |:white_check_mark:|`74.gl`|
 |:white_check_mark:|`75.gl`|
 |:white_check_mark:|`76.gl`|
-|:white_check_mark:|`77.gl`|
-|:white_check_mark:|`78.gl`|
 |:white_check_mark:|`79.gl`|
 |:white_check_mark:|`7a.gl`|
 |:white_check_mark:|`7b.gl`|
 |:white_check_mark:|`7c.gl`|
 |:white_check_mark:|`7d.gl`|
 |:white_check_mark:|`7e.gl`|
-|:white_check_mark:|`7f.gl`|
 |:white_check_mark:|`7g.gl`|
 |:white_check_mark:|`7h.gl`|
 |:white_check_mark:|`7i.gl`|
@@ -352,7 +313,7 @@
 |:white_check_mark:|`7z.gl`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>8</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>8</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -362,9 +323,7 @@
 |:white_check_mark:|`83.gl`|
 |:white_check_mark:|`84.gl`|
 |:white_check_mark:|`85.gl`|
-|:white_check_mark:|`86.gl`|
 |:white_check_mark:|`87.gl`|
-|:white_check_mark:|`88.gl`|
 |:white_check_mark:|`89.gl`|
 |:white_check_mark:|`8a.gl`|
 |:white_check_mark:|`8b.gl`|
@@ -394,12 +353,11 @@
 |:white_check_mark:|`8z.gl`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>9</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>9</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`90.gl`|
-|:white_check_mark:|`91.gl`|
 |:white_check_mark:|`92.gl`|
 |:white_check_mark:|`93.gl`|
 |:white_check_mark:|`94.gl`|
@@ -434,7 +392,7 @@
 |:white_check_mark:|`9z.gl`|
 </details>
 <details>
-<summary>12 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -446,10 +404,9 @@
 |:white_check_mark:|`a7.gl`|
 |:white_check_mark:|`a8.gl`|
 |:white_check_mark:|`a9.gl`|
-|:white_check_mark:|`ah.gl`|
+|:white_check_mark:|`aj.gl`|
 |:white_check_mark:|`ap.gl`|
 |:white_check_mark:|`aq.gl`|
-|:white_check_mark:|`az.gl`|
 </details>
 <details>
 <summary>13 unregistered domains starting with <bold><code>b</code></bold></summary>
@@ -484,10 +441,10 @@
 |:white_check_mark:|`c8.gl`|
 |:white_check_mark:|`c9.gl`|
 |:white_check_mark:|`cj.gl`|
-|:white_check_mark:|`cr.gl`|
+|:white_check_mark:|`cm.gl`|
 </details>
 <details>
-<summary>11 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -500,11 +457,10 @@
 |:white_check_mark:|`d7.gl`|
 |:white_check_mark:|`d8.gl`|
 |:white_check_mark:|`d9.gl`|
-|:white_check_mark:|`dq.gl`|
-|:white_check_mark:|`dw.gl`|
+|:white_check_mark:|`df.gl`|
 </details>
 <details>
-<summary>27 unregistered domains starting with <bold><code>e</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>e</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -512,107 +468,46 @@
 |:white_check_mark:|`e1.gl`|
 |:white_check_mark:|`e2.gl`|
 |:white_check_mark:|`e3.gl`|
-|:white_check_mark:|`e4.gl`|
 |:white_check_mark:|`e5.gl`|
 |:white_check_mark:|`e6.gl`|
 |:white_check_mark:|`e7.gl`|
 |:white_check_mark:|`e8.gl`|
 |:white_check_mark:|`e9.gl`|
-|:white_check_mark:|`eh.gl`|
 |:white_check_mark:|`ei.gl`|
-|:white_check_mark:|`ej.gl`|
-|:white_check_mark:|`ek.gl`|
-|:white_check_mark:|`el.gl`|
-|:white_check_mark:|`em.gl`|
-|:white_check_mark:|`en.gl`|
 |:white_check_mark:|`eo.gl`|
-|:white_check_mark:|`ep.gl`|
-|:white_check_mark:|`eq.gl`|
-|:white_check_mark:|`es.gl`|
-|:white_check_mark:|`et.gl`|
-|:white_check_mark:|`eu.gl`|
-|:white_check_mark:|`ev.gl`|
-|:white_check_mark:|`ew.gl`|
-|:white_check_mark:|`ex.gl`|
-|:white_check_mark:|`ez.gl`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`f0.gl`|
-|:white_check_mark:|`f1.gl`|
-|:white_check_mark:|`f2.gl`|
 |:white_check_mark:|`f3.gl`|
 |:white_check_mark:|`f4.gl`|
 |:white_check_mark:|`f5.gl`|
-|:white_check_mark:|`f6.gl`|
 |:white_check_mark:|`f7.gl`|
 |:white_check_mark:|`f8.gl`|
 |:white_check_mark:|`f9.gl`|
-|:white_check_mark:|`fa.gl`|
-|:white_check_mark:|`fb.gl`|
-|:white_check_mark:|`fc.gl`|
 |:white_check_mark:|`fd.gl`|
-|:white_check_mark:|`fe.gl`|
-|:white_check_mark:|`ff.gl`|
-|:white_check_mark:|`fg.gl`|
-|:white_check_mark:|`fh.gl`|
-|:white_check_mark:|`fi.gl`|
-|:white_check_mark:|`fj.gl`|
-|:white_check_mark:|`fk.gl`|
-|:white_check_mark:|`fl.gl`|
-|:white_check_mark:|`fm.gl`|
-|:white_check_mark:|`fn.gl`|
-|:white_check_mark:|`fo.gl`|
-|:white_check_mark:|`fp.gl`|
 |:white_check_mark:|`fq.gl`|
-|:white_check_mark:|`fr.gl`|
-|:white_check_mark:|`fs.gl`|
-|:white_check_mark:|`ft.gl`|
-|:white_check_mark:|`fu.gl`|
-|:white_check_mark:|`fv.gl`|
-|:white_check_mark:|`fw.gl`|
-|:white_check_mark:|`fx.gl`|
 |:white_check_mark:|`fy.gl`|
 </details>
 <details>
-<summary>28 unregistered domains starting with <bold><code>g</code></bold></summary>
+<summary>8 unregistered domains starting with <bold><code>g</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`g2.gl`|
+|:white_check_mark:|`g1.gl`|
 |:white_check_mark:|`g3.gl`|
 |:white_check_mark:|`g4.gl`|
 |:white_check_mark:|`g5.gl`|
 |:white_check_mark:|`g6.gl`|
 |:white_check_mark:|`g7.gl`|
-|:white_check_mark:|`g8.gl`|
-|:white_check_mark:|`g9.gl`|
-|:white_check_mark:|`ga.gl`|
-|:white_check_mark:|`gb.gl`|
-|:white_check_mark:|`gc.gl`|
-|:white_check_mark:|`ge.gl`|
-|:white_check_mark:|`gf.gl`|
-|:white_check_mark:|`gg.gl`|
-|:white_check_mark:|`gh.gl`|
-|:white_check_mark:|`gk.gl`|
-|:white_check_mark:|`gl.gl`|
-|:white_check_mark:|`gm.gl`|
-|:white_check_mark:|`gn.gl`|
-|:white_check_mark:|`go.gl`|
-|:white_check_mark:|`gp.gl`|
 |:white_check_mark:|`gq.gl`|
-|:white_check_mark:|`gr.gl`|
 |:white_check_mark:|`gt.gl`|
-|:white_check_mark:|`gw.gl`|
-|:white_check_mark:|`gx.gl`|
-|:white_check_mark:|`gy.gl`|
-|:white_check_mark:|`gz.gl`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>h</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>h</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -626,31 +521,15 @@
 |:white_check_mark:|`h7.gl`|
 |:white_check_mark:|`h8.gl`|
 |:white_check_mark:|`h9.gl`|
-|:white_check_mark:|`hb.gl`|
-|:white_check_mark:|`hc.gl`|
-|:white_check_mark:|`hd.gl`|
-|:white_check_mark:|`he.gl`|
-|:white_check_mark:|`hf.gl`|
-|:white_check_mark:|`hg.gl`|
-|:white_check_mark:|`hi.gl`|
 |:white_check_mark:|`hj.gl`|
-|:white_check_mark:|`hl.gl`|
-|:white_check_mark:|`hm.gl`|
 |:white_check_mark:|`hn.gl`|
-|:white_check_mark:|`ho.gl`|
 |:white_check_mark:|`hp.gl`|
-|:white_check_mark:|`hq.gl`|
-|:white_check_mark:|`hr.gl`|
 |:white_check_mark:|`hs.gl`|
-|:white_check_mark:|`ht.gl`|
-|:white_check_mark:|`hu.gl`|
-|:white_check_mark:|`hv.gl`|
 |:white_check_mark:|`hw.gl`|
 |:white_check_mark:|`hx.gl`|
-|:white_check_mark:|`hy.gl`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>i</code></bold></summary>
+<summary>14 unregistered domains starting with <bold><code>i</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -664,31 +543,13 @@
 |:white_check_mark:|`i7.gl`|
 |:white_check_mark:|`i8.gl`|
 |:white_check_mark:|`i9.gl`|
-|:white_check_mark:|`ia.gl`|
 |:white_check_mark:|`ib.gl`|
-|:white_check_mark:|`ic.gl`|
-|:white_check_mark:|`id.gl`|
 |:white_check_mark:|`ie.gl`|
-|:white_check_mark:|`if.gl`|
-|:white_check_mark:|`ig.gl`|
-|:white_check_mark:|`ih.gl`|
-|:white_check_mark:|`ii.gl`|
 |:white_check_mark:|`ij.gl`|
-|:white_check_mark:|`ik.gl`|
-|:white_check_mark:|`il.gl`|
-|:white_check_mark:|`im.gl`|
-|:white_check_mark:|`io.gl`|
-|:white_check_mark:|`iq.gl`|
-|:white_check_mark:|`ir.gl`|
-|:white_check_mark:|`is.gl`|
-|:white_check_mark:|`it.gl`|
 |:white_check_mark:|`iu.gl`|
-|:white_check_mark:|`iv.gl`|
-|:white_check_mark:|`iw.gl`|
-|:white_check_mark:|`ix.gl`|
 </details>
 <details>
-<summary>29 unregistered domains starting with <bold><code>j</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>j</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -696,75 +557,40 @@
 |:white_check_mark:|`j1.gl`|
 |:white_check_mark:|`j2.gl`|
 |:white_check_mark:|`j3.gl`|
-|:white_check_mark:|`j4.gl`|
 |:white_check_mark:|`j5.gl`|
 |:white_check_mark:|`j6.gl`|
 |:white_check_mark:|`j7.gl`|
 |:white_check_mark:|`j8.gl`|
 |:white_check_mark:|`j9.gl`|
-|:white_check_mark:|`jb.gl`|
-|:white_check_mark:|`jc.gl`|
 |:white_check_mark:|`jd.gl`|
-|:white_check_mark:|`je.gl`|
-|:white_check_mark:|`jf.gl`|
-|:white_check_mark:|`jh.gl`|
-|:white_check_mark:|`jj.gl`|
-|:white_check_mark:|`jk.gl`|
-|:white_check_mark:|`jl.gl`|
-|:white_check_mark:|`jm.gl`|
-|:white_check_mark:|`jo.gl`|
 |:white_check_mark:|`jq.gl`|
-|:white_check_mark:|`js.gl`|
-|:white_check_mark:|`ju.gl`|
-|:white_check_mark:|`jv.gl`|
-|:white_check_mark:|`jw.gl`|
 |:white_check_mark:|`jx.gl`|
-|:white_check_mark:|`jy.gl`|
 |:white_check_mark:|`jz.gl`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>k</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>k</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`k0.gl`|
 |:white_check_mark:|`k1.gl`|
-|:white_check_mark:|`k2.gl`|
 |:white_check_mark:|`k3.gl`|
 |:white_check_mark:|`k4.gl`|
 |:white_check_mark:|`k5.gl`|
 |:white_check_mark:|`k6.gl`|
 |:white_check_mark:|`k7.gl`|
 |:white_check_mark:|`k8.gl`|
-|:white_check_mark:|`k9.gl`|
-|:white_check_mark:|`kb.gl`|
 |:white_check_mark:|`kc.gl`|
-|:white_check_mark:|`kd.gl`|
-|:white_check_mark:|`ke.gl`|
-|:white_check_mark:|`kf.gl`|
-|:white_check_mark:|`kg.gl`|
-|:white_check_mark:|`kh.gl`|
-|:white_check_mark:|`ki.gl`|
-|:white_check_mark:|`kj.gl`|
-|:white_check_mark:|`kk.gl`|
-|:white_check_mark:|`kl.gl`|
-|:white_check_mark:|`km.gl`|
-|:white_check_mark:|`kn.gl`|
-|:white_check_mark:|`ko.gl`|
-|:white_check_mark:|`kp.gl`|
 |:white_check_mark:|`kq.gl`|
 |:white_check_mark:|`kr.gl`|
-|:white_check_mark:|`ks.gl`|
 |:white_check_mark:|`kt.gl`|
-|:white_check_mark:|`ku.gl`|
-|:white_check_mark:|`kv.gl`|
 |:white_check_mark:|`kw.gl`|
 |:white_check_mark:|`kx.gl`|
 |:white_check_mark:|`ky.gl`|
 |:white_check_mark:|`kz.gl`|
 </details>
 <details>
-<summary>34 unregistered domains starting with <bold><code>l</code></bold></summary>
+<summary>16 unregistered domains starting with <bold><code>l</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -778,33 +604,15 @@
 |:white_check_mark:|`l7.gl`|
 |:white_check_mark:|`l8.gl`|
 |:white_check_mark:|`l9.gl`|
-|:white_check_mark:|`lb.gl`|
 |:white_check_mark:|`lc.gl`|
-|:white_check_mark:|`ld.gl`|
-|:white_check_mark:|`le.gl`|
-|:white_check_mark:|`lf.gl`|
-|:white_check_mark:|`lh.gl`|
-|:white_check_mark:|`li.gl`|
 |:white_check_mark:|`lj.gl`|
-|:white_check_mark:|`lk.gl`|
-|:white_check_mark:|`ll.gl`|
-|:white_check_mark:|`lm.gl`|
-|:white_check_mark:|`ln.gl`|
-|:white_check_mark:|`lo.gl`|
-|:white_check_mark:|`lp.gl`|
 |:white_check_mark:|`lq.gl`|
 |:white_check_mark:|`lr.gl`|
-|:white_check_mark:|`ls.gl`|
 |:white_check_mark:|`lt.gl`|
-|:white_check_mark:|`lu.gl`|
-|:white_check_mark:|`lv.gl`|
-|:white_check_mark:|`lw.gl`|
 |:white_check_mark:|`lx.gl`|
-|:white_check_mark:|`ly.gl`|
-|:white_check_mark:|`lz.gl`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>m</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>m</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -818,30 +626,12 @@
 |:white_check_mark:|`m7.gl`|
 |:white_check_mark:|`m8.gl`|
 |:white_check_mark:|`m9.gl`|
-|:white_check_mark:|`ma.gl`|
-|:white_check_mark:|`mb.gl`|
-|:white_check_mark:|`mc.gl`|
-|:white_check_mark:|`md.gl`|
-|:white_check_mark:|`me.gl`|
 |:white_check_mark:|`mf.gl`|
-|:white_check_mark:|`mg.gl`|
-|:white_check_mark:|`mh.gl`|
-|:white_check_mark:|`mi.gl`|
-|:white_check_mark:|`mk.gl`|
-|:white_check_mark:|`ml.gl`|
-|:white_check_mark:|`mn.gl`|
-|:white_check_mark:|`mo.gl`|
-|:white_check_mark:|`mp.gl`|
 |:white_check_mark:|`mq.gl`|
-|:white_check_mark:|`ms.gl`|
-|:white_check_mark:|`mt.gl`|
 |:white_check_mark:|`mu.gl`|
-|:white_check_mark:|`mx.gl`|
-|:white_check_mark:|`my.gl`|
-|:white_check_mark:|`mz.gl`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>n</code></bold></summary>
+<summary>14 unregistered domains starting with <bold><code>n</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -855,35 +645,17 @@
 |:white_check_mark:|`n7.gl`|
 |:white_check_mark:|`n8.gl`|
 |:white_check_mark:|`n9.gl`|
-|:white_check_mark:|`na.gl`|
-|:white_check_mark:|`nc.gl`|
-|:white_check_mark:|`ne.gl`|
-|:white_check_mark:|`nf.gl`|
-|:white_check_mark:|`ng.gl`|
-|:white_check_mark:|`nh.gl`|
-|:white_check_mark:|`nj.gl`|
-|:white_check_mark:|`nm.gl`|
-|:white_check_mark:|`nn.gl`|
-|:white_check_mark:|`no.gl`|
 |:white_check_mark:|`np.gl`|
 |:white_check_mark:|`nq.gl`|
 |:white_check_mark:|`nr.gl`|
-|:white_check_mark:|`ns.gl`|
-|:white_check_mark:|`nt.gl`|
-|:white_check_mark:|`nu.gl`|
 |:white_check_mark:|`nv.gl`|
-|:white_check_mark:|`nw.gl`|
-|:white_check_mark:|`ny.gl`|
-|:white_check_mark:|`nz.gl`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>o</code></bold></summary>
+<summary>13 unregistered domains starting with <bold><code>o</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`o0.gl`|
 |:white_check_mark:|`o1.gl`|
-|:white_check_mark:|`o2.gl`|
 |:white_check_mark:|`o3.gl`|
 |:white_check_mark:|`o4.gl`|
 |:white_check_mark:|`o5.gl`|
@@ -891,34 +663,14 @@
 |:white_check_mark:|`o7.gl`|
 |:white_check_mark:|`o8.gl`|
 |:white_check_mark:|`o9.gl`|
-|:white_check_mark:|`oa.gl`|
-|:white_check_mark:|`ob.gl`|
-|:white_check_mark:|`oc.gl`|
 |:white_check_mark:|`od.gl`|
 |:white_check_mark:|`oe.gl`|
-|:white_check_mark:|`of.gl`|
-|:white_check_mark:|`og.gl`|
 |:white_check_mark:|`oi.gl`|
 |:white_check_mark:|`oj.gl`|
-|:white_check_mark:|`ok.gl`|
-|:white_check_mark:|`ol.gl`|
-|:white_check_mark:|`om.gl`|
-|:white_check_mark:|`on.gl`|
-|:white_check_mark:|`oo.gl`|
-|:white_check_mark:|`op.gl`|
 |:white_check_mark:|`oq.gl`|
-|:white_check_mark:|`or.gl`|
-|:white_check_mark:|`os.gl`|
-|:white_check_mark:|`ot.gl`|
-|:white_check_mark:|`ou.gl`|
-|:white_check_mark:|`ov.gl`|
-|:white_check_mark:|`ow.gl`|
-|:white_check_mark:|`ox.gl`|
-|:white_check_mark:|`oy.gl`|
-|:white_check_mark:|`oz.gl`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>p</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>p</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -932,36 +684,22 @@
 |:white_check_mark:|`p7.gl`|
 |:white_check_mark:|`p8.gl`|
 |:white_check_mark:|`p9.gl`|
-|:white_check_mark:|`pa.gl`|
-|:white_check_mark:|`pb.gl`|
-|:white_check_mark:|`pc.gl`|
 |:white_check_mark:|`pd.gl`|
 |:white_check_mark:|`pf.gl`|
-|:white_check_mark:|`pg.gl`|
-|:white_check_mark:|`ph.gl`|
-|:white_check_mark:|`pi.gl`|
 |:white_check_mark:|`pj.gl`|
-|:white_check_mark:|`pm.gl`|
-|:white_check_mark:|`pn.gl`|
-|:white_check_mark:|`po.gl`|
 |:white_check_mark:|`pq.gl`|
-|:white_check_mark:|`pr.gl`|
-|:white_check_mark:|`ps.gl`|
 |:white_check_mark:|`pt.gl`|
-|:white_check_mark:|`pu.gl`|
 |:white_check_mark:|`pv.gl`|
 |:white_check_mark:|`pw.gl`|
-|:white_check_mark:|`px.gl`|
 |:white_check_mark:|`py.gl`|
 |:white_check_mark:|`pz.gl`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>q</code></bold></summary>
+<summary>15 unregistered domains starting with <bold><code>q</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`q0.gl`|
-|:white_check_mark:|`q1.gl`|
 |:white_check_mark:|`q2.gl`|
 |:white_check_mark:|`q3.gl`|
 |:white_check_mark:|`q4.gl`|
@@ -972,32 +710,13 @@
 |:white_check_mark:|`q9.gl`|
 |:white_check_mark:|`qa.gl`|
 |:white_check_mark:|`qb.gl`|
-|:white_check_mark:|`qc.gl`|
-|:white_check_mark:|`qd.gl`|
-|:white_check_mark:|`qe.gl`|
 |:white_check_mark:|`qf.gl`|
-|:white_check_mark:|`qg.gl`|
-|:white_check_mark:|`qh.gl`|
-|:white_check_mark:|`qi.gl`|
 |:white_check_mark:|`qj.gl`|
-|:white_check_mark:|`qk.gl`|
-|:white_check_mark:|`ql.gl`|
-|:white_check_mark:|`qm.gl`|
 |:white_check_mark:|`qo.gl`|
-|:white_check_mark:|`qp.gl`|
-|:white_check_mark:|`qq.gl`|
-|:white_check_mark:|`qr.gl`|
-|:white_check_mark:|`qs.gl`|
-|:white_check_mark:|`qt.gl`|
-|:white_check_mark:|`qu.gl`|
-|:white_check_mark:|`qv.gl`|
-|:white_check_mark:|`qw.gl`|
-|:white_check_mark:|`qx.gl`|
 |:white_check_mark:|`qy.gl`|
-|:white_check_mark:|`qz.gl`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>r</code></bold></summary>
+<summary>14 unregistered domains starting with <bold><code>r</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1011,73 +730,33 @@
 |:white_check_mark:|`r7.gl`|
 |:white_check_mark:|`r8.gl`|
 |:white_check_mark:|`r9.gl`|
-|:white_check_mark:|`ra.gl`|
-|:white_check_mark:|`rc.gl`|
-|:white_check_mark:|`rd.gl`|
-|:white_check_mark:|`re.gl`|
-|:white_check_mark:|`rf.gl`|
-|:white_check_mark:|`rh.gl`|
-|:white_check_mark:|`rj.gl`|
 |:white_check_mark:|`rk.gl`|
-|:white_check_mark:|`rl.gl`|
-|:white_check_mark:|`rm.gl`|
-|:white_check_mark:|`rn.gl`|
-|:white_check_mark:|`ro.gl`|
 |:white_check_mark:|`rp.gl`|
 |:white_check_mark:|`rq.gl`|
-|:white_check_mark:|`rr.gl`|
-|:white_check_mark:|`rt.gl`|
-|:white_check_mark:|`ru.gl`|
-|:white_check_mark:|`rv.gl`|
-|:white_check_mark:|`rw.gl`|
-|:white_check_mark:|`rx.gl`|
 |:white_check_mark:|`ry.gl`|
-|:white_check_mark:|`rz.gl`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>s</code></bold></summary>
+<summary>10 unregistered domains starting with <bold><code>s</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`s0.gl`|
 |:white_check_mark:|`s1.gl`|
-|:white_check_mark:|`s2.gl`|
 |:white_check_mark:|`s3.gl`|
 |:white_check_mark:|`s4.gl`|
-|:white_check_mark:|`s5.gl`|
 |:white_check_mark:|`s6.gl`|
 |:white_check_mark:|`s7.gl`|
 |:white_check_mark:|`s8.gl`|
 |:white_check_mark:|`s9.gl`|
-|:white_check_mark:|`sa.gl`|
-|:white_check_mark:|`sb.gl`|
-|:white_check_mark:|`sc.gl`|
-|:white_check_mark:|`se.gl`|
-|:white_check_mark:|`sh.gl`|
-|:white_check_mark:|`si.gl`|
 |:white_check_mark:|`sj.gl`|
-|:white_check_mark:|`sk.gl`|
-|:white_check_mark:|`sl.gl`|
-|:white_check_mark:|`sm.gl`|
-|:white_check_mark:|`sn.gl`|
-|:white_check_mark:|`so.gl`|
-|:white_check_mark:|`sp.gl`|
-|:white_check_mark:|`sq.gl`|
-|:white_check_mark:|`ss.gl`|
-|:white_check_mark:|`st.gl`|
-|:white_check_mark:|`su.gl`|
-|:white_check_mark:|`sv.gl`|
-|:white_check_mark:|`sw.gl`|
-|:white_check_mark:|`sx.gl`|
-|:white_check_mark:|`sy.gl`|
+|:white_check_mark:|`sr.gl`|
 </details>
 <details>
-<summary>31 unregistered domains starting with <bold><code>t</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>t</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`t0.gl`|
-|:white_check_mark:|`t1.gl`|
 |:white_check_mark:|`t2.gl`|
 |:white_check_mark:|`t3.gl`|
 |:white_check_mark:|`t4.gl`|
@@ -1086,30 +765,11 @@
 |:white_check_mark:|`t7.gl`|
 |:white_check_mark:|`t8.gl`|
 |:white_check_mark:|`t9.gl`|
-|:white_check_mark:|`ta.gl`|
-|:white_check_mark:|`tb.gl`|
-|:white_check_mark:|`tc.gl`|
-|:white_check_mark:|`td.gl`|
-|:white_check_mark:|`te.gl`|
-|:white_check_mark:|`tf.gl`|
-|:white_check_mark:|`tg.gl`|
-|:white_check_mark:|`th.gl`|
-|:white_check_mark:|`ti.gl`|
 |:white_check_mark:|`tk.gl`|
-|:white_check_mark:|`tl.gl`|
-|:white_check_mark:|`tm.gl`|
-|:white_check_mark:|`tn.gl`|
-|:white_check_mark:|`to.gl`|
-|:white_check_mark:|`tp.gl`|
 |:white_check_mark:|`tq.gl`|
-|:white_check_mark:|`tr.gl`|
-|:white_check_mark:|`ts.gl`|
-|:white_check_mark:|`tt.gl`|
-|:white_check_mark:|`tu.gl`|
-|:white_check_mark:|`tv.gl`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>u</code></bold></summary>
+<summary>19 unregistered domains starting with <bold><code>u</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1123,31 +783,18 @@
 |:white_check_mark:|`u7.gl`|
 |:white_check_mark:|`u8.gl`|
 |:white_check_mark:|`u9.gl`|
-|:white_check_mark:|`ua.gl`|
-|:white_check_mark:|`ub.gl`|
-|:white_check_mark:|`uc.gl`|
 |:white_check_mark:|`ud.gl`|
 |:white_check_mark:|`ue.gl`|
 |:white_check_mark:|`uf.gl`|
-|:white_check_mark:|`ug.gl`|
 |:white_check_mark:|`ui.gl`|
 |:white_check_mark:|`uj.gl`|
-|:white_check_mark:|`uk.gl`|
-|:white_check_mark:|`um.gl`|
-|:white_check_mark:|`un.gl`|
 |:white_check_mark:|`uo.gl`|
 |:white_check_mark:|`uq.gl`|
-|:white_check_mark:|`us.gl`|
-|:white_check_mark:|`ut.gl`|
-|:white_check_mark:|`uu.gl`|
-|:white_check_mark:|`uv.gl`|
 |:white_check_mark:|`uw.gl`|
-|:white_check_mark:|`ux.gl`|
 |:white_check_mark:|`uy.gl`|
-|:white_check_mark:|`uz.gl`|
 </details>
 <details>
-<summary>33 unregistered domains starting with <bold><code>v</code></bold></summary>
+<summary>17 unregistered domains starting with <bold><code>v</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1160,33 +807,17 @@
 |:white_check_mark:|`v7.gl`|
 |:white_check_mark:|`v8.gl`|
 |:white_check_mark:|`v9.gl`|
-|:white_check_mark:|`va.gl`|
-|:white_check_mark:|`vb.gl`|
-|:white_check_mark:|`vc.gl`|
 |:white_check_mark:|`vd.gl`|
-|:white_check_mark:|`ve.gl`|
 |:white_check_mark:|`vf.gl`|
-|:white_check_mark:|`vg.gl`|
-|:white_check_mark:|`vh.gl`|
-|:white_check_mark:|`vi.gl`|
 |:white_check_mark:|`vj.gl`|
 |:white_check_mark:|`vk.gl`|
-|:white_check_mark:|`vl.gl`|
-|:white_check_mark:|`vm.gl`|
 |:white_check_mark:|`vn.gl`|
-|:white_check_mark:|`vo.gl`|
 |:white_check_mark:|`vp.gl`|
 |:white_check_mark:|`vq.gl`|
-|:white_check_mark:|`vr.gl`|
-|:white_check_mark:|`vs.gl`|
-|:white_check_mark:|`vt.gl`|
-|:white_check_mark:|`vu.gl`|
-|:white_check_mark:|`vw.gl`|
-|:white_check_mark:|`vy.gl`|
 |:white_check_mark:|`vz.gl`|
 </details>
 <details>
-<summary>30 unregistered domains starting with <bold><code>w</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>w</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1202,27 +833,19 @@
 |:white_check_mark:|`w9.gl`|
 |:white_check_mark:|`wc.gl`|
 |:white_check_mark:|`wd.gl`|
-|:white_check_mark:|`we.gl`|
-|:white_check_mark:|`wf.gl`|
-|:white_check_mark:|`wg.gl`|
-|:white_check_mark:|`wi.gl`|
 |:white_check_mark:|`wj.gl`|
 |:white_check_mark:|`wk.gl`|
-|:white_check_mark:|`wl.gl`|
-|:white_check_mark:|`wm.gl`|
-|:white_check_mark:|`wn.gl`|
+|:white_check_mark:|`wo.gl`|
 |:white_check_mark:|`wq.gl`|
 |:white_check_mark:|`wr.gl`|
+|:white_check_mark:|`ws.gl`|
 |:white_check_mark:|`wt.gl`|
 |:white_check_mark:|`wu.gl`|
 |:white_check_mark:|`wv.gl`|
-|:white_check_mark:|`ww.gl`|
 |:white_check_mark:|`wx.gl`|
-|:white_check_mark:|`wy.gl`|
-|:white_check_mark:|`wz.gl`|
 </details>
 <details>
-<summary>32 unregistered domains starting with <bold><code>x</code></bold></summary>
+<summary>20 unregistered domains starting with <bold><code>x</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1234,33 +857,21 @@
 |:white_check_mark:|`x5.gl`|
 |:white_check_mark:|`x6.gl`|
 |:white_check_mark:|`x7.gl`|
-|:white_check_mark:|`x8.gl`|
 |:white_check_mark:|`x9.gl`|
 |:white_check_mark:|`xa.gl`|
-|:white_check_mark:|`xb.gl`|
 |:white_check_mark:|`xc.gl`|
 |:white_check_mark:|`xd.gl`|
 |:white_check_mark:|`xe.gl`|
-|:white_check_mark:|`xg.gl`|
 |:white_check_mark:|`xh.gl`|
 |:white_check_mark:|`xj.gl`|
-|:white_check_mark:|`xk.gl`|
-|:white_check_mark:|`xl.gl`|
-|:white_check_mark:|`xm.gl`|
 |:white_check_mark:|`xn.gl`|
 |:white_check_mark:|`xo.gl`|
-|:white_check_mark:|`xp.gl`|
 |:white_check_mark:|`xq.gl`|
-|:white_check_mark:|`xr.gl`|
-|:white_check_mark:|`xu.gl`|
 |:white_check_mark:|`xv.gl`|
-|:white_check_mark:|`xw.gl`|
-|:white_check_mark:|`xx.gl`|
-|:white_check_mark:|`xy.gl`|
 |:white_check_mark:|`xz.gl`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>y</code></bold></summary>
+<summary>21 unregistered domains starting with <bold><code>y</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -1274,39 +885,24 @@
 |:white_check_mark:|`y7.gl`|
 |:white_check_mark:|`y8.gl`|
 |:white_check_mark:|`y9.gl`|
-|:white_check_mark:|`ya.gl`|
 |:white_check_mark:|`yb.gl`|
-|:white_check_mark:|`yc.gl`|
-|:white_check_mark:|`yd.gl`|
-|:white_check_mark:|`ye.gl`|
 |:white_check_mark:|`yf.gl`|
-|:white_check_mark:|`yg.gl`|
 |:white_check_mark:|`yh.gl`|
 |:white_check_mark:|`yi.gl`|
 |:white_check_mark:|`yj.gl`|
-|:white_check_mark:|`yk.gl`|
-|:white_check_mark:|`yl.gl`|
 |:white_check_mark:|`ym.gl`|
 |:white_check_mark:|`yn.gl`|
-|:white_check_mark:|`yo.gl`|
 |:white_check_mark:|`yp.gl`|
 |:white_check_mark:|`yq.gl`|
-|:white_check_mark:|`yr.gl`|
-|:white_check_mark:|`ys.gl`|
-|:white_check_mark:|`yt.gl`|
-|:white_check_mark:|`yu.gl`|
 |:white_check_mark:|`yv.gl`|
 |:white_check_mark:|`yx.gl`|
-|:white_check_mark:|`yy.gl`|
-|:white_check_mark:|`yz.gl`|
 </details>
 <details>
-<summary>35 unregistered domains starting with <bold><code>z</code></bold></summary>
+<summary>22 unregistered domains starting with <bold><code>z</code></bold></summary>
 
 |Type|Domain|
 |--|--|
 |:white_check_mark:|`z0.gl`|
-|:white_check_mark:|`z1.gl`|
 |:white_check_mark:|`z2.gl`|
 |:white_check_mark:|`z3.gl`|
 |:white_check_mark:|`z4.gl`|
@@ -1315,29 +911,17 @@
 |:white_check_mark:|`z7.gl`|
 |:white_check_mark:|`z8.gl`|
 |:white_check_mark:|`z9.gl`|
-|:white_check_mark:|`za.gl`|
-|:white_check_mark:|`zb.gl`|
 |:white_check_mark:|`zc.gl`|
 |:white_check_mark:|`zd.gl`|
 |:white_check_mark:|`ze.gl`|
-|:white_check_mark:|`zf.gl`|
-|:white_check_mark:|`zg.gl`|
 |:white_check_mark:|`zh.gl`|
-|:white_check_mark:|`zi.gl`|
 |:white_check_mark:|`zj.gl`|
 |:white_check_mark:|`zk.gl`|
-|:white_check_mark:|`zl.gl`|
 |:white_check_mark:|`zn.gl`|
-|:white_check_mark:|`zo.gl`|
 |:white_check_mark:|`zp.gl`|
 |:white_check_mark:|`zq.gl`|
 |:white_check_mark:|`zr.gl`|
-|:white_check_mark:|`zs.gl`|
-|:white_check_mark:|`zt.gl`|
 |:white_check_mark:|`zu.gl`|
 |:white_check_mark:|`zv.gl`|
 |:white_check_mark:|`zw.gl`|
-|:white_check_mark:|`zx.gl`|
-|:white_check_mark:|`zy.gl`|
-|:white_check_mark:|`zz.gl`|
 </details>

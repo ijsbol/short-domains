@@ -1,16 +1,16 @@
 # Available 2 character long domains for `.sz`
 
-## Data last updated: 07/24/2024, 16:12:04
+## Data last updated: 02/03/2025, 20:05:00
 
 |Stat|Amount|
 |--|--|
 |Registered domains|0|
-|Unregistered domains|21|
+|Unregistered domains|11|
 |Premium domains|0|
 |Application only domains|0|
 |Registration rate|0.0%|
 |Failed lookups|0|
-|Successful lookups|21|
+|Successful lookups|11|
 |Lookup success rate|100%|
 
 
@@ -21,7 +21,7 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>21 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>11 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -36,14 +36,4 @@
 |:white_check_mark:|`ai.sz`|
 |:white_check_mark:|`aj.sz`|
 |:white_check_mark:|`ak.sz`|
-|:white_check_mark:|`al.sz`|
-|:white_check_mark:|`am.sz`|
-|:white_check_mark:|`an.sz`|
-|:white_check_mark:|`ao.sz`|
-|:white_check_mark:|`ap.sz`|
-|:white_check_mark:|`aq.sz`|
-|:white_check_mark:|`ar.sz`|
-|:white_check_mark:|`as.sz`|
-|:white_check_mark:|`at.sz`|
-|:white_check_mark:|`au.sz`|
 </details>
