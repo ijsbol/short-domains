@@ -1,6 +1,6 @@
-# Available 2 character long domains for `.dk`
+# Available 2 character long domains for `.do`
 
-## Data last updated: 02/03/2025, 20:48:25
+## Data last updated: 03/04/2025, 17:41:58
 
 |Stat|Amount|
 |--|--|
@@ -21,9 +21,9 @@
 |Premium domain|:gem:|
 
 <details>
-<summary>1 unregistered domains starting with <bold><code>6</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`6x.dk`|
+|:white_check_mark:|`ac.do`|
 </details>

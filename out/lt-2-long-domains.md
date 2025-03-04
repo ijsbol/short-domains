@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.lt`
 
-## Data last updated: 02/03/2025, 20:15:36
+## Data last updated: 03/04/2025, 17:40:23
 
 |Stat|Amount|
 |--|--|
@@ -441,11 +441,17 @@
 |:white_check_mark:|`9z.lt`|
 </details>
 <details>
-<summary>5 unregistered domains starting with <bold><code>c</code></bold></summary>
+<summary>1 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`c5.lt`|
+|:white_check_mark:|`aa.lt`|
+</details>
+<details>
+<summary>4 unregistered domains starting with <bold><code>c</code></bold></summary>
+
+|Type|Domain|
+|--|--|
 |:white_check_mark:|`c6.lt`|
 |:white_check_mark:|`c7.lt`|
 |:white_check_mark:|`c8.lt`|

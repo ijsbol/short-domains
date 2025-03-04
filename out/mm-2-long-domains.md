@@ -1,4 +1,4 @@
-# Available 2 character long domains for `.tn`
+# Available 2 character long domains for `.mm`
 
 ## Data last updated: 03/04/2025, 17:29:07
 
@@ -25,5 +25,5 @@
 
 |Type|Domain|
 |--|--|
-|:white_check_mark:|`aa.tn`|
+|:white_check_mark:|`aa.mm`|
 </details>

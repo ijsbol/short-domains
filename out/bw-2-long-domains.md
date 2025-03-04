@@ -1,6 +1,6 @@
 # Available 2 character long domains for `.bw`
 
-## Data last updated: 02/03/2025, 20:18:28
+## Data last updated: 03/04/2025, 17:37:40
 
 |Stat|Amount|
 |--|--|
@@ -441,7 +441,7 @@
 |:white_check_mark:|`9z.bw`|
 </details>
 <details>
-<summary>26 unregistered domains starting with <bold><code>a</code></bold></summary>
+<summary>31 unregistered domains starting with <bold><code>a</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -455,6 +455,11 @@
 |:white_check_mark:|`a7.bw`|
 |:white_check_mark:|`a8.bw`|
 |:white_check_mark:|`a9.bw`|
+|:white_check_mark:|`af.bw`|
+|:white_check_mark:|`ag.bw`|
+|:white_check_mark:|`ah.bw`|
+|:white_check_mark:|`ai.bw`|
+|:white_check_mark:|`aj.bw`|
 |:white_check_mark:|`ak.bw`|
 |:white_check_mark:|`al.bw`|
 |:white_check_mark:|`am.bw`|
@@ -557,7 +562,7 @@
 |:white_check_mark:|`cz.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>d</code></bold></summary>
+<summary>34 unregistered domains starting with <bold><code>d</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -594,8 +599,6 @@
 |:white_check_mark:|`du.bw`|
 |:white_check_mark:|`dv.bw`|
 |:white_check_mark:|`dw.bw`|
-|:white_check_mark:|`dx.bw`|
-|:white_check_mark:|`dy.bw`|
 |:white_check_mark:|`dz.bw`|
 </details>
 <details>
@@ -641,7 +644,7 @@
 |:white_check_mark:|`ez.bw`|
 </details>
 <details>
-<summary>36 unregistered domains starting with <bold><code>f</code></bold></summary>
+<summary>33 unregistered domains starting with <bold><code>f</code></bold></summary>
 
 |Type|Domain|
 |--|--|
@@ -670,9 +673,6 @@
 |:white_check_mark:|`fm.bw`|
 |:white_check_mark:|`fn.bw`|
 |:white_check_mark:|`fo.bw`|
-|:white_check_mark:|`fp.bw`|
-|:white_check_mark:|`fq.bw`|
-|:white_check_mark:|`fr.bw`|
 |:white_check_mark:|`fs.bw`|
 |:white_check_mark:|`ft.bw`|
 |:white_check_mark:|`fu.bw`|
